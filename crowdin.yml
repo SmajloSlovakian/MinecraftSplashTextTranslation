@@ -1,3 +1,7 @@
 files:
-  - source: /Splash text translations/en/**/*.*
+  - source: /Splash text translations/en/**/end.txt
+    translation: /Splash text translations/%locale_with_underscore%/**/%original_file_name%
+  - source: /Splash text translations/en/**/splashes.txt
+    translation: /Splash text translations/%locale_with_underscore%/**/%original_file_name%
+  - source: /Splash text translation/en/**/credits.json
     translation: /Splash text translations/%locale_with_underscore%/**/%original_file_name%
