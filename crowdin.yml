@@ -1,0 +1,4 @@
+files:
+  - source: /Splash text translations/en/
+    translation: /Splash text translations/%locale_with_underscore%/
+    update_option: update_as_unapproved
