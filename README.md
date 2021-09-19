@@ -1,3 +1,11 @@
+This project is currently undergoing a crowdin conversion... please wait!
+
+
+
+
+
+
+
 # MinecraftSplashTextTranslation
 Starter project!
 This was made to allow community to translate untranslatable things in minecraft like splashes or end text.
