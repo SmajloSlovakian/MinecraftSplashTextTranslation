@@ -1,4 +1,4 @@
 files:
-  - source: /Splash text translations/en/
-    translation: /Splash text translations/%locale_with_underscore%/
+  - source: /Splash text translations/en/assets/minecraft/texts/*
+    translation: /Splash text translations/%locale_with_underscore%/assets/minecraft/texts/*
     update_option: update_as_unapproved
