@@ -2,3 +2,5 @@ files:
   - source: /Splash text translations/en/**/*.*
     translation: /Splash text translations/%locale_with_underscore%/**/%original_file_name%
     update_option: update_as_unapproved
+  - source: /Splash text translations/en/**/*.*
+    translation: /Splash text translations/%locale_with_underscore%/**/%original_file_name%
