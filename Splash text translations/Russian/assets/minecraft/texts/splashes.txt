@@ -37,7 +37,7 @@ Exclusive!
 The bee's knees!
 Closed source!
 Classy!
-Ого!
+Автономно!
 Not on steam!
 Oh man!
 Awesome community!
@@ -155,7 +155,7 @@ Flaxkikare!
 Jason! Jason! Jason!
 Горячее солнца!
 Интернет включён!
-Автономно!
+Берегите себя!
 Engage!
 Фантазия!
 DRR! DRR! DRR!
@@ -333,7 +333,7 @@ Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
 /give @a hugs 64
 Это хорошо для Realms.
-Any computer is a laptop if you're brave enough!
+Любой компьютер - это ноутбук, если ты достаточно смелый!
 Do it all, everything!
 Где нету света, там и паук!
 GNU Terry Pratchett
@@ -379,7 +379,7 @@ Minecraft Java Edition представляет: Отвратительные о
 Мыло и вода!
 Support local businesses!
 Оставайтесь дома и играйте в игры!
-Берегите себя!
+Держитесь!
 Держитесь!
 Кашляйте и чихайте в локоть!
 Не трогайте свое лицо!
