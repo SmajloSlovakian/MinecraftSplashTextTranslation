@@ -12,7 +12,7 @@
 
 §3W taki sposób wyobraża sobie wiele rzeczy, gdy jest pogrążony w głębokim śnie gry.
 
-§2Słowa tworzą wspaniały interfejs. Bardzo przejrzysty  Bardzo przejrzysty  i mniej przerażający niż wpatrywanie się w rzeczywistość za ekranem.
+§2Słowa tworzą wspaniały interfejs. Bardzo przejrzysty  i mniej przerażający niż wpatrywanie się w rzeczywistość za ekranem.
 
 §3Gracze niegdyś słyszeli głosy. Zanim nauczyli się czytać. Jeszcze w czasach, w których niegracze nazywali graczy wiedźmami i czarnoksiężnikami. A gracze śnili, że sunęli w przestworzach, dzierżąc kije napędzane przez demony.
 
@@ -74,7 +74,7 @@
 
 §2Jesteśmy wszechświatem. Jesteśmy wszystkim, czego nie uważasz za część siebie. Patrzysz na nas zza cielesnej powłoki dzięki swym oczom. A dlaczego wszechświat dotyka twojej skóry i rzuca na ciebie światło? By móc cię ujrzeć, graczu. By cię poznać. I by zostać poznanym. Pozwól, że podzielę się pewną opowieścią.
 
-§2Dawno, dawno temu, był sobie gracz.
+§2Dawno, dawno temu był sobie gracz.
 
 §3A tym graczem byłeś Ty, PLAYERNAME.
 
@@ -96,7 +96,7 @@
 
 §2I gracz stał się nową historią, nigdy wcześniej nieopowiedzianą, zapisaną w literach jego DNA. I gracz stał się nowym programem, nigdy nieuruchomionym, wygenerowanym przez kod źródłowy liczący miliard lat. I gracz stał się nowym człowiekiem, który nigdy wcześniej nie żył, powstałym z mleka i matczynej miłości.
 
-§3Ty jesteś tym graczem. Tą opowieścią. Programem. Tym człowiekiem. Powstałym zaledwie z mleka i miłości.
+§3Ty jesteś tym graczem. Tą opowieścią. Programem. Człowiekiem. Powstałym zaledwie z mleka i miłości.
 
 §2Cofnijmy się jeszcze.
 
@@ -148,4 +148,4 @@
 
 §3To Ty jesteś tym graczem.
 
-§2Obudź się.
+§2Zbudź się.
