@@ -1,12 +1,12 @@
 Прямо как на телевизоре!
 Отлично!
-100% чистый!
+100% pure!
 Может содержать орешки!
 Больше полигонов!
 Довольно таки привлекательно!
 Лимитированное издание!
 Flashing letters!
-Оно здесь!
+It's here!
 Лучший в классе!
 Готово!
 Практически нету драконов!
@@ -28,16 +28,16 @@ Yaaay!
 Keyboard compatible!
 Ingots!
 Exploding creepers!
-Это не луна!
-1337
-Создавай!
-Выживай!
-Подземелье!
+That's no moon!
+l33t!
+Create!
+Survive!
+Dungeon!
 Exclusive!
 The bee's knees!
 Closed source!
 Classy!
-Автономно!
+Wow!
 Not on steam!
 Oh man!
 Awesome community!
@@ -49,25 +49,25 @@ Enhanced!
 90% bug free!
 Pretty!
 12 herbs and spices!
-Без жира!
-Абсолютно без мемов!
+Fat free!
+Absolutely no memes!
 Free dental!
-Спросите вашего врача!
-Добро пожаловать, детишки!
+Ask your doctor!
+Minors welcome!
 Cloud computing!
-Разрешено в Финляндии!
-Сложно подметить!
-Технически круто!
-Мне нужен маяк!
-Инди!
+Legal in Finland!
+Hard to label!
+Technically good!
+Bringing home the bacon!
+Indie!
 GOTY!
 Ceci n'est pas une title screen!
 Euclidian!
-Теперь в 3D!
-Вдохновляюще!
+Now in 3D!
+Inspirational!
 Herregud!
 Complex cellular automata!
-Да, сэр!
+Слушаюсь, сэр!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
@@ -90,10 +90,10 @@ You've got a brand new key!
 Water proof!
 Uninflammable!
 Whoa, dude!
-Всё включено!
-Расскажи своим друзьям!
+All inclusive!
+Tell your friends!
 NP is not in P!
-Музыка от C418!
+Music by C418!
 Livestreamed!
 Haunted!
 Polynomial!
@@ -107,15 +107,15 @@ Never dig down!
 Take frequent breaks!
 Not linear!
 Han shot first!
-Приятно познакомиться!
+Nice to meet you!
 Buckets of lava!
 Ride the pig!
-Больше, чем Земля!
+Larger than Earth!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
-1% сахара!
+1% sugar!
 150% hyperbole!
 Synecdoche!
 Let's danec!
@@ -127,11 +127,11 @@ Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
-4815162342 строк кода!
+4815162342 lines of code!
 A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
-Я пропустил ADOM!
+I miss ADOM!
 umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
@@ -153,14 +153,14 @@ Double buffered!
 Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Горячее солнца!
-Интернет включён!
-Берегите себя!
+Hotter than the sun!
+Internet enabled!
+Autonomous!
 Engage!
-Фантазия!
+Fantasy!
 DRR! DRR! DRR!
 Kick it root down!
-Региональный ресурс!
+Regional resources!
 Woo, facepunch!
 Woo, somethingawful!
 Woo, tigsource!
@@ -169,17 +169,17 @@ Woo, reddit!
 Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
-Дайте нам Гордона!
-Давайте чаевые вашим официантам!
-Очень весело!
-12345 это явно плохой пароль!
+Give us Gordon!
+Tip your waiter!
+Very fun!
+12345 is a bad password!
 Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
 Omnipotent!
 Gasp!
 ...!
-Пчелы, пчелы, пчелы, пчелы!
+Bees, bees, bees, bees!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
 Haha, LOL!
@@ -225,15 +225,15 @@ DungeonQuest is unfair!
 90210!
 Check out the far lands!
 Tyrion would love it!
-Попробуй также VVVVVV!
-Попробуй также Super Meat Boy!
-Попробуй также Terraria!
-Попробуй также Mount And Blade!
-Попробуй также Project Zomboid!
-Попробуй также World of Goo!
-Попробуй также Limbo!
-Попробуй также Pixeljunk Shooter!
-Попробуй также Braid!
+Also try VVVVVV!
+Also try Super Meat Boy!
+Also try Terraria!
+Also try Mount And Blade!
+Also try Project Zomboid!
+Also try World of Goo!
+Also try Limbo!
+Also try Pixeljunk Shooter!
+Also try Braid!
 That's super!
 Bread is pain!
 Read more books!
@@ -261,7 +261,7 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
-Дежавю!
+Déjà vu!
 Déjà vu!
 Got your nose!
 Haley loves Elan!
@@ -332,10 +332,10 @@ Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
 /give @a hugs 64
-Это хорошо для Realms.
-Любой компьютер - это ноутбук, если ты достаточно смелый!
+This is good for Realms.
+Any computer is a laptop if you're brave enough!
 Do it all, everything!
-Где нету света, там и паук!
+Where there is not light, there can spider!
 GNU Terry Pratchett
 More Digital!
 doot doot
@@ -349,44 +349,44 @@ Boats FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
-Не корми попугаев шоколадом!
+Don't feed chocolate to parrots!
 The true meaning of covfefe
 An illusion! What are you hiding?
 Something's not quite right...
-Спасибо за рыбу!
+Thank you for the fish!
 All rumors are true!
 Truly gone fishing!
-Радужная черепаха?
-Что-то смешное!
-Мне нужно больше контекста.
+Rainbow turtle?
+Something funny!
+I need more context.
 Ahhhhhh!
 Don't worry, be happy!
 Water bottle!
 What's the question?
 Plant a tree!
-Иди к дантисту!
+Go to the dentist!
 What do you expect?
 Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 лет копания и крафта!
+10 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
-Жужжащие Пчелы!
-Minecraft Java Edition представляет: Отвратительные ошибки
-Мойте руки!
-Мыло и вода!
+Buzzy Bees!
+Minecraft Java Edition presents: Disgusting Bugs
+Wash your hands!
+Soap and water!
 Support local businesses!
-Оставайтесь дома и играйте в игры!
-Держитесь!
-Держитесь!
-Кашляйте и чихайте в локоть!
-Не трогайте свое лицо!
+Stay home and play games!
+Stay safe!
+Stay strong!
+Cough or sneeze into your elbow!
+Don’t touch your face!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
-Игроки объединяйтесь – отдельно в своих домах!
-Сохраните мир – оставайтесь дома!
+Gamers unite – separately in your own homes!
+Save the world – stay inside!
 Shop for your elders!
 Hang out with your friends online!
 Honey, I grew the bees!
@@ -402,12 +402,12 @@ Aww man!
 And my pickaxe!
 Envision! Create! Share!
 Fabulous graphics!
-Также попробуйте Minecraft Dungeons!
+Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
-Зоглин!?
-Чёрные жизни важны!
-Не будьте расистами!
+Zoglin!?
+Black lives matter!
+Be anti-racist!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
 Amplify and listen to BIPOC voices!
