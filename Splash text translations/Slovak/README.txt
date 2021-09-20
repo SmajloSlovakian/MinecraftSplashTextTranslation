@@ -1,15 +1,15 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Tento projekt vytvoril SmajloSlovakian#1077 (neprijímam žiadosti o priateľstvo)
 
-How do i add this pack to Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
-  Resource Packs and pick the pack which has just appeared.
+Ako pridám tento balíček do minecraftu?
+-Presuň tento priečinok do tvojho "\Appdata\Roaming\.minecraft\resourcepacks\" priečinku, choď do Minecraftu, nastavenia, 
+  Zdrojové balíky a vyber si balík, ktorý sa ti tam zjavil.
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Resource packs folder..."
+Ako sa do tohto priečinku dostať?
+-Otvor Minecraft, choď do nastavení, Zdrojové balíky, pretiahni balíček do Minecraft okna...
+Ale počkať! Nefunguje to!
+-Stlač na tlačidlo "Priečinok s balíkmi"
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+Tento projekt sa pokúša o preloženie nepreložených textov v Minecrafte ako správy dňa, konečnú báseň a titulky.
+Je to jednoduchý komunitný projekt, ktorý nie je nijak spolčený s Mojang AB. alebo samotným Minecraftom keďže je vyrobený členom tejto komunity.
