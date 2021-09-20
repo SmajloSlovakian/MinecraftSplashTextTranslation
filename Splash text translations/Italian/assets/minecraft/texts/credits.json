@@ -9,7 +9,7 @@
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Amministratore delegato",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Sviluppatori principali del gioco",
                 "names": [
                     "Gary McLaughlin",
                     "James S Yarrow",
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Sviluppatori del gioco",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
@@ -164,14 +164,14 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Sviluppatori principali dell'interfaccia utente",
                 "names": [
                     "Oleg Kozitsyn",
                     "Paulo Ragonha"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Sviluppatori dell'interfaccia utente",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Sviluppatori del launcher",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -2157,7 +2157,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Sviluppatori dell'interfaccia utente",
                 "names": [
                     "Dario Vodopivec",
                     "Emelie Sidesiö",
