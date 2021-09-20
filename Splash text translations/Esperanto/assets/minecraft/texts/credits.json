@@ -71,7 +71,7 @@
                 ]
             },
             {
-                "title": "Narrative Designers",
+                "title": "Rakontaj dezajnistoj",
                 "names": [
                     "Max Herngren"
                 ]
@@ -88,25 +88,25 @@
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Servestro kaj operacia inĝiniero",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Stockholm Engineering",
+                "title": "Stokholma ĉefinĝiniero",
                 "names": [
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Direktoro de franĉiza kvalito",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Teĥnika direktoro",
                 "names": [
                     "Christopher Östlund",
                     "Jason Cahill",
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Ludaj ĉefprogramistoj",
                 "names": [
                     "Gary McLaughlin",
                     "James S Yarrow",
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Ludaj programistoj",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
@@ -164,14 +164,14 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Interfacaj ĉefprogramistoj",
                 "names": [
                     "Oleg Kozitsyn",
                     "Paulo Ragonha"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Interfacaj programistoj",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Lanĉilaj programistoj",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -199,7 +199,7 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Ĉefarĥitektoj",
                 "names": [
                     "Greg Snook",
                     "Henry Golding",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arĥitektoj",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -216,7 +216,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Softvaraj ĉefprogramistoj de Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Softvaraj programistoj de Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -313,21 +313,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Retejaj ĉefprogramistoj",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Softvaraj inĝinieroj de Realms",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Sistemaj ĉefinĝinieroj",
                 "names": [
                     "Jifeng Zhang",
                     "Robert Sjödahl",
@@ -335,7 +335,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Inĝinieroj de servsoftvaro",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Corey Goodman (Insight Global, Inc)",
@@ -365,16 +365,16 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "Sonoj",
         "titles": [
             {
-                "title": "Lead Sound Designer",
+                "title": "Sona ĉefdezajnisto",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Sonaj dezajnistoj",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kevin Martinez",
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Komponistoj de la muziko",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -391,16 +391,16 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Vidaĵoj",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Arta direktoro",
                 "names": [
                     "Andy Zibits"
                 ]
             },
             {
-                "title": "Art Leads",
+                "title": "Artaj ĉefoj",
                 "names": [
                     "Daniel Björkefors",
                     "Joel Garvin",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artistoj",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -430,39 +430,39 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Teĥnika ĉefartisto",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Teĥnika artisto",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafikaj artistoj",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Grafikaj ĉefdezajnistoj",
                 "names": [
                     "Christine Gutierrez"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Grafikaj dezajnistoj",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)"
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Movgrafika dezajnisto",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Kim Petersen",
@@ -470,7 +470,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animaciisto",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -478,52 +478,52 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Produktado",
         "titles": [
             {
-                "title": "Head of Creator",
+                "title": "Ĉefo de kreado",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Platform Engineering",
+                "title": "Ĉefo de platforma inĝinierado",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Ĉefo de Minecraft China",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "Ĉefo de negoca inĝinierado",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Ĉefo de Vendejo de kreantoj",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Ĉefo de ludoj",
                 "names": [
                     "Patrick Liu"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Direktoro de minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Plenumaj produktoroj",
                 "names": [
                     "Allison Matthews",
                     "Anita Sujarit",
@@ -538,7 +538,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Produktmanaĝeroj",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -546,7 +546,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produktoroj",
                 "names": [
                     "Adrian Östergård",
                     "Andrea Lam",
@@ -591,27 +591,27 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Manaĝeroj de inĝinierado",
                 "names": [
                     "Erika Renlund",
                     "Mac Maistrelli"
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Organizaj trejnistoj",
                 "names": [
                     "Marie Stålkrantz",
                     "Yassal Sundman"
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Eldonada manaĝerestro",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Eldonadaj manaĝeroj",
                 "names": [
                     "Josh Mulanax",
                     "Joshua Bullard",
@@ -619,14 +619,14 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "Garantiado de kvalito",
                 "names": [
                     "Matthew Dryden",
                     "Thommy Siverman"
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Inĝinieroj de kvalito",
                 "names": [
                     "Zackarias Gustavsson"
                 ]
@@ -976,28 +976,28 @@
         ]
     },
     {
-        "section": "Data and Analytics",
+        "section": "Datumoj kaj analitiko",
         "titles": [
             {
-                "title": "Head of Data Science and Analytics",
+                "title": "Ĉefo de datumstudado kaj analitiko",
                 "names": [
                     "Francisco Rius"
                 ]
             },
             {
-                "title": "Data Science Lead",
+                "title": "Ĉefo de datumscienco",
                 "names": [
                     "Abby Gaddis"
                 ]
             },
             {
-                "title": "Data Engineering Lead",
+                "title": "Ĉefo de datuma inĝinierado",
                 "names": [
                     "Bill Chism"
                 ]
             },
             {
-                "title": "Data Science",
+                "title": "Datumscienco",
                 "names": [
                     "Anh Ying Lang (Design Laboratory Inc)",
                     "Bhrigu Shree",
@@ -1016,7 +1016,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datuma inĝinierado",
                 "names": [
                     "Bill Klees",
                     "Dhiraj Nilange",
