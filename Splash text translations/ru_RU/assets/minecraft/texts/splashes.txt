@@ -1,43 +1,43 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
+Прямо как на телевизоре!
+Отлично!
+100% чистый!
+Может содержать орешки!
+Больше полигонов!
+Довольно таки привлекательно!
+Лимитированное издание!
 Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
+Оно здесь!
+Лучший в классе!
+Готово!
+Практически нету драконов!
+Радость!
 More than 500 sold!
 One of a kind!
 Heaps of hits on YouTube!
 Indev!
-Spiders everywhere!
+Пауки везде!
 Check it out!
 Holy cow, man!
-It's a game!
-Made in Sweden!
+Это игра!
+Сделано в Швеции!
 Uses LWJGL!
 Reticulating splines!
 Minecraft!
 Yaaay!
-Singleplayer!
+Одиночная игра!
 Keyboard compatible!
 Ingots!
 Exploding creepers!
 That's no moon!
 l33t!
-Create!
+Создай!
 Survive!
 Dungeon!
 Exclusive!
 The bee's knees!
 Closed source!
 Classy!
-Wow!
+Ого!
 Not on steam!
 Oh man!
 Awesome community!
@@ -49,25 +49,25 @@ Enhanced!
 90% bug free!
 Pretty!
 12 herbs and spices!
-Fat free!
-Absolutely no memes!
+Без жира!
+Абсолютно без мемов!
 Free dental!
-Ask your doctor!
-Minors welcome!
+Спросите вашего врача!
+Добро пожаловать, детишки!
 Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
-Bringing home the bacon!
-Indie!
+Разрешено в Финляндии!
+Сложно подметить!
+Технически круто!
+Мне нужен маяк!
+Инди!
 GOTY!
 Ceci n'est pas une title screen!
 Euclidian!
-Now in 3D!
-Inspirational!
+Теперь в 3D!
+Вдохновляюще!
 Herregud!
 Complex cellular automata!
-Yes, sir!
+Да, сэр!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
@@ -91,9 +91,9 @@ Water proof!
 Uninflammable!
 Whoa, dude!
 All inclusive!
-Tell your friends!
+Расскажи своим друзьям!
 NP is not in P!
-Music by C418!
+Музыка от C418!
 Livestreamed!
 Haunted!
 Polynomial!
@@ -107,15 +107,15 @@ Never dig down!
 Take frequent breaks!
 Not linear!
 Han shot first!
-Nice to meet you!
+Приятно познакомиться!
 Buckets of lava!
 Ride the pig!
-Larger than Earth!
+Больше, чем Земля!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
-1% sugar!
+1% сахара!
 150% hyperbole!
 Synecdoche!
 Let's danec!
@@ -153,14 +153,14 @@ Double buffered!
 Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Hotter than the sun!
-Internet enabled!
-Autonomous!
+Горячее солнца!
+Интернет включён!
+Автономно!
 Engage!
-Fantasy!
+Фантазия!
 DRR! DRR! DRR!
 Kick it root down!
-Regional resources!
+Региональный ресурс!
 Woo, facepunch!
 Woo, somethingawful!
 Woo, tigsource!
@@ -179,7 +179,7 @@ MAP11 has two names!
 Omnipotent!
 Gasp!
 ...!
-Bees, bees, bees, bees!
+Пчелы, пчелы, пчелы, пчелы!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
 Haha, LOL!
@@ -261,8 +261,8 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
+Дежавю!
+Дежавю!
 Got your nose!
 Haley loves Elan!
 Afraid of the big, black bat!
