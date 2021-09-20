@@ -9,7 +9,7 @@
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Výkonný riaditeľ",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -17,43 +17,43 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "Dizajn",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "Tvoriví riaditelia",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Herný riaditeľ",
                 "names": [
                     "Agnes Larsson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Tvorivý riaditeľ",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "Riaditeľ dizajnu",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Hlavní herní dizajnéri",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Herní dizajnéri",
                 "names": [
                     "Art Usher",
                     "Brandon Franklin (Insight Global, Inc)",
@@ -79,10 +79,10 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programovanie",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Technologický riaditeľ",
                 "names": [
                     "Michael W Weilbacher"
                 ]
@@ -94,19 +94,19 @@
                 ]
             },
             {
-                "title": "Head of Stockholm Engineering",
+                "title": "Hlava Štokholmského strojárstva",
                 "names": [
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Riaditeľ titulovej kvality",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Technický riaditeľ",
                 "names": [
                     "Christopher Östlund",
                     "Jason Cahill",
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Hlavní herní vývojári",
                 "names": [
                     "Gary McLaughlin",
                     "James S Yarrow",
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Herní vývojári",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
@@ -164,14 +164,14 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Hlavní vývojári používateľského rozhrania",
                 "names": [
                     "Oleg Kozitsyn",
                     "Paulo Ragonha"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Vývojári používateľského rozhrania",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Vývojári spúšťača",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -199,7 +199,7 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Hlavní architekti",
                 "names": [
                     "Greg Snook",
                     "Henry Golding",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Architekti",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -216,7 +216,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Hlavní Bedrockoví vývojári softvéru",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Bedrockoví vývojári softvéru",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -313,21 +313,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Hlavní weboví vývojári",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Inžinieri softvéru Realms",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Hlavní inžinieri systémov",
                 "names": [
                     "Jifeng Zhang",
                     "Robert Sjödahl",
@@ -335,7 +335,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Inžinieri softvéru služieb",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Corey Goodman (Insight Global, Inc)",
@@ -365,16 +365,16 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "Zvuk",
         "titles": [
             {
-                "title": "Lead Sound Designer",
+                "title": "Hlavný zvukový dizajnér",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Zvukoví dizajnéri",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kevin Martinez",
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Hudobný skladatelia",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -391,16 +391,16 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Vizuálni umelci",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Riaditeľ umenia",
                 "names": [
                     "Andy Zibits"
                 ]
             },
             {
-                "title": "Art Leads",
+                "title": "Hlavní umelci",
                 "names": [
                     "Daniel Björkefors",
                     "Joel Garvin",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Umelci",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -430,39 +430,39 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Hlavní technickí umelci",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Technickí umelci",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafickí umelci",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Hlavní grafickí riaditelia",
                 "names": [
                     "Christine Gutierrez"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Grafickí dizajnéri",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)"
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Dizajnér pohybovej grafiky",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Kim Petersen",
@@ -470,7 +470,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animátor",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -478,52 +478,52 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Produkcia",
         "titles": [
             {
-                "title": "Head of Creator",
+                "title": "Hlava tvorcu",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Platform Engineering",
+                "title": "Hlava platformového inžinierstva",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Hlava čínskeho Minecraftu",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "Hlava biznisového inžinierstva",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Hlava Creator Marketplace",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Hlava hier",
                 "names": [
                     "Patrick Liu"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Riaditeľ Minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Výkonní producenti",
                 "names": [
                     "Allison Matthews",
                     "Anita Sujarit",
@@ -538,7 +538,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Produktoví manažéri",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -546,7 +546,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Producenti",
                 "names": [
                     "Adrian Östergård",
                     "Andrea Lam",
@@ -591,27 +591,27 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Inžinierski manažéri",
                 "names": [
                     "Erika Renlund",
                     "Mac Maistrelli"
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Organizační tréneri",
                 "names": [
                     "Marie Stålkrantz",
                     "Yassal Sundman"
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Hlavní manažéri vydaní",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Manažéri vydania",
                 "names": [
                     "Josh Mulanax",
                     "Joshua Bullard",
@@ -619,20 +619,20 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "Testovanie kvality",
                 "names": [
                     "Matthew Dryden",
                     "Thommy Siverman"
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Inžinieri kvality",
                 "names": [
                     "Zackarias Gustavsson"
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "Technickí spisovatelia",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)",
                     "Jeff Kim (Insight Global, Inc)"
@@ -641,34 +641,34 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "Tvorivosť značky",
         "titles": [
             {
-                "title": "Head of Creative Production",
+                "title": "Hlava tvorivej produkcie",
                 "names": [
                     "Katharina Hautz"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Tvorivý riaditeľ",
                 "names": [
                     "Markus Toivonen"
                 ]
             },
             {
-                "title": "Lead Brand Producer",
+                "title": "Hlavný producent značky",
                 "names": [
                     "Åsa Skogström"
                 ]
             },
             {
-                "title": "Brand Art Director",
+                "title": "Riaditeľ umenia značky",
                 "names": [
                     "Martin Johansson"
                 ]
             },
             {
-                "title": "Brand Producers",
+                "title": "Producenti značky",
                 "names": [
                     "Hampus Nilsson",
                     "Jenny Ahnell",
@@ -683,7 +683,7 @@
                 ]
             },
             {
-                "title": "Lead Consumer Products Producer",
+                "title": "Hlavný producent produktov",
                 "names": [
                     "Milo Bengtsson"
                 ]

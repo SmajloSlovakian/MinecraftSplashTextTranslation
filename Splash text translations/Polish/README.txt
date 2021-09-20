@@ -1,0 +1,15 @@
+Ten projekt został stworzony przez SmajloSlovakian#1077 (nie możesz wysłać mi zapro do znajomych, jeśli jesteś obcą osobą)
+
+Jak dodać tę paczkę do Minecrafta?
+-Dodaj właśnie otwarty folder do folderu "\Appdata\Roaming\.minecraft\resourcepacks\", przejdź do Minecrafta, ustawień, 
+  paczek zasobów, i wybierz paczkę, która się właśnie pojawiła.
+
+Jak dostać się do folderu resourcepacks?
+-Otwórz Minecrafta, otwórz Ustawienia, Paczki zasobów, przeciągnij paczkę zasobów na okno Minecrafta…
+Ale chwileczkę! To nie działa!
+-Kliknij na przycisk z podpisem „Folder paczek zasobów…”
+
+
+
+Mój projekt to próba przetłumaczenia nieprzetłumaczalnych tekstów w Minecrafcie, takich jak splashe, napisy końcowe itd.
+Jest to prosty projekt społeczności niespokrewniony z firmą Mojang AB nor Minecraft itself as it is run by a member of the community.

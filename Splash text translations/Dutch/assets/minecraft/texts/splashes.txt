@@ -1,7 +1,7 @@
 As seen on TV!
 Awesome!
-100% pure!
-May contain nuts!
+100% puur!
+Kan noten bevatten!
 More polygons!
 Moderately attractive!
 Limited edition!
@@ -19,7 +19,7 @@ Spiders everywhere!
 Check it out!
 Holy cow, man!
 It's a game!
-Made in Sweden!
+Gemaakt in Zweden!
 Uses LWJGL!
 Reticulating splines!
 Minecraft!
@@ -30,14 +30,14 @@ Ingots!
 Exploding creepers!
 That's no moon!
 l33t!
-Create!
-Survive!
-Dungeon!
-Exclusive!
+Creëer!
+Overleef!
+Kerker!
+Exclusief!
 The bee's knees!
 Closed source!
 Classy!
-Wow!
+Wauw!
 Not on steam!
 Oh man!
 Awesome community!
@@ -49,7 +49,7 @@ Enhanced!
 90% bug free!
 Pretty!
 12 herbs and spices!
-Fat free!
+Zonder vet!
 Absolutely no memes!
 Free dental!
 Ask your doctor!
@@ -71,15 +71,15 @@ Yes, sir!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
-Try it!
+Probeer het uit!
 Age of Wonders is better!
-Try the mushroom stew!
-Sensational!
+Probeer de Paddenstoelenstoofpot!
+Sensationeel!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Guaranteed!
+Gegarandeerd!
 Macroscopic!
-Bring it on!
+Laat maar komen!
 Random splash!
 Call your mother!
 Monster infighting!
@@ -93,7 +93,7 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP is not in P!
-Music by C418!
+Muziek door C418!
 Livestreamed!
 Haunted!
 Polynomial!
@@ -108,15 +108,15 @@ Take frequent breaks!
 Not linear!
 Han shot first!
 Nice to meet you!
-Buckets of lava!
+Emmers lava!
 Ride the pig!
 Larger than Earth!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
-1% sugar!
-150% hyperbole!
+1% suiker!
+150% hyperbool!
 Synecdoche!
 Let's danec!
 Seecret Friday update!
@@ -153,7 +153,7 @@ Double buffered!
 Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Hotter than the sun!
+Heter dan de zon!
 Internet enabled!
 Autonomous!
 Engage!
@@ -179,7 +179,7 @@ MAP11 has two names!
 Omnipotent!
 Gasp!
 ...!
-Bees, bees, bees, bees!
+Bijtjes, bijtjes, bijtjes, bijtjes!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
 Haha, LOL!
@@ -213,7 +213,7 @@ Turing complete!
 It's groundbreaking!
 Let our battle's begin!
 The sky is the limit!
-Jeb has amazing hair!
+Jeb heeft geweldig haar!
 Ryan also has amazing hair!
 Casual gaming!
 Undefeated!
@@ -345,7 +345,7 @@ Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
-Boats FTW
+Boten FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
@@ -356,16 +356,16 @@ Something's not quite right...
 Thank you for the fish!
 All rumors are true!
 Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
+Regenboogschildpad?
+Iets leuks!
+Ik heb meer context nodig.
 Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
+Maak je geen zorgen, wees gelukkig!
+Waterfles!
+Wat is de vraag?
+Plant een boom!
+Ga naar de tandarts!
+Wat verwacht je?
 Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
@@ -380,9 +380,9 @@ Soap and water!
 Support local businesses!
 Stay home and play games!
 Stay safe!
-Stay strong!
-Cough or sneeze into your elbow!
-Don’t touch your face!
+Blijf sterk!
+Hoest en nies in je elleboog!
+Blijf van je gezicht af!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
@@ -402,7 +402,7 @@ Aww man!
 And my pickaxe!
 Envision! Create! Share!
 Fabulous graphics!
-Also try Minecraft Dungeons!
+Probeer ook eens Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
