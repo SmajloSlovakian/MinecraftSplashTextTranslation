@@ -1,27 +1,27 @@
 Taki jak w telewizji!
 Wspaniały!
-100% pure!
+100% czystości!
 Może zawierać orzechy!
-More polygons!
-Moderately attractive!
+Więcej wielokątów!
+Umiarkowanie atrakcyjny!
 Edycja limitowana!
 Migocące literki!
-It's here!
+Już tu jest!
 Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
+Ukończony!
+Prawie bez smoka!
+Ekscytacja!
+Ponad 500 sprzedanych egzemplarzy!
 Jedyny w swoim rodzaju!
 Heaps of hits on YouTube!
 Indev!
-Spiders everywhere!
-Check it out!
-Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
-Reticulating splines!
+Wszędzie pająki!
+Sprawdź teraz!
+O ja cię, stary!
+To gra!
+Wyprodukowano w Szwecji!
+Używa LWJGL!
+Siatkowane krzywe składane!
 Minecraft!
 Hurraa!
 Singleplayer!
@@ -50,7 +50,7 @@ W 90% wolny od błędów!
 Piękny!
 12 ziół i przypraw!
 Bez tłuszczu!
-Absolutely no memes!
+Żadnych memów!
 Free dental!
 Ask your doctor!
 Nieletni mile widziani!
@@ -72,7 +72,7 @@ Grają weń kowboje!
 Now on OpenGL 3.2 core profile!
 Tysiące kolorów!
 Try it!
-Age of Wonders is better!
+Age of Wonders jest lepsza!
 Try the mushroom stew!
 Sensational!
 Hot tamale, hot hot tamale!
@@ -90,7 +90,7 @@ You've got a brand new key!
 Wodoodporny!
 Uninflammable!
 Whoa, dude!
-All inclusive!
+All-inclusive!
 Tell your friends!
 NP is not in P!
 Music by C418!
@@ -98,7 +98,7 @@ Livestreamed!
 Haunted!
 Polynomial!
 Ziemski!
-All is full of love!
+Wszystko przepełnia miłość!
 Full of stars!
 Naukowy!
 Not as cool as Spock!
@@ -116,7 +116,7 @@ Phobos anomaly!
 Punching wood!
 Falling off cliffs!
 1% cukru!
-150% hyperbole!
+150% przesadni!
 Synecdoche!
 Let's danec!
 Seecret Friday update!
@@ -127,8 +127,8 @@ Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Myślę, więc jestem!
-4815162342 lines of code!
-A skeleton popped out!
+4815162342 linii kodu!
+Wyskoczył szkielet!
 The sum of its parts!
 BTAF used to be good!
 I miss ADOM!
@@ -172,7 +172,7 @@ Now supports åäö!
 Give us Gordon!
 Tip your waiter!
 Very fun!
-12345 is a bad password!
+12345 to złe hasło!
 Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
@@ -198,7 +198,7 @@ Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
 Joel is neat!
-A riddle, wrapped in a mystery!
+Zagadka owinięta w tajemnicę!
 This parrot is no more! It has ceased to be!
 Welcome to your Doom!
 Stay a while, stay forever!
@@ -225,15 +225,15 @@ DungeonQuest is unfair!
 90210!
 Check out the far lands!
 Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
+Zagraj również w VVVVVV!
+Zagraj również w Super Meat Boy!
+Zagraj również w Terrarię!
+Zagraj również w Mount And Blade!
+Zagraj również w Project Zomboid!
+Zagraj również w World of Goo!
+Zagraj również w Limbo!
+Zagraj również w Pixeljunk Shooter!
+Zagraj również w Braid!
 That's super!
 Bread is pain!
 Read more books!
@@ -270,7 +270,7 @@ Doesn't use the U-word!
 Child's play!
 See you next Friday or so!
 From the streets of Södermalm!
-150 bpm for 400000 minutes!
+150 bpm przez 400000 minut!
 Technologic!
 Funk soul brother!
 Pumpa kungen!
@@ -319,7 +319,7 @@ So sweet, like a nice bon bon!
 Very influential in its circle!
 Now With Multiplayer!
 Rise from your grave!
-Uwaga! A huge battleship "STEVE" is approaching fast!
+Uwaga! Ogromny statek bojowy "STEVE" nadciąga z dużą prędkością!
 Blue warrior shot the food!
 Run, coward! I hunger!
 Flavor with no seasoning!
@@ -331,7 +331,7 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
+/give @a przytulas 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
@@ -344,22 +344,22 @@ There's no stopping the Trollmaso
 Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
-Absolutely fixed relatively broken coordinates
+Całkowicie naprawiono względnie zepsute współrzędne
 Boats FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
 Don't feed chocolate to parrots!
 The true meaning of covfefe
-An illusion! What are you hiding?
+Iluzja! What are you hiding?
 Something's not quite right...
 Thank you for the fish!
-All rumors are true!
+Wszystkie plotki są prawdziwe!
 Truly gone fishing!
 Rainbow turtle?
 Coś śmiesznego!
 I need more context.
-Ahhhhhh!
+Aaaaaaa!
 Don't worry, be happy!
 Butelka wody!
 What's the question?
@@ -399,10 +399,10 @@ From free range developers!
 Music by Lena Raine!
 Aww man!
 #minecraftfarms
-And my pickaxe!
+I mój kilof!
 Envision! Create! Share!
 Fabulous graphics!
-Also try Minecraft Dungeons!
+Zagraj również w Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
