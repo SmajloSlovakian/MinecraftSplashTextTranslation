@@ -220,7 +220,7 @@ Undefeated!
 Kinda like Lemmings!
 Follow the train, CJ!
 Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
+Túto správu nikdy neuvidíš v hre, nie je to zvláštne?
 DungeonQuest is unfair!
 90210!
 Check out the far lands!
@@ -417,7 +417,7 @@ Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
 Home-made!
-There's <<a cat on ,my keyboard!~
+Mám <<mčku na ,mojej klávesnici!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
