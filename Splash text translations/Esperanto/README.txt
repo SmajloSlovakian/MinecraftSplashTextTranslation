@@ -1,15 +1,15 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+La projekto estas kreita de SmajloSlovakian#1077 (ne sendu amikiĝpeton se mi vin tute ne konas)
 
-How do i add this pack to Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
-  Resource Packs and pick the pack which has just appeared.
+Kiel aldoni la pakaĵon al Minecraft?
+-Aldonu la ĵus malfermitan dosierujon al via dosierujo "\Appdata\Roaming\.minecraft\resourcepacks\", iru al Minecraft, agordoj, 
+  resurspakaĵoj, kaj elektu la aperintan pakaĵon.
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Resource packs folder..."
+Kiel trovi la resurspakaĵan dosierujon?
+-Startigu Majnkrafton, iru al agordoj, resurspakaĵoj, ŝovmetu la pakaĵon en la fenestron de Majnkrafto...
+Ho, atendu! tio ne funkcias!
+-Klaku la butonon "Malfermi pakaĵujon"
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+Mia projekto estas provo traduki la netradukeblaĵojn de Majnkrafto, ekz. ŝprucaĵojn, finejan kontribuant-liston k aliajn.
+Tio estas simpla komunuma projekto ne koopere kun Mojang AB. aŭ Minecraft, regata de ano de la komunumo.
