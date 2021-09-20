@@ -1,15 +1,15 @@
 As seen on TV!
 Awesome!
 100% pure!
-May contain nuts!
-More polygons!
+Può contenere tracce di noci!
++ Poligoni!
 Moderately attractive!
 Limited edition!
 Flashing letters!
 It's here!
 Best in class!
 It's finished!
-Kind of dragon free!
+Quasi senza draghi!
 Excitement!
 More than 500 sold!
 One of a kind!
@@ -18,9 +18,9 @@ Indev!
 Spiders everywhere!
 Check it out!
 Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
+È un gioco!
+Prodotto in Svezia!
+Usa LWJGL!
 Reticulating splines!
 Minecraft!
 Yaaay!
@@ -41,7 +41,7 @@ Wow!
 Not on steam!
 Oh man!
 Awesome community!
-Pixels!
+Pixel!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
@@ -49,14 +49,14 @@ Enhanced!
 90% bug free!
 Pretty!
 12 herbs and spices!
-Fat free!
-Absolutely no memes!
+Senza grassi!
+Completamente privo di meme!
 Free dental!
 Ask your doctor!
-Minors welcome!
+Aperto ai minori!
 Cloud computing!
-Legal in Finland!
-Hard to label!
+È legale in Finlandia!
+Difficile da etichettare!
 Technically good!
 Bringing home the bacon!
 Indie!
@@ -97,8 +97,8 @@ Music by C418!
 Livestreamed!
 Haunted!
 Polynomial!
-Terrestrial!
-All is full of love!
+Terrestre!
+Fatto con amore!
 Full of stars!
 Scientific!
 Not as cool as Spock!
@@ -111,15 +111,15 @@ Nice to meet you!
 Buckets of lava!
 Ride the pig!
 Larger than Earth!
-sqrt(-1) love you!
+T<radice quadrata di -1> voglio bene!
 Phobos anomaly!
 Punching wood!
-Falling off cliffs!
-1% sugar!
-150% hyperbole!
-Synecdoche!
-Let's danec!
-Seecret Friday update!
+Vola giù da uno strapiombo!
+1% di zuccheri!
+150% di iperboli!
+Sineddoche!
+Si aprano le danez!
+Aggiornamento secreto del venerdì!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
@@ -167,8 +167,8 @@ Woo, tigsource!
 Woo, worldofminecraft!
 Woo, reddit!
 Woo, 2pp!
-Google anlyticsed!
-Now supports åäö!
+Analyticizzato da Google!
+Ora supporta åäö!
 Give us Gordon!
 Tip your waiter!
 Very fun!
@@ -395,7 +395,7 @@ Everybody do the Leif!
 <3 Max & 99 & Ducky!
 Bushy eyebrows!
 Edit is a name!
-From free range developers!
+Da sviluppatori allevati all'aperto!
 Music by Lena Raine!
 Aww man!
 #minecraftfarms
@@ -414,7 +414,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[this splash text has been delayed until part 2]
+[questo sottotitolo è stato rinviato alla parte 2]
 Contains simulated goats!
 Home-made!
 There's <<a cat on ,my keyboard!~
