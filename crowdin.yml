@@ -1,3 +1,3 @@
 files:
   - source: /Splash text translations/en/**/*.*
-    translation: /Splash text translations/%locale_with_underscore%/**/%original_file_name%
+    translation: /Splash text translations/%language%/**/%original_file_name%
