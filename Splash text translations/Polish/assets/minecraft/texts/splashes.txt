@@ -23,25 +23,25 @@ Made in Sweden!
 Uses LWJGL!
 Reticulating splines!
 Minecraft!
-Yaaay!
+Hurraa!
 Singleplayer!
 Keyboard compatible!
 Ingots!
 Exploding creepers!
 That's no moon!
 l33t!
-Create!
-Survive!
+Twórz!
+Przetrwaj!
 Dungeon!
 Exclusive!
 The bee's knees!
 Closed source!
 Classy!
-Wow!
+Oho!
 Not on steam!
 Oh man!
 Awesome community!
-Pixels!
+Piksele!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
@@ -87,7 +87,7 @@ Loved by millions!
 Ultimate edition!
 Freaky!
 You've got a brand new key!
-Water proof!
+Wodoodporny!
 Uninflammable!
 Whoa, dude!
 All inclusive!
@@ -115,18 +115,18 @@ sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
-1% sugar!
+1% cukru!
 150% hyperbole!
 Synecdoche!
 Let's danec!
 Seecret Friday update!
 Reference implementation!
-Kiss the sky!
+Ucałuj niebo!
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
 Do not distribute!
-Cogito ergo sum!
+Myślę, więc jestem!
 4815162342 lines of code!
 A skeleton popped out!
 The sum of its parts!
@@ -241,9 +241,9 @@ Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
 Bigger than a bread box!
-Millions of peaches!
+Miliony brzoskwiń!
 Fnord!
-This is my true form!
+Oto moja prawdziwa postać!
 Don't bother with the clones!
 Pumpkinhead!
 Made by Jeb!
@@ -275,12 +275,12 @@ Technologic!
 Funk soul brother!
 Pumpa kungen!
 日本ハロー！
-한국 안녕하세요!
+한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
 Привет Россия!
-Γεια σου Ελλάδα!
+Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
@@ -298,7 +298,7 @@ Plz reply to my tweet!
 .party()!
 Take her pillow!
 Put that cookie down!
-Pretty scary!
+Całkiem straszny!
 I have a suggestion.
 Now with extra hugs!
 Now Java 16!
@@ -357,26 +357,26 @@ Thank you for the fish!
 All rumors are true!
 Truly gone fishing!
 Rainbow turtle?
-Something funny!
+Coś śmiesznego!
 I need more context.
 Ahhhhhh!
 Don't worry, be happy!
-Water bottle!
+Butelka wody!
 What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
+Zasadź drzewo!
+Udaj się do dentysty!
+Czego się spodziewasz?
 Look mum, I'm in a splash!
 Przybył z kosmosu.
 Awesome game design right there!
-Ph1lza had a good run!
-10 years of Mining and Crafting!
+Ph1lzie nieźle poszło!
+Dziesięć lat kopania i wytwarzania!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
-Buzzy Bees!
+Brzęczące pszczoły!
 Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
+Myj ręce!
+Mydło i woda!
 Support local businesses!
 Stay home and play games!
 Stay safe!
@@ -416,12 +416,12 @@ Support the BIPOC community and creators!
 Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
-Home-made!
+Domowej roboty!
 There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
 Board game version also available!
-Honey, I waxed the copper!
+Kochanie, nawoskowałem miedź!
 Plant-based light sources!
 Stworzony przez „prawdziwych” ludzi!
