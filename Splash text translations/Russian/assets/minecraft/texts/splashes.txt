@@ -36,17 +36,17 @@ Minecraft!
 Эксклюзивный!
 The bee's knees!
 Закрытый код!
-Classy!
+Классный!
 Ого!
 Нас нету в Steam!
-Ооой, да ладно!
-Отличное сообщество!
+О, чувак!
+Замечательное сообщество!
 Пиксели!
-Теетсуууууооооо!
-Каанееееедааааа!
-Теперь с уровнями сложности!
+Теецууууоооо!
+Каанеееедаааа!
+Теперь со сложностью!
 Улучшено!
-Свободно от багов на честные 90%!
+Без багов на 90%!
 Красиво!
 12 трав и специй!
 Обезжиренное!
@@ -54,34 +54,34 @@ Classy!
 Free dental!
 Необходима консультация специалиста!
 Добро пожаловать, детишки!
-Cloud computing!
-Разрешено в Финляндии!
+Облачные вычисления!
+Легален в Финляндии!
 Сложно подметить!
 Технически круто!
 Мне нужен маяк!
 Инди!
-GOTY!
+Игра года!
 Ceci n'est pas une title screen!
-Euclidian!
+Евклидовый!
 Теперь в 3D!
 Вдохновляюще!
 Herregud!
-Complex cellular automata!
-Слушаюсь, сэр!
+Комплексный клеточный автомат!
+Да, сэр!
 Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
+Теперь на профиле ядра OpenGL 3.2!
+Тысячи цветов!
+Попробуй!
 Age of Wonders лучше!
-Try the mushroom stew!
-Sensational!
+Попробуй тушёные грибы!
+Сенсационный!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Guaranteed!
-Macroscopic!
+Гарантированный!
+Макроскопический!
 Bring it on!
-Random splash!
-Call your mother!
+Случайный сплэш!
+Позови свою маму!
 Monster infighting!
 Loved by millions!
 Ultimate edition!
@@ -172,7 +172,7 @@ Now supports åäö!
 Дайте нам Гордона!
 Давайте чаевые вашим официантам!
 Очень весело!
-12345 это явно плохой пароль!
+12345 — плохой пароль!
 Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
@@ -191,7 +191,7 @@ So fresh, so clean!
 Slow acting portals!
 Try the Nether!
 Don't look directly at the bugs!
-Oh, ok, Pigmen!
+О, хорошо, свиночеловек!
 Finally with ladders!
 Scary!
 Play Minecraft, Watch Topgear, Get Pig!
