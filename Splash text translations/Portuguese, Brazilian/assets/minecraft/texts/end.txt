@@ -2,9 +2,9 @@
 
 §2JOGADORNAME?
 
-§3Sim. Se cuida. Chegou em um nível elevado agora. Pode ler os nossos pensamentos.
+§3Sim. Se cuida. Isso chegou em um nível elevado agora. Isso pode ler os nossos pensamentos.
 
-§2Isso não importa. Considere que fazemos parte do jogo.
+§2Isso não importa. Isso acha que fazemos parte do jogo.
 
 §3Eu gosto deste jogador. Ele jogava bem. Não desistiu.
 
