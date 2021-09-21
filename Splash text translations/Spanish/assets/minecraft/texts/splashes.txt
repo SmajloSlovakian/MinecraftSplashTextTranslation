@@ -93,8 +93,8 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP is not in P!
-Music by C418!
-Livestreamed!
+¡Música por C418!
+¡Transmitido en vivo!
 Haunted!
 Polynomial!
 Terrestrial!
@@ -122,9 +122,9 @@ Let's danec!
 Seecret Friday update!
 Reference implementation!
 Kiss the sky!
-20 GOTO 10!
+¡20 GOTO 10!
 Verlet intregration!
-Peter Griffin!
+¡Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
 4815162342 lines of code!
@@ -356,18 +356,18 @@ Algo no va bien del todo...
 ¡Gracias por el pescado!
 ¡Los rumores son ciertos!
 Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
-Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
+¿Tortuga arcoíris?
+¡Algo gracioso!
+Necesito más contexto.
+¡Ahhhhhh!
+No te preocupes, ¡sé feliz!
+¡Botella de agua!
+¿Cúal es la pregunta?
+¡Planta un árbol!
+¡Ve al dentista!
+¿Qué esperas?
 Look mum, I'm in a splash!
-It came from space.
+Vino del espacio.
 Awesome game design right there!
 Ph1lza had a good run!
 10 years of Mining and Crafting!
@@ -405,7 +405,7 @@ Fabulous graphics!
 Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
-Zoglin!?
+¿¡Zoglin!?
 Black lives matter!
 Be anti-racist!
 Learn about allyship!
@@ -417,9 +417,9 @@ Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
 Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+¡Hay un <<gato en ,mi teclado!~
+¡El depredador más adorable qué encontrarás!
+¡Ahora estás pensando con pistones!
 Get to the coppah!
 Board game version also available!
 Honey, I waxed the copper!
