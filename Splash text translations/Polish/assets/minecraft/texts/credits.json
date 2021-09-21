@@ -3,13 +3,13 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "Głowa Minecrafta",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Dyrektor Generalny",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -17,43 +17,43 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "Projekt",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "CCO",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Reżyser gry",
                 "names": [
                     "Agnes Larsson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Dyrektor Kreatywny",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "Dyrektor naczelny ds. projektu",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Główni projektanci gry",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Projektanci gry",
                 "names": [
                     "Art Usher",
                     "Brandon Franklin (Insight Global, Inc)",
@@ -71,7 +71,7 @@
                 ]
             },
             {
-                "title": "Narrative Designers",
+                "title": "Projekt narracji",
                 "names": [
                     "Max Herngren"
                 ]
@@ -79,34 +79,34 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programowanie",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Dyrektor ds. technologii",
                 "names": [
                     "Michael W Weilbacher"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Szefowie służby i inżynierowie operacyjni",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Stockholm Engineering",
+                "title": "Dyrektor ds. inżynierii sztokholmskiej",
                 "names": [
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Dyrektor ds. jakości franczyzy",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Dyrektor techniczny",
                 "names": [
                     "Christopher Östlund",
                     "Jason Cahill",
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Główni programiści gry",
                 "names": [
                     "Gary McLaughlin",
                     "James S Yarrow",
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Programiści gry",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
@@ -164,14 +164,14 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Głowni deweloperzy interfejsu",
                 "names": [
                     "Oleg Kozitsyn",
                     "Paulo Ragonha"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Deweloperzy interfejsu",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Programiści launchera",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -199,7 +199,7 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Główni architekci",
                 "names": [
                     "Greg Snook",
                     "Henry Golding",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Architekci",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -216,7 +216,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Główni producenci oprogramowania edycji Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Producenci oprogramowania edycji Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -313,21 +313,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Główni programiści Web",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Producenci oprogramowania usługi Realms",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Główni inżynierowie systemowi",
                 "names": [
                     "Jifeng Zhang",
                     "Robert Sjödahl",
@@ -335,7 +335,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Producenci oprogramowania ds. usług",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Corey Goodman (Insight Global, Inc)",
@@ -368,13 +368,13 @@
         "section": "Audio",
         "titles": [
             {
-                "title": "Lead Sound Designer",
+                "title": "Główny projektant dźwięku",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Opracowanie dźwięku",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kevin Martinez",
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Muzyka",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -391,10 +391,10 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Sztuki wizualne",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Dyrektor graficzny",
                 "names": [
                     "Andy Zibits"
                 ]
@@ -2250,7 +2250,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Producenci oprogramowania ds. usług",
                 "names": [
                     "Joakim Ejenstam",
                     "Anders Martini",

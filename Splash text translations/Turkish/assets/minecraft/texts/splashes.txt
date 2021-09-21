@@ -1,74 +1,74 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
-Heaps of hits on YouTube!
+Televizyonda görüldüğü gibi!
+Muhteşem!
+100% Saf!
+Fındık içerebilir!
+Daha çok çokgenler!
+Az çok dikkat çekici!
+Sınırlı sayıda!
+Parıldayan harfler!
+O burda!
+Sınıfın en iyisi!
+Bitti!
+Ejderhasız gibi!
+Heyecan!
+500'den fazla satıldı!
+Türünün tek örneği!
+YouTube'da hit yığınları!
 Indev!
-Spiders everywhere!
-Check it out!
-Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
-Reticulating splines!
+Örümcekler her yerde!
+Göz at!
+İnanılmaz, adamım!
+Bir oyun!
+Isveç yapımı!
+LWJGL kullanmakta!
+Yivleri ağ gibi örmek!
 Minecraft!
-Yaaay!
-Singleplayer!
-Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
+Yaşasın!
+Tek Oyunculu!
+Klavye uyumlu!
+Külçeler!
+Patlayan creeperlar!
+O bir ay değil!
 l33t!
-Create!
-Survive!
-Dungeon!
-Exclusive!
-The bee's knees!
-Closed source!
-Classy!
-Wow!
-Not on steam!
-Oh man!
-Awesome community!
-Pixels!
+Oluştur!
+Hayatta kal!
+Zindan!
+Özel!
+Arının dizleri!
+Kapalı kaynak!
+Şık!
+Vay canına!
+Steamde değil!
+Oh adamım!
+Harika topluluk!
+Pikseller!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
-90% bug free!
-Pretty!
-12 herbs and spices!
-Fat free!
-Absolutely no memes!
-Free dental!
-Ask your doctor!
-Minors welcome!
-Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
-Bringing home the bacon!
-Indie!
+Şimdi zorluk seviyesiyle!
+Geliştirilmiş!
+%90 bugsız!
+Güzel!
+12 otu ve baharatıyla!
+Yağsız!
+Kesinlikle meme yok!
+Bedava dental!
+Doktoruna sor!
+Küçükler davetlidir!
+Bulut bilişimi!
+Finlandiyada yasal!
+Etiketlenmesi zor!
+Teknik olarak iyi!
+Eve pastırmayı getiriyor!
+Bağımsız yapımcı!
 GOTY!
 Ceci n'est pas une title screen!
 Euclidian!
-Now in 3D!
-Inspirational!
+Şimdi 3 Boyutlu!
+İlham verici!
 Herregud!
-Complex cellular automata!
-Yes, sir!
-Played by cowboys!
+Kompleks hücresel otomat!
+Emredersiniz, efendim!
+Kovboylar tarafından oynandı!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
 Try it!

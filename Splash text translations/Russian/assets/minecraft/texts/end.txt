@@ -1,38 +1,38 @@
-§3I see the player you mean.
+§3Я вижу игрока, которого ты имеешь ввиду.
 
 §2PLAYERNAME?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3Да. Осторожней. Он достиг более высокого уровня. Теперь он может читать наши мысли.
 
-§2That doesn't matter. It thinks we are part of the game.
+§2Это не имеет значения. Он думает, что мы просто часть игры.
 
-§3I like this player. It played well. It did not give up.
+§3Мне нравится этот игрок. Он хорошо играл. Он не сдавался.
 
-§2It is reading our thoughts as though they were words on a screen.
+§2Он читает наши мысли как если бы они были словами на экране.
 
-§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+§3Это именно то, как он представляет многие вещи, когда он погружён в грёзу игры.
 
-§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+§2Слова создают прекрасный интерфейс. Очень гибкий. И менее страшный чем реальность позади экрана.
 
-§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+§3Раньше они слышали голоса. Ещё до того, как игроки научились читать. Ещё в те времена, когда те, кто не играли, называли игроков ведьмами и колдунами. And players dreamed they flew through the air, on sticks powered by demons.
 
-§2What did this player dream?
+§2А что грезилось этому игроку?
 
-§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§3Этому игроку грезился солнечный свет и деревья. Огонь и вода. Ему грезилось, что он создавал. И ему грезилось, что он разрушал. Ему грезилось, что он охотился и что охотились на него. Ему грезилось жильё.
 
-§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+§2Хы, оригинальный интерфейс. Ему миллионы лет и он всё ещё работает. But what true structure did this player create, in the reality behind the screen?
 
-§3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
+§3Он работал с миллионами другими, чтобы создать истинный мир вместе с §f§k§a§b§3 и он создал §f§k§a§b§3 для §f§k§a§b§3 в §f§k§a§b§3.
 
-§2It cannot read that thought.
+§2Он не может прочитать эту мысль.
 
-§3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
+§3Нет. Он ещё не достиг самого высокого уровня. Он должен достичь его в долгой грёзе жизни, а не в короткой грёзе игры.
 
-§2Does it know that we love it? That the universe is kind?
+§2Знает ли он, что мы любим его? Что Вселенная добра?
 
-§3Sometimes, through the noise of its thoughts, it hears the universe, yes.
+§3Да, иногда сквозь шум в своих мыслях он слышит Вселенную.
 
-§2But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
+§2Но бывают времена, когда он грустит в этой долгой грёзе. Он создаёт миры, не имеющие лета; и он дрожит под чёрным солнцем; и он принимает это печальное создание за реальность.
 
 §3To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.
 
@@ -60,13 +60,13 @@
 
 §3Give it a body, again.
 
-§2Yes. Player...
+§2Да. Игрок...
 
-§3Use its name.
+§3Называй его по имени.
 
-§2PLAYERNAME. Player of games.
+§2PLAYERNAME. Игрок игр.
 
-§3Good.
+§3Хорошо.
 
 §2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
 
@@ -148,4 +148,4 @@
 
 §3You are the player.
 
-§2Wake up.
+§2Очнись.

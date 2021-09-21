@@ -1,87 +1,87 @@
-Прямо как на телевизоре!
+Прямо как по телевизору!
 Отлично!
-100% чистый!
-Может содержать орешки!
-Больше полигонов!
+100% натуральный!
+Может содержать орехи!
+Больше многоугольников!
 Довольно таки привлекательно!
 Лимитированное издание!
-Flashing letters!
-Оно здесь!
+Сверкающие буквы!
+А вот и он!
 Лучший в классе!
-Готово!
-Практически нету драконов!
+Завершён!
+Ну вроде бы и нет дракона!
 Радость!
 Продано более 500 копий!
 Единственный в своём роде!
-Звезда Ютуба!
+Куча хитов на YouTube!
 Indev!
 Пауки везде!
 Зацените!
 Твою налево, мужик!
 Это игра!
 Сделано в Швеции!
-Использует LWJGL!
+Используется LWJGL!
 Reticulating splines!
 Minecraft!
-Ураааа!
+Урааа!
 Одиночная игра!
 Совместимо с клавиатурой!
 Слитки!
 Взрывающиеся криперы!
 Это не луна!
-1337
+1337!
 Создавай!
 Выживай!
 Подземелье!
-Эксклюзив!
+Эксклюзивный!
 The bee's knees!
 Закрытый код!
-Classy!
+Классный!
 Ого!
 Нас нету в Steam!
-Ооой, да ладно!
-Отличное сообщество!
+О, чувак!
+Замечательное сообщество!
 Пиксели!
-Теетсуууууооооо!
-Каанееееедааааа!
-Теперь с уровнями сложности!
+Теецууууоооо!
+Каанеееедаааа!
+Теперь со сложностью!
 Улучшено!
-Свободно от багов на честные 90%!
+Без багов на 90%!
 Красиво!
 12 трав и специй!
-Без жира!
+Обезжиренное!
 Абсолютно без мемов!
 Free dental!
-Спросите вашего врача!
+Необходима консультация специалиста!
 Добро пожаловать, детишки!
-Cloud computing!
-Разрешено в Финляндии!
+Облачные вычисления!
+Легален в Финляндии!
 Сложно подметить!
 Технически круто!
 Мне нужен маяк!
 Инди!
-GOTY!
+Игра года!
 Ceci n'est pas une title screen!
-Euclidian!
+Евклидовый!
 Теперь в 3D!
 Вдохновляюще!
 Herregud!
-Complex cellular automata!
-Слушаюсь, сэр!
+Комплексный клеточный автомат!
+Да, сэр!
 Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
+Теперь на профиле ядра OpenGL 3.2!
+Тысячи цветов!
+Попробуй!
 Age of Wonders лучше!
-Try the mushroom stew!
-Sensational!
+Попробуй тушёные грибы!
+Сенсационный!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Guaranteed!
-Macroscopic!
+Гарантированный!
+Макроскопический!
 Bring it on!
-Random splash!
-Call your mother!
+Случайный сплэш!
+Позови свою маму!
 Monster infighting!
 Loved by millions!
 Ultimate edition!
@@ -165,24 +165,24 @@ Woo, facepunch!
 Woo, somethingawful!
 Woo, tigsource!
 Woo, worldofminecraft!
-Woo, reddit!
+Ву, реддит!
 Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
 Дайте нам Гордона!
 Давайте чаевые вашим официантам!
 Очень весело!
-12345 это явно плохой пароль!
+12345 — плохой пароль!
 Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
 Omnipotent!
 Gasp!
 ...!
-Пчелы, пчелы, пчелы, пчелы!
+Пчёлы, пчёлы, пчёлы, пчёлы!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Haha, LOL!
+Хаха, ЛОЛ!
 Hampsterdance!
 Menger sponge!
 idspispopd!
@@ -191,7 +191,7 @@ So fresh, so clean!
 Slow acting portals!
 Try the Nether!
 Don't look directly at the bugs!
-Oh, ok, Pigmen!
+О, хорошо, свиночеловек!
 Finally with ladders!
 Scary!
 Play Minecraft, Watch Topgear, Get Pig!
@@ -403,7 +403,7 @@ And my pickaxe!
 Envision! Create! Share!
 Fabulous graphics!
 Также попробуйте Minecraft Dungeons!
-Vanilla!
+Ванилла!
 May contain traces of citrus!
 Зоглин!?
 Чёрные жизни важны!
