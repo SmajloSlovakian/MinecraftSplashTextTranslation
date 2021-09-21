@@ -99,8 +99,8 @@ NP is not in P!
 ¡Polinomial!
 ¡Terrestre!
 All is full of love!
-Full of stars!
-Scientific!
+¡Lleno de estrellas!
+¡Científico!
 Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
@@ -178,7 +178,7 @@ Lives in a pineapple under the sea!
 MAP11 has two names!
 Omnipotent!
 Gasp!
-...!
+¡...!
 Bees, bees, bees, bees!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
