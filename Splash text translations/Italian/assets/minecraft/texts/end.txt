@@ -50,7 +50,7 @@
 
 §2Non dirò al giocatore come vivere.
 
-§3Il giocatore sta iniziando a innervosirsi.
+§3Il giocatore sta iniziando a spazientirsi.
 
 §2Gli racconterò una storia.
 
@@ -110,13 +110,13 @@
 
 §3Sei tu il giocatore, che legge parole...
 
-§2Shh... A volte il giocatore leggeva linee di codice su uno schermo. Ne decodificava parole; dalle parole decodificava significati; dai significati decodificava sentimenti, emozioni, teorie, idee, e il giocatore iniziava a respirare più velocemente e più a fondo e si rese conto di essere vivo, era vivo, quelle migliaia di morti non erano state reali, il giocatore era vivo
+§2Shh... A volte il giocatore leggeva linee di codice su uno schermo. Ne decodificava parole; dalle parole decodificava significati; dai significati decodificava sentimenti, emozioni, teorie, idee, e il giocatore iniziava a respirare più velocemente e più a fondo e si rendeva conto di essere vivo, era vivo, quelle migliaia di morti non erano state reali, il giocatore era vivo
 
 §3Tu. Tu. Tu sei vivo.
 
 §2e a volte il giocatore credeva che l'universo gli avesse parlato attraverso la luce del sole, che filtrava fra le foglie di piante estive, mosse dal vento,
 
-§3e a volte il giocatore credeva che l'universo gli avesse parlato attraverso la luce che veniva dal gelido cielo invernale, dove una macchiolina di luce nella coda potrebbe essere una stella grande milioni di volte più del sole, che fa ribollire i suoi pianeti fino a farli diventare plasma, e tutto questo per essere visibile, per un momento, al giocatore, che stava tornando a casa dall'altro lato dell'universo, che a un tratto sentiva l'odore del cibo, quasi giunto al solito uscio, che stava per tornare a sognare
+§3e a volte il giocatore credeva che l'universo gli avesse parlato attraverso la luce che veniva dal gelido cielo invernale, dove una macchiolina di luce nella coda del suo occhio potrebbe essere una stella grande milioni di volte più del sole, che faceva ribollire i suoi pianeti fino a farli diventare plasma per essere visibile, per un momento, al giocatore, che stava tornando a casa dall'altro lato dell'universo, che a un tratto sentiva l'odore del cibo, quasi giunto al solito uscio, che stava per tornare a sognare
 
 §2e a volte credeva che l'universo gli avesse parlato attraverso gli zero e gli uno, attraverso l'elettricità del mondo, attraverso parole che scorrevano su uno schermo alla fine di un sogno
 
@@ -142,10 +142,10 @@
 
 §3e l'universo diceva che tu sei l'universo che saggia sé stesso, che parla a sé stesso, che legge il suo stesso codice
 
-§2and the universe said I love you because you are love.
+§2e l'universo diceva "ti amo" perché tu sei amore.
 
-§3And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
+§3E il gioco era finito e il giocatore si svegliò dal sogno. E il giocatore iniziò un nuovo sogno. E il giocatore sognò di nuovo e sognò sogni migliori. E il giocatore era l'universo. E il giocatore era amore.
 
-§3You are the player.
+§3Sei tu il giocatore.
 
-§2Wake up.
+§2È ora di svegliarsi.
