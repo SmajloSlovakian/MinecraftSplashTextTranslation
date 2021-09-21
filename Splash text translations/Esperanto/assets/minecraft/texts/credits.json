@@ -632,7 +632,7 @@
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "Teĥnikaj verkistoj",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)",
                     "Jeff Kim (Insight Global, Inc)"
@@ -641,34 +641,34 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "Firmaaj kreistoj",
         "titles": [
             {
-                "title": "Head of Creative Production",
+                "title": "Ĉefo de kreproduktado",
                 "names": [
                     "Katharina Hautz"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Krea direktoro",
                 "names": [
                     "Markus Toivonen"
                 ]
             },
             {
-                "title": "Lead Brand Producer",
+                "title": "Firmaa ĉefproduktoro",
                 "names": [
                     "Åsa Skogström"
                 ]
             },
             {
-                "title": "Brand Art Director",
+                "title": "Direktoro de firmaarto",
                 "names": [
                     "Martin Johansson"
                 ]
             },
             {
-                "title": "Brand Producers",
+                "title": "Firmaaj produktoroj",
                 "names": [
                     "Hampus Nilsson",
                     "Jenny Ahnell",
@@ -676,32 +676,32 @@
                 ]
             },
             {
-                "title": "Brand Assurance Manager",
+                "title": "Firmaa garantimanaĝero",
                 "names": [
                     "Celene Tolentino (Harvey Nash)",
                     "Dana Mack (Harvey Nash)"
                 ]
             },
             {
-                "title": "Lead Consumer Products Producer",
+                "title": "Konsumvara ĉefproduktoro",
                 "names": [
                     "Milo Bengtsson"
                 ]
             },
             {
-                "title": "Consumer Products Creative Lead",
+                "title": "Krea ĉefo de konsumvaroj",
                 "names": [
                     "Antti Meriluoto"
                 ]
             },
             {
-                "title": "Consumer Products Producer",
+                "title": "Produktoro de konsumvaroj",
                 "names": [
                     "Josefin Olsson"
                 ]
             },
             {
-                "title": "Consumer Products Product Designers",
+                "title": "Produktdezajnistoj de konsumvaroj",
                 "names": [
                     "Débora Martins",
                     "Filip Thoms",
@@ -709,26 +709,26 @@
                 ]
             },
             {
-                "title": "Lead Media & Events Producer",
+                "title": "Mediata k eventa ĉefproduktoro",
                 "names": [
                     "Sarah Carton"
                 ]
             },
             {
-                "title": "Media Producers",
+                "title": "Mediataj produktoroj",
                 "names": [
                     "Adele Major",
                     "Johan Kvarnermo"
                 ]
             },
             {
-                "title": "Events Producer",
+                "title": "Eventaj produktoroj",
                 "names": [
                     "Charlotte Hallberg Angantyr"
                 ]
             },
             {
-                "title": "Games Experience Producers",
+                "title": "Ludspertaj produktoroj",
                 "names": [
                     "Nicolette Suraga",
                     "Renee Wikander",
@@ -736,19 +736,19 @@
                 ]
             },
             {
-                "title": "Director of Creative Communications",
+                "title": "Direktoro de krea komunikado",
                 "names": [
                     "Owen Jones"
                 ]
             },
             {
-                "title": "Head of Creative Communications",
+                "title": "Ĉefo de krea komunikado",
                 "names": [
                     "Thomas Wiborgh"
                 ]
             },
             {
-                "title": "Creative Writers",
+                "title": "Kreaj verkistoj",
                 "names": [
                     "Cristina Anderca",
                     "Kelsey Howard",
@@ -757,25 +757,25 @@
                 ]
             },
             {
-                "title": "Publishing Editor",
+                "title": "Publikiga redaktisto",
                 "names": [
                     "Alex Wiltshire"
                 ]
             },
             {
-                "title": "Head of Social Media",
+                "title": "Ĉefo pri sociretoj",
                 "names": [
                     "Alice Löfgren"
                 ]
             },
             {
-                "title": "Social & Comms Producer",
+                "title": "Socia k komunika produktoro",
                 "names": [
                     "Isabella Balk"
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "Sociretaj manaĝeroj",
                 "names": [
                     "Alex Fleck (Adecco)",
                     "David Ramos (Collabera)",
@@ -784,7 +784,7 @@
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Artaj direktoroj",
                 "names": [
                     "Johan Aronsson",
                     "Ninni Landin",
@@ -793,43 +793,43 @@
                 ]
             },
             {
-                "title": "Art Lead Events",
+                "title": "Eventa ĉefo pri arto",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Art Lead Social",
+                "title": "Socia ĉefo pri arto",
                 "names": [
                     "Seung Sung"
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "Grafika dezajnisto",
                 "names": [
                     "Markus Karlsson Frost"
                 ]
             },
             {
-                "title": "3D Artist / Motion Graphic Designer",
+                "title": "3D artisto / movgrafika dezajnisto",
                 "names": [
                     "Jesper Hallin"
                 ]
             },
             {
-                "title": "GFX Designer",
+                "title": "Grafika dezajnisto",
                 "names": [
                     "Afshin “Affe” Piran"
                 ]
             },
             {
-                "title": "Artist",
+                "title": "Artisto",
                 "names": [
                     "Morten Rasmussen"
                 ]
             },
             {
-                "title": "Gameplay Capture Artist",
+                "title": "Ludbildiga artisto",
                 "names": [
                     "Husein Kurbegovic"
                 ]
@@ -837,22 +837,22 @@
         ]
     },
     {
-        "section": "User Experience",
+        "section": "Sperto de uzantoj",
         "titles": [
             {
-                "title": "User Experience Design Director",
+                "title": "Direktoro de dezajno de sperto de uzanto",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "User Experience Design Lead",
+                "title": "Ĉefo de dezajno de sperto de uzanto",
                 "names": [
                     "Jonathan Paton Gallina"
                 ]
             },
             {
-                "title": "User Experience Designers",
+                "title": "Dezajnistoj de sperto de uzanto",
                 "names": [
                     "Daniel Feldt",
                     "Jin Shin",
@@ -865,28 +865,28 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Operacioj",
         "titles": [
             {
-                "title": "Franchise Chief Operations Officer",
+                "title": "Franĉiza operacia ĉefdirektoro",
                 "names": [
                     "Annie Chenn"
                 ]
             },
             {
-                "title": "Head of Stockholm Operations",
+                "title": "Ĉefo de Stokholmaj operacioj",
                 "names": [
                     "Ulrika Höjgård"
                 ]
             },
             {
-                "title": "Head of Franchise Operations",
+                "title": "Ĉefo de franĉizaj operacioj",
                 "names": [
                     "Josh Bligenstorffer"
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Ĉefo de oficistaro",
                 "names": [
                     "Amy Stillion"
                 ]
@@ -1180,13 +1180,13 @@
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Ĉefo de realigo de intelekta proprieto",
                 "names": [
                     "Gaylon Blank"
                 ]
             },
             {
-                "title": "Category Managers",
+                "title": "Kategoriaj manaĝeroj",
                 "names": [
                     "Audrey Searcy",
                     "Emily Clock",
@@ -1198,22 +1198,22 @@
         ]
     },
     {
-        "section": "Player Operations",
+        "section": "Operacioj de ludantoj",
         "titles": [
             {
-                "title": "Director of Player Support",
+                "title": "Direktoro de subteno de ludantoj",
                 "names": [
                     "Anne Quaranta"
                 ]
             },
             {
-                "title": "Director of Community",
+                "title": "Direktoro de la komunumo",
                 "names": [
                     "Nea Aime Rollan"
                 ]
             },
             {
-                "title": "Community Managers",
+                "title": "Komunumaj manaĝeroj",
                 "names": [
                     "Cameron Thomas",
                     "Jay Wells",
@@ -1225,19 +1225,19 @@
                 ]
             },
             {
-                "title": "Customer Support Program Manager",
+                "title": "Manaĝero de programo pri subteno de uzantoj",
                 "names": [
                     "Jon-Eric L. Swigart (Collabera)"
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Ĉefo de subteno de uzantoj",
                 "names": [
                     "Jen Pedersen"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Subteno de uzantoj",
                 "names": [
                     "Kyle McMurtry (TEKsystems, Inc)"
                 ]
@@ -1245,23 +1245,23 @@
         ]
     },
     {
-        "section": "Marketing",
+        "section": "Merkatado",
         "titles": [
             {
-                "title": "Head of Marketing",
+                "title": "Ĉefo de merkatado",
                 "names": [
                     "Jessica Freeman"
                 ]
             },
             {
-                "title": "Marketing Directors",
+                "title": "Merkatikaj direktoroj",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
                 ]
             },
             {
-                "title": "Marketing Managers",
+                "title": "Merkatikaj manaĝeroj",
                 "names": [
                     "Anton Maslennikov",
                     "Ashley Davidson (Simplicity Consulting Inc)",
@@ -1281,16 +1281,16 @@
         ]
     },
     {
-        "section": "Legal",
+        "section": "Juraĵoj",
         "titles": [
             {
-                "title": "Head of Legal",
+                "title": "Ĉefo de juraĵoj",
                 "names": [
                     "Nick Morgan"
                 ]
             },
             {
-                "title": "Legal Counsel",
+                "title": "Jurkonsilistaro",
                 "names": [
                     "Kari Annand (Snodgrass Annand)",
                     "Maya Yamazaki (Davis Wright Tremaine)",
@@ -1301,41 +1301,41 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "Komunikado",
         "titles": [
             {
-                "title": "Chief Storyteller",
+                "title": "Ĉefa rakontanto",
                 "names": [
                     "Lydia Winters"
                 ]
             },
             {
-                "title": "Senior Media Producers",
+                "title": "Ĉefaj mediatproduktoroj",
                 "names": [
                     "Carina Petersson"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produktoroj",
                 "names": [
                     "Sofia Orrheim"
                 ]
             },
             {
-                "title": "Directors of Global Public Relations",
+                "title": "Direktoroj de globalaj publikaj rilatoj",
                 "names": [
                     "Regan O’Leary"
                 ]
             },
             {
-                "title": "Global Public Relations Managers",
+                "title": "Manaĝeroj de globalaj publikaj rilatoj",
                 "names": [
                     "John Schork",
                     "Rebecca Gordius"
                 ]
             },
             {
-                "title": "Assembly Media, Inc",
+                "title": "Korp. Assembly Media",
                 "names": [
                     "Alli Cohen",
                     "Cristian Delgado",
@@ -1346,20 +1346,20 @@
                 ]
             },
             {
-                "title": "Lead Producer - Brand Experience",
+                "title": "Ĉefproduktoro - Firmaa impreso",
                 "names": [
                     "Karim Walldén"
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Reteja dezajnado",
                 "names": [
                     "Paul Madlon (Ten Gun Design, Inc)",
                     "Taylor Kasony (eXcell, a division of CompuCom)"
                 ]
             },
             {
-                "title": "Web Content Manager",
+                "title": "Manaĝero de retejaj enhavoj",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
@@ -1367,22 +1367,22 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Financo",
         "titles": [
             {
-                "title": "Director of Finance",
+                "title": "Direktoro de financo",
                 "names": [
                     "Marina Kostesic"
                 ]
             },
             {
-                "title": "Senior Finance Manager",
+                "title": "Ĉefa financmanaĝero",
                 "names": [
                     "Evan Dowdell"
                 ]
             },
             {
-                "title": "Financial Accountants",
+                "title": "Financaj librotenistoj",
                 "names": [
                     "Josefina Axelsson",
                     "Natalie Levinsson",
@@ -1392,10 +1392,10 @@
         ]
     },
     {
-        "section": "Studios Quality Team - Microsoft",
+        "section": "Teamo de studia kvalito - Microsoft",
         "titles": [
             {
-                "title": "Director of Quality",
+                "title": "Direktoro de kvalito",
                 "names": [
                     "Jimmy Bischoff"
                 ]
@@ -2046,49 +2046,49 @@
                 ]
             },
             {
-                "title": "Head of Minecraft Atlas",
+                "title": "Ĉefo de Minecraft Atlas",
                 "names": [
                     "Deirdre Quarnstrom"
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Plenuma ĉefdirektoro",
                 "names": [
                     "Carl Manneh"
                 ]
             },
             {
-                "title": "Chief Finance Officer",
+                "title": "Financa ĉefdirektoro",
                 "names": [
                     "Karin Severinson"
                 ]
             },
             {
-                "title": "Chief Product Officer",
+                "title": "Produkta ĉefdirektoro",
                 "names": [
                     "Olof Carlson Sandvik"
                 ]
             },
             {
-                "title": "Project Director",
+                "title": "Projekta direktoro",
                 "names": [
                     "Jakob Porsér"
                 ]
             },
             {
-                "title": "Production Director",
+                "title": "Produktada direktoro",
                 "names": [
                     "Daniel Kaplan"
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Luda direktoro",
                 "names": [
                     "Henrik Pettersson"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Ludaj dezajnistoj",
                 "names": [
                     "Miko Charbonneau",
                     "Colten Murphy (TEKsystems, Inc)",
@@ -2097,13 +2097,13 @@
                 ]
             },
             {
-                "title": "Chief Technology Officer",
+                "title": "Teĥnologia ĉefdirektoro",
                 "names": [
                     "Rikard Herlitz"
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Ludaj programistoj",
                 "names": [
                     "Alexander Kandalaft (Insight Global, Inc)",
                     "Andrew Griffin (Insight Global, Inc)",
@@ -2151,13 +2151,13 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Interfacaj ĉefprogramistoj",
                 "names": [
                     "Sebasian Hindefeldt"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Interfacaj programistoj",
                 "names": [
                     "Dario Vodopivec",
                     "Emelie Sidesiö",
@@ -2166,7 +2166,7 @@
                 ]
             },
             {
-                "title": "Additional Programming",
+                "title": "Aldona programado",
                 "names": [
                     "Elliot 'Hippoplatimus' Segal",
                     "Paul Spooner",
@@ -2174,7 +2174,7 @@
                 ]
             },
             {
-                "title": "Launcher",
+                "title": "Lanĉilo",
                 "names": [
                     "Anders Rosén",
                     "Carl Westin",
@@ -2182,13 +2182,13 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arĥitektoj",
                 "names": [
                     "Tommaso Checchi"
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Softvaraj ĉefprogramistoj de Bedrock",
                 "names": [
                     "Aaron Heysse",
                     "Adrian LaVallee",
@@ -2197,7 +2197,7 @@
                 ]
             },
             {
-                "title": "Software Developers",
+                "title": "Softvaraj programistoj",
                 "names": [
                     "Arend Danielek (TEKsystems, Inc)",
                     "Dave Stevens",
@@ -2220,7 +2220,7 @@
                 ]
             },
             {
-                "title": "Realms Developers",
+                "title": "Programistoj de Realms",
                 "names": [
                     "Alexander Johansson",
                     "Amir Moulavi",
@@ -2235,14 +2235,14 @@
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Sistemaj ĉefinĝinieroj",
                 "names": [
                     "Tom Miles",
                     "Tomas Sommar"
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Sistemaj inĝinieroj",
                 "names": [
                     "Hazen Miller (Insight Global, Inc)",
                     "Louis A Castaneda (Insight Global, Inc)",
@@ -2250,7 +2250,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Inĝinieroj de servsoftvaro",
                 "names": [
                     "Joakim Ejenstam",
                     "Anders Martini",
@@ -2262,7 +2262,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Softvaraj inĝinieroj",
                 "names": [
                     "Evelyn Collier (Insight Global)",
                     "Michael Andersson",
@@ -2270,13 +2270,13 @@
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Sistemaj inĝinieroj",
                 "names": [
                     "Robert Thresher (Collabera)"
                 ]
             },
             {
-                "title": "System Developers",
+                "title": "Sistemaj programistoj",
                 "names": [
                     "Christoffer Hammarström",
                     "Dodge Lafnitzegger (Insight Global, Inc)",
@@ -2285,25 +2285,25 @@
                 ]
             },
             {
-                "title": "Art Director",
+                "title": "Arta direktoro",
                 "names": [
                     "Brad Shuber"
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Arta ĉefo",
                 "names": [
                     "Sarah Kisor"
                 ]
             },
             {
-                "title": "3D/VFX",
+                "title": "3D/Vidaj efektoj",
                 "names": [
                     "Elin Ölund Forsling"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artistoj",
                 "names": [
                     "Amanda Cook (Harvey Nash)",
                     "Bart Kaufman (Randstad)",
@@ -2317,7 +2317,7 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafikaj artistoj",
                 "names": [
                     "Jerica Harada (TEKsystems, Inc)",
                     "Kristoffer Zetterstrand",
@@ -2325,33 +2325,33 @@
                 ]
             },
             {
-                "title": "Additional Graphics",
+                "title": "Aldona grafiko",
                 "names": [
                     "Jonatan Pöljö",
                     "Mariana Graham Ramirez"
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Movgrafika dezajnisto",
                 "names": [
                     "Gabe Philbin (Randstad)"
                 ]
             },
             {
-                "title": "Sound Designer",
+                "title": "Sona dezajnisto",
                 "names": [
                     "Peter Hont",
                     "Shauny Jang (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Executive Producer",
+                "title": "Plenuma produktoro",
                 "names": [
                     "Erin Krell"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produktoroj",
                 "names": [
                     "Alen Voljevica",
                     "Anthony Hanses (Insight Global, Inc)",
@@ -2380,39 +2380,39 @@
                 ]
             },
             {
-                "title": "Assistant Producer",
+                "title": "Asistant-produktoro",
                 "names": [
                     "Warren Loo"
                 ]
             },
             {
-                "title": "Release Manager",
+                "title": "Eldonada manaĝero",
                 "names": [
                     "Brogan Irwin (Virtuosity)",
                     "Dustin Wood (Design Laboratory Inc)"
                 ]
             },
             {
-                "title": "Merchandise Art Director",
+                "title": "Direktoro de merkatarto",
                 "names": [
                     "Alexis Holmqvist"
                 ]
             },
             {
-                "title": "Product Designer",
+                "title": "Produkta dezajnisto",
                 "names": [
                     "Jennifer Hammervald"
                 ]
             },
             {
-                "title": "User Experience Design Director",
+                "title": "Direktoro de dezajno de sperto de uzanto",
                 "names": [
                     "Stephen Whetstine",
                     "Tobias Ahlin"
                 ]
             },
             {
-                "title": "User Experience Designer",
+                "title": "Dezajnisto de sperto de uzanto",
                 "names": [
                     "Connor Tompsett (CompuCom Systems Inc)",
                     "Lily Ekman",
@@ -2420,26 +2420,26 @@
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Ĉefo de oficistaro",
                 "names": [
                     "Andrew J. Adamyk"
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Plenumaj negocaj administrantoj",
                 "names": [
                     "Cathy Wickersham",
                     "Darla J Barrett"
                 ]
             },
             {
-                "title": "Business Administrators",
+                "title": "Negocaj administrantoj",
                 "names": [
                     "Shae M. Flanigan (C2S Technologies Inc)"
                 ]
             },
             {
-                "title": "Office Managers",
+                "title": "Oficaj manaĝeroj",
                 "names": [
                     "Alex Andersson",
                     "Charlotte Wredesjö",
@@ -2449,19 +2449,19 @@
                 ]
             },
             {
-                "title": "Reception",
+                "title": "Akceptotablo",
                 "names": [
                     "Chaimae Truving"
                 ]
             },
             {
-                "title": "Data Science & Analytics Lead",
+                "title": "Ĉefo de datumscienco k analizoj",
                 "names": [
                     "Warren Durrett"
                 ]
             },
             {
-                "title": "Data Science & Analytics",
+                "title": "Datumscienco k analizoj",
                 "names": [
                     "Abby Jaloway (National Business Innovations)",
                     "Brynjólfur Erlingsson",
@@ -2479,19 +2479,19 @@
                 ]
             },
             {
-                "title": "Directors of Business Development",
+                "title": "Direktoroj de negoca disvolvigado",
                 "names": [
                     "Cherie D Lutz"
                 ]
             },
             {
-                "title": "Directors of Business Planning",
+                "title": "Direktoroj de negoca planado",
                 "names": [
                     "Adam Tratt"
                 ]
             },
             {
-                "title": "Business Managers",
+                "title": "Negocaj manaĝeroj",
                 "names": [
                     "Bill Wu",
                     "Claudine Ursino (Simplicity Consulting Inc)",
