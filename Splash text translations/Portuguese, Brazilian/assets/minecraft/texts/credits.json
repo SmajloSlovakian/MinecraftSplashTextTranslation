@@ -3,13 +3,13 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "Cabeça de Minecraft",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Diretor Executivo",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "Designer",
         "titles": [
             {
                 "title": "Chief Creative Officers",
@@ -27,33 +27,33 @@
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Diretor do Jogo",
                 "names": [
                     "Agnes Larsson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Diretor Criativo",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "Diretor de Design Principal",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Designer de Jogo",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Designers de jogo",
                 "names": [
                     "Art Usher",
                     "Brandon Franklin (Insight Global, Inc)",
@@ -71,7 +71,7 @@
                 ]
             },
             {
-                "title": "Narrative Designers",
+                "title": "Designers Narrativos",
                 "names": [
                     "Max Herngren"
                 ]
@@ -79,34 +79,34 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programando",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Diretor de Tecnologia",
                 "names": [
                     "Michael W Weilbacher"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Chefe de Serviços e Engenharia de Operações",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Stockholm Engineering",
+                "title": "Chefe de Engenharia de Estocolmo",
                 "names": [
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Diretor de Qualidade Franquia",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Diretor técnico",
                 "names": [
                     "Christopher Östlund",
                     "Jason Cahill",
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Designer de Jogo",
                 "names": [
                     "Gary McLaughlin",
                     "James S Yarrow",
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Desenvolvedores de Jogo",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
@@ -164,14 +164,14 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Desenvolvedor de Interface",
                 "names": [
                     "Oleg Kozitsyn",
                     "Paulo Ragonha"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Desenvolvedor de Interface",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arquiteto",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -216,7 +216,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Desenvolvedores de software Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Desenvolvedores de software Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
