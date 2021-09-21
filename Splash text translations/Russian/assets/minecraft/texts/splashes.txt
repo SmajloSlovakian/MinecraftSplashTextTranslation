@@ -5,7 +5,7 @@
 Больше многоугольников!
 Довольно таки привлекательно!
 Лимитированное издание!
-Flashing letters!
+Сверкающие буквы!
 Он здесь!
 Лучший в классе!
 Готово!
@@ -165,7 +165,7 @@ Woo, facepunch!
 Woo, somethingawful!
 Woo, tigsource!
 Woo, worldofminecraft!
-Woo, reddit!
+Ву, реддит!
 Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
@@ -182,7 +182,7 @@ Gasp!
 Пчёлы, пчёлы, пчёлы, пчёлы!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Haha, LOL!
+Хаха, ЛОЛ!
 Hampsterdance!
 Menger sponge!
 idspispopd!
@@ -403,7 +403,7 @@ And my pickaxe!
 Envision! Create! Share!
 Fabulous graphics!
 Также попробуйте Minecraft Dungeons!
-Vanilla!
+Ванилла!
 May contain traces of citrus!
 Зоглин!?
 Чёрные жизни важны!
