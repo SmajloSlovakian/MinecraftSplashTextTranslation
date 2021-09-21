@@ -79,10 +79,10 @@
         ]
     },
     {
-        "section": "Программа",
+        "section": "Программирование",
         "titles": [
             {
-                "title": "Технический директор",
+                "title": "Главный технический директор",
                 "names": [
                     "Michael W Weilbacher"
                 ]
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Разработчики игры",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
@@ -164,14 +164,14 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Ведущие разработчики пользовательского интерфейса",
                 "names": [
                     "Oleg Kozitsyn",
                     "Paulo Ragonha"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Разработчики пользовательского интерфейса",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Разработчики лаунчера",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -199,7 +199,7 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Ведущие архитекторы",
                 "names": [
                     "Greg Snook",
                     "Henry Golding",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Архитекторы",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -216,7 +216,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Ведущие разработчики программного обеспечения Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Разработчики программного обеспечения Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -313,21 +313,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Ведущие веб-разработчики",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Инженеры программного обеспечения реалмов",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Ведущие системные инженеры",
                 "names": [
                     "Jifeng Zhang",
                     "Robert Sjödahl",
@@ -335,7 +335,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Инженеры программного обеспечения сервиса",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Corey Goodman (Insight Global, Inc)",
@@ -365,16 +365,16 @@
         ]
     },
     {
-        "section": "Аудио",
+        "section": "Звук",
         "titles": [
             {
-                "title": "Lead Sound Designer",
+                "title": "Ведущий звуковой дизайнер",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Звуковые дизайнеры",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kevin Martinez",
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Композиторы музыки",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -391,16 +391,16 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Визуальные художники",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Художественный руководитель",
                 "names": [
                     "Andy Zibits"
                 ]
             },
             {
-                "title": "Art Leads",
+                "title": "Ведущие художники",
                 "names": [
                     "Daniel Björkefors",
                     "Joel Garvin",
@@ -430,13 +430,13 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Ведущий технический художник",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Технический художник",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
@@ -449,7 +449,7 @@
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Ведущие графические дизайнеры",
                 "names": [
                     "Christine Gutierrez"
                 ]
@@ -462,7 +462,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Анимационный графический дизайнер",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Kim Petersen",
@@ -470,7 +470,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Аниматор",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -478,7 +478,7 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Готовый продукт",
         "titles": [
             {
                 "title": "Head of Creator",
@@ -493,7 +493,7 @@
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Глава китайского Minecraft",
                 "names": [
                     "Travis Howland"
                 ]
