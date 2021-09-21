@@ -24,19 +24,19 @@ Używa LWJGL!
 Siatkowane krzywe składane!
 Minecraft!
 Hurraa!
-Singleplayer!
-Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
+Gra jednoosobowa!
+Zgodność z klawiaturą!
+Sztabki!
+Wybuchające creepery!
+To nie księżyc!
 l33t!
 Twórz!
 Przetrwaj!
 Lochy!
-Exclusive!
+Na wyłączność!
 The bee's knees!
 Closed source!
-Classy!
+Z klasą!
 Łał!
 Not on steam!
 Oh man!
@@ -45,43 +45,43 @@ Piksele!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
-Enhanced!
+Ulepszony!
 W 90% wolny od błędów!
 Piękny!
 12 ziół i przypraw!
 Bez tłuszczu!
 Żadnych memów!
 Free dental!
-Ask your doctor!
+Zapytaj swojego lekarza!
 Nieletni mile widziani!
-Cloud computing!
-Legal in Finland!
+Obliczenia w chmurze!
+Legalny w Finlandii!
 Hard to label!
 Technically good!
 Bringing home the bacon!
 Indie!
 GOTY!
-Ceci n'est pas une title screen!
-Euclidian!
-Now in 3D!
-Inspirational!
+Ceci n'est pas une ekran tytułowy!
+Euklidejski!
+Teraz w 3D!
+Inspirujący!
 Herregud!
 Complex cellular automata!
 Tak jest proszę pana!
 Grają weń kowboje!
 Now on OpenGL 3.2 core profile!
 Tysiące kolorów!
-Try it!
+Wypróbuj!
 Age of Wonders jest lepsza!
 Try the mushroom stew!
 Sensational!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Guaranteed!
+Gwarantowany!
 Macroscopic!
 Bring it on!
-Random splash!
-Call your mother!
+Losowy splash!
+Zadzwoń do matki!
 Monster infighting!
 Uwielbiany przez miliony!
 Ultimate edition!
@@ -89,12 +89,12 @@ Freaky!
 You've got a brand new key!
 Wodoodporny!
 Uninflammable!
-Whoa, dude!
+Hola, chłopie!
 All-inclusive!
-Tell your friends!
+Poleć znajomym!
 NP is not in P!
-Music by C418!
-Livestreamed!
+Muzyka autorstwa C418!
+Transmitowany!
 Haunted!
 Polynomial!
 Ziemski!
@@ -103,11 +103,11 @@ Full of stars!
 Naukowy!
 Not as cool as Spock!
 Collaborate and listen!
-Never dig down!
-Take frequent breaks!
-Not linear!
+Nie kop prosto w dół!
+Rób częste przerwy!
+Nieliniowy!
 Han shot first!
-Nice to meet you!
+Miło Cię poznać!
 Wiadra pełne lawy!
 Dosiądź świni!
 Większy niż Ziemia!
@@ -129,7 +129,7 @@ Do not distribute!
 Myślę, więc jestem!
 4815162342 linii kodu!
 Wyskoczył szkielet!
-The sum of its parts!
+Suma jego części!
 BTAF used to be good!
 I miss ADOM!
 umop-apisdn!
@@ -332,7 +332,7 @@ Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
 /give @a przytulas 64
-This is good for Realms.
+To się nada na Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
