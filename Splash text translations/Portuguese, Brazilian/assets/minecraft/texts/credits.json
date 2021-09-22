@@ -391,16 +391,16 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Artes Visuais",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Diretor de Arte",
                 "names": [
                     "Andy Zibits"
                 ]
             },
             {
-                "title": "Art Leads",
+                "title": "Líderes de Arte",
                 "names": [
                     "Daniel Björkefors",
                     "Joel Garvin",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artistas",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -430,39 +430,39 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Artista Técnico Principal",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Artista Técnico Principal",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Artistas Gráficos",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Designer de Jogo",
                 "names": [
                     "Christine Gutierrez"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Designers gráficos",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)"
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Designer Gráficos de Movimento",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Kim Petersen",
@@ -470,7 +470,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animador",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -478,28 +478,28 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Produção",
         "titles": [
             {
-                "title": "Head of Creator",
+                "title": "Cabeça do Criador",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Platform Engineering",
+                "title": "Chefe de Engenharia de Estocolmo",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Cabeça de Minecraft",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "Chefe de Engenharia de Estocolmo",
                 "names": [
                     "Ryan B Cooper"
                 ]
