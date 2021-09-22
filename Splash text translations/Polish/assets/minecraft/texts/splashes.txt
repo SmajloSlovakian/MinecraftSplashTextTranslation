@@ -80,7 +80,7 @@ Play him off, keyboard cat!
 Gwarantowany!
 Macroscopic!
 Bring it on!
-Losowy splash!
+Przypadkowa wiadomość powitalna!
 Zadzwoń do matki!
 Monster infighting!
 Uwielbiany przez miliony!
@@ -220,7 +220,7 @@ Undefeated!
 Kinda like Lemmings!
 Follow the train, CJ!
 Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
+Ta wiadomość nigdy nie ukaże się na ekranie powitalnym. To dziwne, nieprawdaż?
 DungeonQuest is unfair!
 90210!
 Check out the far lands!
@@ -366,7 +366,7 @@ What's the question?
 Zasadź drzewo!
 Udaj się do dentysty!
 Czego się spodziewasz?
-Look mum, I'm in a splash!
+Spójrz, mamo, jestem wiadomością powitalną!
 Przybył z kosmosu.
 Awesome game design right there!
 Ph1lzie nieźle poszło!
