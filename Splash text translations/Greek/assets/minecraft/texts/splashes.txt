@@ -281,13 +281,13 @@ Cześć Polsko!
 你好中国！
 Привет Россия!
 Γεια σου Ελλάδα!
-My life for Aiur!
+Η ζωή μου για τον Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Βλέπω ότι το λεξιλόγιό σας έχει βελτιωθεί!
+Ποιος το έβαλε εκεί;
+Δεν μπορείς να το εξηγήσεις!
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+§1Χ§2ρ§3ω§4μ§5α§6τ§7ι§8κ§9ό
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
