@@ -289,42 +289,42 @@ Lennart lennart = new Lennart();
 if not ok then return end
 §1Χ§2ρ§3ω§4μ§5α§6τ§7ι§8κ§9ό
 §kFUNKY LOL
-Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
+Μεγάλα Μυτερά Δόντια!
+Ο Bekarton φρουρεί την πύλη!
+Μμχμμ, μμμ!
+Μη ταΐζετε αβοκάντο σε παπαγάλους!
+Σπαθιά για όλους!
+Πλζ απαντήστε στο τουίτ μου!
 .party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
-Now with extra hugs!
-Now Java 16!
-Woah.
+Πάρτε το μαξιλάρι της!
+Αφήστε αυτό το μπισκότο!
+Πολύ τρομακτικό!
+Έχω μια πρόταση.
+Τώρα με έξτρα αγκαλιές!
+Τώρα με Java 16!
+Ουάου.
 HURNERJSGER?
-What's up, Doc?
-Now contains 32 random daily cats!
+Τι τρέχει, Γιατρέ;
+Τώρα περιλαμβάνει 32 τυχαίες γάτες καθημερινά!
 That's Numberwang!
 pls rt
-Do you want to join my server?
-Put a little fence around it!
-Throw a blanket over it!
-One day, somewhere in the future, my work will be quoted!
-Now with additional stuff!
-Extra things!
-Yay, puppies for everyone!
+Θέλετε να μπείτε στο server μου;
+Βάλτε ένα μικρό φράχτη γύρω του!
+Ρίξτε μια κουβέρτα πάνω του!
+Μία μέρα, κάπου στο μέλλον, το έργο μου θα αναφερθεί!
+Τώρα με επιπλέον πράγματα!
+Επιπλέον πράγματα!
+Ναι, κουταβάκια για όλους!
 So sweet, like a nice bon bon!
-Very influential in its circle!
-Now With Multiplayer!
-Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
-Run, coward! I hunger!
-Flavor with no seasoning!
-Strange, but not a stranger!
-Tougher than diamonds, rich like cream!
+Επηρεάζει πολύ στον κύκλο του!
+Τώρα Με Παιχνίδι Πολλαπλών Παικτών!
+Υψωθείτε από τον τάφο σας!
+Προειδοποίηση! Ένα τεράστιο θωρηκτό "STEVE" πλησιάζει γρήγορα!
+Ένας μπλε πολεμιστής πυροβόλησε το φαγητό!
+Τρέξε, δειλέ! I hunger!
+Γεύση χωρίς μπαχαρικά!
+Παράξενο, αλλά όχι άγνωστο!
+Πιο σκληρό κι από διαμάντι, πλούσιο σαν κρέμα!
 It swings, it jives!
 Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
@@ -415,13 +415,13 @@ Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
 [this splash text has been delayed until part 2]
-Contains simulated goats!
-Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+Περιέχει προσομοιωμένες κατσίκες!
+Σπιτικό!
+Υπάρχει <<μια γάτα στο ,πληκτρολόγιό μου!~
+Ο πιο χαριτωμένος θηρευτής που θα συναντήσετε ποτέ!
+Τώρα σκέφτεστε με πιστόνια!
 Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
-Plant-based light sources!
-Made by "real" people!
+Διατίθεται επίσης έκδοση επιτραπέζιου παιχνιδιού!
+Αγάπη μου, κέρωσα το χαλκό!
+Φυτικές πηγές φωτός!
+Φτιαγμένο από «πραγματικούς» ανθρώπους!
