@@ -1,15 +1,15 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Este projeto foi criado por Smajloeslovaco#1077 (você não pode me enviar pedido de amizade no discord se você for um completo estranho para mim)
 
-How do i add this pack to Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
-  Resource Packs and pick the pack which has just appeared.
+Como eu adiciono esse pacote de textura ao Minecraft?
+-Adicione a pasta que você acabou de abrir "\Appdata\Roaming\.minecraft\resourcepacks\", entre no Minecraft, configurações, 
+  Pacotes de Recursos e escolha o pacote que acabou de aparecer.
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Resource packs folder..."
+Como entrar na pasta dos pacotes de recursos?
+-Abra o Minecraft, vá em configurações, Pacotes de recursos, arraste e solte os recursos na janela do Minecraft...
+Mas espere! isso não funciona!
+-Clique em um botão chamado "Pasta de pacote de recursos"
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+Meu projeto tenta traduzir os textos não traduzidos no Minecraft, como mensagens de texto de abertura, créditos de jogo finais entre outros.
+É um projeto simples da comunidade não afiliado à Mojang AB. nem com o próprio Minecraft, como é administrado por um membro da comunidade.

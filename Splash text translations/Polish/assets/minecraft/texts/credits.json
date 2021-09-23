@@ -400,7 +400,7 @@
                 ]
             },
             {
-                "title": "Art Leads",
+                "title": "Kierownictwo wykonawcze",
                 "names": [
                     "Daniel Björkefors",
                     "Joel Garvin",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Wykonawcy",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -430,39 +430,39 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Główny wykonawca techniczny",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Wykonawca techniczny",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Graficy",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Główni projektanci",
                 "names": [
                     "Christine Gutierrez"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Projektanci",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)"
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Projektanci ruchu",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Kim Petersen",
@@ -478,52 +478,52 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Produkcja",
         "titles": [
             {
-                "title": "Head of Creator",
+                "title": "Kierownik twórców",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Platform Engineering",
+                "title": "Kierownik projektantów platform",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Kierownik Minecraft China",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "Kierownik inżynierii procesów biznesowych",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Kierownik Rynku twórców",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Kierownik gier",
                 "names": [
                     "Patrick Liu"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Dyrektor minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Producenci wykonawczy",
                 "names": [
                     "Allison Matthews",
                     "Anita Sujarit",
@@ -538,7 +538,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Kierownicy produkcji",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -546,7 +546,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Producenci",
                 "names": [
                     "Adrian Östergård",
                     "Andrea Lam",
@@ -591,27 +591,27 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Kierownik ds. technicznych",
                 "names": [
                     "Erika Renlund",
                     "Mac Maistrelli"
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Coachowie organizacyjni",
                 "names": [
                     "Marie Stålkrantz",
                     "Yassal Sundman"
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Kierownik ds. zarządzania dystrybucją",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Kierownictwo dystrybucji",
                 "names": [
                     "Josh Mulanax",
                     "Joshua Bullard",
@@ -619,20 +619,20 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "Kontrola jakości",
                 "names": [
                     "Matthew Dryden",
                     "Thommy Siverman"
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Technicy ds. jakości",
                 "names": [
                     "Zackarias Gustavsson"
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "Autorzy ds. technicznych",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)",
                     "Jeff Kim (Insight Global, Inc)"
@@ -641,34 +641,34 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "Dział kreatywny marki",
         "titles": [
             {
-                "title": "Head of Creative Production",
+                "title": "Kierownik działu produkcji kreatywnej",
                 "names": [
                     "Katharina Hautz"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Dyrektor kreatywny",
                 "names": [
                     "Markus Toivonen"
                 ]
             },
             {
-                "title": "Lead Brand Producer",
+                "title": "Główny producent marki",
                 "names": [
                     "Åsa Skogström"
                 ]
             },
             {
-                "title": "Brand Art Director",
+                "title": "Dyrektor graficzny marki",
                 "names": [
                     "Martin Johansson"
                 ]
             },
             {
-                "title": "Brand Producers",
+                "title": "Producenci marki",
                 "names": [
                     "Hampus Nilsson",
                     "Jenny Ahnell",
@@ -676,32 +676,32 @@
                 ]
             },
             {
-                "title": "Brand Assurance Manager",
+                "title": "Kierownik ds. ubezpieczenia marki",
                 "names": [
                     "Celene Tolentino (Harvey Nash)",
                     "Dana Mack (Harvey Nash)"
                 ]
             },
             {
-                "title": "Lead Consumer Products Producer",
+                "title": "Główny producent produktów konsumenckich",
                 "names": [
                     "Milo Bengtsson"
                 ]
             },
             {
-                "title": "Consumer Products Creative Lead",
+                "title": "Kierownik kreatywny ds. produktów konsumenckich",
                 "names": [
                     "Antti Meriluoto"
                 ]
             },
             {
-                "title": "Consumer Products Producer",
+                "title": "Producent produktów konsumenckich",
                 "names": [
                     "Josefin Olsson"
                 ]
             },
             {
-                "title": "Consumer Products Product Designers",
+                "title": "Projektanci produktów konsumenckich",
                 "names": [
                     "Débora Martins",
                     "Filip Thoms",
@@ -709,26 +709,26 @@
                 ]
             },
             {
-                "title": "Lead Media & Events Producer",
+                "title": "Główny producent mediów i wydarzeń",
                 "names": [
                     "Sarah Carton"
                 ]
             },
             {
-                "title": "Media Producers",
+                "title": "Producenci mediów",
                 "names": [
                     "Adele Major",
                     "Johan Kvarnermo"
                 ]
             },
             {
-                "title": "Events Producer",
+                "title": "Producenci wydarzeń",
                 "names": [
                     "Charlotte Hallberg Angantyr"
                 ]
             },
             {
-                "title": "Games Experience Producers",
+                "title": "Producenci ds. wrażeń z gry",
                 "names": [
                     "Nicolette Suraga",
                     "Renee Wikander",

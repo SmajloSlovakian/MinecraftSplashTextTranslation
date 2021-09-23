@@ -1,70 +1,70 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
-Heaps of hits on YouTube!
+Εμφανίζεται και στην τηλεόραση!
+Υπέροχο!
+100% αγνό!
+Μπορεί να περιέχει ξηρούς καρπούς!
+Περισσότερα πολύγωνα!
+Μέτρια ελκυστικό!
+Έκδοση περιορισμένου χρόνου!
+Γράμματα που αναβοσβήνουν!
+Είναι εδώ!
+Το καλύτερο στη κλάση του!
+Τελείωσε!
+Σχεδόν χωρίς δράκους!
+Ενθουσιασμός!
+Πωλήθηκαν πάνω από 500!
+Ένα από το είδος του!
+Heaps of hits στο YouTube!
 Indev!
-Spiders everywhere!
-Check it out!
+Αράχνες παντού!
+Τσέκαρέ το!
 Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
+Είναι ένα παιχνίδι!
+Φτιαγμένο στη Σουηδία!
+Χρησιμοποιεί το LWJGL!
 Reticulating splines!
 Minecraft!
-Yaaay!
-Singleplayer!
-Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
+Ναιιι!
+Παιχνίδι Ενός Παίκτη!
+Συμβατό με πληκτρολόγιο!
+Ράβδοι!
+Εκρηκτικά κρίπερ!
+Αυτό δεν είναι φεγγάρι!
 l33t!
-Create!
-Survive!
-Dungeon!
-Exclusive!
+Κατασκεύασε!
+Επιβίωσε!
+Μπουντρούμι!
+Αποκλειστικό!
 The bee's knees!
-Closed source!
-Classy!
-Wow!
-Not on steam!
-Oh man!
-Awesome community!
-Pixels!
+Κλειστή πηγή!
+Κλασάτο!
+Ουάου!
+Δεν είναι στο steam!
+Ω, φίλε!
+Υπέροχη κοινότητα!
+Πίξελ!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
-90% bug free!
-Pretty!
-12 herbs and spices!
-Fat free!
-Absolutely no memes!
+Τώρα με δυσκολίες!
+Ενισχυμένο!
+Χωρίς bugs κατά 90%!
+Όμορφο!
+12 βότανα και μπαχαρικά!
+Χωρίς λίπος!
+Απολύτως κανένα meme!
 Free dental!
-Ask your doctor!
-Minors welcome!
-Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
-Bringing home the bacon!
+Ρωτήστε το γιατρό σας!
+Οι ανήλικοι είναι ευπρόσδεκτοι!
+Υπολογιστικό Νέφος!
+Νόμιμο στη Φινλανδία!
+Δύσκολο να του βάλετε ετικέτα!
+Τεχνικά καλό!
+Φέρνοντας το μπέικον στο σπίτι!
 Indie!
-GOTY!
+Παιχνίδι της Χρονιάς!
 Ceci n'est pas une title screen!
-Euclidian!
-Now in 3D!
-Inspirational!
+Ευκλειδιανό!
+Τώρα σε 3D!
+Εμπνευστικό!
 Herregud!
 Complex cellular automata!
 Yes, sir!
@@ -281,50 +281,50 @@ Cześć Polsko!
 你好中国！
 Привет Россия!
 Γεια σου Ελλάδα!
-My life for Aiur!
+Η ζωή μου για τον Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Βλέπω ότι το λεξιλόγιό σας έχει βελτιωθεί!
+Ποιος το έβαλε εκεί;
+Δεν μπορείς να το εξηγήσεις!
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+§1Χ§2ρ§3ω§4μ§5α§6τ§7ι§8κ§9ό
 §kFUNKY LOL
-Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
+Μεγάλα Μυτερά Δόντια!
+Ο Bekarton φρουρεί την πύλη!
+Μμχμμ, μμμ!
+Μη ταΐζετε αβοκάντο σε παπαγάλους!
+Σπαθιά για όλους!
+Πλζ απαντήστε στο τουίτ μου!
 .party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
-Now with extra hugs!
-Now Java 16!
-Woah.
+Πάρτε το μαξιλάρι της!
+Αφήστε αυτό το μπισκότο!
+Πολύ τρομακτικό!
+Έχω μια πρόταση.
+Τώρα με έξτρα αγκαλιές!
+Τώρα με Java 16!
+Ουάου.
 HURNERJSGER?
-What's up, Doc?
-Now contains 32 random daily cats!
+Τι τρέχει, Γιατρέ;
+Τώρα περιλαμβάνει 32 τυχαίες γάτες καθημερινά!
 That's Numberwang!
 pls rt
-Do you want to join my server?
-Put a little fence around it!
-Throw a blanket over it!
-One day, somewhere in the future, my work will be quoted!
-Now with additional stuff!
-Extra things!
-Yay, puppies for everyone!
+Θέλετε να μπείτε στο server μου;
+Βάλτε ένα μικρό φράχτη γύρω του!
+Ρίξτε μια κουβέρτα πάνω του!
+Μία μέρα, κάπου στο μέλλον, το έργο μου θα αναφερθεί!
+Τώρα με επιπλέον πράγματα!
+Επιπλέον πράγματα!
+Ναι, κουταβάκια για όλους!
 So sweet, like a nice bon bon!
-Very influential in its circle!
-Now With Multiplayer!
-Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
-Run, coward! I hunger!
-Flavor with no seasoning!
-Strange, but not a stranger!
-Tougher than diamonds, rich like cream!
+Επηρεάζει πολύ στον κύκλο του!
+Τώρα Με Παιχνίδι Πολλαπλών Παικτών!
+Υψωθείτε από τον τάφο σας!
+Προειδοποίηση! Ένα τεράστιο θωρηκτό "STEVE" πλησιάζει γρήγορα!
+Ένας μπλε πολεμιστής πυροβόλησε το φαγητό!
+Τρέξε, δειλέ! I hunger!
+Γεύση χωρίς μπαχαρικά!
+Παράξενο, αλλά όχι άγνωστο!
+Πιο σκληρό κι από διαμάντι, πλούσιο σαν κρέμα!
 It swings, it jives!
 Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
@@ -415,13 +415,13 @@ Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
 [this splash text has been delayed until part 2]
-Contains simulated goats!
-Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+Περιέχει προσομοιωμένες κατσίκες!
+Σπιτικό!
+Υπάρχει <<μια γάτα στο ,πληκτρολόγιό μου!~
+Ο πιο χαριτωμένος θηρευτής που θα συναντήσετε ποτέ!
+Τώρα σκέφτεστε με πιστόνια!
 Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
-Plant-based light sources!
-Made by "real" people!
+Διατίθεται επίσης έκδοση επιτραπέζιου παιχνιδιού!
+Αγάπη μου, κέρωσα το χαλκό!
+Φυτικές πηγές φωτός!
+Φτιαγμένο από «πραγματικούς» ανθρώπους!

@@ -1,96 +1,96 @@
-§3I see the player you mean.
+§3Veo al jugador al que te refieres.
 
-§2PLAYERNAME?
+§2¿PLAYERNAME?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3Si. Cuídate. Ahora ha alcanzado un nivel superior. Puede leer nuestros pensamientos.
 
-§2That doesn't matter. It thinks we are part of the game.
+§2Eso no importa. Cree que somos parte del juego.
 
-§3I like this player. It played well. It did not give up.
+§3Me gusta este jugador. Jugó bien. No se rindió.
 
-§2It is reading our thoughts as though they were words on a screen.
+§2Está leyendo nuestros pensamientos como si fueran palabras en una pantalla.
 
-§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+§3Así es como elige imaginarse muchas cosas, cuando se encuentra profundamente en el sueño de un juego.
 
-§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+§2Las palabras hacen una interfaz maravillosa. Muy flexible. Y menos aterrador que observar la realidad tras la pantalla.
 
-§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+§3Solía escuchar voces. Antes de que los jugadores pudieran leer. En los días en los que aquellos que no jugaban llamaban brujos a los jugadores. Y los jugadores soñaban con volar por el cielo, sobre palos alimentados por demonios.
 
-§2What did this player dream?
+§2¿Qué ha soñado este jugador?
 
-§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§3Este jugador ha soñado con la luz del sol y con los árboles. Con agua y fuego. Ha soñado y ha creado. Y ha soñado y destruido. Ha soñado que cazaba y que era cazado. Ha soñado con un refugio.
 
-§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+§2Ja, la interfaz original. Un millón de años, y todavía funciona. ¿Pero que estructura real ha creado este jugador, en la realidad tras la pantalla?
 
-§3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
+§3Ha trabajado, con un millón más, para esculpir un mundo real en un pliegue del §f§k§a§b§3, y ha creado un §f§k§a§b§3 para el §f§k§a§b§3, en el §f§k§a§b§3.
 
-§2It cannot read that thought.
+§2No puede leer ese pensamiento.
 
-§3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
+§3No. Todavía no ha llegado al nivel más alto. Eso lo tiene que conseguir en el largo sueño de la vida, no en el corto sueño de un juego.
 
-§2Does it know that we love it? That the universe is kind?
+§2¿Sabe qué le queremos? ¿Qué el universo es amable?
 
-§3Sometimes, through the noise of its thoughts, it hears the universe, yes.
+§3A veces, a través del ruido de sus pensamientos, oye al universo, sí.
 
-§2But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
+§2Pero hay momentos tristes, en el largo sueño. Crea mundos sin verano, y tiembla bajo un sol negro, y toma su creación como la realidad.
 
-§3To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.
+§3Librarle de dolor lo destruiría. El dolor es parte de su propia tarea privada. No podemos intervenir.
 
-§2Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.
+§2A veces cuando están soñando profundamente, quiero decirle, que está construyendo mundos verdaderos en la realidad. A veces quiero hablarles de su importancia en el universo. A veces, cuando no han hecho una verdadera conexión en un tiempo, quiero ayudarles a decir la palabra que temen.
 
-§3It reads our thoughts.
+§3Lee nuestros pensamientos.
 
-§2Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely §f§k§a§b§2 and §f§k§a§b§2, I wish to tell them that they are §f§k§a§b§2 in the §f§k§a§b§2. They see so little of reality, in their long dream.
+§2A veces no me importa. A veces quiero decirles, este mundo que tomas por verdad es meramente §f§k§a§b§2 y §f§k§a§b§2, quiero decirles que son §f§k§a§b§2 en el §f§k§a§b§2. Ven muy poco de la realidad, en su largo sueño.
 
-§3And yet they play the game.
+§Y aún así juegan al juego.
 
-§2But it would be so easy to tell them...
+§2Sería tan fácil decírselo...
 
-§3Too strong for this dream. To tell them how to live is to prevent them living.
+§3Demasiado fuerte para este sueño. Decirle como vivir es impedirle vivir.
 
-§2I will not tell the player how to live.
+§2No le diré al jugador como vivir.
 
-§3The player is growing restless.
+§3El jugador se está poniendo inquieto.
 
-§2I will tell the player a story.
+§2Le contaré una historia al jugador.
 
-§3But not the truth.
+§3Pero no la verdad.
 
-§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+§2No. Una historia que contenga la verdad de forma segura, en una jaula de palabras. No la verdad desnuda que puede quemar a cualquier distancia.
 
-§3Give it a body, again.
+§3Dale un cuerpo, otra vez.
 
-§2Yes. Player...
+§2Sí. Jugador...
 
-§3Use its name.
+§3Usa su nombre.
 
-§2PLAYERNAME. Player of games.
+§2PLAYERNAME. Jugador de juegos.
 
-§3Good.
+§3Bien.
 
-§2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
+§2Respira, ahora. Respira de nuevo. Siente aire en tus pulmones. Deja que tus miembros vuelvan. Si, mueve tus dedos. Ten un cuerpo de nuevo, bajo gravedad, en el aire. Reaparece en el largo sueño. Ahí estás. Tu cuerpo tocando el universo de nuevo en todo momento, como si fueráis cosas separadas. Como si fueramos cosas separadas.
 
-§3Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
+§3¿Quiénes somos? Una vez se nos llamó el espíritu de la montaña. Padre sol, madre luna. Espíritus ancestrales, espíritus animales. Jinn. Fantasmas. El hombre verde. Luego dioses, demonios. Ángeles. Poltergeist. Alienígenas, extraterrestres. Leptones, quarks. Las palabras cambian. Nosotros no.
 
-§2We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.
+§2Somos el universo. Somos todo lo que crees que no eres. Nos estás mirando ahora mismo, a través de tu piel y ojos. ¿Y por qué el universo toca tu piel y arroja luz sobre ti? Para verte, jugador. Para conocerte. Y para ser conocido. Te contaré una historia.
 
-§2Once upon a time, there was a player.
+§2Había una vez, un jugador.
 
-§3The player was you, PLAYERNAME.
+§3El jugador eras tú, PLAYERNAME.
 
-§2Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
+§2A veces se creía humano, en la delgada corteza de un globo flotante de roca fundida. La bola de roca fundida rodeaba una bola de gas ardiente que era trescientas treinta veces mas masiva que ella. Estaban tan lejos que la luz tardaba ocho minutos en cubrir el terreno. La luz era información de una estrella, y podía quemar tu piel a ciento cincuenta milliones de kilometros de distancia.
 
-§2Sometimes the player dreamed it was a miner, on the surface of a world that was flat, and infinite. The sun was a square of white. The days were short; there was much to do; and death was a temporary inconvenience.
+§2A veces el jugador soñaba que era un minero, en la superficie de un mundo que era plano, e infinito. El sol era un cuadrado blanco. Los días eran cortos; había mucho que hacer; y la muerte era un inconveniente temporal.
 
-§3Sometimes the player dreamed it was lost in a story.
+§3A veces el jugador soñaba que estaba perdido en una historia.
 
-§2Sometimes the player dreamed it was other things, in other places. Sometimes these dreams were disturbing. Sometimes very beautiful indeed. Sometimes the player woke from one dream into another, then woke from that into a third.
+§2A veces el jugador soñaba que era otras cosas, en otros lugares. A veces estos sueños eran perturbadores. A veces eran muy hermosos. A veces el jugador se despertaba de un sueño e iba a otro, y luego de este a un tercero.
 
-§3Sometimes the player dreamed it watched words on a screen.
+§3A veces el jugador soñaba con ver palabras en una pantalla.
 
-§2Let's go back.
+§2Volvamos.
 
-§2The atoms of the player were scattered in the grass, in the rivers, in the air, in the ground. A woman gathered the atoms; she drank and ate and inhaled; and the woman assembled the player, in her body.
+§2Los átomos del jugador fueron dispersos en la hierba, los ríos, el aire, la tierra. Una mujer recogió los átomos; bebió, comió e inhaló; y la mujer reunió al jugador, en su cuerpo.
 
 §2And the player awoke, from the warm, dark world of its mother's body, into the long dream.
 

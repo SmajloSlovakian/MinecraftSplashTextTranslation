@@ -70,65 +70,65 @@ Kompleks hücresel otomat!
 Emredersiniz, efendim!
 Kovboylar tarafından oynandı!
 Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
-Age of Wonders is better!
-Try the mushroom stew!
+Binlerce Renk!
+Deneyin!
+Age of Wonders daha iyi!
+Mantar çorbasını dene!
 Sensational!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Guaranteed!
+Garanti!
 Macroscopic!
-Bring it on!
-Random splash!
-Call your mother!
-Monster infighting!
-Loved by millions!
-Ultimate edition!
-Freaky!
+Elinden geleni ardına koyma!
+Rastgele yazı!
+Anneni ara!
+Yaratık içsavaşı!
+Milyonların aşkı!
+Nihai versiyon!
+Acayip!
 You've got a brand new key!
-Water proof!
+Su geçirmez!
 Uninflammable!
-Whoa, dude!
-All inclusive!
+Oha, adamım!
+Her şey dahil!
 Tell your friends!
 NP is not in P!
-Music by C418!
-Livestreamed!
-Haunted!
-Polynomial!
+Müziği besteleyen C418!
+Canlı Yayınlandı!
+Lanetli!
+Çokterimli!
 Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
+Her şey aşk ile dolu!
+Yıldızla dolu!
+Bilimsel!
+Spock kadar havalı değil!
 Collaborate and listen!
-Never dig down!
-Take frequent breaks!
+Asla direkt aşağı kazma!
+Sık sık mola yap!
 Not linear!
-Han shot first!
-Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
+İlk ateş eden Han!
+Tanıştığımıza memnun oldum!
+Kovalar dolusu lav!
+Domuzu sür!
+Dünyadan daha büyük!
 sqrt(-1) love you!
 Phobos anomaly!
-Punching wood!
-Falling off cliffs!
-1% sugar!
+Oduna yumruk atmak!
+Uçurumlardan düşmek!
+%1 şeker!
 150% hyperbole!
 Synecdoche!
 Let's danec!
-Seecret Friday update!
+Giizli Cuma güncellemesi!
 Reference implementation!
-Kiss the sky!
+Gökyüzünü öp!
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
-Do not distribute!
+Rahatsız etmeyin!
 Cogito ergo sum!
-4815162342 lines of code!
-A skeleton popped out!
+4815162342 sıra kod!
+Bir iskelet ortaya çıktı!
 The sum of its parts!
 BTAF used to be good!
 I miss ADOM!
@@ -424,4 +424,4 @@ Get to the coppah!
 Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
+"Gerçek" insanlar tarafından yapıldı!

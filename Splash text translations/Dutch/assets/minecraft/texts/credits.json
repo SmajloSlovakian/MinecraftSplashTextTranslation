@@ -3,13 +3,13 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "Hoofd van Minecraft",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Algemeen directeur",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -17,43 +17,43 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "Ontwerp",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "Hoofden van creativiteit",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Speldirecteur",
                 "names": [
                     "Agnes Larsson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Creatief directeur",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "Hoofd van ontwerp",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Hoofdspelontwerper",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Spelontwerper",
                 "names": [
                     "Art Usher",
                     "Brandon Franklin (Insight Global, Inc)",
@@ -71,7 +71,7 @@
                 ]
             },
             {
-                "title": "Narrative Designers",
+                "title": "Verhaalontwerpers",
                 "names": [
                     "Max Herngren"
                 ]
@@ -79,34 +79,34 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programmatuur",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Hoofd van technologie",
                 "names": [
                     "Michael W Weilbacher"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Hoofd van diensten en ops-techniek",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Stockholm Engineering",
+                "title": "Hoofd van Stockholm-techniek",
                 "names": [
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Hoofd van franchisekwaliteit",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Technisch directeur",
                 "names": [
                     "Christopher Östlund",
                     "Jason Cahill",
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Hoofdspelontwikkelaar",
                 "names": [
                     "Gary McLaughlin",
                     "James S Yarrow",
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Spelontwikkelaars",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
@@ -164,14 +164,14 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Hoofdinterfaceontwikkelaars",
                 "names": [
                     "Oleg Kozitsyn",
                     "Paulo Ragonha"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Interfaceontwikkelaars",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Launcherontwikkelaars",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -199,7 +199,7 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Hoofdarchitecten",
                 "names": [
                     "Greg Snook",
                     "Henry Golding",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Architecten",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -216,7 +216,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Hoofd-Bedrock-softwareontwikkelaars",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Bedrock-softwareontwikkelaars",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -313,21 +313,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Hoofdwebontwikkelaars",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Webontwikkelaars",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Hoofdsysteemingenieurs",
                 "names": [
                     "Jifeng Zhang",
                     "Robert Sjödahl",
@@ -335,7 +335,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Dienstensoftwareingenieurs",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Corey Goodman (Insight Global, Inc)",
@@ -365,16 +365,16 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "Geluid",
         "titles": [
             {
-                "title": "Lead Sound Designer",
+                "title": "Hoofdgeluidsontwerper",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Geluidsontwerper",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kevin Martinez",
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Muziek door",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -391,16 +391,16 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Visuele kunst",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Kunstdirecteur",
                 "names": [
                     "Andy Zibits"
                 ]
             },
             {
-                "title": "Art Leads",
+                "title": "Hoofden van kunst",
                 "names": [
                     "Daniel Björkefors",
                     "Joel Garvin",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artiesten",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -430,39 +430,39 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Hoofd technische artiest",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Technische artiest",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafische artiesten",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Hoofd grafische ontwerpers",
                 "names": [
                     "Christine Gutierrez"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Grafische ontwerpers",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)"
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Bewegingsontwerper",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Kim Petersen",
@@ -470,7 +470,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animateur",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -478,7 +478,7 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Productie",
         "titles": [
             {
                 "title": "Head of Creator",

@@ -1,26 +1,26 @@
-§3I see the player you mean.
+§3Vejo o jogador que você quer ser.
 
-§2PLAYERNAME?
+§2JOGADORNAME?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3Sim. Se cuida. Isso chegou em um nível elevado agora. Isso pode ler os nossos pensamentos.
 
-§2That doesn't matter. It thinks we are part of the game.
+§2Isso não importa. Isso acha que fazemos parte do jogo.
 
-§3I like this player. It played well. It did not give up.
+§3Eu gosto deste jogador. Ele jogava bem. Não desistiu.
 
-§2It is reading our thoughts as though they were words on a screen.
+§2Está lendo nossos pensamentos como se fossem palavras em um tela.
 
-§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+§3É assim que opta por imaginar muitas coisas, quando está profundamente no sonho de um jogo.
 
-§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+§2Palavras fazem uma interface maravilhosa. Muito flexível. E menos assustador do que olhar para a realidade por trás da tela.
 
-§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+§3Eles costumavam ouvir vozes. Antes que os jogadores pudessem ler. Nos dias em que aqueles que não jogaram chamavam os jogadores de bruxa, e os bloqueios. E os jogadores sonharam que voavam pelo ar, em bastões alimentados por demônios.
 
-§2What did this player dream?
+§2O que este jogador sonhou?
 
-§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§3Este jogador sonhou luz solar e árvores. De fogo e água. Sonhou que o criou. E sonhou que foi destruído. Sonha-o perseguido e foi caçado. Sonhou que o criou.
 
-§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+§2Hah, a interface original. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
 
 §3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
 

@@ -1,8 +1,8 @@
-Этот проект был создан пользователей SmajloSlovakian#1077 (вы можете не отправить мне запрос в друзья, если вы совершенно мне незнакомы)
+Этот проект был создан пользователем SmajloSlovakian#1077 (вы не можете отправить мне запрос в друзья, если вы совершенно мне незнакомы)
 
 Как мне добавить этот набор в Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
-  Resource Packs and pick the pack which has just appeared.
+- Переместите папку с набором в "\Appdata\Roaming\.minecraft\resourcepacks\", затем зайдите 
+  в Minecraft, «Настройки», «Наборы ресурсов» и выберете набор, который только что появился.
 
 Как открыть папку resourcepacks?
 - Откройте Minecraft. Далее перейдит в настройки. Затем нажмите на кнопку «Наборы ресурс». После перетащите resourcepack в открывшееся окно...

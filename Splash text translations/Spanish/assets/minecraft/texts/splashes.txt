@@ -42,8 +42,8 @@ The bee's knees!
 ¡Oh, tío!
 ¡Una comunidad asombrosa!
 ¡Pixeles!
-Teetsuuuuoooo!
-Kaaneeeedaaaa!
+¡Teetsuuuuoooo!
+¡Kaaneeeedaaaa!
 ¡Ahora con dificultad!
 ¡Mejorado!
 ¡90% libre de errores!
@@ -78,8 +78,8 @@ Now on OpenGL 3.2 core profile!
 ¡Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
 ¡Garantizado!
-Macroscopic!
-Bring it on!
+¡Macroscópico!
+¡Adelante!
 Random splash!
 Call your mother!
 Monster infighting!
@@ -93,14 +93,14 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP is not in P!
-Music by C418!
-Livestreamed!
-Haunted!
-Polynomial!
-Terrestrial!
+¡Música por C418!
+¡Transmitido en vivo!
+¡Embrujado!
+¡Polinomial!
+¡Terrestre!
 All is full of love!
-Full of stars!
-Scientific!
+¡Lleno de estrellas!
+¡Científico!
 Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
@@ -122,31 +122,31 @@ Let's danec!
 Seecret Friday update!
 Reference implementation!
 Kiss the sky!
-20 GOTO 10!
+¡20 GOTO 10!
 Verlet intregration!
-Peter Griffin!
+¡Peter Griffin!
 Do not distribute!
-Cogito ergo sum!
-4815162342 lines of code!
+¡Cogito ergo sum!
+¡4815162342 líneas de código!
 A skeleton popped out!
-The sum of its parts!
-BTAF used to be good!
-I miss ADOM!
-umop-apisdn!
+¡La suma de sus partes!
+¡BTAF solía ser bueno!
+¡Echo de menos ADOM!
+¡savar-lep!
 OICU812!
-Bring me Ray Cokes!
-Finger-licking!
-Thematic!
-Pneumatic!
-Sublime!
-Octagonal!
-Une baguette!
-Gargamel plays it!
+¡Tráeme a Ray Cokes!
+¡Para chuparse los dedos!
+¡Temático!
+¡Pneumático!
+¡Sublime!
+¡Octogonal!
+¡Une baguette!
+¡Gargamel lo juega!
 Rita is the new top dog!
 SWM forever!
 Representing Edsbyn!
 Matt Damon!
-Supercalifragilisticexpialidocious!
+¡Supercalifragilisticoespialidoso!
 Consummate V's!
 Cow Tools!
 Double buffered!
@@ -178,7 +178,7 @@ Lives in a pineapple under the sea!
 MAP11 has two names!
 Omnipotent!
 Gasp!
-...!
+¡...!
 Bees, bees, bees, bees!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
@@ -237,7 +237,7 @@ Also try Braid!
 That's super!
 Bread is pain!
 Read more books!
-Khaaaaaaaaan!
+¡Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
 Bigger than a bread box!
@@ -261,8 +261,8 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
+¡Déjà-vu!
+¡Déjà vu!
 Got your nose!
 Haley loves Elan!
 Afraid of the big, black bat!
@@ -331,43 +331,43 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
-This is good for Realms.
-Any computer is a laptop if you're brave enough!
-Do it all, everything!
-Where there is not light, there can spider!
+/give @a abrazos 64
+Esto es bueno para Realms.
+¡Cualquier ordenador es un portátil si eres lo suficientemente valiente!
+¡Hazlo todo, todo!
+¡onde no hay luz, ¡puede haber araña!
 GNU Terry Pratchett
-More Digital!
+¡Más digital!
 doot doot
-Falling with style!
+¡Cayendo con estilo!
 There's no stopping the Trollmaso
-Throw yourself at the ground and miss
-Rule #1: it's never my fault
+Lánzate al suelo y falla
+Regla #1: nunca es culpa mía
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
-Boats FTW
-Javalicious edition
-Should not be played while driving
-You're going too fast!
-Don't feed chocolate to parrots!
+Barcos FTW
+Edición Javaliciosa
+No debería ser jugado mientras conduces
+¡Vas demasiado rápido!
+¡No les des chocolate a los loros!
 The true meaning of covfefe
-An illusion! What are you hiding?
-Something's not quite right...
-Thank you for the fish!
-All rumors are true!
+¡Una ilusión! ¿Qué escondes?
+Algo no va bien del todo...
+¡Gracias por el pescado!
+¡Los rumores son ciertos!
 Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
-Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
+¿Tortuga arcoíris?
+¡Algo gracioso!
+Necesito más contexto.
+¡Ahhhhhh!
+No te preocupes, ¡sé feliz!
+¡Botella de agua!
+¿Cúal es la pregunta?
+¡Planta un árbol!
+¡Ve al dentista!
+¿Qué esperas?
 Look mum, I'm in a splash!
-It came from space.
+Vino del espacio.
 Awesome game design right there!
 Ph1lza had a good run!
 10 years of Mining and Crafting!
@@ -399,13 +399,13 @@ From free range developers!
 Music by Lena Raine!
 Aww man!
 #minecraftfarms
-And my pickaxe!
+¡Y mi pico!
 Envision! Create! Share!
 Fabulous graphics!
 Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
-Zoglin!?
+¿¡Zoglin!?
 Black lives matter!
 Be anti-racist!
 Learn about allyship!
@@ -417,11 +417,11 @@ Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
 Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+¡Hay un <<gato en ,mi teclado!~
+¡El depredador más adorable qué encontrarás!
+¡Ahora estás pensando con pistones!
 Get to the coppah!
 Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
+¡Hecho por gente "real"!
