@@ -68,7 +68,7 @@ Ceci n'est pas une title screen!
 Herregud!
 Комплексный клеточный автомат!
 Да, сэр!
-Played by cowboys!
+Играй за ковбоев!
 Теперь на профиле ядра OpenGL 3.2!
 Тысячи цветов!
 Попробуй!
@@ -108,10 +108,10 @@ Never dig down!
 Not linear!
 Han shot first!
 Приятно познакомиться!
-Buckets of lava!
-Ride the pig!
+Ведра лавы!
+Оседлай свинью!
 Больше, чем Земля!
-sqrt(-1) love you!
+sqrt(-1) любит тебя!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
@@ -119,12 +119,12 @@ Falling off cliffs!
 150% hyperbole!
 Synecdoche!
 Let's danec!
-Seecret Friday update!
+Обновление Сеекретная Пятница!
 Reference implementation!
-Kiss the sky!
+Поцелуй небо!
 20 GOTO 10!
 Verlet intregration!
-Peter Griffin!
+Питер Гриффин!
 Do not distribute!
 Cogito ergo sum!
 4815162342 строк кода!
@@ -132,7 +132,7 @@ A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
 Я пропустил ADOM!
-umop-apisdn!
+иwɐɹон хdǝʚ!
 OICU812!
 Bring me Ray Cokes!
 Finger-licking!
@@ -173,32 +173,32 @@ Google anlyticsed!
 Давайте чаевые вашим официантам!
 Очень весело!
 12345 — плохой пароль!
-Vote for net neutrality!
+Голосуйте за сетевое нейтралитет!
 Проживает на дне океана в ананасе!
-MAP11 has two names!
-Omnipotent!
-Gasp!
+MAP11 имеет два названия!
+Всемогущий!
+Вздох!
 ...!
 Пчёлы, пчёлы, пчёлы, пчёлы!
-Jag känner en bot!
-Этот текст трудно читать, если у вас настройки разрешения по умолчанию, но на 1080p нормально!
+Jag känner en bot!
+Данный текст трудночитаемый, если у вас настройки разрешения по умолчанию, но на 1080p нормально!
 Хаха, ЛОЛ!
 Hampsterdance!
 Menger sponge!
 швызшызщзв!
 Йаплага (исходное редактирование)!
-So fresh, so clean!
-Slow acting portals!
-Try the Nether!
-Don't look directly at the bugs!
+Так свежо, так чисто!
+Медленно действующие порталы!
+Зайди в Незер!
+Не обращай внимания на ошибки!
 О, хорошо, свиночеловек!
-Finally with ladders!
-Scary!
-Play Minecraft, Watch Topgear, Get Pig!
+Наконец с лестницами!
+Страшный!
+Играй в Minecraft, смотри Topgear, получи свинью!
 Twittered about!
-Jump up, jump up, and get down!
+Подпрыгни, подпрыгни и упади!
 Joel is neat!
-A riddle, wrapped in a mystery!
+Головоломка, завернутая в тайну!
 This parrot is no more! It has ceased to be!
 Welcome to your Doom!
 Stay a while, stay forever!
