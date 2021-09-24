@@ -1,4 +1,4 @@
-Precis som på TV!
+Känt från TV!
 Fantastiskt!
 100 % äkta!
 Kan innehålla spår av nötter!
@@ -59,7 +59,7 @@ Lagligt i Finland!
 Svårmärkt!
 Tekniskt sett ett mästerverk!
 Ta hem glasyren!
-Hemmagjort!
+Hemmapyssel!
 Årets bästa spel!
 Ceci n'est pas une huvudmeny!
 Euklidisk geometri!
@@ -168,7 +168,7 @@ Woo, worldofminecraft!
 Woo, reddit!
 Woo, 2pp!
 Google anlyticsed!
-Now supports åäö!
+Stödjer nu åäö!
 Give us Gordon!
 Tip your waiter!
 Very fun!
@@ -331,7 +331,7 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
+/give @a kramar 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
@@ -375,21 +375,21 @@ Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
-Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
-Cough or sneeze into your elbow!
-Don’t touch your face!
-Support elderly relatives and friends!
-Prepare, but don’t hoard!
+Tvätta händerna!
+Tvål och vatten!
+Hjälp lokala företag!
+Stanna hemma och spela spel!
+Ta hand om dig!
+Håll ut!
+Nys i armvecket!
+Ta inte på ditt ansikte!
+Hjälp dina nära och kära!
+Var redo, men hamstra inte!
 Gamers unite – separately in your own homes!
-Save the world – stay inside!
-Shop for your elders!
-Hang out with your friends online!
-Honey, I grew the bees!
+Rädda världen genom att stanna inomhus!
+Handla åt äldre!
+Träffa dina vänner över internet!
+Älskling, jag förstorade bina!
 Find your claw!
 Everybody do the Leif!
 <3 Max & 99 & Ducky!
@@ -398,12 +398,12 @@ Edit is a name!
 From free range developers!
 Music by Lena Raine!
 Aww man!
-#minecraftfarms
+#minecraftfarmer
 And my pickaxe!
 Envision! Create! Share!
 Fabulous graphics!
 Also try Minecraft Dungeons!
-Vanilla!
+Originalet!
 May contain traces of citrus!
 Zoglin!?
 Black lives matter!
@@ -416,12 +416,12 @@ Support the BIPOC community and creators!
 Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
-Home-made!
+Hemmagjort!
 There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
 Board game version also available!
 Honey, I waxed the copper!
-Plant-based light sources!
+Växtbaserade ljuskällor!
 Made by "real" people!
