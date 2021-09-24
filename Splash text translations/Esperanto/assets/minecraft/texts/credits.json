@@ -925,13 +925,13 @@
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Priservejo",
                 "names": [
                     "Adam Blänning"
                 ]
             },
             {
-                "title": "IT Manager",
+                "title": "IT-manaĝero",
                 "names": [
                     "Cesar Sima Falck",
                     "Jason Perry Minard"
@@ -951,19 +951,19 @@
                 ]
             },
             {
-                "title": "Operations Manager",
+                "title": "Operacia manaĝero",
                 "names": [
                     "Sheila Ho"
                 ]
             },
             {
-                "title": "Lead Automation Support",
+                "title": "Ĉefo de subteno de aŭtomatigo de la kancelariaj aferoj",
                 "names": [
                     "Matthew C. Moreno"
                 ]
             },
             {
-                "title": "Automation Support",
+                "title": "Subteno de aŭtomatigo de la kancelariaj aferoj",
                 "names": [
                     "Chris Ilson (Collabera)",
                     "Corey Smith (Insight Global, Inc)",
@@ -1401,13 +1401,13 @@
                 ]
             },
             {
-                "title": "Quality Manager",
+                "title": "Manaĝero de kvalito",
                 "names": [
                     "Rob Straavaldson"
                 ]
             },
             {
-                "title": "Quality Leads",
+                "title": "Manaĝerestroj de kvalito",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1418,7 +1418,7 @@
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Inĝinieroj de kvalito",
                 "names": [
                     "Fiona Belmont",
                     "Joe Whitman",
@@ -1426,20 +1426,20 @@
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Kvalitaj datumanalizoj k inĝinierado",
                 "names": [
                     "Chelsi Hohnbaum",
                     "Lisa Porter"
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Softvaraj inĝinieroj",
                 "names": [
                     "Jay Baxter"
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Analizistoj de kvalito",
                 "names": [
                     "Agata Marciniak",
                     "Aidan Bower",
@@ -1456,7 +1456,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Apartaj dankoj",
                 "names": [
                     "Alex Luschen – Executive Business Administrator",
                     "Allen Horton – Technology and Infrastructure",
@@ -1471,16 +1471,16 @@
         ]
     },
     {
-        "section": "Studios Quality Team - US Teams",
+        "section": "Teamo de studia kvalito - US Teams",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Testa manaĝero",
                 "names": [
                     "Tom Dieterich (Experis) - Test Manager, Tempe"
                 ]
             },
             {
-                "title": "Software Test Engineering Leads",
+                "title": "Ĉefoj de softvara testa inĝinierado",
                 "names": [
                     "Bob Green (Experis)",
                     "Chris Wilson (Experis)",
@@ -1488,7 +1488,7 @@
                 ]
             },
             {
-                "title": "Software Test Engineers",
+                "title": "Softvaraj testaj inĝinieroj",
                 "names": [
                     "Antoine Brown (Experis)",
                     "Benjamin Sousa (Experis)",
@@ -1507,7 +1507,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Testaj partneroj",
                 "names": [
                     "Chris Youngs (Experis)",
                     "Jared Arbaugh (Experis)",
@@ -1524,7 +1524,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Apartaj dankoj",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -1546,7 +1546,7 @@
         ]
     },
     {
-        "section": "Special Thanks",
+        "section": "Apartaj dankoj",
         "titles": [
             {
                 "title": "Albert Pastore - Director of Business Development, Music and Talent",
