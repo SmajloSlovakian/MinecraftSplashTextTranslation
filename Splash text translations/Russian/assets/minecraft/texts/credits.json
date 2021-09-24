@@ -817,13 +817,13 @@
                 ]
             },
             {
-                "title": "GFX Designer",
+                "title": "GFX Дизайнер",
                 "names": [
                     "Afshin “Affe” Piran"
                 ]
             },
             {
-                "title": "Artist",
+                "title": "Художник",
                 "names": [
                     "Morten Rasmussen"
                 ]
@@ -837,7 +837,7 @@
         ]
     },
     {
-        "section": "User Experience",
+        "section": "Опыт Пользователя",
         "titles": [
             {
                 "title": "User Experience Design Director",
@@ -865,7 +865,7 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Операции",
         "titles": [
             {
                 "title": "Franchise Chief Operations Officer",
@@ -1245,10 +1245,10 @@
         ]
     },
     {
-        "section": "Marketing",
+        "section": "Маркетинг",
         "titles": [
             {
-                "title": "Head of Marketing",
+                "title": "Глава Маркетинга",
                 "names": [
                     "Jessica Freeman"
                 ]
@@ -1367,7 +1367,7 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Финансы",
         "titles": [
             {
                 "title": "Director of Finance",
@@ -1524,7 +1524,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Отдельная Благодарность",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -2174,7 +2174,7 @@
                 ]
             },
             {
-                "title": "Launcher",
+                "title": "Лаунчер",
                 "names": [
                     "Anders Rosén",
                     "Carl Westin",
@@ -2338,7 +2338,7 @@
                 ]
             },
             {
-                "title": "Sound Designer",
+                "title": "Звукорежиссер",
                 "names": [
                     "Peter Hont",
                     "Shauny Jang (Insight Global, Inc)"
