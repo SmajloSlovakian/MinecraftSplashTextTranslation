@@ -17,7 +17,7 @@
 ¡Indev!
 ¡Arañas en todos lados!
 ¡Échale un vistazo!
-Holy cow, man!
+¡Increíble!
 ¡Es un juego!
 ¡Hecho en Suecia!
 ¡Usa LWJGL!
@@ -34,7 +34,7 @@ Reticulating splines!
 ¡Sobrevive!
 ¡Mazmorra!
 ¡Exclusivo!
-The bee's knees!
+¡Buenísimo!
 ¡Código privado!
 ¡Con clase!
 ¡Wow!
@@ -81,18 +81,18 @@ Play him off, keyboard cat!
 ¡Macroscópico!
 ¡Adelante!
 Random splash!
-Call your mother!
-Monster infighting!
-Loved by millions!
-Ultimate edition!
-Freaky!
-You've got a brand new key!
-Water proof!
-Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
-NP is not in P!
+¡Llama a tu madre!
+¡Lucha interna de monstruos!
+¡Amado por millones!
+¡Edición definitiva!
+¡Rarillo!
+¡Tienes una nueva llave!
+¡Resistente al agua!
+¡No inflamable!
+¡Vaya, tío!
+¡Todo incluido!
+¡Cuéntaselo a tus amigos!
+¡NP no está en P!
 ¡Música por C418!
 ¡Transmitido en vivo!
 ¡Embrujado!
@@ -103,14 +103,14 @@ NP is not in P!
 ¡Científico!
 ¡No tan chulo como Spock!
 ¡Colabora y escucha!
-Never dig down!
-Take frequent breaks!
-Not linear!
-Han shot first!
-Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
+¡No mines hacia abajo!
+¡Toma descansos a menudo!
+¡No lineal!
+¡Han disparó primero!
+¡Encantado de conocerte!
+¡Cubos de lava!
+¡Monta el cerdo!
+¡Más grande que la Tierra!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
@@ -206,7 +206,7 @@ Stay a while and listen!
 Treatment for your rash!
 "Autological" is!
 Information wants to be free!
-"Almost never" is an interesting concept!
+¡"Casi nunca" es un concepto interesante!
 Lots of truthiness!
 The creeper is a spy!
 Turing complete!
@@ -220,7 +220,7 @@ Undefeated!
 Kinda like Lemmings!
 Follow the train, CJ!
 Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
+¡Not a Number tradujo esto!
 DungeonQuest is unfair!
 90210!
 Check out the far lands!
