@@ -49,7 +49,7 @@ Förbättrat!
 90% fri från buggar!
 Snyggt!
 12 olika örter och kryddor!
-Inget fett!
+Fri från fett!
 Absolut inga memes!
 Gratis tandvård!
 Hör med din läkare!
@@ -120,18 +120,18 @@ Sockerhalt: 1 %!
 En synekdoke!
 Let's danec!
 Hemlig fredags-uppdatering!
-Reference implementation!
+Referensimplementering!
 Kiss the sky!
 20 GOTO 10!
-Verlet intregration!
+Verlet-integration!
 Peter Griffin!
-Do not distribute!
+Stör ej!
 Cogito ergo sum!
-4815162342 lines of code!
-A skeleton popped out!
-The sum of its parts!
-BTAF used to be good!
-I miss ADOM!
+4815162342 rader programkod!
+Och så dök det upp ett skelett!
+Helheten är större än summan av dess delar!
+Det fanns en tid då BTAF vara bra!
+Jag saknar ADOM!
 umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
