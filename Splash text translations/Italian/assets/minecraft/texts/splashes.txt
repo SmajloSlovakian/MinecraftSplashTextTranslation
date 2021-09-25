@@ -265,29 +265,29 @@ Déjà-vu!
 Déjà-vu!
 Ti ho preso il naso!
 Haley ama Elan!
-Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
+Ha paura del bel pipistrello!
+Non utilizza la parola con la U!
+Un gioco da ragazzi!
+Ci vediamo venerdì prossimo!
+Dalle strade di Södermalm!
+150 bpm per 400000 minuti!
 Tecnologico!
 Funk soul brother!
 Pumpa kungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
-Cześć Polsko!
+Cześć Polsko!
 你好中国！
 Привет Россия!
-Γεια σου Ελλάδα!
-My life for Aiur!
+Γεια σου Ελλάδα!
+La mia vita per Aiur!
 Lennart lennart = new Lennart();
 Vedo che il tuo vocabolario è migliorato!
 Chi l'ha messo lì?
 Non puoi spiegarlo!
-if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+if not stai_bene then return end
+§1P§2o§3l§4i§5c§6r§7o§8m§9o
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
