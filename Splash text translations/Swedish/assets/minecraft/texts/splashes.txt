@@ -85,7 +85,7 @@ Ring din mamma!
 Monster mot monster!
 Älskat av miljontals!
 Den ultimata utgåvan!
-Kusligt!
+Galet!
 You've got a brand new key!
 Vattentålig!
 Flamskyddad!
@@ -93,7 +93,7 @@ Hörru, polar'n!
 Allt ingår!
 Tipsa dina vänner!
 P är inte lika med NP!
-Musiken är komponerad av C418!
+Med musik komponerad av C418!
 Direktsänt!
 Hemsökt!
 Polynom!
@@ -150,7 +150,7 @@ Superopti-mopsiskt-topp-i-pang-fenomenaliskt!
 Consummate V's!
 Cow Tools!
 Dubbelbuffrad!
-Fan fiction!
+Fanfiktion!
 Flaxkikare!
 Jason! Jason! Jason!
 Hotter than the sun!
@@ -172,17 +172,17 @@ Stödjer nu åäö!
 Give us Gordon!
 Tip your waiter!
 Väldigt roligt!
-12345 is a bad password!
+Det är inte smart att använda 12345 som lösenord!
 Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
 Omnipotent!
-Gasp!
+Flämt!
 ...!
 Bees, bees, bees, bees!
 Jag känner en bot!
-This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Haha, LOL!
+Den här texten är svår att läsa om du spelar med standardupplösningen, men i 1080p går det bra!
+Haha, ASG!
 Hampsterdance!
 Menger sponge!
 idspispopd!
@@ -193,7 +193,7 @@ Try the Nether!
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
-Scary!
+Kusligt!
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
@@ -213,7 +213,7 @@ Turing complete!
 It's groundbreaking!
 Let our battle's begin!
 The sky is the limit!
-Jeb has amazing hair!
+Jeb har otroligt hår!
 Ryan also has amazing hair!
 Casual gaming!
 Undefeated!
@@ -269,9 +269,9 @@ Afraid of the big, black bat!
 Doesn't use the U-word!
 Child's play!
 See you next Friday or so!
-From the streets of Södermalm!
+Från Södermalm!
 150 bpm for 400000 minutes!
-Technologic!
+Tekniskt!
 Funk soul brother!
 Pumpa kungen!
 日本ハロー！
@@ -286,38 +286,38 @@ Lennart lennart = new Lennart();
 I see your vocabulary has improved!
 Who put it there?
 You can't explain that!
-if not ok then return end
+if not gött then return end
 §1F§2ä§3r§4g§5s§6t§7a§8r§9k
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
-Mmmph, mmph!
+Mmmff, mmmff!
 Don't feed avocados to parrots!
 Swords for everyone!
-Plz reply to my tweet!
+Snälla svara på min tweet!
 .party()!
 Take her pillow!
 Put that cookie down!
-Pretty scary!
+Ganska läskigt!
 I have a suggestion.
-Now with extra hugs!
-Now Java 16!
-Woah.
+Nu med extra många kramar!
+Nu med Java 16!
+Hörru.
 HURNERJSGER?
 What's up, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
-pls rt
-Do you want to join my server?
+Snälla retweeta!
+Vill du vara med på min server?
 Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
-Now with additional stuff!
+Nu med ännu fler grejer!
 Extra things!
-Yay, puppies for everyone!
+Hurra, valpar till alla!
 So sweet, like a nice bon bon!
 Very influential in its circle!
-Now With Multiplayer!
+Nu med ett flerspelarläge!
 Rise from your grave!
 Warning! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
@@ -345,7 +345,7 @@ Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
-Boats FTW
+Länge leve båtar!
 Javalicious edition
 Should not be played while driving
 You're going too fast!
@@ -356,15 +356,15 @@ Something's not quite right...
 Thank you for the fish!
 All rumors are true!
 Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
-Ahhhhhh!
+Regnbågssköldpadda?
+Någonting skojigt!
+Jag behöver mer bakgrundsinformation.
+Aaaaaaa!
 Don't worry, be happy!
-Water bottle!
+Vattenflaska!
 What's the question?
-Plant a tree!
-Go to the dentist!
+Plantera ett träd!
+Gå till tandläkaren!
 What do you expect?
 Look mum, I'm in a splash!
 It came from space.
@@ -373,7 +373,7 @@ Ph1lza had a good run!
 10 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
-Buzzy Bees!
+Flitiga bin!
 Minecraft Java Edition presents: Disgusting Bugs
 Tvätta händerna!
 Tvål och vatten!
@@ -396,7 +396,7 @@ Everybody do the Leif!
 Bushy eyebrows!
 Edit is a name!
 From free range developers!
-Music by Lena Raine!
+Med musik komponerad av Lena Raine!
 Aww man!
 #minecraftfarmer
 And my pickaxe!
@@ -407,15 +407,15 @@ Originalet!
 May contain traces of citrus!
 Zoglin!?
 Black lives matter!
-Be anti-racist!
+Var en antirasist!
 Learn about allyship!
-Speak OUT against injustice and UP for equality!
+Agera MOT orättvisor och kämpa FÖR jämlikhet!
 Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
-Stand up for equality in your community!
-[this splash text has been delayed until part 2]
-Contains simulated goats!
+Kämpa för jämlikhet i ditt område!
+[den här textremsan har blivit uppskjuten till del 2]
+Innehåller simulerade getter!
 Hemmagjort!
 There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
