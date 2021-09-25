@@ -1805,7 +1805,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Apartaj dankoj",
                 "names": [
                     "Dariusz Sokołowski (Lionbridge)",
                     "Evan Wright (Lionbridge)",
@@ -1819,23 +1819,23 @@
         ]
     },
     {
-        "section": "Quality - UK Team",
+        "section": "Kvalito - Teamo de Grand-Britio",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Testa manaĝero",
                 "names": [
                     "Richard H. Jones (Lionbridge)"
                 ]
             },
             {
-                "title": "Compliance Test Engineer",
+                "title": "Konformiĝa testa inĝiniero",
                 "names": [
                     "Lee-Roy Dunn (Lionbridge)",
                     "Nick Dorsett (Lionbridge)"
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datuma inĝinierado",
                 "names": [
                     "Patrick Fraioli"
                 ]
