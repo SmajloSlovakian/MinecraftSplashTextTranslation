@@ -153,7 +153,7 @@ Dubbelbuffrad!
 Fanfiktion!
 Flaxkikare!
 Jason! Jason! Jason!
-Hotter than the sun!
+Hetare än solen!
 Internet enabled!
 Autonomous!
 Engage!
@@ -167,16 +167,16 @@ Woo, tigsource!
 Woo, worldofminecraft!
 Woo, reddit!
 Woo, 2pp!
-Google anlyticsed!
+Analyserat med Google!
 Stödjer nu åäö!
 Give us Gordon!
 Tip your waiter!
 Väldigt roligt!
 Det är inte smart att använda 12345 som lösenord!
-Vote for net neutrality!
-Lives in a pineapple under the sea!
+Rösta för nätneutralitet!
+Bor i en ananas djupt i det blå!
 MAP11 has two names!
-Omnipotent!
+Allsmäktigt!
 Flämt!
 ...!
 Bees, bees, bees, bees!
@@ -225,18 +225,18 @@ DungeonQuest is unfair!
 90210!
 Check out the far lands!
 Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
+Rekommenderar även VVVVVV!
+Rekommenderar även Super Meat Boy!
+Rekommenderar även Terraria!
+Rekommenderar även Mount And Blade!
+Rekommenderar även Project Zomboid!
+Rekommenderar även World of Goo!
+Rekommenderar även Limbo!
+Rekommenderar även Pixeljunk Shooter!
+Rekommenderar även Braid!
+Det låter toppen!
 Bread is pain!
-Read more books!
+Läs fler böcker!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
@@ -245,11 +245,11 @@ Millions of peaches!
 Fnord!
 This is my true form!
 Don't bother with the clones!
-Pumpkinhead!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Feature packed!
+Pumpahjälm!
+Skapat av Jeb!
+Har ett slut!
+Äntligen färdigt!
+Fullpackat med innehåll!
 Boots with the fur!
 Stop, hammertime!
 Testificates!
@@ -299,13 +299,13 @@ Snälla svara på min tweet!
 Take her pillow!
 Put that cookie down!
 Ganska läskigt!
-I have a suggestion.
+Jag har ett förslag.
 Nu med extra många kramar!
 Nu med Java 16!
 Hörru.
 HURNERJSGER?
 What's up, Doc?
-Now contains 32 random daily cats!
+Innehåller nu dagligen 32 slumpmässigt utvalda katter!
 That's Numberwang!
 Snälla retweeta!
 Vill du vara med på min server?
