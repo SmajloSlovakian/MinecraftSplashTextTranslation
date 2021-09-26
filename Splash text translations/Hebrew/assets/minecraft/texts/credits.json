@@ -82,13 +82,13 @@
         "section": "תכנות",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "קצין טכנולוגיה ראשי",
                 "names": [
                     "Michael W Weilbacher"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "ראש הנדסת שירותים ותפעול",
                 "names": [
                     "Vince Curley"
                 ]
@@ -1524,7 +1524,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "תודה מיוחדת",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -1546,7 +1546,7 @@
         ]
     },
     {
-        "section": "Special Thanks",
+        "section": "תודה מיוחדת",
         "titles": [
             {
                 "title": "Albert Pastore - Director of Business Development, Music and Talent",
@@ -1969,20 +1969,20 @@
                 ]
             },
             {
-                "title": "Producer",
+                "title": "מפיק",
                 "names": [
                     "Allie Murdock"
                 ]
             },
             {
-                "title": "Lead Software Engineers",
+                "title": "מהנדסי תוכנה ראשיים",
                 "names": [
                     "Kyle Walsh",
                     "Nathan Carlson"
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "מהנדסי תוכנה",
                 "names": [
                     "Alan Nelson",
                     "Andre Tremblay",
