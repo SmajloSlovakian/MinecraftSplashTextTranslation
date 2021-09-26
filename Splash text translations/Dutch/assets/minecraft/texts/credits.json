@@ -837,22 +837,22 @@
         ]
     },
     {
-        "section": "User Experience",
+        "section": "Gebruikerservaring",
         "titles": [
             {
-                "title": "User Experience Design Director",
+                "title": "Gebruikerservaring Ontwerpdirecteur",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "User Experience Design Lead",
+                "title": "Gebruikerservaring Ontwerpleider",
                 "names": [
                     "Jonathan Paton Gallina"
                 ]
             },
             {
-                "title": "User Experience Designers",
+                "title": "Gebruikerservaring Ontwerpers",
                 "names": [
                     "Daniel Feldt",
                     "Jin Shin",
@@ -865,10 +865,10 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Handelingen",
         "titles": [
             {
-                "title": "Franchise Chief Operations Officer",
+                "title": "Franchise Hoofd Operaties Officier",
                 "names": [
                     "Annie Chenn"
                 ]
@@ -916,7 +916,7 @@
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Uitvoerende Bedrijfsadministrators",
                 "names": [
                     "Erin Decker",
                     "Judy Wheeler",
@@ -925,7 +925,7 @@
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Voorkant van het huis",
                 "names": [
                     "Adam Blänning"
                 ]
@@ -951,19 +951,19 @@
                 ]
             },
             {
-                "title": "Operations Manager",
+                "title": "Operationeel Manager",
                 "names": [
                     "Sheila Ho"
                 ]
             },
             {
-                "title": "Lead Automation Support",
+                "title": "Leiding Automatisering Ondersteuning",
                 "names": [
                     "Matthew C. Moreno"
                 ]
             },
             {
-                "title": "Automation Support",
+                "title": "Automatisering Ondersteuning",
                 "names": [
                     "Chris Ilson (Collabera)",
                     "Corey Smith (Insight Global, Inc)",
@@ -976,16 +976,16 @@
         ]
     },
     {
-        "section": "Data and Analytics",
+        "section": "Gegevens en Analyses",
         "titles": [
             {
-                "title": "Head of Data Science and Analytics",
+                "title": "Hoofd van Data Wetenschap en Analyses",
                 "names": [
                     "Francisco Rius"
                 ]
             },
             {
-                "title": "Data Science Lead",
+                "title": "Datawetenschap Leiding",
                 "names": [
                     "Abby Gaddis"
                 ]
