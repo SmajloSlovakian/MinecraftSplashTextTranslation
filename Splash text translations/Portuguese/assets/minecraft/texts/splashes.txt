@@ -1,10 +1,10 @@
 As seen on TV!
 Awesome!
-100% pure!
-May contain nuts!
-More polygons!
+100% puro!
+Pode conter frutos de casca rija!
+Mais polígonos!
 Moderately attractive!
-Limited edition!
+Edição limitada!
 Flashing letters!
 It's here!
 Best in class!
@@ -18,7 +18,7 @@ Indev!
 Spiders everywhere!
 Check it out!
 Holy cow, man!
-It's a game!
+É um jogo!
 Made in Sweden!
 Uses LWJGL!
 Reticulating splines!
@@ -27,7 +27,7 @@ Yaaay!
 Singleplayer!
 Keyboard compatible!
 Ingots!
-Exploding creepers!
+Creepers explosivos!
 That's no moon!
 l33t!
 Create!
@@ -37,11 +37,11 @@ Exclusive!
 The bee's knees!
 Closed source!
 Classy!
-Wow!
+Uau!
 Not on steam!
 Oh man!
 Awesome community!
-Pixels!
+Píxeis!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
@@ -55,19 +55,19 @@ Free dental!
 Ask your doctor!
 Minors welcome!
 Cloud computing!
-Legal in Finland!
+Legal na Finlândia!
 Hard to label!
 Technically good!
 Bringing home the bacon!
 Indie!
-GOTY!
+Jogo do Ano!
 Ceci n'est pas une title screen!
 Euclidian!
 Now in 3D!
 Inspirational!
 Herregud!
 Complex cellular automata!
-Yes, sir!
+Sim, senhor!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
@@ -95,12 +95,12 @@ Tell your friends!
 NP is not in P!
 Music by C418!
 Livestreamed!
-Haunted!
+Assombrado!
 Polynomial!
 Terrestrial!
 All is full of love!
-Full of stars!
-Scientific!
+Cheio de estrelas!
+Científico!
 Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
