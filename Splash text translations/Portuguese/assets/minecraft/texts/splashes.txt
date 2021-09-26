@@ -62,23 +62,23 @@ Bringing home the bacon!
 Indie!
 Jogo do Ano!
 Ceci n'est pas une title screen!
-Euclidian!
+Euclidiano!
 Now in 3D!
-Inspirational!
+Inspirador!
 Herregud!
 Complex cellular automata!
 Sim, senhor!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
-Try it!
+Experimenta!
 Age of Wonders is better!
-Try the mushroom stew!
-Sensational!
+Prova o estufado de cogumelos!
+Sensacional!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
 Guaranteed!
-Macroscopic!
+Macroscópico!
 Bring it on!
 Random splash!
 Call your mother!
@@ -87,19 +87,19 @@ Loved by millions!
 Ultimate edition!
 Freaky!
 You've got a brand new key!
-Water proof!
+À prova de água!
 Uninflammable!
 Whoa, dude!
 All inclusive!
 Tell your friends!
-NP is not in P!
+NP não está contido em P!
 Music by C418!
 Livestreamed!
 Assombrado!
 Polynomial!
 Terrestrial!
 All is full of love!
-Cheio de estrelas!
+Full of stars!
 Científico!
 Not as cool as Spock!
 Collaborate and listen!
@@ -136,10 +136,10 @@ umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
 Finger-licking!
-Thematic!
-Pneumatic!
+Temático!
+Pneumático!
 Sublime!
-Octagonal!
+Octogonal!
 Une baguette!
 Gargamel plays it!
 Rita is the new top dog!
@@ -157,7 +157,7 @@ Hotter than the sun!
 Internet enabled!
 Autonomous!
 Engage!
-Fantasy!
+Fantasia!
 DRR! DRR! DRR!
 Kick it root down!
 Regional resources!
