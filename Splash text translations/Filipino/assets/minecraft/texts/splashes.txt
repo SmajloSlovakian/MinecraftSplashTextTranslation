@@ -1,188 +1,188 @@
-Taki jak w telewizji!
-Wspaniały!
-100% czystości!
-Może zawierać orzechy!
-Więcej wielokątów!
-Umiarkowanie atrakcyjny!
-Edycja limitowana!
-Migocące literki!
-Już tu jest!
+As seen on TV!
+Awesome!
+100% pure!
+May contain nuts!
+More polygons!
+Moderately attractive!
+Limited edition!
+Flashing letters!
+It's here!
 Best in class!
-Ukończony!
-Prawie bez smoka!
-Ekscytacja!
-Ponad 500 sprzedanych egzemplarzy!
-Jedyny w swoim rodzaju!
+It's finished!
+Kind of dragon free!
+Excitement!
+More than 500 sold!
+One of a kind!
 Heaps of hits on YouTube!
 Indev!
-Wszędzie pająki!
-Sprawdź teraz!
-O ja cię, stary!
-To gra!
-Wyprodukowano w Szwecji!
-Używa LWJGL!
-Siatkowane krzywe składane!
+Spiders everywhere!
+Check it out!
+Holy cow, man!
+It's a game!
+Made in Sweden!
+Uses LWJGL!
+Reticulating splines!
 Minecraft!
-Hurraa!
-Gra jednoosobowa!
-Zgodność z klawiaturą!
-Sztabki!
-Wybuchające creepery!
-To nie księżyc!
+Yaaay!
+Singleplayer!
+Keyboard compatible!
+Ingots!
+Exploding creepers!
+That's no moon!
 l33t!
-Twórz!
-Przetrwaj!
-Lochy!
-Na wyłączność!
+Create!
+Survive!
+Dungeon!
+Exclusive!
 The bee's knees!
 Closed source!
-Z klasą!
-Łał!
+Classy!
+Wow!
 Not on steam!
-O ja cię!
-Niesamowita społeczność!
-Piksele!
+Oh man!
+Awesome community!
+Pixels!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Teraz ma poziomy trudności!
-Ulepszony!
-W 90% wolny od błędów!
-Piękny!
-12 ziół i przypraw!
-Bez tłuszczu!
-Żadnych memów!
+Now with difficulty!
+Enhanced!
+90% bug free!
+Pretty!
+12 herbs and spices!
+Fat free!
+Absolutely no memes!
 Free dental!
-Zapytaj swojego lekarza!
-Nieletni mile widziani!
-Obliczenia w chmurze!
-Legalny w Finlandii!
-Trudny do opisania!
-Formalnie dobry!
+Ask your doctor!
+Minors welcome!
+Cloud computing!
+Legal in Finland!
+Hard to label!
+Technically good!
 Bringing home the bacon!
 Indie!
-Gra roku!
-Ceci n'est pas une ekran tytułowy!
-Euklidejski!
-Teraz w 3D!
-Inspirujący!
+GOTY!
+Ceci n'est pas une title screen!
+Euclidian!
+Now in 3D!
+Inspirational!
 Herregud!
-Skomplikowane automaty komórkowe!
-Tak jest proszę pana!
-Grają weń kowboje!
-Teraz na profilu rdzenia OpenGL 3.2!
-Tysiące kolorów!
-Wypróbuj!
-Age of Wonders jest lepsza!
-Spróbuj zupy grzybowej!
-Rewelacyjny!
+Complex cellular automata!
+Yes, sir!
+Played by cowboys!
+Now on OpenGL 3.2 core profile!
+Thousands of colors!
+Try it!
+Age of Wonders is better!
+Try the mushroom stew!
+Sensational!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Gwarantowany!
-Makroskopijny!
-Do dzieła!
-Przypadkowa wiadomość powitalna!
-Zadzwoń do matki!
-Konflikt potworów!
-Uwielbiany przez miliony!
-Edycja ostateczna!
-Dziwaczny!
+Guaranteed!
+Macroscopic!
+Bring it on!
+Random splash!
+Call your mother!
+Monster infighting!
+Loved by millions!
+Ultimate edition!
+Freaky!
 You've got a brand new key!
-Wodoodporny!
-Trudnopalny!
-Hola, chłopie!
-All-inclusive!
-Poleć znajomym!
-NP nie jest w P!
-Muzyka autorstwa C418!
-Transmitowany!
-Nawiedzony!
-Wielomianowy!
-Ziemski!
-Wszystko przepełnia miłość!
-Rozgwieżdżony!
-Naukowy!
-Nie tak fajny jak Spock!
-Współpracuj i słuchaj!
-Nie kop prosto w dół!
-Rób częste przerwy!
-Nieliniowy!
-Han strzelił pierwszy!
-Miło Cię poznać!
-Wiadra pełne lawy!
-Dosiądź świni!
-Większy niż Ziemia!
+Water proof!
+Uninflammable!
+Whoa, dude!
+All inclusive!
+Tell your friends!
+NP is not in P!
+Music by C418!
+Livestreamed!
+Haunted!
+Polynomial!
+Terrestrial!
+All is full of love!
+Full of stars!
+Scientific!
+Not as cool as Spock!
+Collaborate and listen!
+Never dig down!
+Take frequent breaks!
+Not linear!
+Han shot first!
+Nice to meet you!
+Buckets of lava!
+Ride the pig!
+Larger than Earth!
 sqrt(-1) love you!
 Phobos anomaly!
-Uderzaj w drewno!
-Spadaj z klifów!
-1% cukru!
-150% przesadni!
-Synekdocha!
+Punching wood!
+Falling off cliffs!
+1% sugar!
+150% hyperbole!
+Synecdoche!
 Let's danec!
 Seecret Friday update!
-Z zaimplementowanymi nawiązaniami!
-Ucałuj niebo!
+Reference implementation!
+Kiss the sky!
 20 GOTO 10!
-Algotrytm Verleta!
+Verlet intregration!
 Peter Griffin!
-Nie rozpowszechniać!
-Myślę, więc jestem!
-4815162342 linii kodu!
-Wyskoczył szkielet!
-Suma jego części!
-BTAF kiedyś był dobry!
-Tęsknie za ADOM!
-nłop op èrǫ6!
+Do not distribute!
+Cogito ergo sum!
+4815162342 lines of code!
+A skeleton popped out!
+The sum of its parts!
+BTAF used to be good!
+I miss ADOM!
+umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
-Palce lizać!
-Tematyczny!
-Pneumatyczny!
-Wzniosły!
-Ośmiokątny!
+Finger-licking!
+Thematic!
+Pneumatic!
+Sublime!
+Octagonal!
 Une baguette!
-Gargamel w to gra!
-Rita jest nowym najlepszym psem!
-SWM górą!
-Reprezentuje Edsbyn!
+Gargamel plays it!
+Rita is the new top dog!
+SWM forever!
+Representing Edsbyn!
 Matt Damon!
-Superkalifradalistodekspialitycznie!
+Supercalifragilisticexpialidocious!
 Consummate V's!
-Krowie narzędzia!
-Podwójny bufor!
+Cow Tools!
+Double buffered!
 Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Gorętszy niż słońce!
-Z dostępem do Internetu!
-Autonomiczny!
-Aktywować!
+Hotter than the sun!
+Internet enabled!
+Autonomous!
+Engage!
 Fantasy!
 DRR! DRR! DRR!
 Kick it root down!
-Zasoby regionalne!
-Ło, facepunch!
-Ło, somethingawful!
-Ło, tigsource!
-Ło, worldofminecraft!
-Ło, reddit!
-Ło, 2pp!
+Regional resources!
+Woo, facepunch!
+Woo, somethingawful!
+Woo, tigsource!
+Woo, worldofminecraft!
+Woo, reddit!
+Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
 Give us Gordon!
 Tip your waiter!
 Very fun!
-12345 to złe hasło!
+12345 is a bad password!
 Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
 Omnipotent!
 Gasp!
-…!
-Pszczoły, pszczoły, pszczoły i pszczoły!
-Jag känner en bot!
+...!
+Bees, bees, bees, bees!
+Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Cha, cha!
+Haha, LOL!
 Hampsterdance!
 Menger sponge!
 idspispopd!
@@ -193,12 +193,12 @@ Try the Nether!
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
-Straszny!
+Scary!
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
 Joel is neat!
-Zagadka owinięta w tajemnicę!
+A riddle, wrapped in a mystery!
 This parrot is no more! It has ceased to be!
 Welcome to your Doom!
 Stay a while, stay forever!
@@ -208,32 +208,32 @@ Treatment for your rash!
 Information wants to be free!
 "Almost never" is an interesting concept!
 Lots of truthiness!
-Creeper to szpieg!
+The creeper is a spy!
 Turing complete!
 It's groundbreaking!
 Let our battle's begin!
 The sky is the limit!
-Jeb ma niesamowite włosy!
-Ryan też ma niesamowite włosy!
+Jeb has amazing hair!
+Ryan also has amazing hair!
 Casual gaming!
 Undefeated!
 Kinda like Lemmings!
 Follow the train, CJ!
 Leveraging synergy!
-Ta wiadomość nigdy nie ukaże się na ekranie powitalnym. To dziwne, nieprawdaż?
+This message will never appear on the splash screen, isn't that weird?
 DungeonQuest is unfair!
 90210!
 Check out the far lands!
 Tyrion would love it!
-Zagraj również w VVVVVV!
-Zagraj również w Super Meat Boy!
-Zagraj również w Terrarię!
-Zagraj również w Mount And Blade!
-Zagraj również w Project Zomboid!
-Zagraj również w World of Goo!
-Zagraj również w Limbo!
-Zagraj również w Pixeljunk Shooter!
-Zagraj również w Braid!
+Also try VVVVVV!
+Also try Super Meat Boy!
+Also try Terraria!
+Also try Mount And Blade!
+Also try Project Zomboid!
+Also try World of Goo!
+Also try Limbo!
+Also try Pixeljunk Shooter!
+Also try Braid!
 That's super!
 Bread is pain!
 Read more books!
@@ -241,9 +241,9 @@ Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
 Bigger than a bread box!
-Miliony brzoskwiń!
+Millions of peaches!
 Fnord!
-Oto moja prawdziwa postać!
+This is my true form!
 Don't bother with the clones!
 Pumpkinhead!
 Made by Jeb!
@@ -261,8 +261,8 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
+Déjà vu!
+Déjà vu!
 Got your nose!
 Haley loves Elan!
 Afraid of the big, black bat!
@@ -270,22 +270,22 @@ Doesn't use the U-word!
 Child's play!
 See you next Friday or so!
 From the streets of Södermalm!
-150 bpm przez 400000 minut!
+150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
 Pumpa kungen!
 日本ハロー！
-한국 안녕하세요!
+한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
 Привет Россия!
-Γεια σου Ελλάδα!
+Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
 Who put it there?
-To niewytłumaczalne!
+You can't explain that!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
@@ -298,7 +298,7 @@ Plz reply to my tweet!
 .party()!
 Take her pillow!
 Put that cookie down!
-Całkiem straszny!
+Pretty scary!
 I have a suggestion.
 Now with extra hugs!
 Now Java 16!
@@ -319,7 +319,7 @@ So sweet, like a nice bon bon!
 Very influential in its circle!
 Now With Multiplayer!
 Rise from your grave!
-Uwaga! Ogromny statek bojowy "STEVE" nadciąga z dużą prędkością!
+Warning! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
 Run, coward! I hunger!
 Flavor with no seasoning!
@@ -331,8 +331,8 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a przytulas 64
-To się nada na Realms.
+/give @a hugs 64
+This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
@@ -344,39 +344,39 @@ There's no stopping the Trollmaso
 Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
-Całkowicie naprawiono względnie zepsute współrzędne
+Absolutely fixed relatively broken coordinates
 Boats FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
 Don't feed chocolate to parrots!
 The true meaning of covfefe
-Iluzja! What are you hiding?
+An illusion! What are you hiding?
 Something's not quite right...
 Thank you for the fish!
-Wszystkie plotki są prawdziwe!
+All rumors are true!
 Truly gone fishing!
 Rainbow turtle?
-Coś śmiesznego!
+Something funny!
 I need more context.
-Aaaaaaa!
+Ahhhhhh!
 Don't worry, be happy!
-Butelka wody!
+Water bottle!
 What's the question?
-Zasadź drzewo!
-Udaj się do dentysty!
-Czego się spodziewasz?
-Spójrz, mamo, jestem wiadomością powitalną!
-Przybył z kosmosu.
+Plant a tree!
+Go to the dentist!
+What do you expect?
+Look mum, I'm in a splash!
+It came from space.
 Awesome game design right there!
-Ph1lzie nieźle poszło!
-Dziesięć lat kopania i wytwarzania!
+Ph1lza had a good run!
+10 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
-Brzęczące pszczoły!
+Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
-Myj ręce!
-Mydło i woda!
+Wash your hands!
+Soap and water!
 Support local businesses!
 Stay home and play games!
 Stay safe!
@@ -393,16 +393,16 @@ Honey, I grew the bees!
 Find your claw!
 Everybody do the Leif!
 <3 Max & 99 & Ducky!
-Krzaczaste brwi!
+Bushy eyebrows!
 Edit is a name!
 From free range developers!
 Music by Lena Raine!
 Aww man!
 #minecraftfarms
-I mój kilof!
+And my pickaxe!
 Envision! Create! Share!
 Fabulous graphics!
-Zagraj również w Minecraft Dungeons!
+Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
@@ -416,12 +416,12 @@ Support the BIPOC community and creators!
 Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
-Domowej roboty!
-Mam <<kota ,na klawiaturze!~
+Home-made!
+There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
 Board game version also available!
-Kochanie, nawoskowałem miedź!
+Honey, I waxed the copper!
 Plant-based light sources!
-Stworzony przez „prawdziwych” ludzi!
+Made by "real" people!

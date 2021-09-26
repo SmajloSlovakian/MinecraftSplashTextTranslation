@@ -9,7 +9,7 @@
                 ]
             },
             {
-                "title": "Amministratore delegato",
+                "title": "Chief Executive Officer",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "title": "Sviluppatori principali del gioco",
+                "title": "Lead Game Developers",
                 "names": [
                     "Gary McLaughlin",
                     "James S Yarrow",
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Sviluppatori del gioco",
+                "title": "Game Developers",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
@@ -164,14 +164,14 @@
                 ]
             },
             {
-                "title": "Sviluppatori principali dell'interfaccia utente",
+                "title": "Lead UI Developers",
                 "names": [
                     "Oleg Kozitsyn",
                     "Paulo Ragonha"
                 ]
             },
             {
-                "title": "Sviluppatori dell'interfaccia utente",
+                "title": "UI Developers",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Sviluppatori del launcher",
+                "title": "Launcher Developers",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Musica composta da",
+                "title": "Music composed by",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -394,7 +394,7 @@
         "section": "Visual Arts",
         "titles": [
             {
-                "title": "Direttore artistico",
+                "title": "Art Director",
                 "names": [
                     "Andy Zibits"
                 ]
@@ -784,7 +784,7 @@
                 ]
             },
             {
-                "title": "Direttori artistici",
+                "title": "Art Directors",
                 "names": [
                     "Johan Aronsson",
                     "Ninni Landin",
@@ -892,7 +892,7 @@
                 ]
             },
             {
-                "title": "Risorse umane",
+                "title": "Human Resources",
                 "names": [
                     "Aleksandra Zajac",
                     "David Hill",
@@ -2157,7 +2157,7 @@
                 ]
             },
             {
-                "title": "Sviluppatori dell'interfaccia utente",
+                "title": "UI Developers",
                 "names": [
                     "Dario Vodopivec",
                     "Emelie Sidesiö",
@@ -2303,7 +2303,7 @@
                 ]
             },
             {
-                "title": "Artisti",
+                "title": "Artists",
                 "names": [
                     "Amanda Cook (Harvey Nash)",
                     "Bart Kaufman (Randstad)",
@@ -2317,7 +2317,7 @@
                 ]
             },
             {
-                "title": "Artisti grafici",
+                "title": "Graphic Artists",
                 "names": [
                     "Jerica Harada (TEKsystems, Inc)",
                     "Kristoffer Zetterstrand",
@@ -2325,7 +2325,7 @@
                 ]
             },
             {
-                "title": "Grafiche aggiuntive",
+                "title": "Additional Graphics",
                 "names": [
                     "Jonatan Pöljö",
                     "Mariana Graham Ramirez"
@@ -2351,7 +2351,7 @@
                 ]
             },
             {
-                "title": "Produttori",
+                "title": "Producers",
                 "names": [
                     "Alen Voljevica",
                     "Anthony Hanses (Insight Global, Inc)",

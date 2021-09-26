@@ -78,7 +78,7 @@
 
 §3El jugador eras tú, PLAYERNAME.
 
-§2A veces se creía humano, en la delgada corteza de un globo flotante de roca fundida. La bola de roca fundida rodeaba una bola de gas ardiente que era trescientas treinta veces mas masiva que ella. Estaban tan lejos que la luz tardaba ocho minutos en cubrir el terreno. La luz era información de una estrella, y podía quemar tu piel a ciento cincuenta milliones de kilometros de distancia.
+§2A veces se creía humano, en la delgada corteza de un globo flotante de roca fundida. La bola de roca fundida rodeaba una bola de gas ardiente que era trescientas treinta veces mas masiva que ella. Estaban tan lejos que la luz tardaba ocho minutos en cubrir el terreno. La luz era información de una estrella, y podía quemar tu piel a ciento cincuenta millones de kilómetros de distancia.
 
 §2A veces el jugador soñaba que era un minero, en la superficie de un mundo que era plano, e infinito. El sol era un cuadrado blanco. Los días eran cortos; había mucho que hacer; y la muerte era un inconveniente temporal.
 
@@ -98,7 +98,7 @@
 
 §3Tú eres el jugador. La historia. El programa. El humano. Hecho de nada más que leche y amor.
 
-§2Volvamos más atras.
+§2Volvamos más atrás.
 
 §2Los siete billones de billones de billones de átomos del cuerpo del jugador fueron creados, mucho antes que este juego, en el corazón de una estrella. Así que el jugador es, también, información de una estrella. Y el jugador se mueve a través de una historia, que es un bosque de información plantado por un hombre llamado Julian, en un mundo infinito, y plano, creado por un hombre llamado Markus, que existe en un mundo privado creado por el jugador, quien habita un universo creado por...
 
@@ -110,13 +110,13 @@
 
 §3Tú eres el jugador, leyendo palabras...
 
-§2Shush... A veces el jugador leía líneas de código en una pantalla. Las decodificaba en palabras; decodificadas en un significado; decodificaba un significado en emociones, sentimientos, teorías, ideas, y el jugador comnezaba a respirar más rápida y profundamente y a darse cuenta de que estaba vivo, estaba vivo, esas miles de muertes no habían sido reales, el jugador estaba vivo
+§2Shush... A veces el jugador leía líneas de código en una pantalla. Las decodificaba en palabras; decodificadas en un significado; decodificaba un significado en emociones, sentimientos, teorías, ideas, y el jugador comenzaba a respirar más rápida y profundamente y a darse cuenta de que estaba vivo, estaba vivo, esas miles de muertes no habían sido reales, el jugador estaba vivo
 
 §3Tú. Tú. Tú estás vivo.
 
 §2y a veces el jugador creía que el universo había hablado con él a través de la luz que atravesaba las hojas de los árboles de verano
 
-§3y a veces el jugador creía que el universo había hablado con él a traves de la luz que caía de las noches de invierno, donde una mota de luz en la esquina de su ojo podría ser una estrella millones de veces mas masiva que el sol, quemando sus planetas hasta hacerlos plasma para ser visible durante un momento para el jugador, andando a casa al otro lado del universo, oliendo comida de repente, casi en la familiar puerta, a punto de soñar de nuevo
+§3y a veces el jugador creía que el universo había hablado con él a través de la luz que caía de las noches de invierno, donde una mota de luz en la esquina de su ojo podría ser una estrella millones de veces mas masiva que el sol, quemando sus planetas hasta hacerlos plasma para ser visible durante un momento para el jugador, andando a casa al otro lado del universo, oliendo comida de repente, casi en la familiar puerta, a punto de soñar de nuevo
 
 §2y a veces el jugador creía que el universo le había hablado a través de los ceros y unos, a través de la electricidad del mundo, a través de las palabras en la pantalla al final de un sueño
 
@@ -140,7 +140,7 @@
 
 §2y el universo dijo que no estás separado de toda otra cosa
 
-§3y el universo dijo que tú eres el universo probándose a si mismo, hablandose a si mismo, leyendo su propio código
+§3y el universo dijo que tú eres el universo probándose a si mismo, hablándose a si mismo, leyendo su propio código
 
 §2y el universo dijo te quiero porque eres amor.
 

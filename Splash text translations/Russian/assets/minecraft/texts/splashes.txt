@@ -21,7 +21,7 @@ Indev!
 Это игра!
 Сделано в Швеции!
 Используется LWJGL!
-Reticulating splines!
+Формируй разделяющую гиперплоскость!
 Minecraft!
 Урааа!
 Одиночная игра!
@@ -34,7 +34,7 @@ Minecraft!
 Выживай!
 Подземелье!
 Эксклюзивный!
-The bee's knees!
+Пчелиные колени!
 Закрытый код!
 Классный!
 Ого!
@@ -51,7 +51,7 @@ The bee's knees!
 12 трав и специй!
 Обезжиренное!
 Абсолютно без мемов!
-Free dental!
+Бесплатные зубы!
 Необходима консультация специалиста!
 Добро пожаловать, детишки!
 Облачные вычисления!
@@ -68,14 +68,14 @@ Ceci n'est pas une title screen!
 Herregud!
 Комплексный клеточный автомат!
 Да, сэр!
-Играй за ковбоев!
+Одобрено ковбоями!
 Теперь на профиле ядра OpenGL 3.2!
 Тысячи цветов!
 Попробуй!
 Age of Wonders лучше!
 Попробуй тушёные грибы!
 Сенсационный!
-Hot tamale, hot hot tamale!
+Горячее тамале, очень горячее тамале!
 Play him off, keyboard cat!
 Гарантированный!
 Макроскопический!
@@ -88,8 +88,8 @@ Monster infighting!
 Freaky!
 You've got a brand new key!
 Водонепроницаемый!
-Uninflammable!
-Whoa, dude!
+Не легковоспламеняющийся!
+Воу, чел!
 Всё включено!
 Расскажи своим друзьям!
 NP is not in P!
@@ -105,41 +105,41 @@ Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
 Часто делайте перерывы!
-Not linear!
-Han shot first!
+Нелинейная!
+Хан выстрелил первым!
 Приятно познакомиться!
 Ведра лавы!
 Оседлай свинью!
 Больше, чем Земля!
-sqrt(-1) любит тебя!
+x^0=1 люблю тебя!
 Phobos anomaly!
-Punching wood!
-Falling off cliffs!
+Избивание дерева!
+Падение со скал!
 1% сахара!
 150% hyperbole!
 Synecdoche!
-Let's danec!
+Давай танцеавть!
 Обновление Сеекретная Пятница!
 Reference implementation!
 Поцелуй небо!
 20 GOTO 10!
-Verlet intregration!
+Метод Верле!
 Питер Гриффин!
-Do not distribute!
+Не распростроняйте!
 Cogito ergo sum!
 4815162342 строк кода!
-A skeleton popped out!
-The sum of its parts!
-BTAF used to be good!
+Скелет выскочил!
+Сумма всех частей!
+Раньше БЗЦ был лучше!
 Я пропустил ADOM!
 иwɐɹон хdǝʚ!
 OICU812!
-Bring me Ray Cokes!
-Finger-licking!
-Thematic!
-Pneumatic!
-Sublime!
-Octagonal!
+Принеси мне Рэя Коукса!
+Пальчико-облизательно!
+Тематический!
+Пневматический!
+Возвышенный!
+Восьмиугольное!
 Une baguette!
 Gargamel plays it!
 Rita is the new top dog!
@@ -173,7 +173,7 @@ Google anlyticsed!
 Давайте чаевые вашим официантам!
 Очень весело!
 12345 — плохой пароль!
-Голосуйте за сетевое нейтралитет!
+Голосуй за сетевой нейтралитет!
 Проживает на дне океана в ананасе!
 MAP11 имеет два названия!
 Всемогущий!
@@ -270,7 +270,7 @@ Doesn't use the U-word!
 Child's play!
 See you next Friday or so!
 From the streets of Södermalm!
-150 bpm for 400000 minutes!
+150 bpm за 400000 минут!
 Technologic!
 Funk soul brother!
 Pumpa kungen!
@@ -284,7 +284,7 @@ Cześć Polsko!
 My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
-Who put it there?
+Откуда это взялось?
 You can't explain that!
 if not ok then return end
 §4Р§6а§eд§2у§9г§1а§5!
@@ -296,7 +296,7 @@ Don't feed avocados to parrots!
 Swords for everyone!
 Plz reply to my tweet!
 .party()!
-Take her pillow!
+Возьмите её подушку!
 Put that cookie down!
 Pretty scary!
 У меня есть предложение.
@@ -317,7 +317,7 @@ Extra things!
 Yay, puppies for everyone!
 So sweet, like a nice bon bon!
 Very influential in its circle!
-Now With Multiplayer!
+Теперь с Мультиплеером!
 Rise from your grave!
 Осторожно! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
@@ -339,7 +339,7 @@ Stop being reasonable, this is the Internet!
 GNU Terry Pratchett
 More Digital!
 doot doot
-Falling with style!
+Падение со стилем!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
 Правило #1: Это не моя вина
@@ -368,7 +368,7 @@ Truly gone fishing!
 А чего ты ожидал?
 Посмотри, мам, Я в сплеше!
 Оно пришло из космоса.
-Awesome game design right there!
+Потрясающий дизайн игры прямо здесь!
 У Ph1lza был хороший пробег!
 10 лет Копания и Крафта!
 Упомянуй человека!
@@ -400,7 +400,7 @@ From free range developers!
 Оуууу мэн!
 #minecraftфермы
 И моя кирка!
-Envision! Create! Share!
+Envision! Create! Распространяйте!
 Невероятная графика!
 Также попробуйте Minecraft Dungeons!
 Ванилла!
