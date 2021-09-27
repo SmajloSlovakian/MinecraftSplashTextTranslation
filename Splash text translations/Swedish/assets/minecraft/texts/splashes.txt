@@ -362,15 +362,15 @@ Jag behöver mer bakgrundsinformation.
 Aaaaaaa!
 Don't worry, be happy!
 Vattenflaska!
-What's the question?
+Vad var frågan nu igen?
 Plantera ett träd!
 Gå till tandläkaren!
-What do you expect?
-Look mum, I'm in a splash!
+Vad förväntade du dig?
+Titta mamma, jag är en textremsa!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+Tio år av byggande och grävande!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Flitiga bin!
@@ -385,26 +385,26 @@ Nys i armvecket!
 Ta inte på ditt ansikte!
 Hjälp dina nära och kära!
 Var redo, men hamstra inte!
-Gamers unite – separately in your own homes!
+Spelare samlas, men separerade i sina hem!
 Rädda världen genom att stanna inomhus!
 Handla åt äldre!
 Träffa dina vänner över internet!
 Älskling, jag förstorade bina!
-Find your claw!
+Hitta ditt grepp!
 Everybody do the Leif!
 <3 Max & 99 & Ducky!
 Bushy eyebrows!
 Edit is a name!
-From free range developers!
+Från frigående utvecklare!
 Med musik komponerad av Lena Raine!
 Aww man!
 #minecraftfarmer
 And my pickaxe!
 Envision! Create! Share!
-Fabulous graphics!
+Grafiken är helt fabulös!
 Rekommenderar även Minecraft Dungeons!
 Originalet!
-May contain traces of citrus!
+Kan innehålla spår av citrusfrukt!
 Zoglin!?
 Black lives matter!
 Var en antirasist!
@@ -417,11 +417,11 @@ Kämpa för jämlikhet i ditt område!
 [den här textremsan har blivit uppskjuten till del 2]
 Innehåller simulerade getter!
 Hemmagjort!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
+Det står <<en katt på ,mitt tangentbord!~
+Det gulligaste rovdjuret du någonsin kommer se!
 Now you are thinking with pistons!
 Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
+Finns även som bordsspel!
+Älskling, jag vaxade in kopparn!
 Växtbaserade ljuskällor!
-Made by "real" people!
+Skapat av "riktiga" människor!
