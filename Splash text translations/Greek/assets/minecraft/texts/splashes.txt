@@ -136,28 +136,28 @@ umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
 Finger-licking!
-Thematic!
-Pneumatic!
-Sublime!
-Octagonal!
+Θεματικό!
+Πνευματικό!
+Πανέμορφο!
+Οκταγωνικό!
 Une baguette!
-Gargamel plays it!
-Rita is the new top dog!
-SWM forever!
-Representing Edsbyn!
+Το παίζει ο Δρακουμέλ!
+Η Ρίτα είναι το νέο κορυφαίο σκυλί!
+SWM για πάντα!
+Εκπροσωπώντας το Edsbyn!
 Matt Damon!
 Supercalifragilisticexpialidocious!
 Consummate V's!
-Cow Tools!
+Εργαλεία Αγελάδας!
 Double buffered!
 Fan fiction!
 Flaxkikare!
-Jason! Jason! Jason!
-Hotter than the sun!
-Internet enabled!
-Autonomous!
+Τζέισον! Τζέισον! Τζέισον!
+Πιο καυτό κι από τον ήλιο!
+Το Ίντερνετ είναι ενεργοποιημένο!
+Αυτόνομο!
 Engage!
-Fantasy!
+Φαντασία!
 DRR! DRR! DRR!
 Kick it root down!
 Regional resources!
@@ -168,21 +168,21 @@ Woo, worldofminecraft!
 Woo, reddit!
 Woo, 2pp!
 Google anlyticsed!
-Now supports åäö!
-Give us Gordon!
-Tip your waiter!
-Very fun!
-12345 is a bad password!
-Vote for net neutrality!
-Lives in a pineapple under the sea!
-MAP11 has two names!
+Τώρα υποστηρίζει τα åäö!
+Δώσε μας Gordon!
+Δώστε φιλοδώρημα στον σερβιτόρο σας!
+Πολύ διασκεδαστικό!
+Το 12345 είναι κακός κωδικός!
+Ψηφίστε για ουδετερότητα στο δίκτυο!
+Ποιος ζει στη θάλασσα σε ανανά;
+Το MAP11 έχει δύο ονόματα!
 Omnipotent!
 Gasp!
 ...!
-Bees, bees, bees, bees!
+Μέλισσες, μέλισσες, μέλισσες, μέλισσες!
 Jag känner en bot!
-This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Haha, LOL!
+Αυτό το κείμενο είναι δύσκολο να διαβαστεί αν παίζετε το παιχνίδι στην προεπιλεγμένη ανάλυση, αλλά σε 1080p είναι μια χαρά!
+Χαχα, LOL!
 Hampsterdance!
 Menger sponge!
 idspispopd!
@@ -225,26 +225,26 @@ DungeonQuest is unfair!
 90210!
 Check out the far lands!
 Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
+Δοκιμάστε επίσης το VVVVVVVV!
+Δοκιμάστε επίσης το Super Meat Boy!
+Δοκιμάστε επίσης το Terraria!
+Δοκιμάστε επίσης το Mount and Blade!
+Δοκιμάστε επίσης το Project Zomboid!
+Δοκιμάστε επίσης το World of Goo!
+Δοκιμάστε επίσης το Limbo!
+Δοκιμάστε επίσης το Pixeljunk Shooter!
+Δοκιμάστε επίσης το Braid!
+Αυτό είναι σούπερ!
+Το ψωμί είναι πόνος!
+Διαβάστε περισσότερα βιβλία!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
-More addictive than lemonade!
+Πιο εθιστικό απ' τη λεμονάδα!
 Bigger than a bread box!
-Millions of peaches!
+Εκατομμύρια ροδάκινα!
 Fnord!
-This is my true form!
-Don't bother with the clones!
+Αυτή είναι η πραγματική μου μορφή!
+Μην ασχοληθείτε με τους κλώνους!
 Pumpkinhead!
 Made by Jeb!
 Has an ending!
@@ -337,15 +337,15 @@ Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
 GNU Terry Pratchett
-More Digital!
-doot doot
-Falling with style!
+Περισσότερο Ψηφιακό!
+ντουτ ντουτ
+Πέφτοντας με στυλ!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
-Boats FTW
+Βάρκες FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!

@@ -1,33 +1,33 @@
-As seen on TV!
-Awesome!
-100% puro!
-Pode conter frutos de casca rija!
-Mais polígonos!
-Moderately attractive!
-Edição limitada!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
+টিভিতে যেমন দেখা গেছে!
+দারুণ!
+১০০% বিশুদ্ধ!
+বাদাম থাকতে পারে!
+আরও বহুভুজ!
+মাঝারি আকর্ষণীয়!
+সীমিত সংস্করণ!
+ঝলকানি অক্ষর!
+এটা এখানে!
+ক্লাসে সেরা!
+এটা শেষ হয়ে গেছে!
+এক ধরনের ড্রাগন মুক্ত!
+উত্তেজনা!
+৫০০ টিরও বেশি বিক্রি হয়েছে!
+এক ধরনের!
 Heaps of hits on YouTube!
-Indev!
-Spiders everywhere!
-Check it out!
+ইনডেভ!
+সব জায়গায় মাকড়সা!
+দেখে আসুন!
 Holy cow, man!
-É um jogo!
-Made in Sweden!
-Uses LWJGL!
+এটা একটা খেলা!
+সুইডেন এ বানানো!
+LWJGL ব্যবহার করে!
 Reticulating splines!
-Minecraft!
-Yaaay!
+মাইনক্রাফট!
+ইয়েয়য়!
 Singleplayer!
 Keyboard compatible!
 Ingots!
-Creepers explosivos!
+Exploding creepers!
 That's no moon!
 l33t!
 Create!
@@ -37,11 +37,11 @@ Exclusive!
 The bee's knees!
 Closed source!
 Classy!
-Uau!
+Wow!
 Not on steam!
 Oh man!
 Awesome community!
-Píxeis!
+Pixels!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
@@ -55,30 +55,30 @@ Free dental!
 Ask your doctor!
 Minors welcome!
 Cloud computing!
-Legal na Finlândia!
+Legal in Finland!
 Hard to label!
 Technically good!
 Bringing home the bacon!
 Indie!
-Jogo do Ano!
+GOTY!
 Ceci n'est pas une title screen!
-Euclidiano!
+Euclidian!
 Now in 3D!
-Inspirador!
+Inspirational!
 Herregud!
 Complex cellular automata!
-Sim, senhor!
+Yes, sir!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
-Experimenta!
+Try it!
 Age of Wonders is better!
-Prova o estufado de cogumelos!
-Sensacional!
+Try the mushroom stew!
+Sensational!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
 Guaranteed!
-Macroscópico!
+Macroscopic!
 Bring it on!
 Random splash!
 Call your mother!
@@ -87,20 +87,20 @@ Loved by millions!
 Ultimate edition!
 Freaky!
 You've got a brand new key!
-À prova de água!
+Water proof!
 Uninflammable!
 Whoa, dude!
 All inclusive!
 Tell your friends!
-NP não está contido em P!
+NP is not in P!
 Music by C418!
 Livestreamed!
-Assombrado!
+Haunted!
 Polynomial!
 Terrestrial!
 All is full of love!
 Full of stars!
-Científico!
+Scientific!
 Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
@@ -136,10 +136,10 @@ umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
 Finger-licking!
-Temático!
-Pneumático!
+Thematic!
+Pneumatic!
 Sublime!
-Octogonal!
+Octagonal!
 Une baguette!
 Gargamel plays it!
 Rita is the new top dog!
@@ -157,7 +157,7 @@ Hotter than the sun!
 Internet enabled!
 Autonomous!
 Engage!
-Fantasia!
+Fantasy!
 DRR! DRR! DRR!
 Kick it root down!
 Regional resources!

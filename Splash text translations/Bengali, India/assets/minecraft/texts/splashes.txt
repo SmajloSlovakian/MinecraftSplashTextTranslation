@@ -1,10 +1,10 @@
 As seen on TV!
 Awesome!
-100% puro!
-Pode conter frutos de casca rija!
-Mais polígonos!
+100% pure!
+May contain nuts!
+More polygons!
 Moderately attractive!
-Edição limitada!
+Limited edition!
 Flashing letters!
 It's here!
 Best in class!
@@ -18,7 +18,7 @@ Indev!
 Spiders everywhere!
 Check it out!
 Holy cow, man!
-É um jogo!
+It's a game!
 Made in Sweden!
 Uses LWJGL!
 Reticulating splines!
@@ -27,7 +27,7 @@ Yaaay!
 Singleplayer!
 Keyboard compatible!
 Ingots!
-Creepers explosivos!
+Exploding creepers!
 That's no moon!
 l33t!
 Create!
@@ -37,11 +37,11 @@ Exclusive!
 The bee's knees!
 Closed source!
 Classy!
-Uau!
+Wow!
 Not on steam!
 Oh man!
 Awesome community!
-Píxeis!
+Pixels!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
@@ -55,30 +55,30 @@ Free dental!
 Ask your doctor!
 Minors welcome!
 Cloud computing!
-Legal na Finlândia!
+Legal in Finland!
 Hard to label!
 Technically good!
 Bringing home the bacon!
 Indie!
-Jogo do Ano!
+GOTY!
 Ceci n'est pas une title screen!
-Euclidiano!
+Euclidian!
 Now in 3D!
-Inspirador!
+Inspirational!
 Herregud!
 Complex cellular automata!
-Sim, senhor!
+Yes, sir!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
-Experimenta!
+Try it!
 Age of Wonders is better!
-Prova o estufado de cogumelos!
-Sensacional!
+Try the mushroom stew!
+Sensational!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
 Guaranteed!
-Macroscópico!
+Macroscopic!
 Bring it on!
 Random splash!
 Call your mother!
@@ -87,20 +87,20 @@ Loved by millions!
 Ultimate edition!
 Freaky!
 You've got a brand new key!
-À prova de água!
+Water proof!
 Uninflammable!
 Whoa, dude!
 All inclusive!
 Tell your friends!
-NP não está contido em P!
+NP is not in P!
 Music by C418!
 Livestreamed!
-Assombrado!
+Haunted!
 Polynomial!
 Terrestrial!
 All is full of love!
 Full of stars!
-Científico!
+Scientific!
 Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
@@ -136,10 +136,10 @@ umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
 Finger-licking!
-Temático!
-Pneumático!
+Thematic!
+Pneumatic!
 Sublime!
-Octogonal!
+Octagonal!
 Une baguette!
 Gargamel plays it!
 Rita is the new top dog!
@@ -157,7 +157,7 @@ Hotter than the sun!
 Internet enabled!
 Autonomous!
 Engage!
-Fantasia!
+Fantasy!
 DRR! DRR! DRR!
 Kick it root down!
 Regional resources!

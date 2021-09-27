@@ -76,23 +76,23 @@ Age of Wonders лучше!
 Попробуй тушёные грибы!
 Сенсационный!
 Горячее тамале, очень горячее тамале!
-Play him off, keyboard cat!
+Играй, кот-пианист!
 Гарантированный!
 Макроскопический!
-Bring it on!
+Давай!
 Случайный сплэш!
 Позови свою маму!
-Monster infighting!
+Битва монстров!
 Любим миллионами!
 Полное издание!
-Freaky!
+Причудливый!
 You've got a brand new key!
 Водонепроницаемый!
 Не легковоспламеняющийся!
 Воу, чел!
 Всё включено!
 Расскажи своим друзьям!
-NP is not in P!
+NP не P!
 Музыка от C418!
 Livestreamed!
 Haunted!
@@ -102,8 +102,8 @@ All is full of love!
 Full of stars!
 Scientific!
 Not as cool as Spock!
-Collaborate and listen!
-Never dig down!
+Сотрудничай и слушай!
+Никогда не копай под себя!
 Часто делайте перерывы!
 Нелинейная!
 Хан выстрелил первым!
@@ -116,7 +116,7 @@ Phobos anomaly!
 Избивание дерева!
 Падение со скал!
 1% сахара!
-150% hyperbole!
+150% преувеличения!
 Synecdoche!
 Давай танцеавть!
 Обновление Сеекретная Пятница!
@@ -141,7 +141,7 @@ OICU812!
 Возвышенный!
 Восьмиугольное!
 Une baguette!
-Gargamel plays it!
+Гаргамель играет здесь!
 Rita is the new top dog!
 SWM forever!
 Representing Edsbyn!
@@ -150,18 +150,18 @@ Supercalifragilisticexpialidocious!
 Consummate V's!
 Cow Tools!
 Double buffered!
-Fan fiction!
+Фанфик!
 Flaxkikare!
 Jason! Jason! Jason!
 Горячее солнца!
 Интернет включён!
 Берегите себя!
-Engage!
+Вовлекайся!
 Фантазия!
 DRR! DRR! DRR!
 Kick it root down!
 Региональный ресурс!
-Woo, facepunch!
+Вау, фейспанч!
 Woo, somethingawful!
 Woo, tigsource!
 Woo, worldofminecraft!
@@ -200,7 +200,7 @@ Twittered about!
 Joel is neat!
 Головоломка, завернутая в тайну!
 This parrot is no more! It has ceased to be!
-Welcome to your Doom!
+Добро пожаловать в свой Doom!
 Stay a while, stay forever!
 Stay a while and listen!
 Treatment for your rash!
@@ -208,7 +208,7 @@ Treatment for your rash!
 Information wants to be free!
 "Almost never" is an interesting concept!
 Lots of truthiness!
-The creeper is a spy!
+Крипер - шпион!
 Turing complete!
 It's groundbreaking!
 Let our battle's begin!
@@ -283,7 +283,7 @@ Cześć Polsko!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
+Я вижу твой словарь увеличился!
 Откуда это взялось?
 You can't explain that!
 if not ok then return end
@@ -307,7 +307,7 @@ HURNERJSGER?
 Как дела, Док?
 Now contains 32 random daily cats!
 That's Numberwang!
-pls rt
+пж ретвитни
 Do you want to join my server?
 Put a little fence around it!
 Throw a blanket over it!
@@ -338,7 +338,7 @@ Stop being reasonable, this is the Internet!
 Где нету света, там и паук!
 GNU Terry Pratchett
 More Digital!
-doot doot
+дуу дуу
 Падение со стилем!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
@@ -400,7 +400,7 @@ From free range developers!
 Оуууу мэн!
 #minecraftфермы
 И моя кирка!
-Envision! Create! Распространяйте!
+Придумывай! Создавай! Распространяй!
 Невероятная графика!
 Также попробуйте Minecraft Dungeons!
 Ванилла!
@@ -408,16 +408,16 @@ Envision! Create! Распространяйте!
 Зоглин!?
 Чёрные жизни важны!
 Не будьте расистами!
-Learn about allyship!
-Speak OUT against injustice and UP for equality!
+Узнай больше об allyship!
+Скажете НЕТ несправедливости, и ДА равноправию!
 Amplify and listen to BIPOC voices!
-Educate your friends on anti-racism!
-Support the BIPOC community and creators!
-Stand up for equality in your community!
+Отучайте своих друзей от расизма!
+Поддерживайте BIPOC сообщество и создателей!
+Отстаивайте равноправие в сообществе!
 [этот сплеш был отложен до второй части]
 Содержит симулируемых коз!
 Дом-сделан!
-Там <<кот на ,моей клавиатуре!~
+У меня 47кот/* на клавиатуре!щдз
 Самый милый хищник, которого вы когда-нибудь встретите!
 Теперь, ты думаешь с поршнями!
 Get to the coppah!

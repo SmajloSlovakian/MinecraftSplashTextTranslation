@@ -1,13 +1,13 @@
 As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
+رائع!
+100% نقي!
+قد يحتوي على جوز!
+مزيد من المضلعات!
 Moderately attractive!
-Limited edition!
+نسخة محدودة!
 Flashing letters!
-It's here!
-Best in class!
+إنها هنا!
+الأفضل في الصف!
 It's finished!
 Kind of dragon free!
 Excitement!
@@ -15,11 +15,11 @@ More than 500 sold!
 One of a kind!
 Heaps of hits on YouTube!
 Indev!
-Spiders everywhere!
-Check it out!
+العناكب في كل مكان!
+تحقق منها!
 Holy cow, man!
-It's a game!
-Made in Sweden!
+إنها لعبة!
+صنعت في السويد!
 Uses LWJGL!
 Reticulating splines!
 Minecraft!
@@ -52,7 +52,7 @@ Pretty!
 Fat free!
 Absolutely no memes!
 Free dental!
-Ask your doctor!
+اسأل طبيبك!
 Minors welcome!
 Cloud computing!
 Legal in Finland!
@@ -400,14 +400,14 @@ Music by Lena Raine!
 Aww man!
 #minecraftfarms
 And my pickaxe!
-Envision! Create! Share!
-Fabulous graphics!
-Also try Minecraft Dungeons!
-Vanilla!
-May contain traces of citrus!
+Envision! Create! مشاركة!
+رسومات مذهلة!
+جرب أيضا Minecraft Dungeons!
+فانيلا!
+قد تحتوي على آثار من الحمضيات!
 Zoglin!?
 Black lives matter!
-Be anti-racist!
+كن مناهضا للعنصرية!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
 Amplify and listen to BIPOC voices!
