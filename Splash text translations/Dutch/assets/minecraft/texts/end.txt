@@ -1,14 +1,14 @@
-§3I see the player you mean.
+§3Ik zie de speler die je bedoelt.
 
-§2PLAYERNAME?
+§2GEBRUIKERSNAAM?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3Ja. Wees voorzichtig. Het heeft nu een hoger level bereikt. Het kan onze gedachten lezen.
 
-§2That doesn't matter. It thinks we are part of the game.
+§2Dat maakt niet uit. Het denkt dat we een deel van het spel zijn.
 
-§3I like this player. It played well. It did not give up.
+§3Ik vind deze speler leuk. Het heeft goed gespeeld. Het heeft niet opgegeven.
 
-§2It is reading our thoughts as though they were words on a screen.
+§2Het leest onze gedachten alsof het woorden op een scherm zijn.
 
 §3That is how it chooses to imagine many things, when it is deep in the dream of a game.
 
