@@ -1843,10 +1843,10 @@
         ]
     },
     {
-        "section": "Development Partner: BBI",
+        "section": "Prilabora partnero: BBI",
         "titles": [
             {
-                "title": "Programmer",
+                "title": "Programisto",
                 "names": [
                     "Curtis Hodgins",
                     "Devon Plourde",
@@ -1855,25 +1855,25 @@
                 ]
             },
             {
-                "title": "Associate Programmer",
+                "title": "Programisto-partnero",
                 "names": [
                     "Jacky Cai"
                 ]
             },
             {
-                "title": "UI Artist",
+                "title": "Fasada artisto",
                 "names": [
                     "Richelle Brunt"
                 ]
             },
             {
-                "title": "UX Designer",
+                "title": "Dezajnisto de sperto de uzanto",
                 "names": [
                     "Sam Flores"
                 ]
             },
             {
-                "title": "QA Analyst",
+                "title": "Analizisto de respondaro",
                 "names": [
                     "Jamie Cheung",
                     "Paul Pera"
@@ -1882,7 +1882,7 @@
         ]
     },
     {
-        "section": "Development Partner: Disbelief",
+        "section": "Prilabora partnero: Disbelief",
         "titles": [
             {
                 "title": "",
@@ -1895,7 +1895,7 @@
         ]
     },
     {
-        "section": "Development Partner: Skybox",
+        "section": "Prilabora partnero: Skybox",
         "titles": [
             {
                 "title": "",
@@ -1960,29 +1960,29 @@
         ]
     },
     {
-        "section": "Development Partner: Red Lens Games",
+        "section": "Prilabora partnero: Red Lens Games",
         "titles": [
             {
-                "title": "President",
+                "title": "Prezidanto",
                 "names": [
                     "Jared Noftle"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Produktoro",
                 "names": [
                     "Allie Murdock"
                 ]
             },
             {
-                "title": "Lead Software Engineers",
+                "title": "Softvaraj ĉefinĝinieroj",
                 "names": [
                     "Kyle Walsh",
                     "Nathan Carlson"
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Softvaraj inĝinieroj",
                 "names": [
                     "Alan Nelson",
                     "Andre Tremblay",
@@ -1998,10 +1998,10 @@
         ]
     },
     {
-        "section": "Development Partner: Virtuosity",
+        "section": "Prilabora partnero: Virtuosity",
         "titles": [
             {
-                "title": "Game Developers",
+                "title": "Ludaj programistoj",
                 "names": [
                     "Aishwarya Jayabal (Virtuosity)",
                     "Ganesh Sethy (Virtuosity)",
@@ -2022,7 +2022,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produktoroj",
                 "names": [
                     "Chokkalingam Ramu Kuppaswamy (Virtuosity)",
                     "Shanthi Kanchibhotla (Virtuosity)"
@@ -2031,16 +2031,16 @@
         ]
     },
     {
-        "section": "Mojang Alumni",
+        "section": "Ekslaboristoj de Mojang",
         "titles": [
             {
-                "title": "Original Creator of Minecraft",
+                "title": "Origina kreinto de Minecraft",
                 "names": [
                     "Markus Persson"
                 ]
             },
             {
-                "title": "Head of Minecraft",
+                "title": "Ĉefo de Minecraft",
                 "names": [
                     "Matt Booty"
                 ]
@@ -2500,20 +2500,20 @@
                 ]
             },
             {
-                "title": "Business Analysts",
+                "title": "Negocaj analizistoj",
                 "names": [
                     "Alvin M Chin (Populus Group, LLC)"
                 ]
             },
             {
-                "title": "Minecraft Content Coordinators",
+                "title": "Enhavaj kunordigantoj de Minecraft",
                 "names": [
                     "Adam Martinsson",
                     "Sara Lempiäinen"
                 ]
             },
             {
-                "title": "Program Manager",
+                "title": "Programa manaĝero",
                 "names": [
                     "Amber Wu (Shang Hai Wei Chuang Ruan Jian)",
                     "Meenoo Rami",
@@ -2522,31 +2522,31 @@
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Krea direktoro",
                 "names": [
                     "John Hendricks"
                 ]
             },
             {
-                "title": "Creative Communications Assistant",
+                "title": "Asistanto de krea komunikado",
                 "names": [
                     "Emily Richardson"
                 ]
             },
             {
-                "title": "Head of Social Media",
+                "title": "Ĉefo pri sociretoj",
                 "names": [
                     "Amelia Dale"
                 ]
             },
             {
-                "title": "Head of Player Operations",
+                "title": "Ĉefo de operacioj de ludantoj",
                 "names": [
                     "Aubrey Norris"
                 ]
             },
             {
-                "title": "Community Manager",
+                "title": "Komunuma manaĝero",
                 "names": [
                     "Glory Robinson (Experis)",
                     "Helen Zbihlyj",
@@ -2554,7 +2554,7 @@
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Subteno de uzantoj",
                 "names": [
                     "Amelia Lindroth Henriksson",
                     "Ana Barata Martins",
@@ -2587,7 +2587,7 @@
                 ]
             },
             {
-                "title": "Marketing Manager",
+                "title": "Merkatika manaĝero",
                 "names": [
                     "Bianca Ciotti",
                     "Delilah Liu",
@@ -2596,33 +2596,33 @@
                 ]
             },
             {
-                "title": "Legal",
+                "title": "Juraĵoj",
                 "names": [
                     "Christi Davisson"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Ĉefo de realigo de intelekta proprieto",
                 "names": [
                     "Mathias Andersson",
                     "Teresa Lee Rodewald"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Agents",
+                "title": "Realigistoj de intelekta proprieto",
                 "names": [
                     "Marcus Forss",
                     "Matilda Åkerman"
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Projekta ĉefmanaĝero",
                 "names": [
                     "Vera Mirchev"
                 ]
             },
             {
-                "title": "Development Partner: Skybox",
+                "title": "Prilabora partnero: Skybox",
                 "names": [
                     "Ace Cheung",
                     "Alina Varela",
@@ -2688,7 +2688,7 @@
                 ]
             },
             {
-                "title": "Development Partner: BBI",
+                "title": "Prilabora partnero: BBI",
                 "names": [
                     "Alex Sharp - Assistant Producer",
                     "Andrew Yuennan - Programmer",
@@ -2718,7 +2718,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Red Lens",
+                "title": "Prilabora partnero: Red Lens",
                 "names": [
                     "Christopher Kohnert",
                     "Joshua Claeys",
@@ -2728,34 +2728,34 @@
         ]
     },
     {
-        "section": "Studios Quality Alumni",
+        "section": "Ekslaboristoj de studia kvalito",
         "titles": [
             {
-                "title": "Quality Leads",
+                "title": "Manaĝerestroj de kvalito",
                 "names": [
                     "Tony Harlich"
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Inĝinieroj de kvalito",
                 "names": [
                     "Akshata Trivedi"
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Kvalitaj datumanalizoj k inĝinierado",
                 "names": [
                     "Jeff MacDermot"
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Analizistoj de kvalito",
                 "names": [
                     "Yi Zhao (Kforce)"
                 ]
             },
             {
-                "title": "Poland - Team Leads",
+                "title": "Pollando - teamestroj",
                 "names": [
                     "Anna Wróbel (Lionbridge)",
                     "Kamil Bazydło (Lionbridge)",
@@ -2763,13 +2763,13 @@
                 ]
             },
             {
-                "title": "US Team - Software Test Engineering Leads",
+                "title": "Usona teamo - Ĉefoj de softvara testa inĝinierado",
                 "names": [
                     "Chris James (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "US Team - Software Test Engineers",
+                "title": "Usona teamo - Softvaraj testaj inĝinieroj",
                 "names": [
                     "Brendan McElroy (Insight Global, Inc)",
                     "Crystal Edwards (Insight Global, Inc)",
@@ -2780,7 +2780,7 @@
                 ]
             },
             {
-                "title": "US Team - Test Associates",
+                "title": "Usona teamo - Testaj partneroj",
                 "names": [
                     "Brian Sears (Experis)"
                 ]
