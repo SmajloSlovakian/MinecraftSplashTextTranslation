@@ -285,7 +285,7 @@ My life for Aiur!
 Lennart lennart = new Lennart();
 Я вижу твой словарь увеличился!
 Откуда это взялось?
-You can't explain that!
+Ты не объяснишь это!
 if not ok then return end
 §4Р§6а§eд§2у§9г§1а§5!
 §kFUNKY LOL
@@ -336,7 +336,7 @@ Stop being reasonable, this is the Internet!
 Любой компьютер - это ноутбук, если ты достаточно смелый!
 Сделай это, всё!
 Где нету света, там и паук!
-GNU Terry Pratchett
+ГНУ Терри Пратчетт
 More Digital!
 дуу дуу
 Падение со стилем!
