@@ -1,4 +1,4 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Bu proje SmajloSlovakian#1077 tarafından yapılmıştır. (Eğer tanışmıyorsak bana arkadaşlık isteği gönderemezsiniz.)
 
 How do i add this pack to Minecraft?
 -Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
