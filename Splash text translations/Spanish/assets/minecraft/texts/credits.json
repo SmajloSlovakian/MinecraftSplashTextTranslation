@@ -3,13 +3,13 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "Cabeza de Minecraft",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Director Ejecutivo",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -20,40 +20,40 @@
         "section": "Diseño",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "Directores Creativos",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Director del Juego",
                 "names": [
                     "Agnes Larsson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Director Creativo",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "Director Principal de Diseño",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Principales Diseñadores del Juego",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Diseñadores del Juego",
                 "names": [
                     "Art Usher",
                     "Brandon Franklin (Insight Global, Inc)",
@@ -71,7 +71,7 @@
                 ]
             },
             {
-                "title": "Narrative Designers",
+                "title": "Diseñadores Narrativos",
                 "names": [
                     "Max Herngren"
                 ]
@@ -79,34 +79,34 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programación",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Jefe de Tecnología",
                 "names": [
                     "Michael W Weilbacher"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Cabeza de Servicios e Ingeniería de Operaciones",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Stockholm Engineering",
+                "title": "Cabeza de Ingeniería en Estocolmo",
                 "names": [
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Director de Calidad de la Franquicia",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Director Técnico",
                 "names": [
                     "Christopher Östlund",
                     "Jason Cahill",
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Principales Desarrolladores del Juego",
                 "names": [
                     "Gary McLaughlin",
                     "James S Yarrow",
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Desarrolladores del Juego",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
