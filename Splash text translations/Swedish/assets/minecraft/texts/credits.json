@@ -33,7 +33,7 @@
                 ]
             },
             {
-                "title": "Konstnärliga ledare",
+                "title": "Konstnärlig ledning",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
@@ -391,16 +391,16 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Bildkonst",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Konstchef",
                 "names": [
                     "Andy Zibits"
                 ]
             },
             {
-                "title": "Art Leads",
+                "title": "Ledande konstnärer",
                 "names": [
                     "Daniel Björkefors",
                     "Joel Garvin",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Konstnärer",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -442,27 +442,27 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafiker",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Ledande grafiska formgivare",
                 "names": [
                     "Christine Gutierrez"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Grafiska formgivare",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)"
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Formgivare, rörlig grafik",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Kim Petersen",
@@ -481,19 +481,19 @@
         "section": "Produktion",
         "titles": [
             {
-                "title": "Head of Creator",
+                "title": "Chef över skapandeprocessen",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Platform Engineering",
+                "title": "Chef för plattformsteknik",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Chef över Minecraft, Kina",
                 "names": [
                     "Travis Howland"
                 ]
