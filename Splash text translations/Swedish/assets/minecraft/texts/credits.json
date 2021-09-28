@@ -3,7 +3,7 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "Chef över Minecraft",
                 "names": [
                     "Helen Chiang"
                 ]
@@ -17,10 +17,10 @@
         ]
     },
     {
-        "section": "Formgivning",
+        "section": "Utveckling",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "Kreativa direktörer",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
@@ -33,27 +33,27 @@
                 ]
             },
             {
-                "title": "Kreativ ledning",
+                "title": "Konstnärliga ledare",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "Chef över spelformgivning",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Ledande spelformgivare",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Spelformgivare",
                 "names": [
                     "Art Usher",
                     "Brandon Franklin (Insight Global, Inc)",
@@ -71,7 +71,7 @@
                 ]
             },
             {
-                "title": "Narrative Designers",
+                "title": "Narrativ formgivare",
                 "names": [
                     "Max Herngren"
                 ]
@@ -79,10 +79,10 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programmering",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Teknisk chef",
                 "names": [
                     "Michael W Weilbacher"
                 ]
@@ -106,7 +106,7 @@
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Teknisk ledare",
                 "names": [
                     "Christopher Östlund",
                     "Jason Cahill",
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Ledande spelutvecklare",
                 "names": [
                     "Gary McLaughlin",
                     "James S Yarrow",
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Spelutvecklare",
                 "names": [
                     "Alex Green (Red Lens Games Inc)",
                     "Alexander Östman",
@@ -164,14 +164,14 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Ledande gränssnittsutvecklare",
                 "names": [
                     "Oleg Kozitsyn",
                     "Paulo Ragonha"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Gränssnittsutvecklare",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Uppstartarutvecklare",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -199,7 +199,7 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Ledande arkitekter",
                 "names": [
                     "Greg Snook",
                     "Henry Golding",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arkitekter",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -216,7 +216,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Ledande programvaruutvecklare, Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Programvaruutvecklare, Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -313,21 +313,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Ledande webbutvecklare",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Programvarutekniker, Realms",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Ledande systemtekniker",
                 "names": [
                     "Jifeng Zhang",
                     "Robert Sjödahl",
@@ -365,16 +365,16 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "Ljud",
         "titles": [
             {
-                "title": "Lead Sound Designer",
+                "title": "Ledande ljudutvecklare",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Ljudutvecklare",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kevin Martinez",
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Musik komponerad av",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -470,7 +470,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animatör",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -478,7 +478,7 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Produktion",
         "titles": [
             {
                 "title": "Head of Creator",
