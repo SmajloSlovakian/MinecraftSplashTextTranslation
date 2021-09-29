@@ -25,7 +25,7 @@ Reticulating splines!
 Minecraft!
 Jaaaa!
 Enspelarläge!
-Stödjer tangentbord!
+Stöder tangentbord!
 Tackor!
 En exploderande Creeper!
 Det där är ingen måne!
@@ -148,7 +148,7 @@ Representerar Edsbyn!
 Matt Damon!
 Superopti-mopsiskt-topp-i-pang-fenomenaliskt!
 Raka V:n!
-Cow Tools!
+Ko-verktyg!
 Dubbelbuffrad!
 Fanfiktion!
 Flaxkikare!
@@ -168,7 +168,7 @@ Tjoho, worldofminecraft!
 Tjoho, reddit!
 Tjoho, 2pp!
 Analyserat med Google!
-Stödjer nu åäö!
+Stöder nu åäö!
 Ge oss Gordon!
 Skänk en slant!
 Väldigt roligt!
@@ -254,7 +254,7 @@ Boots with the fur!
 Stop, hammertime!
 Testificates!
 Konventionellt!
-Homeomorphic to a 3-sphere!
+Homeomorf med en 3-dimensionell sfär!
 Doesn't avoid double negatives!
 Placera ALLA blocken!
 Gör rollar!
@@ -265,7 +265,7 @@ Déjà vu!
 Déjà vu!
 Tog din näsa!
 Haley är kär i Elan!
-Afraid of the big, black bat!
+Rädd för en stor, svart fladdermus!
 Helt fritt från U-ordet!
 Rena rama lekstugan!
 Då syns vi kanske på fredag!
@@ -281,16 +281,16 @@ Cześć Polsko!
 你好中国！
 Привет Россия!
 Γεια σου Ελλάδα!
-My life for Aiur!
+Jag ger mitt liv för Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Jag märker att dit ordförråd har förbättrats!
+Vem lade den där?
+Förklara det om du kan!
 if not gött then return end
 §1F§2ä§3r§4g§5s§6t§7a§8r§9k
 §kFUNKY LOL
 Big Pointy Teeth!
-Bekarton guards the gate!
+Bekarton vaktar porten!
 Mmmff, mmmff!
 Ge aldrig avokado till en papegoja!
 Svärd till alla!
@@ -309,8 +309,8 @@ Innehåller nu dagligen 32 slumpmässigt utvalda katter!
 That's Numberwang!
 Snälla retweeta!
 Vill du vara med på min server?
-Put a little fence around it!
-Throw a blanket over it!
+Bygg ett litet staket runt den!
+Släng en filt över den!
 En vacker dag kommer någon att citera mitt verk!
 Nu med ännu fler grejer!
 Fler saker!
@@ -330,12 +330,12 @@ Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
+Sluta vara förståndig, det här är internet!
 /give @a kramar 64
 Det här är bra för Realms.
 Är man våghalsig nog är alla datorer bärbara!
-Do it all, everything!
-Where there is not light, there can spider!
+Gör alltihop!
+Dit ljuset inte når, där finns spindlar!
 GNU Terry Pratchett
 Ännu mer digital!
 doot doot
@@ -344,7 +344,7 @@ There's no stopping the Trollmaso
 Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Blev smält ost ersatt av blod?
-Absolutely fixed relatively broken coordinates
+Fixade absolut relativt felande koordinater
 Länge leve båtar!
 Javatastisk utgåva
 Får inte spelas medan du kör
@@ -368,13 +368,13 @@ Gå till tandläkaren!
 Vad förväntade du dig?
 Titta mamma, jag är en textremsa!
 It came from space.
-Awesome game design right there!
+Där har vi grym speldesign!
 Ph1lza klarade sig länge!
 Tio år av byggande och grävande!
 Ping the human!
 Ifall ni missat det så är inte rävar spelare.
 Flitiga bin!
-Minecraft Java Edition presents: Disgusting Bugs
+Minecraft Java Edition presenterar: vidrig ohyra
 Tvätta händerna!
 Tvål och vatten!
 Hjälp lokala företag!
@@ -391,15 +391,15 @@ Handla åt äldre!
 Träffa dina vänner över internet!
 Älskling, jag förstorade bina!
 Hitta ditt grepp!
-Everybody do the Leif!
+Alla drar en Leif!
 <3 Max & 99 & Ankis!
 Buskiga bryn!
-Edit is a name!
+Rita är ett namn!
 Från frigående utvecklare!
 Med musik komponerad av Lena Raine!
 Åh nej!
 #minecraftfarmer
-And my pickaxe!
+Och min hacka!
 Envision! Create! Share!
 Grafiken är helt fabulös!
 Rekommenderar även Minecraft Dungeons!
@@ -408,18 +408,18 @@ Kan innehålla spår av citrusfrukt!
 Zoglin!?
 Black lives matter!
 Var en antirasist!
-Learn about allyship!
+Stå med dem som blir orättvist behandlade!
 Agera MOT orättvisor och kämpa FÖR jämlikhet!
-Amplify and listen to BIPOC voices!
+Förstärk och lyssna på röster från BIPOC!
 Lär dina vänner att vara antirasister!
-Support the BIPOC community and creators!
+Stöd BIPOC-gemenskapen och dess skapare!
 Kämpa för jämlikhet i ditt område!
 [den här textremsan har blivit uppskjuten till del 2]
 Innehåller simulerade getter!
 Hemmagjort!
 Det står <<en katt på ,mitt tangentbord!~
 Det gulligaste rovdjuret du någonsin kommer se!
-Now you are thinking with pistons!
+Nu tänker du med kolvar!
 Get to the coppah!
 Finns även som bordsspel!
 Älskling, jag vaxade in kopparn!
