@@ -46,31 +46,31 @@ Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
 Enhanced!
-90% bug free!
+90% livre de erros!
 Pretty!
 12 herbs and spices!
-Fat free!
+Sem gordura!
 Absolutely no memes!
 Free dental!
 Ask your doctor!
 Minors welcome!
 Cloud computing!
 Legal na Finlândia!
-Hard to label!
-Technically good!
+Difícil de descrever!
+Tecnicamente bom!
 Bringing home the bacon!
 Indie!
 Jogo do Ano!
 Ceci n'est pas une title screen!
 Euclidiano!
-Now in 3D!
+Agora em 3D!
 Inspirador!
 Herregud!
 Complex cellular automata!
 Sim, senhor!
-Played by cowboys!
+Jogado por cowboys!
 Now on OpenGL 3.2 core profile!
-Thousands of colors!
+Milhares de cores!
 Experimenta!
 Age of Wonders is better!
 Prova o estufado de cogumelos!
@@ -127,7 +127,7 @@ Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
-4815162342 lines of code!
+4815162342 linhas de código!
 A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
@@ -217,7 +217,7 @@ Jeb has amazing hair!
 Ryan also has amazing hair!
 Casual gaming!
 Undefeated!
-Kinda like Lemmings!
+Um pouco como os Lemmings!
 Follow the train, CJ!
 Leveraging synergy!
 This message will never appear on the splash screen, isn't that weird?
@@ -375,14 +375,14 @@ Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
+Lava as mãos!
+Água e sabão!
 Support local businesses!
 Stay home and play games!
 Stay safe!
 Stay strong!
 Cough or sneeze into your elbow!
-Don’t touch your face!
+Não toques na cara!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
@@ -401,7 +401,7 @@ Aww man!
 #minecraftfarms
 And my pickaxe!
 Envision! Create! Share!
-Fabulous graphics!
+Gráficos fabulosos!
 Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
@@ -416,7 +416,7 @@ Support the BIPOC community and creators!
 Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
-Home-made!
+Caseiro!
 There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
@@ -424,4 +424,4 @@ Get to the coppah!
 Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
+Feito por pessoas "a sério"!
