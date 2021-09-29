@@ -35,7 +35,7 @@ Przetrwaj!
 Lochy!
 Na wyłączność!
 The bee's knees!
-Closed source!
+Zamknięte źródło!
 Z klasą!
 Łał!
 Nie na platformie steam!
@@ -246,11 +246,11 @@ Fnord!
 Oto moja prawdziwa postać!
 Nie męcz się z klonami!
 Dyniogłowy!
-Made by Jeb!
+Stworzone przez Jeba!
 Ma zakończenie!
 Nareszcie ukończony!
 Pełen możliwości!
-Boots with the fur!
+Futrzane buty!
 Stop, hammertime!
 Testificate!
 Konwencjonalny!
@@ -264,8 +264,8 @@ Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
 Mam twój nos!
-Haley loves Elan!
-Afraid of the big, black bat!
+Haley kocha Elana!
+Bój się wielkiego, czarnego nietoperza!
 Nie używa słowa na U!
 Dziecinnie prosty!
 Widzimy się gdzieś w następny piątek!
@@ -315,31 +315,31 @@ Kiedyś w przyszłości moją pracę ktoś zacytuje!
 Teraz z tym i owym!
 To i owo!
 Hurra, szczeniaczki dla wszystkich!
-So sweet, like a nice bon bon!
+Tak słodki jak smaczny cukierek!
 Bardzo wpływowy w swoim kręgu!
 Gra wieloosobowa już tu jest!
 Powstań z grobu!
 Uwaga! Ogromny statek bojowy "STEVE" nadciąga z dużą prędkością!
-Blue warrior shot the food!
-Run, coward! I hunger!
+Niebieski wojownik wystrzelił jedzenie!
+Uciekaj, tchórzu! I hunger!
 Smak bez przypraw!
-Strange, but not a stranger!
-Tougher than diamonds, rich like cream!
+Dziwny, ale nie obcy!
+Twardszy niż diament, bogaty jak krem!
 It swings, it jives!
 Cruising streets for gold!
-Take an eggbeater and beat it against a skillet!
+Weź trzepaczkę i rozbij je na patelni!
 Make me a table, a funky table!
-Take the elevator to the mezzanine!
+Jedź windą na półpiętro!
 Przestań być rozsądny, jesteśmy w Internecie!
 /give @a przytulas 64
 To się nada na Realms.
 Każdy komputer jest laptopem, jeśli się odważysz!
-Do it all, everything!
+Zrób wszystko, wszystko!
 Gdzie nie jest światło, tam może pająk!
 GNU Terry Pratchett
 Bardziej cyfrowy!
 doot doot
-Falling with style!
+Stylowe spadanie!
 Trollmaso nie można powstrzymać
 Rzuć się na ziemię i spudłuj
 Zasada nr 1: wina nigdy nie jest moja
@@ -385,43 +385,43 @@ Kaszl i kichaj w łokieć!
 Nie dotykaj swojej twarzy!
 Wspomóż starszych krewnych i znajomych!
 Przygotuj się, ale nie gromadź!
-Gamers unite – separately in your own homes!
-Save the world – stay inside!
+Gracze łączcie się - osobno we własnych domach!
+Uratuj świat - zostań wewnątrz!
 Shop for your elders!
-Hang out with your friends online!
+Spotkaj się ze znajomymi online!
 Kochanie, wyhodowałem pszczoły!
-Find your claw!
+Znajdź swój pazur!
 Everybody do the Leif!
 <3 Max & 99 & Ducky!
 Krzaczaste brwi!
-Edit is a name!
+Edytuj to nazwa!
 Od deweloperów z wolnego wybiegu!
 Muzyka autorstwa Leny Raine!
 Aww man!
 #minecraftfarms
 I mój kilof!
 Envision! Create! Share!
-Fabulous graphics!
+Wspaniała grafika!
 Zagraj również w Minecraft Dungeons!
 Vanilla!
-May contain traces of citrus!
+Może zawierać śladowe ilości cytrusów!
 Zoglin!?
 Black lives matter!
-Be anti-racist!
+Bądź antyrasistowski!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
 Amplify and listen to BIPOC voices!
-Educate your friends on anti-racism!
+Uświadom znajomych na temat anty-rasizmu!
 Support the BIPOC community and creators!
-Stand up for equality in your community!
-[this splash text has been delayed until part 2]
-Contains simulated goats!
+Broń równości w swojej społeczności!
+[ten tekst powitalny został opóźniony do części 2]
+Zawiera symulowane kozy!
 Domowej roboty!
 Mam <<kota ,na klawiaturze!~
-The cutest predator you'll ever meet!
+Najsłodszy drapieżnik jakiego kiedykolwiek spotkasz!
 Now you are thinking with pistons!
 Get to the coppah!
-Board game version also available!
+Dostępny również w wersji planszowej!
 Kochanie, nawoskowałem miedź!
-Plant-based light sources!
+Źródła światła pochodzenia roślinnego!
 Stworzony przez „prawdziwych” ludzi!
