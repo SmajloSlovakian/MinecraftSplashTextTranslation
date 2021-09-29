@@ -79,7 +79,7 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programmering",
         "titles": [
             {
                 "title": "Chief Technology Officer",
@@ -976,7 +976,7 @@
         ]
     },
     {
-        "section": "Data and Analytics",
+        "section": "Data og analyser",
         "titles": [
             {
                 "title": "Head of Data Science and Analytics",
@@ -997,7 +997,7 @@
                 ]
             },
             {
-                "title": "Data Science",
+                "title": "Datavitenskap",
                 "names": [
                     "Anh Ying Lang (Design Laboratory Inc)",
                     "Bhrigu Shree",
@@ -1016,7 +1016,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datateknikk",
                 "names": [
                     "Bill Klees",
                     "Dhiraj Nilange",
@@ -1046,7 +1046,7 @@
         ]
     },
     {
-        "section": "Business & Licensing",
+        "section": "Forretning & lisensiering",
         "titles": [
             {
                 "title": "Head of Franchise Business Management",
@@ -1117,7 +1117,7 @@
                 ]
             },
             {
-                "title": "Business Analyst",
+                "title": "Forretningsanalytiker",
                 "names": [
                     "Keiko Ramer (Apex Systems, Inc)",
                     "Kristin Grein",
@@ -1301,7 +1301,7 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "Kommunikasjoner",
         "titles": [
             {
                 "title": "Chief Storyteller",
@@ -1835,7 +1835,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datateknikk",
                 "names": [
                     "Patrick Fraioli"
                 ]
@@ -1846,7 +1846,7 @@
         "section": "Development Partner: BBI",
         "titles": [
             {
-                "title": "Programmer",
+                "title": "Programmerer",
                 "names": [
                     "Curtis Hodgins",
                     "Devon Plourde",
@@ -1855,7 +1855,7 @@
                 ]
             },
             {
-                "title": "Associate Programmer",
+                "title": "Tilknyttet programmerer",
                 "names": [
                     "Jacky Cai"
                 ]
@@ -2166,7 +2166,7 @@
                 ]
             },
             {
-                "title": "Additional Programming",
+                "title": "Tilleggsprogrammering",
                 "names": [
                     "Elliot 'Hippoplatimus' Segal",
                     "Paul Spooner",
@@ -2380,7 +2380,7 @@
                 ]
             },
             {
-                "title": "Assistant Producer",
+                "title": "Assistentprodusent",
                 "names": [
                     "Warren Loo"
                 ]
@@ -2433,7 +2433,7 @@
                 ]
             },
             {
-                "title": "Business Administrators",
+                "title": "Forretningsadministratorer",
                 "names": [
                     "Shae M. Flanigan (C2S Technologies Inc)"
                 ]
@@ -2500,7 +2500,7 @@
                 ]
             },
             {
-                "title": "Business Analysts",
+                "title": "Forretningsanalytikere",
                 "names": [
                     "Alvin M Chin (Populus Group, LLC)"
                 ]
