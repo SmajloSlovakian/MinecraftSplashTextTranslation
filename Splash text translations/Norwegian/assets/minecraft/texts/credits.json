@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arkitekter",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Bedrock-programvareutviklere",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Musikk komponert av",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -391,7 +391,7 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Visuell kunst",
         "titles": [
             {
                 "title": "Art Director",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Kunstnere",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -470,7 +470,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animasjon",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -546,7 +546,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produsenter",
                 "names": [
                     "Adrian Östergård",
                     "Andrea Lam",
@@ -823,7 +823,7 @@
                 ]
             },
             {
-                "title": "Artist",
+                "title": "Kunstner",
                 "names": [
                     "Morten Rasmussen"
                 ]
@@ -2182,7 +2182,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arkitekter",
                 "names": [
                     "Tommaso Checchi"
                 ]
@@ -2297,13 +2297,13 @@
                 ]
             },
             {
-                "title": "3D/VFX",
+                "title": "3D/Visuelle effekter",
                 "names": [
                     "Elin Ölund Forsling"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Kunstnere",
                 "names": [
                     "Amanda Cook (Harvey Nash)",
                     "Bart Kaufman (Randstad)",
@@ -2325,7 +2325,7 @@
                 ]
             },
             {
-                "title": "Additional Graphics",
+                "title": "Ekstra grafikk",
                 "names": [
                     "Jonatan Pöljö",
                     "Mariana Graham Ramirez"
