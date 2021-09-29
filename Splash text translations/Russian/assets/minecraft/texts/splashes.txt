@@ -92,9 +92,9 @@ You've got a brand new key!
 Воу, чел!
 Всё включено!
 Расскажи своим друзьям!
-NP не P!
+NP это не P!
 Музыка от C418!
-Livestreamed!
+Транслировалось!
 Haunted!
 Polynomial!
 Terrestrial!
@@ -142,8 +142,8 @@ OICU812!
 Восьмиугольное!
 Une baguette!
 Гаргамель играет здесь!
-Rita is the new top dog!
-SWM forever!
+Рита - новая топ собака!
+НБМ навсегда!
 Representing Edsbyn!
 Matt Damon!
 Supercalifragilisticexpialidocious!
@@ -301,7 +301,7 @@ Put that cookie down!
 Pretty scary!
 У меня есть предложение.
 Now with extra hugs!
-Теперь Java 16!
+Теперь с Java 16!
 Вау.
 HURNERJSGER?
 Как дела, Док?
@@ -321,7 +321,7 @@ Very influential in its circle!
 Rise from your grave!
 Осторожно! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
-Run, coward! I hunger!
+Run, coward! Я голоден!
 Flavor with no seasoning!
 Strange, but not a stranger!
 Tougher than diamonds, rich like cream!
@@ -382,15 +382,15 @@ Support local businesses!
 Держитесь!
 Держитесь!
 Кашляйте и чихайте в локоть!
-Не трогайте свое лицо!
+Не трогайте своё лицо!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Игроки объединяйтесь – отдельно в своих домах!
 Сохраните мир – оставайтесь дома!
 Shop for your elders!
 Hang out with your friends online!
-Дорогая, я вырастил пчёл!
-Find your claw!
+Милый, я вырастила пчёл!
+Найдите свой когти!
 Everybody do the Leif!
 <3 Max & 99 & Ducky!
 Bushy eyebrows!
