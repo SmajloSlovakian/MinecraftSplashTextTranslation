@@ -112,7 +112,7 @@ Hinkar med lava!
 Rid grisen!
 Större än jorden!
 Jag älskar d-"sqrt(-1)"-g!
-Phobos anomaly!
+Phobos anomali!
 Ge trädet en snyting!
 Trillar ned för klippor!
 Sockerhalt: 1 %!
@@ -201,10 +201,10 @@ Joel är grym!
 En gåta, omsvept av mysterium!
 Den här papegojan finns inte mer! Dess existens har upphört!
 Idag är din domedag!
-Stay a while, stay forever!
-Stay a while and listen!
+Stanna ett tag, stanna för evigt!
+Stanna kvar och lyssna!
 Behandling för svåra utslag!
-"Autological" is!
+"Autologisk" är!
 Information söker sig alltid fri!
 "Nästan aldrig" är ett intressant begrepp!
 Min känsla säger att det stämmer!
@@ -218,7 +218,7 @@ Ryan har också otroligt hår!
 En helt vanlig spelstund!
 Obesegrad!
 Ungefär som Lemmings!
-Follow the train, CJ!
+Följ efter tåget, CJ!
 Bästa praxis!
 Det här meddelandet kommer aldrig att visas som en textremsa, är inte det konstigt?
 DungeonQuest är orättvist!
@@ -255,7 +255,7 @@ Stop, hammertime!
 Testifikat!
 Konventionellt!
 Homeomorf med en 3-dimensionell sfär!
-Doesn't avoid double negatives!
+Negationer är inte oförvirrande!
 Placera ALLA blocken!
 Gör rollar!
 Uppfyller alla förväntningar!
@@ -306,7 +306,7 @@ Hörru.
 HURNERJSGER?
 Vad händer, Doc?
 Innehåller nu dagligen 32 slumpmässigt utvalda katter!
-That's Numberwang!
+Det där är Numberwang!
 Snälla retweeta!
 Vill du vara med på min server?
 Bygg ett litet staket runt den!
@@ -319,7 +319,7 @@ So sweet, like a nice bon bon!
 Väldigt inflytelserik i sin cirkel!
 Nu med ett flerspelarläge!
 Stig upp från din grav!
-Warning! A huge battleship "STEVE" is approaching fast!
+Se upp! Ett stort stridsskepp "STEVE" närmar sig snabbt!
 Blue warrior shot the food!
 Fly, fegis! Jag hungrar!
 Flavor with no seasoning!
@@ -338,10 +338,10 @@ Gör alltihop!
 Dit ljuset inte når, där finns spindlar!
 GNU Terry Pratchett
 Ännu mer digital!
-doot doot
+tuut tuut
 Falling with style!
-There's no stopping the Trollmaso
-Throw yourself at the ground and miss
+Inget kan stoppa Trollmaso
+Kasta sig till marken och missa
 Rule #1: it's never my fault
 Blev smält ost ersatt av blod?
 Fixade absolut relativt felande koordinater
@@ -351,7 +351,7 @@ Får inte spelas medan du kör
 Du färdas för snabbt!
 Ge aldrig choklad till en papegoja!
 Den sanna innebörden av "covfefe"
-An illusion! What are you hiding?
+En hägring! Vad döljer du?
 Något stämmer inte...
 Tack för fisken!
 Alla rykten stämmer!
@@ -371,7 +371,7 @@ Kom från rymden.
 Där har vi grym speldesign!
 Ph1lza klarade sig länge!
 Tio år av byggande och grävande!
-Ping the human!
+Människan Ping!
 Ifall ni missat det så är inte rävar spelare.
 Flitiga bin!
 Minecraft Java Edition presenterar: vidrig ohyra
