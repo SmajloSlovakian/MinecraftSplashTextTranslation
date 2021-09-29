@@ -20,33 +20,33 @@
         "section": "Design",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "Responsabili Creativo",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Direttore del Personale per la Programmazione del Gioco",
                 "names": [
                     "Agnes Larsson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Direttore creativo",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "Direttore Principale Del Design",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Sviluppatori principali del gioco",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
@@ -71,7 +71,7 @@
                 ]
             },
             {
-                "title": "Narrative Designers",
+                "title": "Autori della Storia",
                 "names": [
                     "Max Herngren"
                 ]
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programmare",
         "titles": [
             {
                 "title": "Chief Technology Officer",
@@ -88,25 +88,25 @@
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Capo di Servizi e Ingegneria Ops",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Stockholm Engineering",
+                "title": "Capo dell'ingegneria di Stoccolma",
                 "names": [
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Direttore della Qualità del Franchise",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Direttore Tecnico",
                 "names": [
                     "Christopher Östlund",
                     "Jason Cahill",
@@ -199,7 +199,7 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Architetti Principali",
                 "names": [
                     "Greg Snook",
                     "Henry Golding",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Architetti",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -216,7 +216,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Sviluppatori del Software Bedrock Principali",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Sviluppatori del Software Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -320,7 +320,7 @@
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Ingegneri Software dei Realm",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
@@ -335,7 +335,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Ingegneri del Software di Servizio",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Corey Goodman (Insight Global, Inc)",
@@ -374,7 +374,7 @@
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Sound Designer",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kevin Martinez",
@@ -391,7 +391,7 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Arti Visive",
         "titles": [
             {
                 "title": "Direttore artistico",
@@ -436,13 +436,13 @@
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Artista Tecnico",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Artisti Grafici",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
@@ -455,7 +455,7 @@
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Graphic Designer",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)"
@@ -470,7 +470,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animatore",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -478,7 +478,7 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Produzione",
         "titles": [
             {
                 "title": "Head of Creator",
@@ -511,19 +511,19 @@
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Capo dei Giochi",
                 "names": [
                     "Patrick Liu"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Direttore di Minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Produttori Esecutivi",
                 "names": [
                     "Allison Matthews",
                     "Anita Sujarit",
@@ -538,7 +538,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Responsabili Della Produzione",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -546,7 +546,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produttori",
                 "names": [
                     "Adrian Östergård",
                     "Andrea Lam",
@@ -611,7 +611,7 @@
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Gestori Dei Rilascio",
                 "names": [
                     "Josh Mulanax",
                     "Joshua Bullard",
@@ -619,7 +619,7 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "Tester\n",
                 "names": [
                     "Matthew Dryden",
                     "Thommy Siverman"
@@ -886,7 +886,7 @@
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Capo dello Staff",
                 "names": [
                     "Amy Stillion"
                 ]
@@ -904,7 +904,7 @@
                 ]
             },
             {
-                "title": "Office Manager",
+                "title": "Capoufficio",
                 "names": [
                     "Siri Hoel Andersson"
                 ]
@@ -1143,7 +1143,7 @@
                 ]
             },
             {
-                "title": "Content Coordinators",
+                "title": "Coordinatori Del Contenuto",
                 "names": [
                     "Oskar Thysell"
                 ]
