@@ -199,7 +199,7 @@ Det twittras mycket om det!
 Jump up, jump up, and get down!
 Joel är grym!
 En gåta, omsvept av mysterium!
-This parrot is no more! It has ceased to be!
+Den här papegojan finns inte mer! Dess existens har upphört!
 Idag är din domedag!
 Stay a while, stay forever!
 Stay a while and listen!
@@ -207,11 +207,11 @@ Behandling för svåra utslag!
 "Autological" is!
 Information söker sig alltid fri!
 "Nästan aldrig" är ett intressant begrepp!
-Lots of truthiness!
+Min känsla säger att det stämmer!
 The creeper is a spy!
 Turingkomplett!
 Helt banbrytande!
-Let our battle's begin!
+Början på en livs lång strid!
 Bara fantasin sätter gränser!
 Jeb har otroligt hår!
 Ryan har också otroligt hår!
@@ -219,7 +219,7 @@ En helt vanlig spelstund!
 Obesegrad!
 Ungefär som Lemmings!
 Follow the train, CJ!
-Leveraging synergy!
+Bästa praxis!
 Det här meddelandet kommer aldrig att visas som en textremsa, är inte det konstigt?
 DungeonQuest är orättvist!
 90210!
@@ -238,9 +238,9 @@ Det låter toppen!
 Bread is pain!
 Läs fler böcker!
 Khaaaaaaaaan!
-Less addictive than TV Tropes!
+Inte lika beroendeframkallande som TV Tropes!
 Mer beroendeframkallande än saft!
-Bigger than a bread box!
+Större än en brödkorg!
 Millions of peaches!
 Fnord!
 Skåda min sanna skepnad!
@@ -252,7 +252,7 @@ Har ett slut!
 Fullpackat med innehåll!
 Boots with the fur!
 Stop, hammertime!
-Testificates!
+Testifikat!
 Konventionellt!
 Homeomorf med en 3-dimensionell sfär!
 Doesn't avoid double negatives!
@@ -304,7 +304,7 @@ Nu med extra många kramar!
 Nu med Java 16!
 Hörru.
 HURNERJSGER?
-What's up, Doc?
+Vad händer, Doc?
 Innehåller nu dagligen 32 slumpmässigt utvalda katter!
 That's Numberwang!
 Snälla retweeta!
@@ -316,12 +316,12 @@ Nu med ännu fler grejer!
 Fler saker!
 Hurra, valpar till alla!
 So sweet, like a nice bon bon!
-Very influential in its circle!
+Väldigt inflytelserik i sin cirkel!
 Nu med ett flerspelarläge!
-Rise from your grave!
+Stig upp från din grav!
 Warning! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
-Run, coward! I hunger!
+Fly, fegis! Jag hungrar!
 Flavor with no seasoning!
 Strange, but not a stranger!
 Tougher than diamonds, rich like cream!
@@ -352,7 +352,7 @@ Du färdas för snabbt!
 Ge aldrig choklad till en papegoja!
 Den sanna innebörden av "covfefe"
 An illusion! What are you hiding?
-Something's not quite right...
+Något stämmer inte...
 Tack för fisken!
 Alla rykten stämmer!
 Truly gone fishing!
@@ -360,14 +360,14 @@ Regnbågssköldpadda?
 Någonting skojigt!
 Jag behöver mer bakgrundsinformation.
 Aaaaaaa!
-Don't worry, be happy!
+Ta't lugnt, var lycklig!
 Vattenflaska!
 Vad var frågan nu igen?
 Plantera ett träd!
 Gå till tandläkaren!
 Vad förväntade du dig?
 Titta mamma, jag är en textremsa!
-It came from space.
+Kom från rymden.
 Där har vi grym speldesign!
 Ph1lza klarade sig länge!
 Tio år av byggande och grävande!
