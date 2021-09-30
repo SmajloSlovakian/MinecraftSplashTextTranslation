@@ -34,7 +34,7 @@ Skapa!
 Överlev!
 Fängelsehålor!
 Exklusivt!
-The bee's knees!
+Söt och underbar!
 Kopiering förbjuden!
 Stiligt!
 Dundersuccé!
@@ -118,7 +118,7 @@ Trillar ned för klippor!
 Sockerhalt: 1 %!
 150 % masshysteri!
 En synekdoke!
-Let's danec!
+Ska vi dnasa!
 Hemlig fredags-uppdatering!
 Referensimplementering!
 Kiss the sky!
@@ -179,7 +179,7 @@ MAP11 har två namn!
 Allsmäktigt!
 Flämt!
 ...!
-Bees, bees, bees, bees!
+Surr, surr, surr, surr!
 Jag känner en bot!
 Den här texten är svår att läsa om du spelar med standardupplösningen, men i 1080p går det bra!
 Haha, ASG!
@@ -251,7 +251,7 @@ Har ett slut!
 Äntligen färdigt!
 Fullpackat med innehåll!
 Boots with the fur!
-Stop, hammertime!
+Hammardags!
 Testifikat!
 Konventionellt!
 Homeomorf med en 3-dimensionell sfär!
@@ -260,7 +260,7 @@ Placera ALLA blocken!
 Gör rollar!
 Uppfyller alla förväntningar!
 Dataspel sedan 1873!
-Ghoughpteighbteau tchoghs!
+Får får får? Nej, får får inte får, får får lam!
 Déjà vu!
 Déjà vu!
 Tog din näsa!
@@ -289,7 +289,7 @@ Förklara det om du kan!
 if not gött then return end
 §1F§2ä§3r§4g§5s§6t§7a§8r§9k
 §kFUNKY LOL
-Big Pointy Teeth!
+Stora vassa tänder!
 Bekarton vaktar porten!
 Mmmff, mmmff!
 Ge aldrig avokado till en papegoja!
@@ -320,7 +320,7 @@ Väldigt inflytelserik i sin cirkel!
 Nu med ett flerspelarläge!
 Stig upp från din grav!
 Se upp! Ett stort stridsskepp "STEVE" närmar sig snabbt!
-Blue warrior shot the food!
+Den blå krigaren sköt maten!
 Fly, fegis! Jag hungrar!
 Flavor with no seasoning!
 Strange, but not a stranger!
@@ -342,7 +342,7 @@ tuut tuut
 Falling with style!
 Inget kan stoppa Trollmaso
 Kasta sig till marken och missa
-Rule #1: it's never my fault
+Regel nummer ett, det är aldrig mitt fel
 Blev smält ost ersatt av blod?
 Fixade absolut relativt felande koordinater
 Länge leve båtar!
@@ -400,7 +400,7 @@ Med musik komponerad av Lena Raine!
 Åh nej!
 #minecraftfarmer
 Och min hacka!
-Envision! Create! Share!
+Dröm! Skapa! Dela!
 Grafiken är helt fabulös!
 Rekommenderar även Minecraft Dungeons!
 Originalet!
@@ -420,7 +420,7 @@ Hemmagjort!
 Det står <<en katt på ,mitt tangentbord!~
 Det gulligaste rovdjuret du någonsin kommer se!
 Nu tänker du med kolvar!
-Get to the coppah!
+Koppar av koppar!
 Finns även som bordsspel!
 Älskling, jag vaxade in kopparn!
 Växtbaserade ljuskällor!
