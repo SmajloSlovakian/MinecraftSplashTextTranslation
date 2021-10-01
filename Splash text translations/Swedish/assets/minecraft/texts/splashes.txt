@@ -21,7 +21,7 @@ Jösses Amalia!
 Det är ett spel!
 Tillverkad i Sverige!
 Använder LWJGL!
-Reticulating splines!
+Retikulerar splines!
 Minecraft!
 Jaaaa!
 Enspelarläge!
@@ -235,7 +235,7 @@ Rekommenderar även Limbo!
 Rekommenderar även Pixeljunk Shooter!
 Rekommenderar även Braid!
 Det låter toppen!
-Bread is pain!
+Rolig betyder lugn!
 Läs fler böcker!
 Khaaaaaaaaan!
 Inte lika beroendeframkallande som TV Tropes!
@@ -339,7 +339,7 @@ Dit ljuset inte når, där finns spindlar!
 GNU Terry Pratchett
 Ännu mer digital!
 tuut tuut
-Falling with style!
+Faller med stil!
 Inget kan stoppa Trollmaso
 Kasta sig till marken och missa
 Regel nummer ett, det är aldrig mitt fel
