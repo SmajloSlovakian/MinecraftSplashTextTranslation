@@ -598,20 +598,20 @@
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Organisationskonsult",
                 "names": [
                     "Marie Stålkrantz",
                     "Yassal Sundman"
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Ledande utgivningshanterare",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Utgivningshanterare",
                 "names": [
                     "Josh Mulanax",
                     "Joshua Bullard",
@@ -784,7 +784,7 @@
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Konstchefer",
                 "names": [
                     "Johan Aronsson",
                     "Ninni Landin",
@@ -793,25 +793,25 @@
                 ]
             },
             {
-                "title": "Art Lead Events",
+                "title": "Ledande bildkonstnär, evenemang",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Art Lead Social",
+                "title": "Ledande bildkonstnär, sociala medier",
                 "names": [
                     "Seung Sung"
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "Grafisk formgivare",
                 "names": [
                     "Markus Karlsson Frost"
                 ]
             },
             {
-                "title": "3D Artist / Motion Graphic Designer",
+                "title": "3D-grafiker (formgivare, rörlig grafik)",
                 "names": [
                     "Jesper Hallin"
                 ]
@@ -823,13 +823,13 @@
                 ]
             },
             {
-                "title": "Artist",
+                "title": "Formgivare",
                 "names": [
                     "Morten Rasmussen"
                 ]
             },
             {
-                "title": "Gameplay Capture Artist",
+                "title": "Spelfotograf",
                 "names": [
                     "Husein Kurbegovic"
                 ]
@@ -837,22 +837,22 @@
         ]
     },
     {
-        "section": "User Experience",
+        "section": "Användarupplevelse",
         "titles": [
             {
-                "title": "User Experience Design Director",
+                "title": "Chefsformgivare, användarupplevelse",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "User Experience Design Lead",
+                "title": "Ledande formgivare, användarupplevelse",
                 "names": [
                     "Jonathan Paton Gallina"
                 ]
             },
             {
-                "title": "User Experience Designers",
+                "title": "Formgivare, användarupplevelse",
                 "names": [
                     "Daniel Feldt",
                     "Jin Shin",
@@ -865,7 +865,7 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Drift",
         "titles": [
             {
                 "title": "Franchise Chief Operations Officer",
@@ -2303,7 +2303,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Bildkonstnärer",
                 "names": [
                     "Amanda Cook (Harvey Nash)",
                     "Bart Kaufman (Randstad)",
@@ -2317,7 +2317,7 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafiker",
                 "names": [
                     "Jerica Harada (TEKsystems, Inc)",
                     "Kristoffer Zetterstrand",
@@ -2332,7 +2332,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Formgivare, rörlig grafik",
                 "names": [
                     "Gabe Philbin (Randstad)"
                 ]
