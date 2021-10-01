@@ -1,6 +1,6 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Dette prosjektet ble skapt av SmajloSlovakian#1077 (Du vil ikke bli akseptert som venn om du sender venneforespørsel om du er helt fremmed for meg)
 
-How do i add this pack to Minecraft?
+Men hvordan legger jeg til denne pakken til Minecraft?
 -Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
   Resource Packs and pick the pack which has just appeared.
 
