@@ -9,7 +9,7 @@
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Administrerende direktør",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programmering",
         "titles": [
             {
                 "title": "Chief Technology Officer",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arkitekter",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Bedrock-programvareutviklere",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Musikk komponert av",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -391,7 +391,7 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Visuell kunst",
         "titles": [
             {
                 "title": "Art Director",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Kunstnere",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -442,7 +442,7 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafikere",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
@@ -455,7 +455,7 @@
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Grafiske designere",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)"
@@ -470,7 +470,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animasjon",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -546,7 +546,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produsenter",
                 "names": [
                     "Adrian Östergård",
                     "Andrea Lam",
@@ -805,7 +805,7 @@
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "Grafisk designer",
                 "names": [
                     "Markus Karlsson Frost"
                 ]
@@ -823,7 +823,7 @@
                 ]
             },
             {
-                "title": "Artist",
+                "title": "Kunstner",
                 "names": [
                     "Morten Rasmussen"
                 ]
@@ -976,7 +976,7 @@
         ]
     },
     {
-        "section": "Data and Analytics",
+        "section": "Data og analyser",
         "titles": [
             {
                 "title": "Head of Data Science and Analytics",
@@ -997,7 +997,7 @@
                 ]
             },
             {
-                "title": "Data Science",
+                "title": "Datavitenskap",
                 "names": [
                     "Anh Ying Lang (Design Laboratory Inc)",
                     "Bhrigu Shree",
@@ -1016,7 +1016,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datateknikk",
                 "names": [
                     "Bill Klees",
                     "Dhiraj Nilange",
@@ -1046,7 +1046,7 @@
         ]
     },
     {
-        "section": "Business & Licensing",
+        "section": "Forretning & lisensiering",
         "titles": [
             {
                 "title": "Head of Franchise Business Management",
@@ -1117,7 +1117,7 @@
                 ]
             },
             {
-                "title": "Business Analyst",
+                "title": "Forretningsanalytiker",
                 "names": [
                     "Keiko Ramer (Apex Systems, Inc)",
                     "Kristin Grein",
@@ -1143,7 +1143,7 @@
                 ]
             },
             {
-                "title": "Content Coordinators",
+                "title": "Innholdskoordinatorer",
                 "names": [
                     "Oskar Thysell"
                 ]
@@ -1301,7 +1301,7 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "Kommunikasjoner",
         "titles": [
             {
                 "title": "Chief Storyteller",
@@ -1367,7 +1367,7 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Finans",
         "titles": [
             {
                 "title": "Director of Finance",
@@ -1835,7 +1835,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datateknikk",
                 "names": [
                     "Patrick Fraioli"
                 ]
@@ -1843,10 +1843,10 @@
         ]
     },
     {
-        "section": "Development Partner: BBI",
+        "section": "Utviklingspartner: BBI",
         "titles": [
             {
-                "title": "Programmer",
+                "title": "Programmerer",
                 "names": [
                     "Curtis Hodgins",
                     "Devon Plourde",
@@ -1855,7 +1855,7 @@
                 ]
             },
             {
-                "title": "Associate Programmer",
+                "title": "Tilknyttet programmerer",
                 "names": [
                     "Jacky Cai"
                 ]
@@ -1882,7 +1882,7 @@
         ]
     },
     {
-        "section": "Development Partner: Disbelief",
+        "section": "Utviklingspartner: vantro",
         "titles": [
             {
                 "title": "",
@@ -1895,7 +1895,7 @@
         ]
     },
     {
-        "section": "Development Partner: Skybox",
+        "section": "Utviklingspartner: Skybox",
         "titles": [
             {
                 "title": "",
@@ -1960,7 +1960,7 @@
         ]
     },
     {
-        "section": "Development Partner: Red Lens Games",
+        "section": "Utviklingspartner: Red Lens Games",
         "titles": [
             {
                 "title": "President",
@@ -1998,7 +1998,7 @@
         ]
     },
     {
-        "section": "Development Partner: Virtuosity",
+        "section": "Utviklingspartner: Virtuosity",
         "titles": [
             {
                 "title": "Game Developers",
@@ -2052,7 +2052,7 @@
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Administrerende direktør",
                 "names": [
                     "Carl Manneh"
                 ]
@@ -2166,7 +2166,7 @@
                 ]
             },
             {
-                "title": "Additional Programming",
+                "title": "Tilleggsprogrammering",
                 "names": [
                     "Elliot 'Hippoplatimus' Segal",
                     "Paul Spooner",
@@ -2182,7 +2182,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arkitekter",
                 "names": [
                     "Tommaso Checchi"
                 ]
@@ -2297,13 +2297,13 @@
                 ]
             },
             {
-                "title": "3D/VFX",
+                "title": "3D/Visuelle effekter",
                 "names": [
                     "Elin Ölund Forsling"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Kunstnere",
                 "names": [
                     "Amanda Cook (Harvey Nash)",
                     "Bart Kaufman (Randstad)",
@@ -2317,7 +2317,7 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafikere",
                 "names": [
                     "Jerica Harada (TEKsystems, Inc)",
                     "Kristoffer Zetterstrand",
@@ -2325,7 +2325,7 @@
                 ]
             },
             {
-                "title": "Additional Graphics",
+                "title": "Ekstra grafikk",
                 "names": [
                     "Jonatan Pöljö",
                     "Mariana Graham Ramirez"
@@ -2380,7 +2380,7 @@
                 ]
             },
             {
-                "title": "Assistant Producer",
+                "title": "Assistentprodusent",
                 "names": [
                     "Warren Loo"
                 ]
@@ -2433,7 +2433,7 @@
                 ]
             },
             {
-                "title": "Business Administrators",
+                "title": "Forretningsadministratorer",
                 "names": [
                     "Shae M. Flanigan (C2S Technologies Inc)"
                 ]
@@ -2461,7 +2461,7 @@
                 ]
             },
             {
-                "title": "Data Science & Analytics",
+                "title": "Datavitenskap & analyserer",
                 "names": [
                     "Abby Jaloway (National Business Innovations)",
                     "Brynjólfur Erlingsson",
@@ -2500,7 +2500,7 @@
                 ]
             },
             {
-                "title": "Business Analysts",
+                "title": "Forretningsanalytikere",
                 "names": [
                     "Alvin M Chin (Populus Group, LLC)"
                 ]
@@ -2622,7 +2622,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Skybox",
+                "title": "Utviklingspartner: Skybox",
                 "names": [
                     "Ace Cheung",
                     "Alina Varela",
@@ -2688,7 +2688,7 @@
                 ]
             },
             {
-                "title": "Development Partner: BBI",
+                "title": "Utviklingspartner: BBI",
                 "names": [
                     "Alex Sharp - Assistant Producer",
                     "Andrew Yuennan - Programmer",
@@ -2718,7 +2718,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Red Lens",
+                "title": "Utviklingspartner: Red Lens",
                 "names": [
                     "Christopher Kohnert",
                     "Joshua Claeys",

@@ -72,30 +72,30 @@ Gespeeld door cowboys!
 Nu op OpenGL 3.2 core profiel!
 Duizenden kleuren!
 Probeer het uit!
-Age of Wonders is better!
+Age of Wonders is beter!
 Probeer de Paddenstoelenstoofpot!
 Sensationeel!
 Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
+Speel hem uit, toetsenbordkat!
 Gegarandeerd!
-Macroscopic!
+Macroscopisch!
 Laat maar komen!
-Random splash!
-Call your mother!
-Monster infighting!
-Loved by millions!
-Ultimate edition!
-Freaky!
-You've got a brand new key!
-Water proof!
-Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
-NP is not in P!
+Willekeurige splash!
+Bel je moeder!
+Geheime monsterstrijd!
+Geliefd door miljoenen!
+Ultieme editie!
+Grillig!
+Je hebt een brand nieuwe sleutel verkregen!
+Waterbestendig!
+Ontvlambaar!
+Wow, gast!
+Alles inclusief!
+Vertel het je vrienden!
+NP is niet in P!
 Muziek door C418!
-Livestreamed!
-Haunted!
+Live gestreamd!
+Behekst!
 Polynomial!
 Terrestrial!
 All is full of love!
@@ -105,30 +105,30 @@ Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
 Take frequent breaks!
-Not linear!
-Han shot first!
-Nice to meet you!
+Niet lineair!
+Han heeft als eerste geschoten!
+Leuk je te ontmoeten!
 Emmers lava!
-Ride the pig!
-Larger than Earth!
-sqrt(-1) love you!
+Rijd het varken!
+Groter dan aarde!
+sqrt(-1) houd van je!
 Phobos anomaly!
 Punching wood!
-Falling off cliffs!
+Van kliffen vallen!
 1% suiker!
 150% hyperbool!
 Synecdoche!
-Let's danec!
-Seecret Friday update!
-Reference implementation!
-Kiss the sky!
+Laten we dasnes!
+Geheeime vrijdag update!
+Referentie implementatie!
+Kus de wolken!
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
-4815162342 lines of code!
-A skeleton popped out!
+4815162342 regels code!
+Een skelet kwam tevoorschijn!
 The sum of its parts!
 BTAF used to be good!
 I miss ADOM!
@@ -154,55 +154,55 @@ Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
 Heter dan de zon!
-Internet enabled!
-Autonomous!
-Engage!
-Fantasy!
+Internet ingeschakeld!
+Autonoom!
+Aan de slag!
+Fantasie!
 DRR! DRR! DRR!
-Kick it root down!
-Regional resources!
+Schop het naar beneden!
+Regionale grondstoffen!
 Woo, facepunch!
-Woo, somethingawful!
-Woo, tigsource!
+Woo, iets verschrikkelijks!
+Woo, puntbron!
 Woo, worldofminecraft!
 Woo, reddit!
 Woo, 2pp!
-Google anlyticsed!
-Now supports åäö!
-Give us Gordon!
-Tip your waiter!
-Very fun!
-12345 is a bad password!
-Vote for net neutrality!
-Lives in a pineapple under the sea!
-MAP11 has two names!
+Google geanalyseerd!
+Ondersteunt nu åäö!
+Geef ons Gordon!
+Geef je ober fooi!
+Erg leuk!
+12345 is een slecht wachtwoord!
+Stem voor netneutraliteit!
+Leeft in een ananas onder de zee!
+MAP11 heeft twee namen!
 Omnipotent!
-Gasp!
+Slik!
 ...!
-Bijtjes, bijtjes, bijtjes, bijtjes!
+Bijen, bijen, bijen, bijen!
 Jag känner en bot!
-This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
+Dit is moeilijk te lezen als je het spel op normale resolutie speelt, maar met 1080p is het geweldig!
 Haha, LOL!
-Hampsterdance!
+Hampsterdans!
 Menger sponge!
 idspispopd!
 Eple (original edit)!
-So fresh, so clean!
-Slow acting portals!
-Try the Nether!
-Don't look directly at the bugs!
-Oh, ok, Pigmen!
-Finally with ladders!
-Scary!
-Play Minecraft, Watch Topgear, Get Pig!
-Twittered about!
-Jump up, jump up, and get down!
-Joel is neat!
-A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
+Zo fris, zo schoon!
+Langzaam werkende portalen!
+Probeer de Nether!
+Kijk niet rechtstreeks naar insecten!
+Oh, ok, Varkensman!
+Eindelijk met ladders!
+Eng!
+Speel Minecraft, kijk Topgear, krijg een varken!
+Over getwitterd!
+Spring, spring en omlaag!
+Joel is netjes!
+Een raadsel, verpakt in een mysterie!
+Deze papegaai is niet meer! It has ceased to be!
 Welcome to your Doom!
-Stay a while, stay forever!
-Stay a while and listen!
+Blijf een tijdje, blijf voor altijd!
+Blijf een tijdje en luister!
 Treatment for your rash!
 "Autological" is!
 Information wants to be free!
@@ -212,11 +212,11 @@ The creeper is a spy!
 Turing complete!
 It's groundbreaking!
 Let our battle's begin!
-The sky is the limit!
+De lucht is de grens!
 Jeb heeft geweldig haar!
-Ryan also has amazing hair!
-Casual gaming!
-Undefeated!
+Ryan heeft ook geweldig haar!
+Normaal gamen!
+Onverslagen!
 Kinda like Lemmings!
 Follow the train, CJ!
 Leveraging synergy!

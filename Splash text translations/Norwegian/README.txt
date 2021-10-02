@@ -1,15 +1,16 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Dette prosjektet ble skapt av SmajloSlovakian#1077 (Du vil ikke bli akseptert som venn om du sender venneforespørsel om du er helt fremmed for meg)
 
-How do i add this pack to Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
-  Resource Packs and pick the pack which has just appeared.
+Men hvordan legger jeg til denne pakken til Minecraft?
+--Da må du legge til mappen du nettopp har åpnet til din
+"\Appdata\Roaming\.minecraft\resourcepacks\" mappe, gå inn i Minecraft, innstillinger, 
+  Ressurspakker og velg deretter pakken som dukket opp.
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Resource packs folder..."
+Men hvordan kommer jeg meg inn i mappen til ressurspakkene?
+-Åpne Minecraft, gå inn i innstillingene, Ressurspakker, og deretter dra og slipp ressurspakken oppå Minecraft-vinduet...
+Men vent! Det fungerer ikke!
+-Trykk på knappen kalt "Ressurspakker..."
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+Målet med prosjektet mitt er å prøve å oversette teksten i Minecraft som ikke er med i den offisielle oversettelsen av Miencraft, slik som utkaststeksten på hovedmenyen, sluttdiktet, medvirkningslisten og annet.
+Det er en enkel samfunnsprosjekt som ikke har noe med Mojang AB. eller Minecraft i seg selv siden dette prosjektet drives fullstendig av samfunnet.

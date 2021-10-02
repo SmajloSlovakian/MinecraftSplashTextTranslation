@@ -21,11 +21,11 @@ Jösses Amalia!
 Det är ett spel!
 Tillverkad i Sverige!
 Använder LWJGL!
-Reticulating splines!
+Retikulerar splines!
 Minecraft!
 Jaaaa!
 Enspelarläge!
-Stödjer tangentbord!
+Stöder tangentbord!
 Tackor!
 En exploderande Creeper!
 Det där är ingen måne!
@@ -34,7 +34,7 @@ Skapa!
 Överlev!
 Fängelsehålor!
 Exklusivt!
-The bee's knees!
+Söt och underbar!
 Kopiering förbjuden!
 Stiligt!
 Dundersuccé!
@@ -76,7 +76,7 @@ Age of Wonders är bättre!
 Smaka på svampstuvningen!
 Storslagen sensation!
 Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
+Spela av honom från scenen, keyboard-katten!
 Garanterat!
 Makroskopiskt!
 Visa vad du går för!
@@ -112,13 +112,13 @@ Hinkar med lava!
 Rid grisen!
 Större än jorden!
 Jag älskar d-"sqrt(-1)"-g!
-Phobos anomaly!
+Phobos anomali!
 Ge trädet en snyting!
 Trillar ned för klippor!
 Sockerhalt: 1 %!
 150 % masshysteri!
 En synekdoke!
-Let's danec!
+Ska vi dnasa!
 Hemlig fredags-uppdatering!
 Referensimplementering!
 Kiss the sky!
@@ -135,7 +135,7 @@ Jag saknar ADOM!
 jauoddn!
 7KTQL!
 Ge mig Ray Cokes!
-Finger-licking!
+Mmm... Minecraft!
 Tematisk!
 Tryckluftsstyrd!
 Storslaget!
@@ -147,8 +147,8 @@ För evigt en ensam vit man!
 Representerar Edsbyn!
 Matt Damon!
 Superopti-mopsiskt-topp-i-pang-fenomenaliskt!
-Consummate V's!
-Cow Tools!
+Raka V:n!
+Ko-verktyg!
 Dubbelbuffrad!
 Fanfiktion!
 Flaxkikare!
@@ -168,9 +168,9 @@ Tjoho, worldofminecraft!
 Tjoho, reddit!
 Tjoho, 2pp!
 Analyserat med Google!
-Stödjer nu åäö!
-Give us Gordon!
-Tip your waiter!
+Stöder nu åäö!
+Ge oss Gordon!
+Skänk en slant!
 Väldigt roligt!
 Det är inte smart att använda 12345 som lösenord!
 Rösta för nätneutralitet!
@@ -179,7 +179,7 @@ MAP11 har två namn!
 Allsmäktigt!
 Flämt!
 ...!
-Bees, bees, bees, bees!
+Surr, surr, surr, surr!
 Jag känner en bot!
 Den här texten är svår att läsa om du spelar med standardupplösningen, men i 1080p går det bra!
 Haha, ASG!
@@ -198,32 +198,32 @@ Spela Minecraft, titta på Top Gear, skaffa en gris!
 Det twittras mycket om det!
 Jump up, jump up, and get down!
 Joel är grym!
-A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
-Welcome to your Doom!
-Stay a while, stay forever!
-Stay a while and listen!
+En gåta, omsvept av mysterium!
+Den här papegojan finns inte mer! Dess existens har upphört!
+Idag är din domedag!
+Stanna ett tag, stanna för evigt!
+Stanna kvar och lyssna!
 Behandling för svåra utslag!
-"Autological" is!
-Information wants to be free!
+"Autologisk" är!
+Information söker sig alltid fri!
 "Nästan aldrig" är ett intressant begrepp!
-Lots of truthiness!
-The creeper is a spy!
+Min känsla säger att det stämmer!
+Denna Creeper är en spion!
 Turingkomplett!
 Helt banbrytande!
-Let our battle's begin!
+Början på en livs lång strid!
 Bara fantasin sätter gränser!
 Jeb har otroligt hår!
 Ryan har också otroligt hår!
 En helt vanlig spelstund!
 Obesegrad!
 Ungefär som Lemmings!
-Follow the train, CJ!
-Leveraging synergy!
+Följ efter tåget, CJ!
+Bästa praxis!
 Det här meddelandet kommer aldrig att visas som en textremsa, är inte det konstigt?
 DungeonQuest är orättvist!
 90210!
-Check out the far lands!
+Ta dig till kanten!
 Tyrion hade älskat det!
 Rekommenderar även VVVVVV!
 Rekommenderar även Super Meat Boy!
@@ -235,12 +235,12 @@ Rekommenderar även Limbo!
 Rekommenderar även Pixeljunk Shooter!
 Rekommenderar även Braid!
 Det låter toppen!
-Bread is pain!
+Rolig betyder lugn!
 Läs fler böcker!
 Khaaaaaaaaan!
-Less addictive than TV Tropes!
+Inte lika beroendeframkallande som TV Tropes!
 Mer beroendeframkallande än saft!
-Bigger than a bread box!
+Större än en brödkorg!
 Millions of peaches!
 Fnord!
 Skåda min sanna skepnad!
@@ -251,21 +251,21 @@ Har ett slut!
 Äntligen färdigt!
 Fullpackat med innehåll!
 Boots with the fur!
-Stop, hammertime!
-Testificates!
+Hammardags!
+Testifikat!
 Konventionellt!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
-Place ALL the blocks!
-Does barrel rolls!
+Homeomorf med en 3-dimensionell sfär!
+Negationer är inte oförvirrande!
+Placera ALLA blocken!
+Gör rollar!
 Uppfyller alla förväntningar!
-PC gaming since 1873!
-Ghoughpteighbteau tchoghs!
+Dataspel sedan 1873!
+Får får får? Nej, får får inte får, får får lam!
 Déjà vu!
 Déjà vu!
 Tog din näsa!
 Haley är kär i Elan!
-Afraid of the big, black bat!
+Rädd för en stor, svart fladdermus!
 Helt fritt från U-ordet!
 Rena rama lekstugan!
 Då syns vi kanske på fredag!
@@ -281,47 +281,47 @@ Cześć Polsko!
 你好中国！
 Привет Россия!
 Γεια σου Ελλάδα!
-My life for Aiur!
+Jag ger mitt liv för Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Jag märker att dit ordförråd har förbättrats!
+Vem lade den där?
+Förklara det om du kan!
 if not gött then return end
 §1F§2ä§3r§4g§5s§6t§7a§8r§9k
 §kFUNKY LOL
-Big Pointy Teeth!
-Bekarton guards the gate!
+Stora vassa tänder!
+Bekarton vaktar porten!
 Mmmff, mmmff!
 Ge aldrig avokado till en papegoja!
 Svärd till alla!
 Snälla svara på min tweet!
 .party()!
 Ta hennes kudde!
-Put that cookie down!
+Lägg ned den där kakan!
 Ganska läskigt!
 Jag har ett förslag.
 Nu med extra många kramar!
 Nu med Java 16!
 Hörru.
 HURNERJSGER?
-What's up, Doc?
+Vad händer, Doc?
 Innehåller nu dagligen 32 slumpmässigt utvalda katter!
-That's Numberwang!
+Det där är Numberwang!
 Snälla retweeta!
 Vill du vara med på min server?
-Put a little fence around it!
-Throw a blanket over it!
+Bygg ett litet staket runt den!
+Släng en filt över den!
 En vacker dag kommer någon att citera mitt verk!
 Nu med ännu fler grejer!
 Fler saker!
 Hurra, valpar till alla!
 So sweet, like a nice bon bon!
-Very influential in its circle!
+Väldigt inflytelserik i sin cirkel!
 Nu med ett flerspelarläge!
-Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
-Run, coward! I hunger!
+Stig upp från din grav!
+Se upp! Ett stort stridsskepp "STEVE" närmar sig snabbt!
+Den blå krigaren sköt maten!
+Fly, fegis! Jag hungrar!
 Flavor with no seasoning!
 Strange, but not a stranger!
 Tougher than diamonds, rich like cream!
@@ -330,51 +330,51 @@ Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
+Sluta vara förståndig, det här är internet!
 /give @a kramar 64
 Det här är bra för Realms.
 Är man våghalsig nog är alla datorer bärbara!
-Do it all, everything!
-Where there is not light, there can spider!
+Gör alltihop!
+Dit ljuset inte når, där finns spindlar!
 GNU Terry Pratchett
 Ännu mer digital!
-doot doot
-Falling with style!
-There's no stopping the Trollmaso
-Throw yourself at the ground and miss
-Rule #1: it's never my fault
+tuut tuut
+Faller med stil!
+Inget kan stoppa Trollmaso
+Kasta sig till marken och missa
+Regel nummer ett, det är aldrig mitt fel
 Blev smält ost ersatt av blod?
-Absolutely fixed relatively broken coordinates
+Fixade absolut relativt felande koordinater
 Länge leve båtar!
 Javatastisk utgåva
 Får inte spelas medan du kör
 Du färdas för snabbt!
 Ge aldrig choklad till en papegoja!
 Den sanna innebörden av "covfefe"
-An illusion! What are you hiding?
-Something's not quite right...
-Thank you for the fish!
-All rumors are true!
-Truly gone fishing!
+En hägring! Vad döljer du?
+Något stämmer inte...
+Tack för fisken!
+Alla rykten stämmer!
+Helt bakom flötet!
 Regnbågssköldpadda?
 Någonting skojigt!
 Jag behöver mer bakgrundsinformation.
 Aaaaaaa!
-Don't worry, be happy!
+Ta't lugnt, var lycklig!
 Vattenflaska!
 Vad var frågan nu igen?
 Plantera ett träd!
 Gå till tandläkaren!
 Vad förväntade du dig?
 Titta mamma, jag är en textremsa!
-It came from space.
-Awesome game design right there!
-Ph1lza had a good run!
+Kom från rymden.
+Där har vi grym speldesign!
+Ph1lza klarade sig länge!
 Tio år av byggande och grävande!
-Ping the human!
-In case it isn't obvious, foxes aren't players.
+Människan Ping!
+Ifall ni missat det så är inte rävar spelare.
 Flitiga bin!
-Minecraft Java Edition presents: Disgusting Bugs
+Minecraft Java Edition presenterar: vidrig ohyra
 Tvätta händerna!
 Tvål och vatten!
 Hjälp lokala företag!
@@ -391,16 +391,16 @@ Handla åt äldre!
 Träffa dina vänner över internet!
 Älskling, jag förstorade bina!
 Hitta ditt grepp!
-Everybody do the Leif!
-<3 Max & 99 & Ducky!
-Bushy eyebrows!
-Edit is a name!
+Alla drar en Leif!
+<3 Max & 99 & Ankis!
+Buskiga bryn!
+Rita är ett namn!
 Från frigående utvecklare!
 Med musik komponerad av Lena Raine!
 Åh nej!
 #minecraftfarmer
-And my pickaxe!
-Envision! Create! Share!
+Och min hacka!
+Dröm! Skapa! Dela!
 Grafiken är helt fabulös!
 Rekommenderar även Minecraft Dungeons!
 Originalet!
@@ -408,19 +408,19 @@ Kan innehålla spår av citrusfrukt!
 Zoglin!?
 Black lives matter!
 Var en antirasist!
-Learn about allyship!
+Stå med dem som blir orättvist behandlade!
 Agera MOT orättvisor och kämpa FÖR jämlikhet!
-Amplify and listen to BIPOC voices!
+Förstärk och lyssna på röster från BIPOC!
 Lär dina vänner att vara antirasister!
-Support the BIPOC community and creators!
+Stöd BIPOC-gemenskapen och dess skapare!
 Kämpa för jämlikhet i ditt område!
 [den här textremsan har blivit uppskjuten till del 2]
 Innehåller simulerade getter!
 Hemmagjort!
 Det står <<en katt på ,mitt tangentbord!~
 Det gulligaste rovdjuret du någonsin kommer se!
-Now you are thinking with pistons!
-Get to the coppah!
+Nu tänker du med kolvar!
+Koppar av koppar!
 Finns även som bordsspel!
 Älskling, jag vaxade in kopparn!
 Växtbaserade ljuskällor!

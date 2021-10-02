@@ -3,7 +3,7 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Majnkraftestro",
+                "title": "Ĉefo de Minecraft",
                 "names": [
                     "Helen Chiang"
                 ]
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "section": "Grafikaj dezajnistoj",
+        "section": "Dezajno",
         "titles": [
             {
                 "title": "Krea ĉefdirektoro",
@@ -94,7 +94,7 @@
                 ]
             },
             {
-                "title": "Stokholma ĉefinĝiniero",
+                "title": "Stokholma inĝinierestro",
                 "names": [
                     "Mike Carlson"
                 ]
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "title": "Komponistoj de la muziko",
+                "title": "Komponistoj",
                 "names": [
                     "Daniel Rosenfeld",
                     "Lena Raine"
@@ -840,19 +840,19 @@
         "section": "Sperto de uzantoj",
         "titles": [
             {
-                "title": "Direktoro de dezajno de sperto de uzanto",
+                "title": "Direktoro de dezajno de sperto de uzantoj",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "Ĉefo de dezajno de sperto de uzanto",
+                "title": "Ĉefo de dezajno de sperto de uzantoj",
                 "names": [
                     "Jonathan Paton Gallina"
                 ]
             },
             {
-                "title": "Dezajnistoj de sperto de uzanto",
+                "title": "Dezajnistoj de sperto de uzantoj",
                 "names": [
                     "Daniel Feldt",
                     "Jin Shin",
@@ -979,7 +979,7 @@
         "section": "Datumoj kaj analizoj",
         "titles": [
             {
-                "title": "Ĉefo de datumoj kaj analizoj",
+                "title": "Ĉefo de datumscienco kaj analizoj",
                 "names": [
                     "Francisco Rius"
                 ]
@@ -1046,7 +1046,7 @@
         ]
     },
     {
-        "section": "Negocoj & linencoj",
+        "section": "Negocoj & licencoj",
         "titles": [
             {
                 "title": "Ĉefo de manaĝerado de franĉizaj negocoj",
@@ -1207,7 +1207,7 @@
                 ]
             },
             {
-                "title": "Direktoro de la komunumo",
+                "title": "Direktoro de komunumo",
                 "names": [
                     "Nea Aime Rollan"
                 ]
@@ -1254,14 +1254,14 @@
                 ]
             },
             {
-                "title": "Merkatikaj direktoroj",
+                "title": "Merkatadaj direktoroj",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
                 ]
             },
             {
-                "title": "Merkatikaj manaĝeroj",
+                "title": "Merkatadaj manaĝeroj",
                 "names": [
                     "Anton Maslennikov",
                     "Ashley Davidson (Simplicity Consulting Inc)",
@@ -1819,7 +1819,7 @@
         ]
     },
     {
-        "section": "Kvalito - Teamo de Grand-Britio",
+        "section": "Kvalito - UK Team",
         "titles": [
             {
                 "title": "Testa manaĝero",
@@ -1867,7 +1867,7 @@
                 ]
             },
             {
-                "title": "Dezajnisto de sperto de uzanto",
+                "title": "Dezajnisto de sperto de uzantoj",
                 "names": [
                     "Sam Flores"
                 ]
@@ -2380,7 +2380,7 @@
                 ]
             },
             {
-                "title": "Asistant-produktoro",
+                "title": "Asistproduktoro",
                 "names": [
                     "Warren Loo"
                 ]
@@ -2405,14 +2405,14 @@
                 ]
             },
             {
-                "title": "Direktoro de dezajno de sperto de uzanto",
+                "title": "Direktoro de dezajno de sperto de uzantoj",
                 "names": [
                     "Stephen Whetstine",
                     "Tobias Ahlin"
                 ]
             },
             {
-                "title": "Dezajnisto de sperto de uzanto",
+                "title": "Dezajnisto de sperto de uzantoj",
                 "names": [
                     "Connor Tompsett (CompuCom Systems Inc)",
                     "Lily Ekman",
@@ -2587,7 +2587,7 @@
                 ]
             },
             {
-                "title": "Merkatika manaĝero",
+                "title": "Merkatada manaĝero",
                 "names": [
                     "Bianca Ciotti",
                     "Delilah Liu",

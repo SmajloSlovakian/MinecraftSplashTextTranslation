@@ -33,7 +33,7 @@
                 ]
             },
             {
-                "title": "Konstnärliga ledare",
+                "title": "Konstnärlig ledning",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
@@ -88,19 +88,19 @@
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Underhålls- och driftansvarig",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Stockholm Engineering",
+                "title": "Teknikchef, Stockholm",
                 "names": [
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Varumärkeschef",
                 "names": [
                     "Matthew Ng"
                 ]
@@ -335,7 +335,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Programvarutekniker, underhåll",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Corey Goodman (Insight Global, Inc)",
@@ -391,16 +391,16 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Bildkonst",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Konstchef",
                 "names": [
                     "Andy Zibits"
                 ]
             },
             {
-                "title": "Art Leads",
+                "title": "Ledande bildkonstnärer",
                 "names": [
                     "Daniel Björkefors",
                     "Joel Garvin",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Bildkonstnärer",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -430,39 +430,39 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Ledande teknisk artist",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Teknisk artist",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafiker",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Ledande grafiska formgivare",
                 "names": [
                     "Christine Gutierrez"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Grafiska formgivare",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)"
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Formgivare, rörlig grafik",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Kim Petersen",
@@ -481,49 +481,49 @@
         "section": "Produktion",
         "titles": [
             {
-                "title": "Head of Creator",
+                "title": "Ansvarig för skapandeprocessen",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Platform Engineering",
+                "title": "Ansvarig för plattformsteknik",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Chef över Minecraft, Kina",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "Ansvarig för affärsteknik",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Ansvarig för marknadsplatsen",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Spelansvarig",
                 "names": [
                     "Patrick Liu"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Ansvarig för Minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Verkställande producent",
                 "names": [
                     "Allison Matthews",
                     "Anita Sujarit",
@@ -538,7 +538,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Produktionschefer",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -546,7 +546,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Producenter",
                 "names": [
                     "Adrian Östergård",
                     "Andrea Lam",
@@ -598,20 +598,20 @@
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Organisationskonsult",
                 "names": [
                     "Marie Stålkrantz",
                     "Yassal Sundman"
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Ledande utgivningshanterare",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Utgivningshanterare",
                 "names": [
                     "Josh Mulanax",
                     "Joshua Bullard",
@@ -619,14 +619,14 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "Kvalitetssäkring",
                 "names": [
                     "Matthew Dryden",
                     "Thommy Siverman"
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Kvalitetstekniker",
                 "names": [
                     "Zackarias Gustavsson"
                 ]
@@ -644,7 +644,7 @@
         "section": "Brand Creative",
         "titles": [
             {
-                "title": "Head of Creative Production",
+                "title": "Ansvarig för kreativ produktion",
                 "names": [
                     "Katharina Hautz"
                 ]
@@ -656,7 +656,7 @@
                 ]
             },
             {
-                "title": "Lead Brand Producer",
+                "title": "Ledande varumärkesutvecklare",
                 "names": [
                     "Åsa Skogström"
                 ]
@@ -668,7 +668,7 @@
                 ]
             },
             {
-                "title": "Brand Producers",
+                "title": "Varumärkesutvecklare",
                 "names": [
                     "Hampus Nilsson",
                     "Jenny Ahnell",
@@ -709,20 +709,20 @@
                 ]
             },
             {
-                "title": "Lead Media & Events Producer",
+                "title": "Ledande medieproducent och evenemangsarrangör",
                 "names": [
                     "Sarah Carton"
                 ]
             },
             {
-                "title": "Media Producers",
+                "title": "Medieproducenter",
                 "names": [
                     "Adele Major",
                     "Johan Kvarnermo"
                 ]
             },
             {
-                "title": "Events Producer",
+                "title": "Evenemangsarrangör",
                 "names": [
                     "Charlotte Hallberg Angantyr"
                 ]
@@ -763,19 +763,19 @@
                 ]
             },
             {
-                "title": "Head of Social Media",
+                "title": "Ansvarig för sociala medier",
                 "names": [
                     "Alice Löfgren"
                 ]
             },
             {
-                "title": "Social & Comms Producer",
+                "title": "Ansvarig för sociala medier och kommunikation",
                 "names": [
                     "Isabella Balk"
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "Sociala medier-förvaltare",
                 "names": [
                     "Alex Fleck (Adecco)",
                     "David Ramos (Collabera)",
@@ -784,7 +784,7 @@
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Konstchefer",
                 "names": [
                     "Johan Aronsson",
                     "Ninni Landin",
@@ -793,25 +793,25 @@
                 ]
             },
             {
-                "title": "Art Lead Events",
+                "title": "Ledande bildkonstnär, evenemang",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Art Lead Social",
+                "title": "Ledande bildkonstnär, sociala medier",
                 "names": [
                     "Seung Sung"
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "Grafisk formgivare",
                 "names": [
                     "Markus Karlsson Frost"
                 ]
             },
             {
-                "title": "3D Artist / Motion Graphic Designer",
+                "title": "3D-grafiker (formgivare, rörlig grafik)",
                 "names": [
                     "Jesper Hallin"
                 ]
@@ -823,13 +823,13 @@
                 ]
             },
             {
-                "title": "Artist",
+                "title": "Formgivare",
                 "names": [
                     "Morten Rasmussen"
                 ]
             },
             {
-                "title": "Gameplay Capture Artist",
+                "title": "Spelfotograf",
                 "names": [
                     "Husein Kurbegovic"
                 ]
@@ -837,22 +837,22 @@
         ]
     },
     {
-        "section": "User Experience",
+        "section": "Användarupplevelse",
         "titles": [
             {
-                "title": "User Experience Design Director",
+                "title": "Chefsformgivare, användarupplevelse",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "User Experience Design Lead",
+                "title": "Ledande formgivare, användarupplevelse",
                 "names": [
                     "Jonathan Paton Gallina"
                 ]
             },
             {
-                "title": "User Experience Designers",
+                "title": "Formgivare, användarupplevelse",
                 "names": [
                     "Daniel Feldt",
                     "Jin Shin",
@@ -865,7 +865,7 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Drift",
         "titles": [
             {
                 "title": "Franchise Chief Operations Officer",
@@ -874,7 +874,7 @@
                 ]
             },
             {
-                "title": "Head of Stockholm Operations",
+                "title": "Driftansvarig, Stockholm",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -886,13 +886,13 @@
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Personalchef",
                 "names": [
                     "Amy Stillion"
                 ]
             },
             {
-                "title": "Human Resources",
+                "title": "Personalansvariga",
                 "names": [
                     "Aleksandra Zajac",
                     "David Hill",
@@ -931,7 +931,7 @@
                 ]
             },
             {
-                "title": "IT Manager",
+                "title": "IT-ansvarig",
                 "names": [
                     "Cesar Sima Falck",
                     "Jason Perry Minard"
@@ -1248,7 +1248,7 @@
         "section": "Marketing",
         "titles": [
             {
-                "title": "Head of Marketing",
+                "title": "Marknadsföringsansvarig",
                 "names": [
                     "Jessica Freeman"
                 ]
@@ -1284,7 +1284,7 @@
         "section": "Legal",
         "titles": [
             {
-                "title": "Head of Legal",
+                "title": "Chefsjurist",
                 "names": [
                     "Nick Morgan"
                 ]
@@ -2040,7 +2040,7 @@
                 ]
             },
             {
-                "title": "Head of Minecraft",
+                "title": "Chef över Minecraft",
                 "names": [
                     "Matt Booty"
                 ]
@@ -2303,7 +2303,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Bildkonstnärer",
                 "names": [
                     "Amanda Cook (Harvey Nash)",
                     "Bart Kaufman (Randstad)",
@@ -2317,7 +2317,7 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafiker",
                 "names": [
                     "Jerica Harada (TEKsystems, Inc)",
                     "Kristoffer Zetterstrand",
@@ -2332,7 +2332,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Formgivare, rörlig grafik",
                 "names": [
                     "Gabe Philbin (Randstad)"
                 ]
@@ -2534,7 +2534,7 @@
                 ]
             },
             {
-                "title": "Head of Social Media",
+                "title": "Ansvarig för sociala medier",
                 "names": [
                     "Amelia Dale"
                 ]
