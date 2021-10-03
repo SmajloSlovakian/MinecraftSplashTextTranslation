@@ -76,17 +76,17 @@ Age of Wonders jest lepsza!
 Spróbuj zupy grzybowej!
 Rewelacyjny!
 Hot tamale, hot hot tamale!
-Ograj go, klawiaturowy kocie!
+Play him off, keyboard cat!
 Gwarantowany!
 Makroskopijny!
 Do dzieła!
-Przypadkowa wiadomość powitalna!
+Losowa wiadomość powitalna!
 Zadzwoń do matki!
 Konflikt potworów!
 Uwielbiany przez miliony!
 Edycja ostateczna!
 Dziwaczny!
-Masz całkowicie nowy klucz!
+You've got a brand new key!
 Wodoodporny!
 Trudnopalny!
 Hola, chłopie!
@@ -134,7 +134,7 @@ BTAF kiedyś był dobry!
 Tęsknie za ADOM!
 nłop op èrǫ6!
 OICU812!
-Bring me Ray Cokes!
+Dawać tu Raya Cokesa!
 Palce lizać!
 Tematyczny!
 Pneumatyczny!
@@ -150,7 +150,7 @@ Superkalifradalistodekspialitycznie!
 Consummate V's!
 Krowie narzędzia!
 Podwójny bufor!
-Fan fikcja!
+Fanfikcja!
 Flaxkikare!
 Jason! Jason! Jason!
 Gorętszy niż słońce!
@@ -167,7 +167,7 @@ Zasoby regionalne!
 Ło, worldofminecraft!
 Ło, reddit!
 Ło, 2pp!
-Anliza Google!
+Analitykogooglowane!
 Teraz obsługuje åäö!
 Dajcie nam Gordona!
 Zostawiaj napiwek kelnerom!
@@ -187,7 +187,7 @@ Hampsterdance!
 Kostka Mengera!
 idspispopd!
 Eple (original edit)!
-Tak świeże, tak czyste!
+So fresh, so clean!
 Portale o powolnym działaniu!
 Wypróbuj Netheru!
 Nie patrz bezpośrednio na błędy!
@@ -209,7 +209,7 @@ Informacja chce być wolna!
 „Prawie nigdy” to interesująca koncepcja!
 Dużo prawdziwości!
 Creeper to szpieg!
-Kompletność Turinga!
+Osiągnął kompletność Turinga!
 Przełomowy!
 Bitwę uważam się za rozpoczętą!
 Nie ma ograniczeń!
@@ -235,7 +235,7 @@ Zagraj również w Limbo!
 Zagraj również w Pixeljunk Shooter!
 Zagraj również w Braid!
 To ekstra!
-Bread is pain!
+Łóżko to ból!
 Przeczytaj więcej książek!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
@@ -339,14 +339,14 @@ Gdzie nie jest światło, tam może pająk!
 GNU Terry Pratchett
 Bardziej cyfrowy!
 doot doot
-Stylowe spadanie!
+Spadanie z klasą!
 Trollmaso nie można powstrzymać
 Rzuć się na ziemię i spudłuj
 Zasada nr 1: wina nigdy nie jest moja
 Zastąpili roztopiony ser krwią?
 Bezwzględnie zniweczono względnie zepsute współrzędne
 Łódki górą
-Edycja Javasmienita
+Javastyczna edycja
 Nie graj podczas jazdy
 Poruszasz się za szybko!
 Nie karm papug czekoladą!
@@ -358,7 +358,7 @@ Wszystkie plotki są prawdziwe!
 Truly gone fishing!
 Tęczowy żółw?
 Coś śmiesznego!
-Potrzebuję więcej kontekstu.
+Potrzebuję dodatkowego kontekstu.
 Aaaaaaa!
 Don't worry, be happy!
 Butelka wody!
@@ -371,7 +371,7 @@ Przybył z kosmosu.
 I to się nazywa design gry!
 Ph1lzie nieźle poszło!
 Dziesięć lat kopania i wytwarzania!
-Ping the human!
+Pinguj człowieka!
 Jeśli to nie oczywiste, lisy to nie gracze.
 Brzęczące pszczoły!
 Minecraft Java Edition przedstawia: odrażające usterki
