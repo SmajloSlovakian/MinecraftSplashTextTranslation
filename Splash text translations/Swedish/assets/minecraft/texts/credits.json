@@ -662,7 +662,7 @@
                 ]
             },
             {
-                "title": "Brand Art Director",
+                "title": "Konstchef, varumärke",
                 "names": [
                     "Martin Johansson"
                 ]
@@ -676,7 +676,7 @@
                 ]
             },
             {
-                "title": "Brand Assurance Manager",
+                "title": "Varumärkesansvarig",
                 "names": [
                     "Celene Tolentino (Harvey Nash)",
                     "Dana Mack (Harvey Nash)"
@@ -904,19 +904,19 @@
                 ]
             },
             {
-                "title": "Office Manager",
+                "title": "Kontorschef",
                 "names": [
                     "Siri Hoel Andersson"
                 ]
             },
             {
-                "title": "Office Coordinators",
+                "title": "Kontorskoordinatorer",
                 "names": [
                     "Joël Älveroth"
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Företagsekonomer",
                 "names": [
                     "Erin Decker",
                     "Judy Wheeler",
@@ -925,7 +925,7 @@
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Receptionist",
                 "names": [
                     "Adam Blänning"
                 ]
@@ -951,19 +951,19 @@
                 ]
             },
             {
-                "title": "Operations Manager",
+                "title": "Verksamhetschef",
                 "names": [
                     "Sheila Ho"
                 ]
             },
             {
-                "title": "Lead Automation Support",
+                "title": "Ledande utvecklare, automatiserad kundtjänst",
                 "names": [
                     "Matthew C. Moreno"
                 ]
             },
             {
-                "title": "Automation Support",
+                "title": "Utvecklare, automatiserad kundtjänst",
                 "names": [
                     "Chris Ilson (Collabera)",
                     "Corey Smith (Insight Global, Inc)",
@@ -976,16 +976,16 @@
         ]
     },
     {
-        "section": "Data and Analytics",
+        "section": "Datahantering och analys",
         "titles": [
             {
-                "title": "Head of Data Science and Analytics",
+                "title": "Ansvarig för dataanalyser",
                 "names": [
                     "Francisco Rius"
                 ]
             },
             {
-                "title": "Data Science Lead",
+                "title": "Ledande dataanalytiker",
                 "names": [
                     "Abby Gaddis"
                 ]
@@ -997,7 +997,7 @@
                 ]
             },
             {
-                "title": "Data Science",
+                "title": "Dataanalytiker",
                 "names": [
                     "Anh Ying Lang (Design Laboratory Inc)",
                     "Bhrigu Shree",
@@ -1027,7 +1027,7 @@
         ]
     },
     {
-        "section": "User Research",
+        "section": "Användarforskning",
         "titles": [
             {
                 "title": "User Research Studio Lead",
