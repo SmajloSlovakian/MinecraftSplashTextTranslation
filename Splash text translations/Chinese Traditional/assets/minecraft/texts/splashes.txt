@@ -1,8 +1,8 @@
 就如同在電視看到一樣！
 真棒！
-100% pure!
-May contain nuts!
-More polygons!
+純正0添加！
+可能含有堅果成分！
+更加多邊型！
 Moderately attractive!
 Limited edition!
 Flashing letters!
@@ -193,7 +193,7 @@ Try the Nether!
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
-Scary!
+恐怖！
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
@@ -245,7 +245,7 @@ Millions of peaches!
 Fnord!
 This is my true form!
 Don't bother with the clones!
-Pumpkinhead!
+南瓜頭！
 Made by Jeb!
 Has an ending!
 Finally complete!
@@ -261,8 +261,8 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
+逮蝦戶！
+逮蝦戶！
 Got your nose!
 Haley loves Elan!
 Afraid of the big, black bat!
@@ -278,16 +278,16 @@ Pumpa kungen!
 한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
-你好中国！
+你好中國！
 Привет Россия!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+你的詞彙量增加了！
+誰把它放這的？
+你解釋不了！
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+§1五§2顏§3六§4色§5的§6繽§7紛§8大§9世§a界！
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
@@ -319,7 +319,7 @@ So sweet, like a nice bon bon!
 Very influential in its circle!
 Now With Multiplayer!
 Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
+注意！ A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
 Run, coward! I hunger!
 Flavor with no seasoning!
@@ -331,7 +331,7 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
+/give @a 抱抱 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
@@ -359,18 +359,18 @@ Truly gone fishing!
 Rainbow turtle?
 Something funny!
 I need more context.
-Ahhhhhh!
+啊啊啊啊啊！！！
 Don't worry, be happy!
 Water bottle!
 What's the question?
 Plant a tree!
 Go to the dentist!
-What do you expect?
+你在期待什麼？
 Look mum, I'm in a splash!
-It came from space.
+它來自太空
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+挖挖做做又10年！
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
@@ -382,7 +382,7 @@ Stay home and play games!
 Stay safe!
 Stay strong!
 Cough or sneeze into your elbow!
-Don’t touch your face!
+別碰你的臉！
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
@@ -405,8 +405,8 @@ Fabulous graphics!
 Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
-Zoglin!?
-Black lives matter!
+豬屍獸！？
+黑人的命也是命！
 Be anti-racist!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
@@ -424,4 +424,4 @@ Get to the coppah!
 Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
+由「真」人製作！
