@@ -1,24 +1,24 @@
 As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
-Heaps of hits on YouTube!
-Indev!
-Spiders everywhere!
-Check it out!
-Holy cow, man!
-It's a game!
+Fantastisk!
+100% ren!
+Kan inneholde spor av nøtter!
+Flere polygoner!
+Moderat tiltrekkende!
+Begrenset utgave!
+Blinkende bokstaver!
+Endelig her!
+Best i test!
+Det er endelig ferdige!
+Nesten fri for drager!
+Spenning!
+Solgte mer enn 500 eksemplarer!
+Noe helt for seg selv!
+Fått masse treff på YouTube!
+Under utvikling!
+Edderkopper overalt!
+Sjekk det ut!
+I alle dager!
+Det er et spill!
 Made in Sweden!
 Uses LWJGL!
 Reticulating splines!
