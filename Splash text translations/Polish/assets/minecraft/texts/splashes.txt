@@ -7,13 +7,13 @@ Umiarkowanie atrakcyjny!
 Edycja limitowana!
 Migocące literki!
 Już tu jest!
-Najlepszy w klasie!
+Najlepszy w swojej klasie!
 Ukończony!
 Prawie bez smoka!
 Ekscytacja!
 Ponad 500 sprzedanych egzemplarzy!
 Jedyny w swoim rodzaju!
-Heaps of hits on YouTube!
+Mnóstwo wyświetleń na YouTubie!
 Indev!
 Wszędzie pająki!
 Sprawdź teraz!
@@ -35,10 +35,10 @@ Przetrwaj!
 Lochy!
 Na wyłączność!
 Rewelacja!
-Zamknięte źródło!
+Oprogramowanie zamknięte!
 Z klasą!
 Łał!
-Nie na platformie steam!
+Nie znajdziesz na Steamie!
 O ja cię!
 Niesamowita społeczność!
 Piksele!
@@ -58,7 +58,7 @@ Obliczenia w chmurze!
 Legalny w Finlandii!
 Trudny do opisania!
 Formalnie dobry!
-Zarabiaj hajs!
+Najciemniej pod latarnią!
 Indie!
 Gra roku!
 Ceci n'est pas une ekran tytułowy!
@@ -323,11 +323,11 @@ Uwaga! Ogromny statek bojowy "STEVE" nadciąga z dużą prędkością!
 Niebieski wojownik strzelił do jedzenia!
 Uciekaj, tchórzu! Ja głód!
 Smak bez przypraw!
-Strange, but not a stranger!
-Tougher than diamonds, rich like cream!
-It swings, it jives!
-Cruising streets for gold!
-Take an eggbeater and beat it against a skillet!
+Zegarmistrz światła purpurowy!
+Jestem z miasta!
+Widać, słychać i czuć!
+Dni, których jeszcze nie znamy!
+Parę chwil, na które czekamy!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Przestań być rozsądny, jesteśmy w Internecie!
@@ -385,10 +385,10 @@ Kaszl i kichaj w łokieć!
 Nie dotykaj swojej twarzy!
 Wspomóż starszych krewnych i znajomych!
 Przygotuj się, ale nie gromadź!
-Gracze łączcie się - osobno we własnych domach!
-Uratuj świat - zostań wewnątrz!
-Kup swoim starszym!
-Spotkaj się ze znajomymi online!
+Gracze, jednoczcie się… osobno we własnych domach!
+Uratuj świat, zostając w domu!
+Rób zakupy dla starszych osób!
+Spotykaj się online z przyjaciółmi!
 Kochanie, wyhodowałem pszczoły!
 Znajdź swój pazur!
 Everybody do the Leif!
@@ -400,27 +400,27 @@ Muzyka autorstwa Leny Raine!
 Aww man!
 #minecraftfarms
 I mój kilof!
-Projektuj! Twórz! Udostępniaj!
-Wspaniała grafika!
+Projektuj! Twórz! Dziel się!
+Bajeczna grafika!
 Zagraj również w Minecraft Dungeons!
-Wanilia!
+Vanilla!
 Może zawierać śladowe ilości cytrusów!
 Zoglin!?
-Black lives matter!
-Bądź antyrasistowski!
-Learn about allyship!
-Speak OUT against injustice and UP for equality!
+BLM!
+Przeciwstawiaj się rasizmowi!
+Okazuj wsparcie!
+Opowiedz się przeciwko dyskryminacji i za równouprawnieniem!
 Amplify and listen to BIPOC voices!
-Uświadom znajomych na temat anty-rasizmu!
+Uświadom znajomych na temat antyrasizmu!
 Wspieraj społeczność BIPOC oraz twórców!
 Broń równości w swojej społeczności!
 [ten tekst powitalny został opóźniony do części 2]
 Zawiera symulowane kozy!
 Domowej roboty!
 Mam <<kota ,na klawiaturze!~
-Najsłodszy drapieżnik jakiego kiedykolwiek spotkasz!
+Najsłodszy drapieżnik, jakiego kiedykolwiek spotkasz!
 Teraz myślisz tłokami!
-Get to the coppah!
+Musisz ją miedź!
 Dostępny również w wersji planszowej!
 Kochanie, nawoskowałem miedź!
 Źródła światła pochodzenia roślinnego!
