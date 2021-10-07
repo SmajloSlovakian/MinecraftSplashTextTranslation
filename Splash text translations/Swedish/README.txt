@@ -2,7 +2,7 @@ Det här projektet skapades av SmajloSlovakian#1077 (jag accepterar inte vänfö
 
 Hur lägger jag till det här paketet i Minecraft?
 – Lägg till mappen du precis öppnat i sökvägen: "\Appdata\Roaming\.minecraft\resourcepacks\". Öppna sedan Minecraft och välj "Alternativ", 
-  "Resurspaket" och välj det paket som nyss dök upp.
+  "Resurspaket..." och välj det paket som nyss dök upp.
 
 Hur öppnar jag resurspakets-mappen?
 – Öppna Minecraft och välj "Alternativ", "Resurspaket". Du kan nu dra och släppa resurspaketet i Minecraft-fönstret...
