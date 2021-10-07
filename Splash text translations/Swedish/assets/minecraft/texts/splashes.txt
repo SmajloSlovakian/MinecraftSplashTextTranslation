@@ -46,7 +46,7 @@ Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Nu lite svårare!
 Förbättrat!
-90% fri från buggar!
+90 % fri från buggar!
 Snyggt!
 12 olika örter och kryddor!
 Fri från fett!
@@ -315,21 +315,21 @@ En vacker dag kommer någon att citera mitt verk!
 Nu med ännu fler grejer!
 Fler saker!
 Hurra, valpar till alla!
-So sweet, like a nice bon bon!
+Ljuvlig som en pralin!
 Väldigt inflytelserik i sin cirkel!
 Nu med ett flerspelarläge!
 Stig upp från din grav!
 Se upp! Ett stort stridsskepp "STEVE" närmar sig snabbt!
 Den blå krigaren sköt maten!
 Fly, fegis! Jag hungrar!
-Flavor with no seasoning!
-Strange, but not a stranger!
-Tougher than diamonds, rich like cream!
-It swings, it jives!
-Cruising streets for gold!
-Take an eggbeater and beat it against a skillet!
-Make me a table, a funky table!
-Take the elevator to the mezzanine!
+Smak utan krydda!
+Skum men inget lödder!
+Jobbig som diamanter, rik på grädde!
+Häng med, det svänger!
+Ser sig omkring efter guld!
+Slå äggvispen mot stekpannan!
+Bygg ett bord, ett stiligt bord!
+Ta hissen till mezzaninvåningen!
 Sluta vara förståndig, det här är internet!
 /give @a kramar 64
 Det här är bra för Realms.
@@ -349,7 +349,7 @@ Länge leve båtar!
 Javatastisk utgåva
 Får inte spelas medan du kör
 Du färdas för snabbt!
-Ge aldrig choklad till en papegoja!
+Mata aldrig en papegoja med choklad!
 Den sanna innebörden av "covfefe"
 En hägring! Vad döljer du?
 Något stämmer inte...
@@ -365,13 +365,13 @@ Vattenflaska!
 Vad var frågan nu igen?
 Plantera ett träd!
 Gå till tandläkaren!
-Vad förväntade du dig?
+Vad förväntar du dig?
 Titta mamma, jag är en textremsa!
 Kom från rymden.
 Där har vi grym speldesign!
 Ph1lza klarade sig länge!
 Tio år av byggande och grävande!
-Människan Ping!
+Människan Pling!
 Ifall ni missat det så är inte rävar spelare.
 Flitiga bin!
 Minecraft Java Edition presenterar: vidrig ohyra
@@ -392,7 +392,7 @@ Träffa dina vänner över internet!
 Älskling, jag förstorade bina!
 Hitta ditt grepp!
 Alla drar en Leif!
-<3 Max & 99 & Ankis!
+<3 Max & 99 & Anki!
 Buskiga bryn!
 Rita är ett namn!
 Från frigående utvecklare!
