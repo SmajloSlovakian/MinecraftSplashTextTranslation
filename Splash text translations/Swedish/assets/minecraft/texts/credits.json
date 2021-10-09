@@ -1076,7 +1076,7 @@
                 ]
             },
             {
-                "title": "Directors of Business Management",
+                "title": "Affärschefer",
                 "names": [
                     "Amy Zou",
                     "Michelle Hua",
@@ -1084,7 +1084,7 @@
                 ]
             },
             {
-                "title": "Business Managers",
+                "title": "Affärsansvariga",
                 "names": [
                     "Adam Lemcio",
                     "Alina Skripnik",
@@ -1131,25 +1131,25 @@
                 ]
             },
             {
-                "title": "Director of Partner Management",
+                "title": "Chef över externa samarbeten",
                 "names": [
                     "Todd Stevens"
                 ]
             },
             {
-                "title": "Partner Program Manager",
+                "title": "Ansvarig för externa samarbeten",
                 "names": [
                     "Quinn Richter"
                 ]
             },
             {
-                "title": "Content Coordinators",
+                "title": "Innehållskoordinator",
                 "names": [
                     "Oskar Thysell"
                 ]
             },
             {
-                "title": "Program Managers",
+                "title": "Projektkoordinatorer",
                 "names": [
                     "Bryan G. Bonham",
                     "Christopher Dauchot (Insight Global, Inc)",
@@ -1168,25 +1168,25 @@
                 ]
             },
             {
-                "title": "Studio Compliance Lead",
+                "title": "Efterlevnadsansvarig",
                 "names": [
                     "Eric Odell-Hein"
                 ]
             },
             {
-                "title": "Studio Compliance Analyst",
+                "title": "Efterlevnadsbevakare",
                 "names": [
                     "Justin Ray (Design Laboratory Inc)"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Ansvarig för skydd av immateriella tillgångar",
                 "names": [
                     "Gaylon Blank"
                 ]
             },
             {
-                "title": "Category Managers",
+                "title": "Kategorichefer",
                 "names": [
                     "Audrey Searcy",
                     "Emily Clock",
@@ -1198,22 +1198,22 @@
         ]
     },
     {
-        "section": "Player Operations",
+        "section": "Kundbemötande",
         "titles": [
             {
-                "title": "Director of Player Support",
+                "title": "Ansvarig för kundbemötande",
                 "names": [
                     "Anne Quaranta"
                 ]
             },
             {
-                "title": "Director of Community",
+                "title": "Gemenskapschef",
                 "names": [
                     "Nea Aime Rollan"
                 ]
             },
             {
-                "title": "Community Managers",
+                "title": "Gemenskapsförvaltare",
                 "names": [
                     "Cameron Thomas",
                     "Jay Wells",
@@ -1225,19 +1225,19 @@
                 ]
             },
             {
-                "title": "Customer Support Program Manager",
+                "title": "Kundtjänstkoordinator",
                 "names": [
                     "Jon-Eric L. Swigart (Collabera)"
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Ansvarig för kundtjänst",
                 "names": [
                     "Jen Pedersen"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Kundtjänst",
                 "names": [
                     "Kyle McMurtry (TEKsystems, Inc)"
                 ]
@@ -1846,7 +1846,7 @@
         "section": "Utvecklingspartner: BBI",
         "titles": [
             {
-                "title": "Programmer",
+                "title": "Programmerare",
                 "names": [
                     "Curtis Hodgins",
                     "Devon Plourde",
@@ -2491,7 +2491,7 @@
                 ]
             },
             {
-                "title": "Företagsledare",
+                "title": "Business Managers",
                 "names": [
                     "Bill Wu",
                     "Claudine Ursino (Simplicity Consulting Inc)",
@@ -2513,7 +2513,7 @@
                 ]
             },
             {
-                "title": "Program Manager",
+                "title": "Projektkoordinator",
                 "names": [
                     "Amber Wu (Shang Hai Wei Chuang Ruan Jian)",
                     "Meenoo Rami",
