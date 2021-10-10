@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Uppstartarutvecklare",
+                "title": "Utvecklare av startfönstret",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -2001,7 +2001,7 @@
         "section": "Utvecklingspartner: Virtuosity",
         "titles": [
             {
-                "title": "Game Developers",
+                "title": "Spelutvecklare",
                 "names": [
                     "Aishwarya Jayabal (Virtuosity)",
                     "Ganesh Sethy (Virtuosity)",
@@ -2031,7 +2031,7 @@
         ]
     },
     {
-        "section": "Mojang Alumni",
+        "section": "Tidigare anställda och medhjälpare",
         "titles": [
             {
                 "title": "Original Creator of Minecraft",
@@ -2052,7 +2052,7 @@
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Verkställande direktör",
                 "names": [
                     "Carl Manneh"
                 ]
@@ -2082,7 +2082,7 @@
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Spelregissör",
                 "names": [
                     "Henrik Pettersson"
                 ]
@@ -2103,7 +2103,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Spelutvecklare",
                 "names": [
                     "Alexander Kandalaft (Insight Global, Inc)",
                     "Andrew Griffin (Insight Global, Inc)",
@@ -2151,13 +2151,13 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Ledande gränssnittsutvecklare",
                 "names": [
                     "Sebasian Hindefeldt"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Gränssnittsutvecklare",
                 "names": [
                     "Dario Vodopivec",
                     "Emelie Sidesiö",
@@ -2166,7 +2166,7 @@
                 ]
             },
             {
-                "title": "Additional Programming",
+                "title": "Utomstående programmerare",
                 "names": [
                     "Elliot 'Hippoplatimus' Segal",
                     "Paul Spooner",
@@ -2174,7 +2174,7 @@
                 ]
             },
             {
-                "title": "Launcher",
+                "title": "Startfönstret",
                 "names": [
                     "Anders Rosén",
                     "Carl Westin",
@@ -2182,13 +2182,13 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arkitekter",
                 "names": [
                     "Tommaso Checchi"
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Ledande programvaruutvecklare, Bedrock",
                 "names": [
                     "Aaron Heysse",
                     "Adrian LaVallee",
@@ -2197,7 +2197,7 @@
                 ]
             },
             {
-                "title": "Software Developers",
+                "title": "Programvaruutvecklare",
                 "names": [
                     "Arend Danielek (TEKsystems, Inc)",
                     "Dave Stevens",
@@ -2220,7 +2220,7 @@
                 ]
             },
             {
-                "title": "Realms Developers",
+                "title": "Utvecklare av Realms",
                 "names": [
                     "Alexander Johansson",
                     "Amir Moulavi",
@@ -2235,14 +2235,14 @@
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Ledande systemtekniker",
                 "names": [
                     "Tom Miles",
                     "Tomas Sommar"
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Systemtekniker",
                 "names": [
                     "Hazen Miller (Insight Global, Inc)",
                     "Louis A Castaneda (Insight Global, Inc)",
@@ -2270,13 +2270,13 @@
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Systemtekniker",
                 "names": [
                     "Robert Thresher (Collabera)"
                 ]
             },
             {
-                "title": "System Developers",
+                "title": "Systemutvecklare",
                 "names": [
                     "Christoffer Hammarström",
                     "Dodge Lafnitzegger (Insight Global, Inc)",
