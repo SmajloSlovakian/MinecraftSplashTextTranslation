@@ -1143,7 +1143,7 @@
                 ]
             },
             {
-                "title": "Innehållskoordinator",
+                "title": "Innehållskoordinatorer",
                 "names": [
                     "Oskar Thysell"
                 ]
@@ -1301,22 +1301,22 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "Kommunikationsavdelning",
         "titles": [
             {
-                "title": "Chief Storyteller",
+                "title": "Ansvarig för företagsberättelse",
                 "names": [
                     "Lydia Winters"
                 ]
             },
             {
-                "title": "Senior Media Producers",
+                "title": "Ledande medieproducenter",
                 "names": [
                     "Carina Petersson"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Producenter",
                 "names": [
                     "Sofia Orrheim"
                 ]
@@ -1352,7 +1352,7 @@
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Webbdesign",
                 "names": [
                     "Paul Madlon (Ten Gun Design, Inc)",
                     "Taylor Kasony (eXcell, a division of CompuCom)"
@@ -1367,10 +1367,10 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Ekonomi",
         "titles": [
             {
-                "title": "Director of Finance",
+                "title": "Ekonomichef",
                 "names": [
                     "Marina Kostesic"
                 ]
@@ -2506,7 +2506,7 @@
                 ]
             },
             {
-                "title": "Minecraft Content Coordinators",
+                "title": "Innehållskoordinatorer, Minecraft",
                 "names": [
                     "Adam Martinsson",
                     "Sara Lempiäinen"
