@@ -1382,7 +1382,7 @@
                 ]
             },
             {
-                "title": "Financial Accountants",
+                "title": "Revisorer",
                 "names": [
                     "Josefina Axelsson",
                     "Natalie Levinsson",
@@ -1392,22 +1392,22 @@
         ]
     },
     {
-        "section": "Studios Quality Team - Microsoft",
+        "section": "Kvalitetsgrupp, Microsoft",
         "titles": [
             {
-                "title": "Director of Quality",
+                "title": "Kvalitetschef",
                 "names": [
                     "Jimmy Bischoff"
                 ]
             },
             {
-                "title": "Quality Manager",
+                "title": "Kvalitetsansvarig",
                 "names": [
                     "Rob Straavaldson"
                 ]
             },
             {
-                "title": "Quality Leads",
+                "title": "Kvalitetsledare",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1418,7 +1418,7 @@
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Kvalitetsingenjörer",
                 "names": [
                     "Fiona Belmont",
                     "Joe Whitman",
@@ -1426,7 +1426,7 @@
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Dataanalytiker och datalogistiker, kvalitet",
                 "names": [
                     "Chelsi Hohnbaum",
                     "Lisa Porter"
@@ -1439,7 +1439,7 @@
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Kvalitetsanalytiker",
                 "names": [
                     "Agata Marciniak",
                     "Aidan Bower",
@@ -1471,7 +1471,7 @@
         ]
     },
     {
-        "section": "Studios Quality Team - US Teams",
+        "section": "Kvalitetsgrupp, USA",
         "titles": [
             {
                 "title": "Test Manager",
@@ -1568,7 +1568,7 @@
         ]
     },
     {
-        "section": "Development Partner: Lionbridge Quality - Poland Team",
+        "section": "Utvecklingspartner: Lionbridge Kvalitetsgrupp, Polen",
         "titles": [
             {
                 "title": "Test Director",
@@ -1819,7 +1819,7 @@
         ]
     },
     {
-        "section": "Quality - UK Team",
+        "section": "Kvalitetsgrupp, Storbritannien",
         "titles": [
             {
                 "title": "Test Manager",
@@ -2728,28 +2728,28 @@
         ]
     },
     {
-        "section": "Studios Quality Alumni",
+        "section": "Tidigare anställda och medhjälpare inom kvalitet",
         "titles": [
             {
-                "title": "Quality Leads",
+                "title": "Kvalitetsledare",
                 "names": [
                     "Tony Harlich"
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Kvalitetsingenjörer",
                 "names": [
                     "Akshata Trivedi"
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Dataanalytiker och datalogistiker, kvalitet",
                 "names": [
                     "Jeff MacDermot"
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Kvalitetsanalytiker",
                 "names": [
                     "Yi Zhao (Kforce)"
                 ]
