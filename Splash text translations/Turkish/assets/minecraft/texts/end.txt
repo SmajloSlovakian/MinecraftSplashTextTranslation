@@ -2,13 +2,13 @@
 
 §2PLAYERNAME?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3Evet. Dikkatli ol. It has reached a higher level now. It can read our thoughts.
 
-§2That doesn't matter. It thinks we are part of the game.
+§2Bu önemli değil. Oyunun bir parçası olduğumuzu düşünüyor.
 
-§3I like this player. It played well. It did not give up.
+§3Bu oyuncuyu beğendim. İyi oynadı. Vazgeçmedi.
 
-§2It is reading our thoughts as though they were words on a screen.
+§2Düşüncelerimizi bir ekrandaki kelimelermiş gibi okuyor.
 
 §3That is how it chooses to imagine many things, when it is deep in the dream of a game.
 
@@ -24,11 +24,11 @@
 
 §3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
 
-§2It cannot read that thought.
+§2Bu düşünceyi okuyamaz.
 
 §3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
 
-§2Does it know that we love it? That the universe is kind?
+§2Sevdiğimizi biliyor mu? Evrenin nazik olduğunu mu?
 
 §3Sometimes, through the noise of its thoughts, it hears the universe, yes.
 
@@ -56,11 +56,11 @@
 
 §3But not the truth.
 
-§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+§2Hayır. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
 
 §3Give it a body, again.
 
-§2Yes. Player...
+§2Evet. Player...
 
 §3Use its name.
 
@@ -148,4 +148,4 @@
 
 §3You are the player.
 
-§2Wake up.
+§2Uyan.

@@ -1,101 +1,101 @@
-Zoals gezien op TV!
-Geweldig!
-100% puur!
-Kan noten bevatten!
-Meer veelhoeken!
-Matig aantrekkelijk!
-Beperkte editie!
-Schitterende letters!
-Het is er!
-De beste in de klas!
-Het is klaar!
-Soort van drakenvrij!
-Spanning!
-Meer dan 500 verkocht!
-Een uit ontelbaren!
-Massaal aantal hits op YouTube!
+As seen on TV!
+Awesome!
+100% pure!
+May contain nuts!
+More polygons!
+Moderately attractive!
+Limited edition!
+Flashing letters!
+It's here!
+Best in class!
+It's finished!
+Kind of dragon free!
+Excitement!
+More than 500 sold!
+One of a kind!
+Heaps of hits on YouTube!
 Indev!
-Overal spinnen!
-Neem een kijkje!
-Heilige koe, man!
-Het is een spel!
-Gemaakt in Zweden!
-Gebruikt LWJGL!
+Spiders everywhere!
+Check it out!
+Holy cow, man!
+It's a game!
+Made in Sweden!
+Uses LWJGL!
 Reticulating splines!
 Minecraft!
-Woehoe!
-Alleen spelen!
-Toetsenbord compatibel!
-Staven!
-Exploderende creepers!
-Dat is geen maan!
+Yaaay!
+Singleplayer!
+Keyboard compatible!
+Ingots!
+Exploding creepers!
+That's no moon!
 l33t!
-Creëer!
-Overleef!
-Kerker!
-Exclusief!
-De knieën van de bij!
-Gesloten bron!
-Stijlvol!
-Wauw!
-Niet op steam!
+Create!
+Survive!
+Dungeon!
+Exclusive!
+The bee's knees!
+Closed source!
+Classy!
+Wow!
+Not on steam!
 Oh man!
-Geweldige community!
+Awesome community!
 Pixels!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Nu met moeilijkheid!
-Verbeterd!
-90% foutvrij!
-Schoonheid!
-12 kruiden en specerijen!
-Bevat geen vet!
-Absoluut geen memes!
-Gratis tandheelkunde!
-Vraag het je dokter!
-Minderjarigen welkom!
-Computergebruik in de cloud!
-Legaal in Finland!
-Moeilijk te bestempelen!
-Technisch in orde!
-De spek naar huis brengen!
+Now with difficulty!
+Enhanced!
+90% bug free!
+Pretty!
+12 herbs and spices!
+Fat free!
+Absolutely no memes!
+Free dental!
+Ask your doctor!
+Minors welcome!
+Cloud computing!
+Legal in Finland!
+Hard to label!
+Technically good!
+Bringing home the bacon!
 Indie!
 GOTY!
 Ceci n'est pas une title screen!
-Euclidisch!
-Nu in 3D!
-Inspirerend!
+Euclidian!
+Now in 3D!
+Inspirational!
 Herregud!
-Complexe mobiele automatisering!
-Ja, meneer!
-Gespeeld door cowboys!
-Nu op OpenGL 3.2 core profiel!
-Duizenden kleuren!
-Probeer het uit!
-Age of Wonders is beter!
-Probeer de Paddenstoelenstoofpot!
-Sensationeel!
+Complex cellular automata!
+Yes, sir!
+Played by cowboys!
+Now on OpenGL 3.2 core profile!
+Thousands of colors!
+Try it!
+Age of Wonders is better!
+Try the mushroom stew!
+Sensational!
 Hot tamale, hot hot tamale!
-Speel hem uit, toetsenbordkat!
-Gegarandeerd!
-Macroscopisch!
-Laat maar komen!
-Willekeurige splash!
-Bel je moeder!
-Geheime monsterstrijd!
-Geliefd door miljoenen!
-Ultieme editie!
-Grillig!
-Je hebt een brand nieuwe sleutel verkregen!
-Waterbestendig!
-Ontvlambaar!
-Wow, gast!
-Alles inclusief!
-Vertel het je vrienden!
-NP is niet in P!
-Muziek door C418!
-Live gestreamd!
-Behekst!
+Play him off, keyboard cat!
+Guaranteed!
+Macroscopic!
+Bring it on!
+Random splash!
+Call your mother!
+Monster infighting!
+Loved by millions!
+Ultimate edition!
+Freaky!
+You've got a brand new key!
+Water proof!
+Uninflammable!
+Whoa, dude!
+All inclusive!
+Tell your friends!
+NP is not in P!
+Music by C418!
+Livestreamed!
+Haunted!
 Polynomial!
 Terrestrial!
 All is full of love!
@@ -105,30 +105,30 @@ Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
 Take frequent breaks!
-Niet lineair!
-Han heeft als eerste geschoten!
-Leuk je te ontmoeten!
-Emmers lava!
-Rijd het varken!
-Groter dan aarde!
-sqrt(-1) houd van je!
+Not linear!
+Han shot first!
+Nice to meet you!
+Buckets of lava!
+Ride the pig!
+Larger than Earth!
+sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
-Van kliffen vallen!
-1% suiker!
-150% hyperbool!
+Falling off cliffs!
+1% sugar!
+150% hyperbole!
 Synecdoche!
-Laten we dasnes!
-Geheeime vrijdag update!
-Referentie implementatie!
-Kus de wolken!
+Let's danec!
+Seecret Friday update!
+Reference implementation!
+Kiss the sky!
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
-4815162342 regels code!
-Een skelet kwam tevoorschijn!
+4815162342 lines of code!
+A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
 I miss ADOM!
@@ -138,94 +138,94 @@ Bring me Ray Cokes!
 Finger-licking!
 Thematic!
 Pneumatic!
-Subliem!
-Achthoekig!
+Sublime!
+Octagonal!
 Une baguette!
-Gargamel speelt het!
-Rita is de nieuwe winnaar!
-SWM voor altijd!
+Gargamel plays it!
+Rita is the new top dog!
+SWM forever!
 Representing Edsbyn!
 Matt Damon!
 Supercalifragilisticexpialidocious!
 Consummate V's!
-Koegereedschappen!
-Dubbele buffering!
-Fanfictie!
+Cow Tools!
+Double buffered!
+Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Heter dan de zon!
-Internet ingeschakeld!
-Autonoom!
-Aan de slag!
-Fantasie!
+Hotter than the sun!
+Internet enabled!
+Autonomous!
+Engage!
+Fantasy!
 DRR! DRR! DRR!
-Schop het naar beneden!
-Regionale grondstoffen!
+Kick it root down!
+Regional resources!
 Woo, facepunch!
-Woo, iets verschrikkelijks!
-Woo, puntbron!
+Woo, somethingawful!
+Woo, tigsource!
 Woo, worldofminecraft!
 Woo, reddit!
 Woo, 2pp!
-Google geanalyseerd!
-Ondersteunt nu åäö!
-Geef ons Gordon!
-Geef je ober fooi!
-Erg leuk!
-12345 is een slecht wachtwoord!
-Stem voor netneutraliteit!
-Leeft in een ananas onder de zee!
-MAP11 heeft twee namen!
+Google anlyticsed!
+Now supports åäö!
+Give us Gordon!
+Tip your waiter!
+Very fun!
+12345 is a bad password!
+Vote for net neutrality!
+Lives in a pineapple under the sea!
+MAP11 has two names!
 Omnipotent!
-Slik!
+Gasp!
 ...!
-Bijen, bijen, bijen, bijen!
+Bees, bees, bees, bees!
 Jag känner en bot!
-Dit is moeilijk te lezen als je het spel op normale resolutie speelt, maar met 1080p is het geweldig!
+This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
 Haha, LOL!
-Hampsterdans!
+Hampsterdance!
 Menger sponge!
 idspispopd!
 Eple (original edit)!
-Zo fris, zo schoon!
-Langzaam werkende portalen!
-Probeer de Nether!
-Kijk niet rechtstreeks naar insecten!
-Oh, ok, Varkensman!
-Eindelijk met ladders!
-Eng!
-Speel Minecraft, kijk Topgear, krijg een varken!
-Over getwitterd!
-Spring, spring en omlaag!
-Joel is netjes!
-Een raadsel, verpakt in een mysterie!
-Deze papegaai is niet meer! Dat is niet meer het geval!
+So fresh, so clean!
+Slow acting portals!
+Try the Nether!
+Don't look directly at the bugs!
+Oh, ok, Pigmen!
+Finally with ladders!
+Scary!
+Play Minecraft, Watch Topgear, Get Pig!
+Twittered about!
+Jump up, jump up, and get down!
+Joel is neat!
+A riddle, wrapped in a mystery!
+This parrot is no more! It has ceased to be!
 Welcome to your Doom!
-Blijf een tijdje, blijf voor altijd!
-Blijf een tijdje en luister!
+Stay a while, stay forever!
+Stay a while and listen!
 Treatment for your rash!
 "Autological" is!
 Information wants to be free!
-'Bijna nooit' is een interessant concept!
-Veel waarheid!
-De creeper is een spion!
+"Almost never" is an interesting concept!
+Lots of truthiness!
+The creeper is a spy!
 Turing complete!
-Baanbrekend!
-Laat de strijd beginnen!
-De lucht is de grens!
-Jeb heeft geweldig haar!
-Ryan heeft ook geweldig haar!
-Normaal gamen!
-Onverslagen!
-Een beetje als Lemmings!
-Volg de trein, CJ!
+It's groundbreaking!
+Let our battle's begin!
+The sky is the limit!
+Jeb has amazing hair!
+Ryan also has amazing hair!
+Casual gaming!
+Undefeated!
+Kinda like Lemmings!
+Follow the train, CJ!
 Leveraging synergy!
-Dit bericht zal nooit op het startscherm tevoorschijn komen, is dat niet vreemd?
+This message will never appear on the splash screen, isn't that weird?
 DungeonQuest is unfair!
 90210!
-Ga is een keer naar de far lands!
-Tyrion zou het geweldig vinden!
-Probeer ook VVVVVV!
+Check out the far lands!
+Tyrion would love it!
+Also try VVVVVV!
 Also try Super Meat Boy!
 Also try Terraria!
 Also try Mount And Blade!
@@ -233,22 +233,22 @@ Also try Project Zomboid!
 Also try World of Goo!
 Also try Limbo!
 Also try Pixeljunk Shooter!
-Probeer ook Braid!
-Dat is fenomenaal!
-Brood is pain!
-Lees meer boeken!
+Also try Braid!
+That's super!
+Bread is pain!
+Read more books!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
 Bigger than a bread box!
-Miljoenen perzikken!
+Millions of peaches!
 Fnord!
-Dit is mijn ware gedaante!
-Maak je niet druk om de klonen!
-Pompoenenhoofd!
-Gemaakt door Jeb!
-Heeft een einde!
-Eindelijk voltooid!
+This is my true form!
+Don't bother with the clones!
+Pumpkinhead!
+Made by Jeb!
+Has an ending!
+Finally complete!
 Feature packed!
 Boots with the fur!
 Stop, hammertime!
@@ -256,7 +256,7 @@ Testificates!
 Conventional!
 Homeomorphic to a 3-sphere!
 Doesn't avoid double negatives!
-Plaats ALLE blokken!
+Place ALL the blocks!
 Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
@@ -264,13 +264,13 @@ Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
 Got your nose!
-Haley houdt van Elan!
+Haley loves Elan!
 Afraid of the big, black bat!
 Doesn't use the U-word!
 Child's play!
-Tot aanstaande vrijdag ofzo!
+See you next Friday or so!
 From the streets of Södermalm!
-150 bpm voor 400000 minuten!
+150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
 Pumpa kungen!
@@ -287,29 +287,29 @@ I see your vocabulary has improved!
 Who put it there?
 You can't explain that!
 if not ok then return end
-§1K§2l§3e§4u§5r§6v§7o§8l
+§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
 Mmmph, mmph!
 Don't feed avocados to parrots!
-Zwaarden voor iedereen!
-Plz reageer op mijn tweet!
-.feest()!
-Neem haar kussen!
-Leg het koekje neer!
-Best eng!
-Ik heb een suggestie.
-Nu met extra knuffels!
-Nu Java 16!
+Swords for everyone!
+Plz reply to my tweet!
+.party()!
+Take her pillow!
+Put that cookie down!
+Pretty scary!
+I have a suggestion.
+Now with extra hugs!
+Now Java 16!
 Woah.
 HURNERJSGER?
 What's up, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
 pls rt
-Wil je mijn server betreden?
-Maak er een omheining!
+Do you want to join my server?
+Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
@@ -345,7 +345,7 @@ Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
-Boten FTW
+Boats FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
@@ -356,16 +356,16 @@ Something's not quite right...
 Thank you for the fish!
 All rumors are true!
 Truly gone fishing!
-Regenboogschildpad?
-Iets leuks!
-Ik heb meer context nodig.
+Rainbow turtle?
+Something funny!
+I need more context.
 Ahhhhhh!
-Maak je geen zorgen, wees gelukkig!
-Waterfles!
-Wat is de vraag?
-Plant een boom!
-Ga naar de tandarts!
-Wat verwacht je?
+Don't worry, be happy!
+Water bottle!
+What's the question?
+Plant a tree!
+Go to the dentist!
+What do you expect?
 Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
@@ -380,9 +380,9 @@ Soap and water!
 Support local businesses!
 Stay home and play games!
 Stay safe!
-Blijf sterk!
-Hoest en nies in je elleboog!
-Blijf van je gezicht af!
+Stay strong!
+Cough or sneeze into your elbow!
+Don’t touch your face!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
@@ -402,7 +402,7 @@ Aww man!
 And my pickaxe!
 Envision! Create! Share!
 Fabulous graphics!
-Probeer ook eens Minecraft Dungeons!
+Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?

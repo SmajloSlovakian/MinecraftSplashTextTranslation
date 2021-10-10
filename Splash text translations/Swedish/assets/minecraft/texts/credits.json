@@ -523,7 +523,7 @@
                 ]
             },
             {
-                "title": "Verkställande producent",
+                "title": "Verkställande producenter",
                 "names": [
                     "Allison Matthews",
                     "Anita Sujarit",
@@ -811,7 +811,7 @@
                 ]
             },
             {
-                "title": "3D-grafiker (formgivare, rörlig grafik)",
+                "title": "3D-grafiker",
                 "names": [
                     "Jesper Hallin"
                 ]
@@ -991,7 +991,7 @@
                 ]
             },
             {
-                "title": "Data Engineering Lead",
+                "title": "Ledande datalogistiker",
                 "names": [
                     "Bill Chism"
                 ]
@@ -1016,7 +1016,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datalogistiker",
                 "names": [
                     "Bill Klees",
                     "Dhiraj Nilange",
@@ -1030,13 +1030,13 @@
         "section": "Användarforskning",
         "titles": [
             {
-                "title": "User Research Studio Lead",
+                "title": "Ledande användaranalytiker",
                 "names": [
                     "Jerome Hagen"
                 ]
             },
             {
-                "title": "User Researcher",
+                "title": "Användaranalytiker",
                 "names": [
                     "Melissa Boone",
                     "Olga Zielinska",
@@ -1061,13 +1061,13 @@
                 ]
             },
             {
-                "title": "Chief Media Officer",
+                "title": "Kommunikationschef",
                 "names": [
                     "Vu Bui"
                 ]
             },
             {
-                "title": "Directors of Business Development",
+                "title": "Affärsutvecklingschefer",
                 "names": [
                     "Bob Brennecke",
                     "Federico San Martin",
@@ -1076,7 +1076,7 @@
                 ]
             },
             {
-                "title": "Directors of Business Management",
+                "title": "Affärschefer",
                 "names": [
                     "Amy Zou",
                     "Michelle Hua",
@@ -1084,7 +1084,7 @@
                 ]
             },
             {
-                "title": "Företagsledare",
+                "title": "Affärsansvariga",
                 "names": [
                     "Adam Lemcio",
                     "Alina Skripnik",
@@ -1111,7 +1111,7 @@
                 ]
             },
             {
-                "title": "Affärsutvecklingschefer",
+                "title": "Affärsutvecklingsledare",
                 "names": [
                     "Inga Chamberlain"
                 ]
@@ -1125,31 +1125,31 @@
                 ]
             },
             {
-                "title": "Japan Country Manager",
+                "title": "Etableringssamordnare i Japan",
                 "names": [
                     "Yutaka Noma"
                 ]
             },
             {
-                "title": "Director of Partner Management",
+                "title": "Chef över externa samarbeten",
                 "names": [
                     "Todd Stevens"
                 ]
             },
             {
-                "title": "Partner Program Manager",
+                "title": "Ansvarig för externa samarbeten",
                 "names": [
                     "Quinn Richter"
                 ]
             },
             {
-                "title": "Content Coordinators",
+                "title": "Innehållskoordinatorer",
                 "names": [
                     "Oskar Thysell"
                 ]
             },
             {
-                "title": "Program Managers",
+                "title": "Projektkoordinatorer",
                 "names": [
                     "Bryan G. Bonham",
                     "Christopher Dauchot (Insight Global, Inc)",
@@ -1168,25 +1168,25 @@
                 ]
             },
             {
-                "title": "Studio Compliance Lead",
+                "title": "Efterlevnadsansvarig",
                 "names": [
                     "Eric Odell-Hein"
                 ]
             },
             {
-                "title": "Studio Compliance Analyst",
+                "title": "Efterlevnadsbevakare",
                 "names": [
                     "Justin Ray (Design Laboratory Inc)"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Ansvarig för skydd av immateriella tillgångar",
                 "names": [
                     "Gaylon Blank"
                 ]
             },
             {
-                "title": "Category Managers",
+                "title": "Kategorichefer",
                 "names": [
                     "Audrey Searcy",
                     "Emily Clock",
@@ -1198,22 +1198,22 @@
         ]
     },
     {
-        "section": "Player Operations",
+        "section": "Kundbemötande",
         "titles": [
             {
-                "title": "Director of Player Support",
+                "title": "Ansvarig för kundbemötande",
                 "names": [
                     "Anne Quaranta"
                 ]
             },
             {
-                "title": "Director of Community",
+                "title": "Gemenskapschef",
                 "names": [
                     "Nea Aime Rollan"
                 ]
             },
             {
-                "title": "Community Managers",
+                "title": "Gemenskapsförvaltare",
                 "names": [
                     "Cameron Thomas",
                     "Jay Wells",
@@ -1225,19 +1225,19 @@
                 ]
             },
             {
-                "title": "Customer Support Program Manager",
+                "title": "Kundtjänstkoordinator",
                 "names": [
                     "Jon-Eric L. Swigart (Collabera)"
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Ansvarig för kundtjänst",
                 "names": [
                     "Jen Pedersen"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Kundtjänst",
                 "names": [
                     "Kyle McMurtry (TEKsystems, Inc)"
                 ]
@@ -1245,16 +1245,16 @@
         ]
     },
     {
-        "section": "Marketing",
+        "section": "Marknadsföring",
         "titles": [
             {
-                "title": "Marknadsföringsansvarig",
+                "title": "Marknadschef",
                 "names": [
                     "Jessica Freeman"
                 ]
             },
             {
-                "title": "Marketing Directors",
+                "title": "Marknadsansvariga",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
@@ -1281,7 +1281,7 @@
         ]
     },
     {
-        "section": "Legal",
+        "section": "Rättsavdelning",
         "titles": [
             {
                 "title": "Chefsjurist",
@@ -1290,7 +1290,7 @@
                 ]
             },
             {
-                "title": "Legal Counsel",
+                "title": "Bolagsjurister",
                 "names": [
                     "Kari Annand (Snodgrass Annand)",
                     "Maya Yamazaki (Davis Wright Tremaine)",
@@ -1301,22 +1301,22 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "Kommunikationsavdelning",
         "titles": [
             {
-                "title": "Chief Storyteller",
+                "title": "Ansvarig för företagsberättelse",
                 "names": [
                     "Lydia Winters"
                 ]
             },
             {
-                "title": "Senior Media Producers",
+                "title": "Ledande medieproducenter",
                 "names": [
                     "Carina Petersson"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Producenter",
                 "names": [
                     "Sofia Orrheim"
                 ]
@@ -1352,7 +1352,7 @@
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Webbdesign",
                 "names": [
                     "Paul Madlon (Ten Gun Design, Inc)",
                     "Taylor Kasony (eXcell, a division of CompuCom)"
@@ -1367,10 +1367,10 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Ekonomi",
         "titles": [
             {
-                "title": "Director of Finance",
+                "title": "Ekonomichef",
                 "names": [
                     "Marina Kostesic"
                 ]
@@ -1433,7 +1433,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Programvarutekniker",
                 "names": [
                     "Jay Baxter"
                 ]
@@ -1456,7 +1456,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Särskilt tack till:",
                 "names": [
                     "Alex Luschen – Executive Business Administrator",
                     "Allen Horton – Technology and Infrastructure",
@@ -1524,7 +1524,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Särskilt tack till:",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -1546,7 +1546,7 @@
         ]
     },
     {
-        "section": "Special Thanks",
+        "section": "Särskilt tack till:",
         "titles": [
             {
                 "title": "Albert Pastore - Director of Business Development, Music and Talent",
@@ -1805,7 +1805,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Särskilt tack till:",
                 "names": [
                     "Dariusz Sokołowski (Lionbridge)",
                     "Evan Wright (Lionbridge)",
@@ -1835,7 +1835,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datalogistiker",
                 "names": [
                     "Patrick Fraioli"
                 ]
@@ -1843,10 +1843,10 @@
         ]
     },
     {
-        "section": "Development Partner: BBI",
+        "section": "Utvecklingspartner: BBI",
         "titles": [
             {
-                "title": "Programmer",
+                "title": "Programmerare",
                 "names": [
                     "Curtis Hodgins",
                     "Devon Plourde",
@@ -1882,7 +1882,7 @@
         ]
     },
     {
-        "section": "Development Partner: Disbelief",
+        "section": "Utvecklingspartner: Disbelief",
         "titles": [
             {
                 "title": "",
@@ -1895,7 +1895,7 @@
         ]
     },
     {
-        "section": "Development Partner: Skybox",
+        "section": "Utvecklingspartner: Skybox",
         "titles": [
             {
                 "title": "",
@@ -1960,7 +1960,7 @@
         ]
     },
     {
-        "section": "Development Partner: Red Lens Games",
+        "section": "Utvecklingspartner: Red Lens Games",
         "titles": [
             {
                 "title": "President",
@@ -1975,14 +1975,14 @@
                 ]
             },
             {
-                "title": "Lead Software Engineers",
+                "title": "Ledande programvarutekniker",
                 "names": [
                     "Kyle Walsh",
                     "Nathan Carlson"
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Programvarutekniker",
                 "names": [
                     "Alan Nelson",
                     "Andre Tremblay",
@@ -1998,7 +1998,7 @@
         ]
     },
     {
-        "section": "Development Partner: Virtuosity",
+        "section": "Utvecklingspartner: Virtuosity",
         "titles": [
             {
                 "title": "Game Developers",
@@ -2022,7 +2022,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Producenter",
                 "names": [
                     "Chokkalingam Ramu Kuppaswamy (Virtuosity)",
                     "Shanthi Kanchibhotla (Virtuosity)"
@@ -2250,7 +2250,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Programvarutekniker, underhåll",
                 "names": [
                     "Joakim Ejenstam",
                     "Anders Martini",
@@ -2262,7 +2262,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Programvarutekniker",
                 "names": [
                     "Evelyn Collier (Insight Global)",
                     "Michael Andersson",
@@ -2291,13 +2291,13 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Ledande bildkonstnär",
                 "names": [
                     "Sarah Kisor"
                 ]
             },
             {
-                "title": "3D/VFX",
+                "title": "VFX-artist",
                 "names": [
                     "Elin Ölund Forsling"
                 ]
@@ -2338,20 +2338,20 @@
                 ]
             },
             {
-                "title": "Sound Designer",
+                "title": "Ljudutvecklare",
                 "names": [
                     "Peter Hont",
                     "Shauny Jang (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Executive Producer",
+                "title": "Verkställande producent",
                 "names": [
                     "Erin Krell"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Producenter",
                 "names": [
                     "Alen Voljevica",
                     "Anthony Hanses (Insight Global, Inc)",
@@ -2380,7 +2380,7 @@
                 ]
             },
             {
-                "title": "Assistant Producer",
+                "title": "Biträdande producent",
                 "names": [
                     "Warren Loo"
                 ]
@@ -2420,7 +2420,7 @@
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Personalchef",
                 "names": [
                     "Andrew J. Adamyk"
                 ]
@@ -2455,13 +2455,13 @@
                 ]
             },
             {
-                "title": "Data Science & Analytics Lead",
+                "title": "Ledande dataanalytiker",
                 "names": [
                     "Warren Durrett"
                 ]
             },
             {
-                "title": "Data Science & Analytics",
+                "title": "Dataanalytiker",
                 "names": [
                     "Abby Jaloway (National Business Innovations)",
                     "Brynjólfur Erlingsson",
@@ -2491,7 +2491,7 @@
                 ]
             },
             {
-                "title": "Företagsledare",
+                "title": "Affärsansvariga",
                 "names": [
                     "Bill Wu",
                     "Claudine Ursino (Simplicity Consulting Inc)",
@@ -2500,20 +2500,20 @@
                 ]
             },
             {
-                "title": "Business Analysts",
+                "title": "Affärsanalytiker",
                 "names": [
                     "Alvin M Chin (Populus Group, LLC)"
                 ]
             },
             {
-                "title": "Minecraft Content Coordinators",
+                "title": "Innehållskoordinatorer, Minecraft",
                 "names": [
                     "Adam Martinsson",
                     "Sara Lempiäinen"
                 ]
             },
             {
-                "title": "Program Manager",
+                "title": "Projektkoordinator",
                 "names": [
                     "Amber Wu (Shang Hai Wei Chuang Ruan Jian)",
                     "Meenoo Rami",
@@ -2540,13 +2540,13 @@
                 ]
             },
             {
-                "title": "Head of Player Operations",
+                "title": "Ansvarig för kundbemötande",
                 "names": [
                     "Aubrey Norris"
                 ]
             },
             {
-                "title": "Community Manager",
+                "title": "Gemenskapsförvaltare",
                 "names": [
                     "Glory Robinson (Experis)",
                     "Helen Zbihlyj",
@@ -2554,7 +2554,7 @@
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Kundtjänst",
                 "names": [
                     "Amelia Lindroth Henriksson",
                     "Ana Barata Martins",
@@ -2596,7 +2596,7 @@
                 ]
             },
             {
-                "title": "Legal",
+                "title": "Rättsavdelning",
                 "names": [
                     "Christi Davisson"
                 ]
@@ -2622,7 +2622,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Skybox",
+                "title": "Utvecklingspartner: Skybox",
                 "names": [
                     "Ace Cheung",
                     "Alina Varela",
@@ -2688,7 +2688,7 @@
                 ]
             },
             {
-                "title": "Development Partner: BBI",
+                "title": "Utvecklingspartner: BBI",
                 "names": [
                     "Alex Sharp - Assistant Producer",
                     "Andrew Yuennan - Programmer",
@@ -2718,7 +2718,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Red Lens",
+                "title": "Utvecklingspartner: Red Lens",
                 "names": [
                     "Christopher Kohnert",
                     "Joshua Claeys",
