@@ -538,7 +538,7 @@
                 ]
             },
             {
-                "title": "Produktionschefer",
+                "title": "Produktionsledare",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -916,7 +916,7 @@
                 ]
             },
             {
-                "title": "Företagsekonomer",
+                "title": "Executive Business Administrators",
                 "names": [
                     "Erin Decker",
                     "Judy Wheeler",
@@ -1248,20 +1248,20 @@
         "section": "Marknadsföring",
         "titles": [
             {
-                "title": "Marknadschef",
+                "title": "Ansvarig för marknaden",
                 "names": [
                     "Jessica Freeman"
                 ]
             },
             {
-                "title": "Marknadsansvariga",
+                "title": "Marknadschefer",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
                 ]
             },
             {
-                "title": "Marketing Managers",
+                "title": "Marknadsansvariga",
                 "names": [
                     "Anton Maslennikov",
                     "Ashley Davidson (Simplicity Consulting Inc)",
@@ -1474,7 +1474,7 @@
         "section": "Kvalitetsgrupp, USA",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Försöksledare",
                 "names": [
                     "Tom Dieterich (Experis) - Test Manager, Tempe"
                 ]
@@ -1507,7 +1507,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Testmedhjälpare",
                 "names": [
                     "Chris Youngs (Experis)",
                     "Jared Arbaugh (Experis)",
@@ -1595,7 +1595,7 @@
                 ]
             },
             {
-                "title": "Team Leads",
+                "title": "Gruppledare",
                 "names": [
                     "Kamil Kostrzewa (Lionbridge)",
                     "Michał Sławek (Lionbridge)",
@@ -1639,7 +1639,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Testmedhjälpare",
                 "names": [
                     "Ada Kierzkowska (Lionbridge)",
                     "Adam Krasieńko (Lionbridge)",
@@ -1822,7 +1822,7 @@
         "section": "Kvalitetsgrupp, Storbritannien",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Försöksledare",
                 "names": [
                     "Richard H. Jones (Lionbridge)"
                 ]
@@ -2076,7 +2076,7 @@
                 ]
             },
             {
-                "title": "Production Director",
+                "title": "Produktionschef",
                 "names": [
                     "Daniel Kaplan"
                 ]
@@ -2399,20 +2399,20 @@
                 ]
             },
             {
-                "title": "Product Designer",
+                "title": "Produktsformgivare",
                 "names": [
                     "Jennifer Hammervald"
                 ]
             },
             {
-                "title": "User Experience Design Director",
+                "title": "Chefsformgivare, användarupplevelse",
                 "names": [
                     "Stephen Whetstine",
                     "Tobias Ahlin"
                 ]
             },
             {
-                "title": "User Experience Designer",
+                "title": "Formgivare, användarupplevelse",
                 "names": [
                     "Connor Tompsett (CompuCom Systems Inc)",
                     "Lily Ekman",
@@ -2439,7 +2439,7 @@
                 ]
             },
             {
-                "title": "Office Managers",
+                "title": "Kontorschefer",
                 "names": [
                     "Alex Andersson",
                     "Charlotte Wredesjö",
@@ -2479,7 +2479,7 @@
                 ]
             },
             {
-                "title": "Directors of Business Development",
+                "title": "Affärsutvecklingschefer",
                 "names": [
                     "Cherie D Lutz"
                 ]
@@ -2587,7 +2587,7 @@
                 ]
             },
             {
-                "title": "Marketing Manager",
+                "title": "Marknadsansvarig",
                 "names": [
                     "Bianca Ciotti",
                     "Delilah Liu",
@@ -2602,21 +2602,21 @@
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Ansvarig för skydd av immateriella tillgångar",
                 "names": [
                     "Mathias Andersson",
                     "Teresa Lee Rodewald"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Agents",
+                "title": "Ombud för skydd av immateriella tillgångar",
                 "names": [
                     "Marcus Forss",
                     "Matilda Åkerman"
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Projektledare",
                 "names": [
                     "Vera Mirchev"
                 ]
@@ -2755,7 +2755,7 @@
                 ]
             },
             {
-                "title": "Poland - Team Leads",
+                "title": "Gruppledare, Polen",
                 "names": [
                     "Anna Wróbel (Lionbridge)",
                     "Kamil Bazydło (Lionbridge)",
@@ -2763,13 +2763,13 @@
                 ]
             },
             {
-                "title": "US Team - Software Test Engineering Leads",
+                "title": "Ledande programvarutestare, USA",
                 "names": [
                     "Chris James (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "US Team - Software Test Engineers",
+                "title": "Programvarutestare, USA",
                 "names": [
                     "Brendan McElroy (Insight Global, Inc)",
                     "Crystal Edwards (Insight Global, Inc)",
@@ -2780,7 +2780,7 @@
                 ]
             },
             {
-                "title": "US Team - Test Associates",
+                "title": "Testmedhjälpare, USA",
                 "names": [
                     "Brian Sears (Experis)"
                 ]
