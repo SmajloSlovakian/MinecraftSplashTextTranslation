@@ -100,7 +100,7 @@
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Chef över franchisekvalitet",
                 "names": [
                     "Matthew Ng"
                 ]
@@ -817,7 +817,7 @@
                 ]
             },
             {
-                "title": "GFX Designer",
+                "title": "Grafisk formgivare",
                 "names": [
                     "Afshin “Affe” Piran"
                 ]
@@ -868,7 +868,7 @@
         "section": "Verksamhet",
         "titles": [
             {
-                "title": "Franchise Chief Operations Officer",
+                "title": "Chef över franchiseverksamheten",
                 "names": [
                     "Annie Chenn"
                 ]
@@ -880,7 +880,7 @@
                 ]
             },
             {
-                "title": "Head of Franchise Operations",
+                "title": "Ansvarig för franchiseverksamheten",
                 "names": [
                     "Josh Bligenstorffer"
                 ]
@@ -1049,7 +1049,7 @@
         "section": "Affärer och licensiering",
         "titles": [
             {
-                "title": "Head of Franchise Business Management",
+                "title": "Ansvarig för franchisens affärsverksamhet",
                 "names": [
                     "Scott Dell'Osso"
                 ]
@@ -1346,7 +1346,7 @@
                 ]
             },
             {
-                "title": "Lead Producer - Brand Experience",
+                "title": "Ledande utvecklare, kundbemötande",
                 "names": [
                     "Karim Walldén"
                 ]
@@ -1359,7 +1359,7 @@
                 ]
             },
             {
-                "title": "Web Content Manager",
+                "title": "Webbinnehållsansvarig",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
@@ -1549,7 +1549,7 @@
         "section": "Särskilt tack till:",
         "titles": [
             {
-                "title": "Albert Pastore - Director of Business Development, Music and Talent",
+                "title": "Albert Pastore - Affärsutvecklingschef, musikansvarig och rekryterare",
                 "names": [
                     "4J Studios",
                     "Andrew Pritchard - Release Management",
@@ -1571,25 +1571,25 @@
         "section": "Utvecklingspartner: Lionbridge Kvalitetsgrupp, Polen",
         "titles": [
             {
-                "title": "Test Director",
+                "title": "Testchef",
                 "names": [
                     "Michał Błoński (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Global Test Manager",
+                "title": "Globalt testansvarig",
                 "names": [
                     "Grzegorz Kohorewicz (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Test Manager",
+                "title": "Testansvarig",
                 "names": [
                     "Mateusz Kałuża (Lionbridge)"
                 ]
             },
             {
-                "title": "Test Leads",
+                "title": "Testsamordnare",
                 "names": [
                     "Beata Jastrzębska (Lionbridge)"
                 ]
@@ -1633,7 +1633,7 @@
                 ]
             },
             {
-                "title": "Compliance Test Engineers",
+                "title": "Efterlevnadstestare",
                 "names": [
                     "Witold Januszewski-Skup (Lionbridge)"
                 ]
@@ -1786,7 +1786,7 @@
                 ]
             },
             {
-                "title": "Compliance Test Associates",
+                "title": "Medhjälpare, efterlevnadstest",
                 "names": [
                     "Adam Czajkowski (Lionbridge)",
                     "Adrian Zalewski (Lionbridge)",
@@ -1828,7 +1828,7 @@
                 ]
             },
             {
-                "title": "Compliance Test Engineer",
+                "title": "Efterlevnadstestare",
                 "names": [
                     "Lee-Roy Dunn (Lionbridge)",
                     "Nick Dorsett (Lionbridge)"
@@ -2386,7 +2386,7 @@
                 ]
             },
             {
-                "title": "Release Manager",
+                "title": "Utgivningshanterare",
                 "names": [
                     "Brogan Irwin (Virtuosity)",
                     "Dustin Wood (Design Laboratory Inc)"
@@ -2485,7 +2485,7 @@
                 ]
             },
             {
-                "title": "Directors of Business Planning",
+                "title": "Ansvarig för verksamhetsplanering",
                 "names": [
                     "Adam Tratt"
                 ]
@@ -2528,7 +2528,7 @@
                 ]
             },
             {
-                "title": "Creative Communications Assistant",
+                "title": "Assistent, kreativ marknadsföring",
                 "names": [
                     "Emily Richardson"
                 ]
