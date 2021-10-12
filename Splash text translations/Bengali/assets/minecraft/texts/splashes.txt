@@ -21,7 +21,7 @@
 এটা একটা খেলা!
 সুইডেনে তৈরি!
 LWJGL ব্যবহার করে!
-Reticulating splines!
+এই চোখ বন্ধ! নজর দিবি না!
 মাইনক্রাফট!
 ইয়েয়য়!
 সিঙ্গেলপ্লেয়ার!
@@ -79,7 +79,7 @@ Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
 Guaranteed!
 Macroscopic!
-Bring it on!
+আসো খেলবো!
 Random splash!
 আম্মুকে ডেকে আনুন!
 Monster infighting!
@@ -198,29 +198,29 @@ Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
 Joel is neat!
-A riddle, wrapped in a mystery!
+একটি ধাঁধা, রহস্যে বাঁধা!
 This parrot is no more! It has ceased to be!
 Welcome to your Doom!
 Stay a while, stay forever!
 Stay a while and listen!
-Treatment for your rash!
+চুলকানির মলম!
 "Autological" is!
 Information wants to be free!
-"Almost never" is an interesting concept!
+পানির নিচে ডলফিন ভাসে জঙ্গলের মতো!
 Lots of truthiness!
-The creeper is a spy!
-Turing complete!
+গোয়েন্দা ক্রিপার!
+টিউরিং কমপ্লিট!
 It's groundbreaking!
-Let our battle's begin!
+খেলা হবে!
 The sky is the limit!
 Jeb has amazing hair!
-Ryan also has amazing hair!
+বড়লোকের বেটি লো, লম্বা লম্বা চুল!
 Casual gaming!
 Undefeated!
-Kinda like Lemmings!
+বাবা তোমার দরবারে সব পাগলের খেলা!
 Follow the train, CJ!
 Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
+এই বার্তাটি স্প্ল্যাশ স্ক্রিনে আর আসবে না, কেমন লাগে, খারাপ না?
 DungeonQuest is unfair!
 90210!
 Check out the far lands!
@@ -234,11 +234,11 @@ Also try World of Goo!
 Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
-Khaaaaaaaaan!
-Less addictive than TV Tropes!
+পুরাই জোস!
+Bread হচ্ছে ব্যথা!
+বই পড়ুন!
+চৌধুরী সাহেএএএএএএএএব!
+ইত্যাদি! ইত্যাদি!! ইত্যাদি!!!
 More addictive than lemonade!
 Bigger than a bread box!
 Millions of peaches!
@@ -264,7 +264,7 @@ Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
 Got your nose!
-Haley loves Elan!
+চুপি চুপি বল কেউ জেনে যাবে!
 Afraid of the big, black bat!
 Doesn't use the U-word!
 Child's play!
@@ -272,7 +272,7 @@ See you next Friday or so!
 From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
-Funk soul brother!
+H2O, অনেক বিউটিফুল!
 Pumpa kungen!
 日本ハロー！
 한국 안녕하세요!
@@ -281,77 +281,77 @@ Cześć Polsko!
 你好中国！
 Привет Россия!
 Γεια σου Ελλάδα!
-My life for Aiur!
+হ্যালো বাংলাদেশ!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
-Who put it there?
+এখানে কে রাখলো এই জিনিস?
 You can't explain that!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
 Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
+নাম বললে চাকরি থাকবে না!
+ভ্রুউউম, ভ্রুউম!
+টিয়াপাখিকে অ্যাভোকাডো ফল খাওয়াবেন না!
+সবার জন্য তলোয়ার!
+আমার ইনবক্সে রিপ্লাই দাও!
 .party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
-Now with extra hugs!
-Now Java 16!
+বালিশ নাও!
+বিস্কুট রাখ!
+অনেক ভয়ঙ্কর!
+আমার একটা প্রস্তাব আছে।
+এখন এক্সট্রা কোলাকুলি হবে!
+এখন জাভা ১৬!
 Woah.
 HURNERJSGER?
 What's up, Doc?
-Now contains 32 random daily cats!
+ড্রাগন আপার সাথে সাক্ষাৎ হয়েছে?
 That's Numberwang!
 pls rt
-Do you want to join my server?
+আমার সার্ভারে খেলতে চান?
 Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
 Extra things!
-Yay, puppies for everyone!
+জিনিস যেটা ভালো, দাম তার একটু বেশি!
 So sweet, like a nice bon bon!
-Very influential in its circle!
+বাংলা আমার মাতৃভাষা!
 Now With Multiplayer!
-Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
-Run, coward! I hunger!
-Flavor with no seasoning!
+আমরা উইদারের চাইতে শক্তিশালী!
+সাবধান! আহো স্টিভ আহো!
+আমি মাইনক্যাশ থেকে স্টিভ বলছি!
+জীবনটা বেদনা! চলো বহুদূর!
+সিজনিং ছাড়া ফ্লেভার!
 Strange, but not a stranger!
 Tougher than diamonds, rich like cream!
-It swings, it jives!
-Cruising streets for gold!
-Take an eggbeater and beat it against a skillet!
-Make me a table, a funky table!
-Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
+ধনে ধান্যে পুষ্পে ভরা, আমাদের এই বসুন্ধরা!
+আজ সৃষ্টি সুখের উল্লাসে!
+একটু নিচে আসেন, ডেলিভারী নিয়ে এসেছি!
+এই যা, পানি নিয়ে আয়!
+ওমাগো টুরু লাব!
+গুজবে কান দিবেন না!
 /give @a hugs 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
-Where there is not light, there can spider!
-GNU Terry Pratchett
+যেখানে অন্ধকার, সেখানে মাকড়সা!
+আমরা তোমাদের ভুলবো না!
 More Digital!
 doot doot
 Falling with style!
 There's no stopping the Trollmaso
-Throw yourself at the ground and miss
-Rule #1: it's never my fault
-Replaced molten cheese with blood?
+যদি তোর ডাক শুনে কেও না আসে, তবে একলা চলো রে
+নিয়ম #১: আমার কোনো দোষ নেই
+কথা কি ক্লিয়ার নাকি ভেজাল আছে?
 Absolutely fixed relatively broken coordinates
 Boats FTW
 Javalicious edition
-Should not be played while driving
+গাড়ি চালানোর সময় খেলা যাবে না
 You're going too fast!
-Don't feed chocolate to parrots!
+টিয়াপাখিকে চকোলেট খাওয়াবেন না!
 The true meaning of covfefe
-An illusion! What are you hiding?
+An illusion! কি লুকাচ্ছো?
 Something's not quite right...
 Thank you for the fish!
 All rumors are true!
@@ -361,10 +361,10 @@ Something funny!
 I need more context.
 Ahhhhhh!
 Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
+পানির বোতল!
+প্রশ্নটা কি?
+গাছ লাগান, পরিবেশ বাঁচান!
+ডেন্টিস্টের কাছে যান!
 What do you expect?
 Look mum, I'm in a splash!
 It came from space.
@@ -379,19 +379,19 @@ Wash your hands!
 Soap and water!
 Support local businesses!
 Stay home and play games!
-Stay safe!
-Stay strong!
+নিরাপদে থাকুন!
+ভয়কে করবো জয়!
 Cough or sneeze into your elbow!
-Don’t touch your face!
+মুখে হাত দিবেন না!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
-Save the world – stay inside!
+পৃথিবীকে বাঁচান - ঘরে থাকুন!
 Shop for your elders!
 Hang out with your friends online!
 Honey, I grew the bees!
 Find your claw!
-Everybody do the Leif!
+আপনার টুথপেস্টে কি লবণ আছে?
 <3 Max & 99 & Ducky!
 Bushy eyebrows!
 Edit is a name!
@@ -401,9 +401,9 @@ Aww man!
 #minecraftfarms
 And my pickaxe!
 Envision! Create! Share!
-Fabulous graphics!
+অসাধারণ গ্রাফিক্স!
 Also try Minecraft Dungeons!
-Vanilla!
+ভ্যানিলা!
 May contain traces of citrus!
 Zoglin!?
 Black lives matter!
