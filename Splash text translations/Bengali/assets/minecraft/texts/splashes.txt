@@ -3,7 +3,7 @@
 ১০০% বিশুদ্ধ!
 বাদাম থাকতে পারে!
 আরও বহুভুজ!
-মাঝারি আকর্ষণীয়!
+অবিশ্বাস্য!
 সীমিত সংস্করণ!
 ঝলকানি অক্ষর!
 এটা এখানে!
@@ -13,23 +13,23 @@
 উত্তেজনা!
 ৫০০ টিরও বেশি বিক্রি হয়েছে!
 এক ধরনের!
-Heaps of hits on YouTube!
+ইউটিউবে ভাইরাল, চরম!
 ইনডেভ!
 সব জায়গায় মাকড়সা!
 দেখে আসুন!
-Holy cow, man!
+ওরে বাপরে!
 এটা একটা খেলা!
-সুইডেন এ বানানো!
+সুইডেনে তৈরি!
 LWJGL ব্যবহার করে!
 Reticulating splines!
 মাইনক্রাফট!
 ইয়েয়য়!
-Singleplayer!
-Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
-l33t!
+সিঙ্গেলপ্লেয়ার!
+কিবোর্ডেও চলবে!
+খনি!
+যেখানে ক্রিপারের ভয় সেখানে সন্ধ্যা হয়!
+এখানে চাঁদ নেই!
+অস্থির!
 Create!
 Survive!
 Dungeon!
@@ -46,10 +46,10 @@ Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
 Enhanced!
-90% bug free!
+৯০% পোকামুক্ত!
 Pretty!
 12 herbs and spices!
-Fat free!
+ফ্যাট ফ্রি!
 Absolutely no memes!
 Free dental!
 Ask your doctor!
@@ -63,7 +63,7 @@ Indie!
 GOTY!
 Ceci n'est pas une title screen!
 Euclidian!
-Now in 3D!
+এখন থ্রিডিতে!
 Inspirational!
 Herregud!
 Complex cellular automata!
@@ -81,7 +81,7 @@ Guaranteed!
 Macroscopic!
 Bring it on!
 Random splash!
-Call your mother!
+আম্মুকে ডেকে আনুন!
 Monster infighting!
 Loved by millions!
 Ultimate edition!
@@ -92,13 +92,13 @@ Uninflammable!
 Whoa, dude!
 All inclusive!
 Tell your friends!
-NP is not in P!
+NP কখনো P হয় না!
 Music by C418!
 Livestreamed!
 Haunted!
 Polynomial!
 Terrestrial!
-All is full of love!
+বুক চিন চিন করছে হায়, মন তোমায় কাছে চায়!
 Full of stars!
 Scientific!
 Not as cool as Spock!
@@ -107,15 +107,15 @@ Never dig down!
 Take frequent breaks!
 Not linear!
 Han shot first!
-Nice to meet you!
-Buckets of lava!
+আপনাকে দেখে খুব খুশি হলাম!
+বালতি ভরা লাভা!
 Ride the pig!
-Larger than Earth!
+পৃথিবীর চেয়ে অনেক বড়!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
-1% sugar!
+১% চিনি!
 150% hyperbole!
 Synecdoche!
 Let's danec!
@@ -134,7 +134,7 @@ BTAF used to be good!
 I miss ADOM!
 umop-apisdn!
 OICU812!
-Bring me Ray Cokes!
+চা খাবেন? ঢেলে দেই!
 Finger-licking!
 Thematic!
 Pneumatic!
@@ -416,7 +416,7 @@ Support the BIPOC community and creators!
 Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
-Home-made!
+ঘরে তৈরি!
 There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
