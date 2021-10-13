@@ -250,7 +250,7 @@ Skapat av Jeb!
 Har ett slut!
 Äntligen färdigt!
 Fullpackat med innehåll!
-Dojor av päls!
+Aldrig sviker jag mitt land!
 Hammardags!
 Testifikat!
 Konventionellt!
@@ -328,7 +328,7 @@ Jobbig som diamanter, rik på grädde!
 Häng med, det svänger!
 Ser sig omkring efter guld!
 Slå äggvispen mot stekpannan!
-Bygg ett bord, ett stiligt bord!
+Ett, två, tre, stjärnstopp!
 Ta hissen till entresolvåningen!
 Sluta vara förståndig, det här är internet!
 /give @a kramar 64
