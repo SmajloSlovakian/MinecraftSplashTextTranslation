@@ -31,17 +31,17 @@ LWJGL ব্যবহার করে!
 এখানে চাঁদ নেই!
 অস্থির!
 Create!
-Survive!
+বেঁচে থাকুন!
 Dungeon!
 Exclusive!
 The bee's knees!
-Closed source!
+ক্লোসদ সোর্স!
 Classy!
-Wow!
-Not on steam!
+ওয়াও!
+স্টিম এ নাই!
 Oh man!
-Awesome community!
-Pixels!
+অসাধারণ কমিউনিটি!
+পিক্সেল!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
@@ -67,7 +67,7 @@ Euclidian!
 Inspirational!
 Herregud!
 Complex cellular automata!
-Yes, sir!
+হ্যাঁ স্যার!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
