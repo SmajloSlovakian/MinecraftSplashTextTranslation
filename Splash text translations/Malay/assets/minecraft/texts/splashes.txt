@@ -159,7 +159,7 @@ Berautonomi!
 Terjah!
 Fantasi!
 DRR! DRR! DRR!
-Kick it root down!
+Tendangnya ke dalam tanah!
 Sumber kawasan!
 Woo, facepunch!
 Woo, somethingawful!
@@ -220,58 +220,58 @@ Tidak terkalah!
 Agak seperti Lemmings!
 Ikut kereta api itu, CJ!
 Sinergi dimanfaatkan!
-This message will never appear on the splash screen, isn't that weird?
-DungeonQuest is unfair!
+Mesej ini takkan sekali-kali muncul pada paparan tampilan, pelik kan?
+DungeonQuest tidak adil!
 90210!
-Check out the far lands!
-Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
+Kunjungi Tanah Jauh!
+Tyrion akan menyukainya!
+Cuba juga VVVVVV!
+Cuba juga Super Meat Boy!
+Cuba juga Terraria!
+Cuba juga Mount And Blade!
+Cuba juga Project Zomboid!
+Cuba juga World of Goo!
+Cuba juga Limbo!
+Cuba juga Pixeljunk Shooter!
+Cuba juga Braid!
+Hebat!
+Roti amat menyakitkan!
+Baca lebih banyak buku!
 Khaaaaaaaaan!
-Less addictive than TV Tropes!
-More addictive than lemonade!
-Bigger than a bread box!
-Millions of peaches!
+Kurang menagihkan berbanding TV Tropes!
+Lebih menagihkan berbanding air lemon!
+Lebih besar berbanding sekotak roti!
+Berjuta-juta pic!
 Fnord!
-This is my true form!
-Don't bother with the clones!
-Pumpkinhead!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Feature packed!
-Boots with the fur!
-Stop, hammertime!
-Testificates!
-Conventional!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
-Place ALL the blocks!
-Does barrel rolls!
-Meeting expectations!
-PC gaming since 1873!
-Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
-Got your nose!
-Haley loves Elan!
-Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
-Technologic!
+Inilah rupa sebenarku!
+Jangan kacau pependua!
+Kepala labu!
+Dicipta oleh Jeb!
+Mempunyai pengakhiran!
+Akhirnya selesai!
+Dipenuhi ciri-ciri!
+But berbulu!
+Henti, masa untuk menukul!
+Testificate!
+Konvensional!
+Homeomorfik kepada sfera 3 dimensi!
+Tidak mengelakkan negatif berdua!
+Letakkan SEMUA blok!
+Membuat oleng barel!
+Mencapai jangkaan!
+Bermain PC sejak 1873!
+Ubi benggala dihiris secara nipis dan rapi sebelum diperasa dan dicelup dalam minyak masak bersuhu tinggi!
+Deja vu!
+Deja vu!
+Saya dapat hidung anda!
+Haley cintakan Elan!
+Takut akan kelawar besar lagi hitam!
+Tidak menggunakan istilah U!
+Mainan kanak-kanak!
+Jumpa Jumaat depan atau lebih kurang begitulah!
+Dari jalanan Södermalm!
+150 bsm untuk 400000 minit!
+Teknologik!
 Funk soul brother!
 Pumpa kungen!
 日本ハロー！
@@ -281,11 +281,11 @@ Cześć Polsko!
 你好中国！
 Привет Россия!
 Γεια σου Ελλάδα!
-My life for Aiur!
+Hidupku demi Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Saya lihat perbendaharaan kata anda telah berkembang kaya!
+Siapa meletakkannya di situ?
+Anda tidak dapat menjelaskannya!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
