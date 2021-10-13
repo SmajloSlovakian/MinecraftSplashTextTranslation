@@ -329,7 +329,7 @@ Häng med, det svänger!
 Ser sig omkring efter guld!
 Slå äggvispen mot stekpannan!
 Bygg ett bord, ett stiligt bord!
-Ta hissen till mezzaninvåningen!
+Ta hissen till entresolvåningen!
 Sluta vara förståndig, det här är internet!
 /give @a kramar 64
 Det här är bra för Realms.
