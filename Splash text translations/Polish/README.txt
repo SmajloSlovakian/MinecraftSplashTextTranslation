@@ -12,4 +12,4 @@ Ale chwileczkę! To nie działa!
 
 
 Mój projekt to próba przetłumaczenia nieprzetłumaczalnych tekstów w Minecrafcie, takich jak splashe, napisy końcowe itd.
-Jest to prosty projekt społeczności niespokrewniony z firmą Mojang AB nor Minecraft itself as it is run by a member of the community.
+Jest to prosty projekt społeczności niespokrewniony z firmą Mojang AB ani z Minecraftem i zarządza nim członek społeczności tej gry.
