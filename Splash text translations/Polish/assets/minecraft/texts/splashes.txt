@@ -265,7 +265,7 @@ Déjà vu!
 Déjà vu!
 Mam twój nos!
 Haley kocha Elana!
-Bój się wielkiego, czarnego nietoperza!
+Boi się wielkiego, czarnego nietoperza!
 Nie używa słowa na U!
 Dziecinnie prosty!
 Widzimy się gdzieś w następny piątek!
@@ -328,7 +328,7 @@ Jestem z miasta!
 Widać, słychać i czuć!
 Dni, których jeszcze nie znamy!
 Parę chwil, na które czekamy!
-Make me a table, a funky table!
+Twe dłonie jak Kornwalie!
 Take the elevator to the mezzanine!
 Przestań być rozsądny, jesteśmy w Internecie!
 /give @a przytulas 64
