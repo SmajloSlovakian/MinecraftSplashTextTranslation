@@ -86,7 +86,7 @@ Monster mot monster!
 Älskat av miljontals!
 Den ultimata utgåvan!
 Galet!
-Du är nyckeln till mitt lås!
+Stackars Cookie!
 Vattentålig!
 Flamskyddad!
 Hörru, polar'n!
@@ -98,11 +98,11 @@ Direktsänt!
 Hemsökt!
 Polynom!
 Jordnära!
-Kärleken finns överallt!
+Känn en doft av kärleken!
 Fylld med stjärnor!
 Vetenskapligt bevisat!
 Inte lika häftig som Spock!
-Häng med och lyssna!
+Näe, näe, jag tror faktiskt inte det!
 Gräv aldrig rakt nedåt!
 Kom ihåg att ta en bensträckare!
 Icke-linjär!
@@ -112,16 +112,16 @@ Hinkar med lava!
 Rid grisen!
 Större än jorden!
 Jag älskar d-"sqrt(-1)"-g!
-Phobos anomali!
+I en galax långt långt borta!
 Ge trädet en snyting!
 Trillar ned för klippor!
 Sockerhalt: 1 %!
 150 % masshysteri!
 En synekdoke!
-Ska vi dnasa!
+Nå, I don't think så!
 Hemlig fredags-uppdatering!
 Referensimplementering!
-Kyss himlen!
+Ett äpple om dagen!
 20 GOTO 10!
 Verlet-integration!
 Peter Griffin!
@@ -159,7 +159,7 @@ Självstyrande!
 Anfall!
 Fantasy!
 DRR! DRR! DRR!
-Slå ned den i backen!
+Du är bäst!
 Lokala resurser!
 Tjoho, facepunch!
 Tjoho, somethingawful!
@@ -187,7 +187,7 @@ Hampsterdance!
 Mengers tvättsvamp!
 idspispopd!
 Eple (Original Edit)!
-Så fräscht och rent!
+Det här klarar du!
 Sega portaler!
 Ge dig på Nether!
 Undvik ögonkontakt med krypen!
@@ -196,7 +196,7 @@ Nu finns det äntligen stegar!
 Kusligt!
 Spela Minecraft, titta på Top Gear, skaffa en gris!
 Det twittras mycket om det!
-Hoppa, hoppa och ta dig ned!
+Jag går och fiskar!
 Joel är grym!
 En gåta, omsvept av mysterium!
 Den här papegojan finns inte mer! Dess existens har upphört!
@@ -241,7 +241,7 @@ Khaaaaaaaaan!
 Inte lika beroendeframkallande som TV Tropes!
 Mer beroendeframkallande än saft!
 Större än en brödkorg!
-Persikor i mängder!
+Jag var i luften!
 Det kan inte vara sant!
 Skåda min sanna skepnad!
 Bry dig inte om att testa någon av kopiorna!
@@ -251,7 +251,7 @@ Har ett slut!
 Äntligen färdigt!
 Fullpackat med innehåll!
 Aldrig sviker jag mitt land!
-Hammardags!
+Även vindarna kan vända!
 Testifikat!
 Konventionellt!
 Homeomorf med en 3-dimensionell sfär!
@@ -272,7 +272,7 @@ Då syns vi kanske på fredag!
 Från Södermalm!
 150 slag per minut i 400000 minuter!
 Tekniskt!
-Funk och soul!
+Mirakulöst!
 Pumpa kungen!
 日本ハロー！
 한국 안녕하세요!
@@ -315,21 +315,21 @@ En vacker dag kommer någon att citera mitt verk!
 Nu med ännu fler grejer!
 Fler saker!
 Hurra, valpar till alla!
-Ljuvlig som en pralin!
+Perfekt och synkroniserat!
 Väldigt inflytelserik i sin cirkel!
 Nu med ett flerspelarläge!
 Stig upp från din grav!
 Se upp! Ett stort stridsskepp "STEVE" närmar sig snabbt!
 Den blå krigaren sköt maten!
 Fly, fegis! Jag hungrar!
-Smak utan krydda!
-Skum men inget lödder!
-Jobbig som diamanter, rik på grädde!
-Häng med, det svänger!
-Ser sig omkring efter guld!
-Slå äggvispen mot stekpannan!
+Rädda bina!
+Fri som en fågel!
+Vad döljer du för mig?
+Bin har också rättigheter!
+Guldrush!
+Till oändligheten, och vidare!
 Ett, två, tre, stjärnstopp!
-Ta hissen till entresolvåningen!
+Stora, läskiga spindlar!
 Sluta vara förståndig, det här är internet!
 /give @a kramar 64
 Det här är bra för Realms.
@@ -360,7 +360,7 @@ Regnbågssköldpadda?
 Någonting skojigt!
 Jag behöver mer bakgrundsinformation.
 Aaaaaaa!
-Ta't lugnt, var lycklig!
+I ett land utan namn!
 Vattenflaska!
 Vad var frågan nu igen?
 Plantera ett träd!
