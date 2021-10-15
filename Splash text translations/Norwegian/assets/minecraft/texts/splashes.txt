@@ -283,23 +283,23 @@ Cześć Polsko!
 Γεια σου Ελλάδα!
 Jeg vier mitt liv til Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
-if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
-§kFUNKY LOL
-Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
+Jeg ser at ordforrådet ditt er blitt bedre!
+Hvem la det der!
+Du kan ikke forklare det!
+if not godt then return slutt
+§1F§2a§3r§4g§5e§6r§7i§8k
+§kJÆKLIG MORSOMT
+Store spisse tenner!
+Bekarton vokter porten!
+Mmmff, mmff!
+Ikke gi avokadoer til papegøyer!
+Sverd til alle!
+Plis svar på tweeten min!
 .party()!
-Take her pillow!
-Put that cookie down!
+Ta puten hennes!
+Legg i fra deg den kjeksen!
 Pretty scary!
-I have a suggestion.
+Jeg har et forslag!
 Now with extra hugs!
 Now Java 16!
 Woah.
