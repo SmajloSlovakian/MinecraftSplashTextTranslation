@@ -286,9 +286,9 @@ Lennart lennart = new Lennart();
 Saya lihat perbendaharaan kata anda telah berkembang kaya!
 Siapa meletakkannya di situ?
 Anda tidak dapat menjelaskannya!
-if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
-§kFUNKY LOL
+if not baik then return end
+§1W§2a§3r§4n§5a§6w§7a§8r§9n§ai
+§kFUNKI LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
 Mmmph, mmph!
