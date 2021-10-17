@@ -315,14 +315,14 @@ En dag, en gang i fremtiden, så vil arbeidet mitt bli sitert!
 Nå med flere ting enn tidligere!
 Ekstra ting!
 Stemmer, valper til alle!
-So sweet, like a nice bon bon!
-Very influential in its circle!
-Now With Multiplayer!
-Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
-Run, coward! I hunger!
-Flavor with no seasoning!
+Så søtt, også så elskverdig!
+Veldig innflytelsesrik i dens sirkel!
+Nå med flerspillerfunksjon!
+Stå opp fra graven!
+Advarsel! Et svært slagskip "STEVE" nærmer seg med stormskritt!
+En blå kriger skjøt maten!
+Løp feiging! Jeg sulter!
+Smak uten krydder!
 Strange, but not a stranger!
 Tougher than diamonds, rich like cream!
 It swings, it jives!
@@ -330,9 +330,9 @@ Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
-/give @a hugs 64
-This is good for Realms.
+Slutt å være fornuftig, dette er Internettet!
+/give @a klemmer 64
+Dette er bra for Realms!
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
