@@ -21,7 +21,7 @@ Heilige koe, man!
 Het is een spel!
 Gemaakt in Zweden!
 Gebruikt LWJGL!
-Reticulating splines!
+Reticulerende lijnen!
 Minecraft!
 Woehoe!
 Alleen spelen!
@@ -96,12 +96,12 @@ NP is niet in P!
 Muziek door C418!
 Live gestreamd!
 Behekst!
-Polynomial!
-Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
+Veeltermig!
+Terrestrisch!
+Het is allemaal vol van liefde!
+Vol met sterren!
+Wetenschappelijk!
+Niet zo cool als Spock!
 Collaborate and listen!
 Never dig down!
 Take frequent breaks!
