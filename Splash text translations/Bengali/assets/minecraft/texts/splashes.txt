@@ -359,7 +359,7 @@ Truly gone fishing!
 Rainbow turtle?
 Something funny!
 I need more context.
-Ahhhhhh!
+আহহহহহ!
 Don't worry, be happy!
 পানির বোতল!
 প্রশ্নটা কি?
@@ -417,7 +417,7 @@ Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
 ঘরে তৈরি!
-There's <<a cat on ,my keyboard!~
+আমার ,কীবোর্ডে <<একটি বিড়াল আছে!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
