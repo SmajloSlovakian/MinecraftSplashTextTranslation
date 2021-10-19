@@ -117,7 +117,7 @@ Phobos anomaly!
 Punching wood!
 Falling off cliffs!
 ১% চিনি!
-150% hyperbole!
+১৫০% হাইপারবোল
 Synecdoche!
 Let's danec!
 Seecret Friday update!
@@ -144,7 +144,7 @@ Octagonal!
 Une baguette!
 Gargamel plays it!
 Rita is the new top dog!
-SWM forever!
+SWM চিরতরে!
 Representing Edsbyn!
 Matt Damon!
 Supercalifragilisticexpialidocious!
@@ -159,7 +159,7 @@ Internet enabled!
 Autonomous!
 Engage!
 Fantasy!
-DRR! DRR! DRR!
+ডিআরআর! ডিআরআর! ডিআরআর!
 Kick it root down!
 Regional resources!
 Woo, facepunch!
@@ -228,7 +228,7 @@ Check out the far lands!
 Tyrion would love it!
 Also try VVVVVV!
 Also try Super Meat Boy!
-Also try Terraria!
+টেরারিয়াও চেষ্টা করুন!
 Also try Mount And Blade!
 Also try Project Zomboid!
 Also try World of Goo!
@@ -236,7 +236,7 @@ Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
 পুরাই জোস!
-Bread হচ্ছে ব্যথা!
+রুটি হচ্ছে ব্যথা!
 বই পড়ুন!
 চৌধুরী সাহেএএএএএএএএব!
 ইত্যাদি! ইত্যাদি!! ইত্যাদি!!!
@@ -249,7 +249,7 @@ Don't bother with the clones!
 Pumpkinhead!
 Made by Jeb!
 Has an ending!
-Finally complete!
+অবশেষে সম্পূর্ণ!
 Feature packed!
 Boots with the fur!
 Stop, hammertime!
@@ -262,8 +262,8 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
+দেজা ভু!
+দেজা ভু!
 Got your nose!
 চুপি চুপি বল কেউ জেনে যাবে!
 Afraid of the big, black bat!
@@ -290,7 +290,7 @@ You can't explain that!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
-Big Pointy Teeth!
+বড় তীক্ষ্ণ দাঁত!
 নাম বললে চাকরি থাকবে না!
 ভ্রুউউম, ভ্রুউম!
 টিয়াপাখিকে অ্যাভোকাডো ফল খাওয়াবেন না!
@@ -339,7 +339,7 @@ Do it all, everything!
 যেখানে অন্ধকার, সেখানে মাকড়সা!
 আমরা তোমাদের ভুলবো না!
 More Digital!
-doot doot
+ডুট ডুট
 Falling with style!
 There's no stopping the Trollmaso
 যদি তোর ডাক শুনে কেও না আসে, তবে একলা চলো রে
@@ -407,7 +407,7 @@ Also try Minecraft Dungeons!
 ভ্যানিলা!
 May contain traces of citrus!
 Zoglin!?
-Black lives matter!
+বি এল এম!
 Be anti-racist!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
