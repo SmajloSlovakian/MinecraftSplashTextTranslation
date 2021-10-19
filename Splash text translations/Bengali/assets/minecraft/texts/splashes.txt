@@ -30,9 +30,10 @@ LWJGL ব্যবহার করে!
 যেখানে ক্রিপারের ভয় সেখানে সন্ধ্যা হয়!
 এখানে চাঁদ নেই!
 অস্থির!
-Create!
+
+সৃষ্টি করা!
 বেঁচে থাকুন!
-Dungeon!
+অন্ধকূপ!
 Exclusive!
 The bee's knees!
 ক্লোসদ সোর্স!
@@ -47,7 +48,7 @@ Kaaneeeedaaaa!
 Now with difficulty!
 Enhanced!
 ৯০% পোকামুক্ত!
-Pretty!
+সুন্দর!
 12 herbs and spices!
 ফ্যাট ফ্রি!
 Absolutely no memes!
@@ -125,7 +126,7 @@ Kiss the sky!
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
-Do not distribute!
+বিতরণ করো না!
 Cogito ergo sum!
 4815162342 lines of code!
 A skeleton popped out!
@@ -148,7 +149,7 @@ Representing Edsbyn!
 Matt Damon!
 Supercalifragilisticexpialidocious!
 Consummate V's!
-Cow Tools!
+গাভী টুল!
 Double buffered!
 Fan fiction!
 Flaxkikare!
@@ -179,10 +180,10 @@ MAP11 has two names!
 Omnipotent!
 Gasp!
 ...!
-Bees, bees, bees, bees!
+মৌমাছি, মৌমাছি, মৌমাছি, মৌমাছি!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Haha, LOL!
+হাহাহা, LOL!
 Hampsterdance!
 Menger sponge!
 idspispopd!
