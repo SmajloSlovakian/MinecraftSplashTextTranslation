@@ -24,13 +24,13 @@ Utiliza LWJGL!
 Reticulating splines!
 Minecraft!
 Viva!
-Singleplayer!
-Keyboard compatible!
+Jogador único!
+Compatível com teclado!
 Ingots!
 Creepers explosivos!
 That's no moon!
 l33t!
-Create!
+Crie!
 Survive!
 Dungeon!
 Exclusive!
@@ -38,9 +38,9 @@ The bee's knees!
 Closed source!
 Classy!
 Uau!
-Not on steam!
+Não está na Steam!
 Oh man!
-Awesome community!
+Comunidade altamente!
 Píxeis!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
