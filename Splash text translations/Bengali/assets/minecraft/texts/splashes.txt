@@ -71,7 +71,7 @@ Complex cellular automata!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
-Try it!
+এটা চেষ্টা করুন
 Age of Wonders is better!
 Try the mushroom stew!
 Sensational!
@@ -93,7 +93,7 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP কখনো P হয় না!
-Music by C418!
+C418 সংগীত!
 Livestreamed!
 Haunted!
 Polynomial!
@@ -375,7 +375,7 @@ Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
+হাত ধুয়ে নিন!
 Soap and water!
 Support local businesses!
 Stay home and play games!
@@ -424,4 +424,4 @@ Get to the coppah!
 Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
+প্রকৃত মানুষ দ্বারা তৈরি
