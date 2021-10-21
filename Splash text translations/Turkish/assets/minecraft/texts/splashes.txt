@@ -238,23 +238,25 @@ Also try World of Goo!
 Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
+Bu harika!
+Ekmek zayıflıktır!
+Daha fazla kitap oku!
 Khaaaaaaaaan!
+
 Less addictive than TV Tropes!
 More addictive than lemonade!
-Bigger than a bread box!
-Millions of peaches!
+Ekmek kutusundan daha büyük!
+Milyonlarca şeftali!
 Fnord!
-This is my true form!
-Don't bother with the clones!
+Bu benim asıl halim!
+Klonlarla hiç uğraşma!
 Pumpkinhead!
-Made by Jeb!
-Has an ending!
-Finally complete!
+Jeb tarafından yapıldı!
+Bir sonu var!
+Sonunda bitti!
 Feature packed!
 Boots with the fur!
+
 Stop, hammertime!
 Testificates!
 Conventional!
@@ -263,16 +265,19 @@ Doesn't avoid double negatives!
 Place ALL the blocks!
 Does barrel rolls!
 Meeting expectations!
-PC gaming since 1873!
+1873'den beri bilgisayar oyunculuğu!
 Ghoughpteighbteau tchoghs!
+
 Déjà vu!
+
 Déjà vu!
-Got your nose!
-Haley loves Elan!
+
+Burnunu kaptım!
+Haley Elanı seviyor!
 Afraid of the big, black bat!
 Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
+Çocuk oyunu!
+Bir dahaki cuma görüşmek üzere!
 From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
@@ -288,7 +293,7 @@ Cześć Polsko!
 My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
-Who put it there?
+Bunu buraya kim koydu?
 You can't explain that!
 if not ok then return end
 §1R§2E§3n§4k§5l§6i§7i§8i§9i
