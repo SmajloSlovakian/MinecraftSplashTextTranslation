@@ -1,15 +1,15 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Projek ini dihasilkan oleh SmajloSlovakian#1077 (anda tidak boleh menghantar saya permohonan rakan jika anda adalah orang asing bagi saya)
 
-How do i add this pack to Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
-  Resource Packs and pick the pack which has just appeared.
+Bagaimanakah cara untuk saya menambahkan pek in kedalam Minecraft?
+-Tambahkan folder yang anda baru buka ke folder "\Appdata\Roaming\.minecraft\resourcepacks\", pergi kedalam Minecraft, tetapan, 
+  Pek Sumber dan pilih pek mana yang baru sahaja muncul.
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Resource packs folder..."
+Bagaimanakah cara untuk saya memasuki folder resourcepacks?
+-Buka Minecraft, pergi ke tetapan, Pek Sumber, seret dan lepaskan pek sumber itu kedalam tetingkap Minecraft...
+Tapi tunggu dulu!  ia tidak berfungsi!
+-Klik pada sebuah butang bernama "Folder pek sumber..."
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+Projek saya bertujuan untuk menerjemah teks yang tidak diterjemahkan didalam Minecraft seperti teks mesej tampilan, kredit akhir permainan dan lain-lain.
+Ini adalah projek komuniti sederhana yang tidak berafiliasi dengan Mojang AB. atau Minecraft itu sendiri kerana ia dijalankan oleh seorang ahli komuniti ini.
