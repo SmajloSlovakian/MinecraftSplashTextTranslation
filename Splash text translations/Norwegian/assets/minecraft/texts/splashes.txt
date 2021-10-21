@@ -20,7 +20,7 @@ Sjekk det ut!
 I alle dager!
 Det er et spill!
 Laget i Sverige!
-Uses LWJGL!
+Bruker Lightweight Java Game Library!
 Reticulating splines!
 Minecraft!
 Yaaay!
@@ -401,27 +401,27 @@ Med musikk fra Lena Raine!
 #minecraftfarms
 Og hakken min!
 Drøm! Skap! Del!
-Fabulous graphics!
-Also try Minecraft Dungeons!
+Fantastisk grafikk!
+Prøv også Minecraft Dungeons!
 Vanilla!
-May contain traces of citrus!
+Kan inneholde spor av sitrus!
 Zoglin!?
 Black lives matter!
-Be anti-racist!
+Vær antirasist!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
 Amplify and listen to BIPOC voices!
-Educate your friends on anti-racism!
+Lær dine venner om anti-rasisme!
 Support the BIPOC community and creators!
-Stand up for equality in your community!
+Stå opp for likestilling i samfunnet ditt!
 [Denne utkaststeksten har blitt utsatt til del 2 av spillet]
-Contains simulated goats!
-Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
-Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
-Plant-based light sources!
-Made by "real" people!
+Inneholder simulerte geiter!
+Hjemmelaget!
+Det er "en katt på ,tastaturet mitt!~
+Det søteste rovdyret du noen gang vil møte!
+Nå tenker du på stempler!
+kopper av kobber!
+En versjon fins også som et brettspill!
+Søting, jeg vokset kobberet!
+Plantbaserte lyskilder!
+Laget av "ekte" folk!
