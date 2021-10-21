@@ -21,20 +21,20 @@ I alle dager!
 Det er et spill!
 Laget i Sverige!
 Bruker Lightweight Java Game Library!
-Reticulating splines!
+Retikulerende vektorer!
 Minecraft!
-Yaaay!
+Jaaa!
 Enkeltspiller!
 Tastaturkompatibel!
 Barrer!
 Eksploderende creepere!
-That's no moon!
+Det der er ingen måne!
 l33t!
 Skap!
 Overlev!
 Grotter!
 Eksklusivt!
-The bee's knees!
+Dette er jammen "Bisnis"!
 Kopiering forbudt!
 Stiligt!
 Jøss!
@@ -60,7 +60,7 @@ Hard to label!
 Teknisk bra!
 Bringing home the bacon!
 Uavhengig!
-GOTY!
+Årets spill!
 Ceci n'est pas une title screen!
 Euklidisk geometri!
 Nå I 3D!
@@ -69,14 +69,14 @@ Herregud!
 Komplekse cellulære automater!
 Skal bli!
 Spilt av kugjetere!
-Now on OpenGL 3.2 core profile!
+Bruker nå OpenGL 3.2  kjerneprofil!
 Tusenvis av fargere!
 Prøv det!
 Age of Wonders er bedre!
 Prøv Soppstuingen!
 Sensasjonelt!
 "Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
+Ta han på sengen, keyboard cat!
 Garantert!
 Makroskopisk!
 Vis hva du er god for!
@@ -85,19 +85,19 @@ Ring moren din!
 Monster infighting!
 Elsket av millioner!
 Den ultimate utgaven!
-Freaky!
+Skrekkelig!
 You've got a brand new key!
 Vanntett!
 Ubrennbart!
-Whoa, dude!
+Hør. broder!
 Alt inkludert!
 Fortell dine venner!
 Det er ikke NP i P!
 Musikk fra C418!
 Direktesendt!
 Hjemsøkt!
-Polynomial!
-Terrestrial!
+Polynom!
+Terrestrisk!
 Kjærligheten kan finnes overalt!
 Fult av stjerner!
 Vitenskapelig!
@@ -195,7 +195,7 @@ Se ikke direkte på krypene!
 Endelig med stiger!
 Skummelt!
 Spill Minecraft, se Topgear, få gris!
-Twittered about!
+Twittret om!
 Jump up, jump up, and get down!
 Joel er en going!
 En gåte, pakket inn i et mysterium!
@@ -241,7 +241,7 @@ Khaaaaaaaaan!
 Mindre avhengighetsskapende enn TV Tropes!
 Mer avhavhengighetsskapende enn saft!
 Større enn en brødboks!
-Millions of peaches!
+Millioner av fersken.
 Fnord!
 Dette er min endelige form!
 Ikke bry deg om kopiene!
@@ -298,7 +298,7 @@ Plis svar på tweeten min!
 .party()!
 Ta puten hennes!
 Legg i fra deg den kjeksen!
-Pretty scary!
+Ganske skummelt!
 Jeg har et forslag!
 Nå med ekstra mange klemmer!
 Nå på Java 16!
