@@ -292,8 +292,8 @@ if not baik then return end
 Gigi Tajam Besar!
 Bekarton mengawal pintu tembok!
 Mmmf, mmf!
-Don't feed avocados to parrots!
-Swords for everyone!
+Jangan beri makan alpukat kepada burung kakak tua!
+Pedang untuk semua!
 Plz reply to my tweet!
 .party()!
 Take her pillow!
@@ -330,14 +330,14 @@ Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
+Berhenti bersikap wajar, ini adalah Internet!
 /give @a hugs 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
 GNU Terry Pratchett
-More Digital!
+Lebih Digital!
 doot doot
 Falling with style!
 There's no stopping the Trollmaso
@@ -351,10 +351,10 @@ Should not be played while driving
 You're going too fast!
 Don't feed chocolate to parrots!
 The true meaning of covfefe
-An illusion! What are you hiding?
-Something's not quite right...
+Sebuah ilusi! Apa yang anda sembunyikan?
+Ada sesuatu yang tidak betul...
 Thank you for the fish!
-All rumors are true!
+Semua khabar angin adalah benar!
 Truly gone fishing!
 Rainbow turtle?
 Something funny!
@@ -376,19 +376,19 @@ In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
 Wash your hands!
-Soap and water!
-Support local businesses!
+Sabun dan air!
+Sokong perniagaan tempatan!
 Stay home and play games!
 Stay safe!
 Stay strong!
-Cough or sneeze into your elbow!
-Don’t touch your face!
-Support elderly relatives and friends!
+Batuk atau bersin kearah siku anda!
+Jangan sentuh muka anda!
+Sokong saudara-mara dan rakan-rakan yang sudah tua!
 Prepare, but don’t hoard!
-Gamers unite – separately in your own homes!
-Save the world – stay inside!
+Semua pemain bersatu - secara berasingan di rumah anda sendiri!
+Selamatkan dunia – duduk dirumah!
 Shop for your elders!
-Hang out with your friends online!
+Bergaul dengan rakan anda secara dalam talian!
 Honey, I grew the bees!
 Find your claw!
 Everybody do the Leif!
@@ -396,13 +396,13 @@ Everybody do the Leif!
 Bushy eyebrows!
 Edit is a name!
 From free range developers!
-Music by Lena Raine!
+Muzik oleh Lena Raine!
 Aww man!
 #minecraftfarms
-And my pickaxe!
-Envision! Create! Share!
-Fabulous graphics!
-Also try Minecraft Dungeons!
+Dan beliungku!
+Bayangkan! Cipta! Kongsi!
+Grafik menawan!
+Cuba juga Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
@@ -421,7 +421,7 @@ There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
-Board game version also available!
+Versi permainan papan juga tersedia!
 Honey, I waxed the copper!
 Plant-based light sources!
 Made by "real" people!
