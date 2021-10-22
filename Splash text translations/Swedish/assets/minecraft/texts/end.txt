@@ -46,9 +46,9 @@
 
 §2Men det skulle vara så enkelt att berätta för dem...
 
-§3För kraftfullt för den här drömmen. Att berätta för dem hur man ska leva är att stoppa dem från att leva.
+§3För kraftfullt för den här drömmen. Att berätta för dem hur de ska leva är att stoppa dem från att leva.
 
-§2Jag kommer inte berätta för spelaren hur man ska leva.
+§2Jag kommer inte att berätta för spelaren hur den ska leva.
 
 §3Spelaren börjar bli otålig.
 
