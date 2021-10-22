@@ -182,7 +182,7 @@ Gisp!
 Bier. bier, bier, bier!
 Jag känner en bot!
 Denne teksten kan være vanskelig å lese i den standardoppløsningen, men ved 1080p kan det gå bedre!
-Haha, LOL!
+Haha, ler og ler!
 Hampsterdance!
 Mengersvampen!
 idspispopd!
@@ -219,7 +219,7 @@ Rolig spilling!
 Ubeseiret!
 Ganske likt spillet Lemmings!
 "Følg toget, CJ"!
-Leveraging synergy!
+God praksis!
 Denne meldingen vil aldri bli vist på hovedmenyen. Er ikke det rart?
 DungeonQuest er urettferdig!
 90210!
@@ -328,8 +328,8 @@ Tougher than diamonds, rich like cream!
 It swings, it jives!
 Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
-Make me a table, a funky table!
-Take the elevator to the mezzanine!
+Bæ, bæ, lille lam!
+La det swinge!
 Slutt å være fornuftig, dette er Internettet!
 /give @a klemmer 64
 Dette er bra for Realms!
@@ -360,7 +360,7 @@ Regnbueskilpadde?
 Noe morsomt!
 Jeg trenger mer kontekst.
 Aaaaaaa!
-Don't worry, be happy!
+Ja vi elsker!
 Vannflaske!
 Hva er spørsmålet?
 Plant et tre!
@@ -394,7 +394,7 @@ Finn kloen din!
 Alle ta å gjør  en Leif!
 <3 Max & 99 & Ducky!
 Buskete øyenbryn!
-Edit is a name!
+Hans er et navn!
 Fra frittgående utviklere!
 Med musikk fra Lena Raine!
 åååh nei!
