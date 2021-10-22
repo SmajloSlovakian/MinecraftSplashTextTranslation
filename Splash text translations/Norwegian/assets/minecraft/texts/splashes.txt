@@ -241,7 +241,7 @@ Khaaaaaaaaan!
 Mindre avhengighetsskapende enn TV Tropes!
 Mer avhavhengighetsskapende enn saft!
 Større enn en brødboks!
-Millioner av fersken.
+Millioner av fersken!
 Fnord!
 Dette er min endelige form!
 Ikke bry deg om kopiene!
@@ -286,9 +286,9 @@ Lennart lennart = new Lennart();
 Jeg ser at ordforrådet ditt er blitt bedre!
 Hvem la det der!
 Du kan ikke forklare det!
-if not godt then return slutt
-§1F§2a§3r§4g§5e§6r§7i§8k
-§kJÆKLIG MORSOMT
+if not "godt" then return "slutt"!
+§1F§2a§3r§4g§5e§6r§7i§8k!
+§kJÆKLIG MORSOMT!
 Store spisse tenner!
 Bekarton vokter porten!
 Mmmff, mmff!
@@ -326,39 +326,39 @@ Smak uten krydder!
 Strange, but not a stranger!
 Tougher than diamonds, rich like cream!
 It swings, it jives!
-Cruising streets for gold!
-Take an eggbeater and beat it against a skillet!
+Mil etter mil!
+Mil etter mil, etter mil, etter mil. Mil etter mil, etter mil, etter mil!
 Bæ, bæ, lille lam!
 La det swinge!
 Slutt å være fornuftig, dette er Internettet!
-/give @a klemmer 64
+/give @a klemmer 64!
 Dette er bra for Realms!
 Alle datamaskiner kan være bærbar om en er vågal!
 Gjør alt, alt sammen!
 Hvor det ikke er lys, kan det være edderkopp!
-GNU Terry Pratchett
+GNU Terry Pratchett!
 Enda mer digitalt!
-doot doot
+doot doot!
 Falle med stil!
-Ingenting kan stoppe Trollmaso
-Kast deg mot bakken og bomm
-Regel #1: Det er alldri min feil
+Ingenting kan stoppe Trollmaso!
+Kast deg mot bakken og bomm!
+Regel #1: Det er alldri min feil!
 Ble smeltet ost erstattet med blod?
-Har absolutt ordnet relativt ødelagte koordinater
-Lenge leve båter
-Javatastisk utgave
-Bør ikke spilles mens en kjører
+Har absolutt ordnet relativt ødelagte koordinater!
+Lenge leve båter!
+Javatastisk utgave!
+Bør ikke spilles mens en kjører!
 Du går for fort!
 Ikke gi sjokolade til papegøyer!
 Den sanne mening om covfefe
 En illusjon! Hva er det du gjemmer?
-Noe stemmer ikke...
+Noe stemmer ikke...!
 Takk for fisken!
 Alle rykter er sanne!
 Sanne dratt på fisketur!
 Regnbueskilpadde?
 Noe morsomt!
-Jeg trenger mer kontekst.
+Jeg trenger mer kontekst!
 Aaaaaaa!
 Ja vi elsker!
 Vannflaske!
@@ -398,7 +398,7 @@ Hans er et navn!
 Fra frittgående utviklere!
 Med musikk fra Lena Raine!
 åååh nei!
-#minecraftfarms
+#minecraftfarms!
 Og hakken min!
 Drøm! Skap! Del!
 Fantastisk grafikk!
