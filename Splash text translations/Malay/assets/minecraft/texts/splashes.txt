@@ -299,7 +299,7 @@ Plz reply to my tweet!
 Ambil bantal dia!
 Letak biskut itu!
 Agak seram!
-I have a suggestion.
+Saya ada cadangan.
 Now with extra hugs!
 Kini dengan Java 16!
 Woah.
@@ -349,7 +349,7 @@ Boats FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
-Don't feed chocolate to parrots!
+Jangan beri makan coklat kepada burung kakak tua!
 The true meaning of covfefe
 Sebuah ilusi! Apa yang anda sembunyikan?
 Ada sesuatu yang tidak betul...
@@ -361,7 +361,7 @@ Something funny!
 I need more context.
 Ahhhhhh!
 Don't worry, be happy!
-Water bottle!
+Botol air!
 What's the question?
 Tanamlah sebatang pokok!
 Go to the dentist!
@@ -372,10 +372,10 @@ Awesome game design right there!
 Ph1lza had a good run!
 10 years of Mining and Crafting!
 Ping the human!
-In case it isn't obvious, foxes aren't players.
+Sekiranya ia tidak jelas, musang bukanlah pemain.
 Buzzy Bees!
 Minecraft Edisi Java mempersembahkan: Pepijat Menjijikkan
-Wash your hands!
+Basuh tangan anda!
 Sabun dan air!
 Sokong perniagaan tempatan!
 Stay home and play games!
@@ -414,12 +414,12 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[this splash text has been delayed until part 2]
+[teks tampilan ini telah ditangguhkan sehingga bahagian ke-2]
 Contains simulated goats!
-Home-made!
+Buatan Sendiri!
 Ada seekor <<kucing pada ,papan kekunci ku!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+Pemangsa paling comel yang pernah anda temui!
+Sekarang anda berfikir dengan omboh!
 Get to the coppah!
 Versi permainan papan juga tersedia!
 Honey, I waxed the copper!
