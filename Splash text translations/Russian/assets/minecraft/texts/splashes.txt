@@ -95,13 +95,13 @@ Age of Wonders лучше!
 NP не в P!
 Музыка от C418!
 Транслировалось!
-Haunted!
-Polynomial!
+Осторожно!
+Полиномиально!
 Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
+Все полны любви!
+Заполнено звезда!
+Ученый!
+Не так здорово как Spock!
 Сотрудничай и слушай!
 Никогда не копай под себя!
 Часто делайте перерывы!
@@ -145,12 +145,12 @@ Une baguette!
 Рита - новая топ собака!
 НБМ навсегда!
 Representing Edsbyn!
-Matt Damon!
+Мэт-Дамон!
 Supercalifragilisticexpialidocious!
-Consummate V's!
-Cow Tools!
-Double buffered!
-Фанфик!
+Совместить V's!
+Инструменты для коров!
+Двойная буферизация
+Фан-фантастика!
 Flaxkikare!
 Jason! Jason! Jason!
 Горячее солнца!
@@ -158,16 +158,16 @@ Jason! Jason! Jason!
 Берегите себя!
 Вовлекайся!
 Фантазия!
-DRR! DRR! DRR!
-Kick it root down!
-Региональный ресурс!
-Вау, фейспанч!
-Woo, somethingawful!
-Woo, tigsource!
-Woo, worldofminecraft!
+ДРР! ДРР! ДРР!
+Выгнать суперпользователя вниз!
+Реальные ресурсы!
+Ву, фасепунь!
+Ву, что-то ужасное!
+Ву, тигрыж!
+Ну, мировая дофминкрафта!
 Вау, реддит!
 Woo, 2pp!
-Google anlyticsed!
+Google проанализировал!
 Теперь поддерживает åäö!
 Дайте нам Гордона!
 Давайте чаевые вашим официантам!
@@ -183,8 +183,8 @@ MAP11 имеет два названия!
 Jag känner en bot!
 Данный текст трудночитаемый, если у вас настройки разрешения по умолчанию, но на 1080p нормально!
 Хаха, ЛОЛ!
-Hampsterdance!
-Menger sponge!
+Хэмпстертанс!
+Губка Менгера!
 швызшызщзв!
 Йаплага (исходное редактирование)!
 Так свежо, так чисто!
@@ -195,36 +195,36 @@ Menger sponge!
 Наконец с лестницами!
 Страшный!
 Играй в Minecraft, смотри Topgear, получи свинью!
-Twittered about!
+В Твиттере!
 Подпрыгни, подпрыгни и упади!
-Joel is neat!
+Джоэл аккуратный!
 Головоломка, завернутая в тайну!
-This parrot is no more! It has ceased to be!
-Добро пожаловать в свой Doom!
-Stay a while, stay forever!
-Stay a while and listen!
-Treatment for your rash!
-"Autological" is!
-Information wants to be free!
-"Almost never" is an interesting concept!
-Lots of truthiness!
+Этого попугая больше нет! Он перестал быть!
+Добро пожаловать в ваш Doom!
+Оставайтесь на некоторое время, оставайся навсегда!
+Оставайтесь и слушайте!
+Лечение сыпи!
+"Автологический"!
+Информация хочет быть бесплатной!
+"Почти никогда" - интересная концепция!
+Много правды!
 Крипер - шпион!
-Turing complete!
-It's groundbreaking!
-Let our battle's begin!
-Небо имеет границы!
-У Jeb прекрасные волосы!
-Ryan also has amazing hair!
-Casual gaming!
-Undefeated!
-Kinda like Lemmings!
-Следуй за поездом, СиДжей!
-Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
-DungeonQuest - нечестный!
+Завершено!
+Это врезание земли!
+Да начнется битва!
+Лимит на небе!
+У Джеба потрясающие волосы!
+У Райана потрясающие волосы!
+Казуальная игра!
+Непобедимо!
+Кинда как Лимминг!
+Следуйте за поезда, CJ!
+Продвинутый синергизм!
+Это сообщение никогда не появится на заставке, не правда ли?
+Подземельный квест несправедливый!
 90210!
-Check out the far lands!
-Tyrion would love it!
+Посмотрите на далекие земли!
+Тирион будет любить это!
 Попробуй также VVVVVV!
 Попробуй также Super Meat Boy!
 Попробуй также Terraria!
@@ -238,27 +238,27 @@ Tyrion would love it!
 Хлеб - это боль!
 Читайте больше книг!
 Хааааааааааан!
-Less addictive than TV Tropes!
-More addictive than lemonade!
-Bigger than a bread box!
+Менее затягивает, чем телешоу!
+Затягивает больше, чем лимонад!
+Больше, чем хлебная коробка
 Миллионы персиков!
 Фнорд!
 Это моя истинная форма!
-Don't bother with the clones!
-Тыквоголова!
-Сделано Jeb!
-Has an ending!
-Наконец-то завершено!
-Feature packed!
-Boots with the fur!
-Stop, hammertime!
-Testificates!
-Conventional!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
-Поставь ВСЕ блоки!
+Не беспокойтесь о клонах!
+Тыквоголовый!
+Сделано Джебом!
+Конец!
+Наконец-то закончили!
+Функционально упаковано!
+Сапоги с мехом!
+Стой, время молота!
+Тестирующие!
+Общепринятый
+Гомеморфич в 3-сфере!
+Не избегайте двойных негативов!
+Поместите ВСЕ блоки!
 Does barrel rolls!
-Meeting expectations!
+Ожидается соответствие!
 ПК гейминг с 1873!
 Ghoughpteighbteau tchoghs!
 Дежавю!
@@ -410,7 +410,7 @@ From free range developers!
 Не будьте расистами!
 Узнай больше об allyship!
 Скажете НЕТ несправедливости, и ДА равноправию!
-Amplify and listen to BIPOC voices!
+Усилить и слушать BIPOC голосов!
 Отучайте своих друзей от расизма!
 Поддерживайте BIPOC сообщество и создателей!
 Отстаивайте равноправие в сообществе!
