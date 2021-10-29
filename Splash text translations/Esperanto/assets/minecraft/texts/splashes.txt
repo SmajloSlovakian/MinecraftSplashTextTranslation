@@ -61,13 +61,13 @@ Technically good!
 Bringing home the bacon!
 Indie!
 GOTY!
-Цирила эсперанто!
-Euclidian!
-Now in 3D!
-Inspirational!
-Herregud!
-Complex cellular automata!
-Yes, sir!
+Цирила Есперанто!
+Արմենա էսպերանտո!
+!آرآبآ اَسپاَرآنتاُ
+!האֶּבראֶּאַ אֶּספּאֶּראַנתאוֹ
+한구라 엣뻬란토!
+カタカナ　エㇲペラント！
+Γκρεκα Εσπεραντο!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
@@ -127,7 +127,7 @@ Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
-4815162342 lines of code!
+4815162342 linioj de kodo!
 A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
@@ -178,7 +178,7 @@ Lives in a pineapple under the sea!
 MAP11 has two names!
 Omnipotent!
 Gasp!
-...!
+?...;-.:—,!
 Bees, bees, bees, bees!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
@@ -204,7 +204,7 @@ Welcome to your Doom!
 Stay a while, stay forever!
 Stay a while and listen!
 Treatment for your rash!
-"Autological" is!
+"Sinsignifa" estas!
 Information wants to be free!
 "Almost never" is an interesting concept!
 Lots of truthiness!
@@ -283,11 +283,11 @@ Cześć Polsko!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
+Lernu novajn vortojn!
 Who put it there?
 You can't explain that!
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+§cI§6r§ei§az§bi§9t§1e§5!
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
@@ -331,7 +331,7 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
+/give @a brakumoj 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
@@ -370,7 +370,7 @@ Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+10 jaroj de minado kaj kraftado!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
