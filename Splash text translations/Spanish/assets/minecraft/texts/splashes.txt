@@ -21,7 +21,7 @@
 ¡Es un juego!
 ¡Hecho en Suecia!
 ¡Usa LWJGL!
-Reticulating splines!
+¡Reticulando esplinas!
 ¡Minecraft!
 ¡Yaaay!
 ¡Un jugador!
@@ -194,23 +194,23 @@ Este texto es difícil de leer si juegas con la resolución por defecto, ¡pero 
 Oh, ok, ¡hombres cerdo!
 ¡Por fin con escaleras!
 ¡Aterrador!
-Play Minecraft, Watch Topgear, Get Pig!
-Twittered about!
-Jump up, jump up, and get down!
-Joel is neat!
-A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
-Welcome to your Doom!
-Stay a while, stay forever!
-Stay a while and listen!
-Treatment for your rash!
-"Autological" is!
-Information wants to be free!
+¡Juega a Minecraft, mira Topgear, ponte cerdo!
+¡Tuiteado!
+Salta, salta, ¡y abajo!
+¡Joel está bien!
+¡Un enigma, envuelto en un misterio!
+¡El loro ya no es! ¡Ha cesado de ser!
+¡Bienvenido a tu infierno!
+¡Una vez empiezas, no hay parar!
+¡Quédate un rato y escucha!
+¡Tratamiento para tu sarpullido!
+¡"Autologica" es!
+¡La información quiere ser libre!
 ¡"Casi nunca" es un concepto interesante!
-Lots of truthiness!
-The creeper is a spy!
-Turing complete!
-It's groundbreaking!
+¡Mucha verdadeza!
+¡El creeper es un espía!
+¡Turing completo!
+¡Es innovador!
 Let our battle's begin!
 The sky is the limit!
 Jeb has amazing hair!
