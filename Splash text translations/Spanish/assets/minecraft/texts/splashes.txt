@@ -21,7 +21,7 @@
 ¡Es un juego!
 ¡Hecho en Suecia!
 ¡Usa LWJGL!
-Reticulating splines!
+¡Reticulando esplinas!
 ¡Minecraft!
 ¡Yaaay!
 ¡Un jugador!
@@ -111,7 +111,7 @@ Reticulating splines!
 ¡Cubos de lava!
 ¡Monta el cerdo!
 ¡Más grande que la Tierra!
-sqrt(-1) love you!
+(x²+ y² – 1)³ – x²y3³= 0
 ¡Phobos anomaly!
 ¡Golpeando madera!
 ¡Cayendo por acantilados!
@@ -194,37 +194,37 @@ Este texto es difícil de leer si juegas con la resolución por defecto, ¡pero 
 Oh, ok, ¡hombres cerdo!
 ¡Por fin con escaleras!
 ¡Aterrador!
-Play Minecraft, Watch Topgear, Get Pig!
-Twittered about!
-Jump up, jump up, and get down!
-Joel is neat!
-A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
-Welcome to your Doom!
-Stay a while, stay forever!
-Stay a while and listen!
-Treatment for your rash!
-"Autological" is!
-Information wants to be free!
+¡Juega a Minecraft, mira Topgear, ponte cerdo!
+¡Tuiteado!
+Salta, salta, ¡y abajo!
+¡Joel está bien!
+¡Un enigma, envuelto en un misterio!
+¡El loro ya no es! ¡Ha cesado de ser!
+¡Bienvenido a tu infierno!
+¡Una vez empiezas, no hay parar!
+¡Quédate un rato y escucha!
+¡Tratamiento para tu sarpullido!
+¡"Autologica" es!
+¡La información quiere ser libre!
 ¡"Casi nunca" es un concepto interesante!
-Lots of truthiness!
-The creeper is a spy!
-Turing complete!
-It's groundbreaking!
-Let our battle's begin!
-The sky is the limit!
-Jeb has amazing hair!
-Ryan also has amazing hair!
-Casual gaming!
-Undefeated!
-Kinda like Lemmings!
-Follow the train, CJ!
-Leveraging synergy!
+¡Mucha verdadeza!
+¡El creeper es un espía!
+¡Turing completo!
+¡Es innovador!
+¡La batalla ya ha empezado!
+¡El cielo es el límite!
+¡Jeb tiene un pelo increíble!
+¡Ryan también tiene un pelazo!
+¡Gaming casual!
+¡Invicto!
+¡Parecido a Lemmings!
+¡Sigue el tren, CJ!
+¡Aprovechando la sinergia!
 ¡Traducido por Nan!
-DungeonQuest is unfair!
-90210!
-Check out the far lands!
-Tyrion would love it!
+¡DungeonQuest es injusto!
+¡90210!
+¡Échale un vistazo a las far lands!
+¡A Tyrion le encantaría!
 ¡Prueba también VVVVVVVV!
 ¡Prueba también Super Meat Boy!
 ¡Prueba también Terraria!
@@ -420,8 +420,8 @@ Home-made!
 ¡Hay un <<gato en ,mi teclado!~
 ¡El depredador más adorable qué encontrarás!
 ¡Ahora estás pensando con pistones!
-Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
+¡Al helicóptero!
+¡Versión en juego de mesa ya disponible!
+Cariño, ¡enceré el cobre!
 Plant-based light sources!
 ¡Hecho por gente "real"!

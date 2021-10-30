@@ -24,13 +24,13 @@ Utiliza LWJGL!
 Reticulating splines!
 Minecraft!
 Viva!
-Singleplayer!
-Keyboard compatible!
+Jogador único!
+Compatível com teclado!
 Ingots!
 Creepers explosivos!
 That's no moon!
 l33t!
-Create!
+Crie!
 Survive!
 Dungeon!
 Exclusive!
@@ -38,9 +38,9 @@ The bee's knees!
 Closed source!
 Classy!
 Uau!
-Not on steam!
+Não está na Steam!
 Oh man!
-Awesome community!
+Comunidade altamente!
 Píxeis!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
@@ -85,27 +85,27 @@ Call your mother!
 Monster infighting!
 Loved by millions!
 Ultimate edition!
-Freaky!
-You've got a brand new key!
+Bizarro!
+Você tem uma chave nova!
 À prova de água!
-Uninflammable!
-Whoa, dude!
+Não inflamavél!
+Uau, cara!
 All inclusive!
 Tell your friends!
 NP não está contido em P!
-Music by C418!
-Livestreamed!
+Música por C418!
+Transmitido em direto!
 Assombrado!
 Polynomial!
 Terrestrial!
 All is full of love!
-Full of stars!
+Cheio de estrelas!
 Científico!
 Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
 Take frequent breaks!
-Not linear!
+Nada linear!
 Han shot first!
 Nice to meet you!
 Buckets of lava!
@@ -161,15 +161,15 @@ Fantasia!
 DRR! DRR! DRR!
 Kick it root down!
 Regional resources!
-Woo, facepunch!
-Woo, somethingawful!
-Woo, tigsource!
-Woo, worldofminecraft!
-Woo, reddit!
-Woo, 2pp!
+Woohoo, facepunch!
+Woohoo, somethingawful!
+Woohoo, tigsource!
+Woohoo, worldofminecraft!
+Woohoo, reddit!
+Woohoo, 2pp!
 Google anlyticsed!
 Now supports åäö!
-Give us Gordon!
+Dê-nos Gordon!
 Tip your waiter!
 Very fun!
 12345 is a bad password!

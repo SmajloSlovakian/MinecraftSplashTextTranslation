@@ -1,7 +1,8 @@
 Dit project is gestart door SmajloSlovakian#1077 (je kunt me niet als vriend toevoegen als je een vreemde voor mij bent)
 
 Hoe voeg ik dit pakket toe aan Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
+-Voeg de map die je net hebt geopend toe aan
+"\Appdata\Roaming\.minecraft\resourcepacks\" map, ga in Minecraft, instellingen, 
   Resource Packs and pick the pack which has just appeared.
 
 How to get into the resourcepacks folder?

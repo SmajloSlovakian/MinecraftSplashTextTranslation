@@ -20,7 +20,7 @@
         "section": "Formgivning",
         "titles": [
             {
-                "title": "Kreativa direktörer",
+                "title": "Kreativt ansvariga",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
@@ -33,7 +33,7 @@
                 ]
             },
             {
-                "title": "Kreativ ledning",
+                "title": "Konstnärlig ledare",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
@@ -82,7 +82,7 @@
         "section": "Programmering",
         "titles": [
             {
-                "title": "Teknisk chef",
+                "title": "Utvecklingsansvarig",
                 "names": [
                     "Michael W Weilbacher"
                 ]
@@ -94,13 +94,13 @@
                 ]
             },
             {
-                "title": "Teknikchef, Stockholm",
+                "title": "Teknikchef i Stockholm",
                 "names": [
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Chef över franchisekvalitet",
+                "title": "Ansvarig för franchisekvaliteten",
                 "names": [
                     "Matthew Ng"
                 ]
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "title": "Utvecklare av startfönstret",
+                "title": "Utvecklare av programstartaren",
                 "names": [
                     "Linus Cumselius",
                     "Lucas Morales",
@@ -327,7 +327,7 @@
                 ]
             },
             {
-                "title": "Ledande systemtekniker",
+                "title": "Ledande systemingenjör",
                 "names": [
                     "Jifeng Zhang",
                     "Robert Sjödahl",
@@ -368,13 +368,13 @@
         "section": "Ljud",
         "titles": [
             {
-                "title": "Ledande ljudutvecklare",
+                "title": "Ledande ljudtekniker",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Ljudutvecklare",
+                "title": "Ljudtekniker",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kevin Martinez",
@@ -394,7 +394,7 @@
         "section": "Bildkonst",
         "titles": [
             {
-                "title": "Konstchef",
+                "title": "Estetiskt ansvarig",
                 "names": [
                     "Andy Zibits"
                 ]
@@ -462,7 +462,7 @@
                 ]
             },
             {
-                "title": "Formgivare, rörlig grafik",
+                "title": "Formgivare av rörlig grafik",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Kim Petersen",
@@ -493,7 +493,7 @@
                 ]
             },
             {
-                "title": "Chef över Minecraft, Kina",
+                "title": "Chef över Minecraft i Kina",
                 "names": [
                     "Travis Howland"
                 ]
@@ -523,7 +523,7 @@
                 ]
             },
             {
-                "title": "Verkställande producenter",
+                "title": "Exekutiv producent",
                 "names": [
                     "Allison Matthews",
                     "Anita Sujarit",
@@ -598,7 +598,7 @@
                 ]
             },
             {
-                "title": "Organisationskonsult",
+                "title": "Organisationskonsulter",
                 "names": [
                     "Marie Stålkrantz",
                     "Yassal Sundman"
@@ -626,13 +626,13 @@
                 ]
             },
             {
-                "title": "Kvalitetstekniker",
+                "title": "Kvalitetsingenjörer",
                 "names": [
                     "Zackarias Gustavsson"
                 ]
             },
             {
-                "title": "Teknisk skribent",
+                "title": "Tekniska redaktörer",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)",
                     "Jeff Kim (Insight Global, Inc)"
@@ -650,7 +650,7 @@
                 ]
             },
             {
-                "title": "Kreativ ledning",
+                "title": "Konstnärlig ledare",
                 "names": [
                     "Markus Toivonen"
                 ]
@@ -662,7 +662,7 @@
                 ]
             },
             {
-                "title": "Konstchef, varumärke",
+                "title": "Estetiskt ansvarig för varumärket",
                 "names": [
                     "Martin Johansson"
                 ]
@@ -736,13 +736,13 @@
                 ]
             },
             {
-                "title": "Chef över kreativ marknadsföring",
+                "title": "Chef över kreativ kommunikation",
                 "names": [
                     "Owen Jones"
                 ]
             },
             {
-                "title": "Ansvarig för kreativ marknadsföring",
+                "title": "Ansvarig för kreativ kommunikation",
                 "names": [
                     "Thomas Wiborgh"
                 ]
@@ -775,7 +775,7 @@
                 ]
             },
             {
-                "title": "Sociala medier-förvaltare",
+                "title": "Förvaltare av sociala medier",
                 "names": [
                     "Alex Fleck (Adecco)",
                     "David Ramos (Collabera)",
@@ -784,7 +784,7 @@
                 ]
             },
             {
-                "title": "Konstchefer",
+                "title": "Estetiskt ansvariga",
                 "names": [
                     "Johan Aronsson",
                     "Ninni Landin",
@@ -793,13 +793,13 @@
                 ]
             },
             {
-                "title": "Ledande bildkonstnär, evenemang",
+                "title": "Estetisk ledning för evenemang",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Ledande bildkonstnär, sociala medier",
+                "title": "Estetisk ledning för sociala medier",
                 "names": [
                     "Seung Sung"
                 ]
@@ -840,19 +840,19 @@
         "section": "Användarupplevelse",
         "titles": [
             {
-                "title": "Chefsformgivare, användarupplevelse",
+                "title": "Ansvarig formgivare av användarupplevelsen",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "Ledande formgivare, användarupplevelse",
+                "title": "Ledande formgivare av användarupplevelsen",
                 "names": [
                     "Jonathan Paton Gallina"
                 ]
             },
             {
-                "title": "Formgivare, användarupplevelse",
+                "title": "Formgivare av användarupplevelsen",
                 "names": [
                     "Daniel Feldt",
                     "Jin Shin",
@@ -868,13 +868,13 @@
         "section": "Verksamhet",
         "titles": [
             {
-                "title": "Chef över franchiseverksamheten",
+                "title": "Franchisens verksamhetschef",
                 "names": [
                     "Annie Chenn"
                 ]
             },
             {
-                "title": "Verksamhetsansvarig, Stockholm",
+                "title": "Verksamhetsansvarig i Stockholm",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -1143,7 +1143,7 @@
                 ]
             },
             {
-                "title": "Innehållskoordinatorer",
+                "title": "Innehållsansvariga",
                 "names": [
                     "Oskar Thysell"
                 ]
@@ -1248,20 +1248,20 @@
         "section": "Marknadsföring",
         "titles": [
             {
-                "title": "Ansvarig för marknaden",
+                "title": "Marknadschef",
                 "names": [
                     "Jessica Freeman"
                 ]
             },
             {
-                "title": "Marknadschefer",
+                "title": "Chef över marknadsföring",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
                 ]
             },
             {
-                "title": "Marknadsansvariga",
+                "title": "Ansvariga för marknadsföring",
                 "names": [
                     "Anton Maslennikov",
                     "Ashley Davidson (Simplicity Consulting Inc)",
@@ -1304,7 +1304,7 @@
         "section": "Kommunikation",
         "titles": [
             {
-                "title": "Ansvarig för företagsberättelse",
+                "title": "Ansvarig för företagsberättelsen",
                 "names": [
                     "Lydia Winters"
                 ]
@@ -1328,7 +1328,7 @@
                 ]
             },
             {
-                "title": "PR-ansvarig",
+                "title": "PR-ansvariga",
                 "names": [
                     "John Schork",
                     "Rebecca Gordius"
@@ -1426,7 +1426,7 @@
                 ]
             },
             {
-                "title": "Dataanalytiker och datalogistiker, kvalitet",
+                "title": "Dataanalytiker och datalogistiker inom kvalitet",
                 "names": [
                     "Chelsi Hohnbaum",
                     "Lisa Porter"
@@ -1456,7 +1456,7 @@
                 ]
             },
             {
-                "title": "Särskilt tack till:",
+                "title": "Särskilda tack",
                 "names": [
                     "Alex Luschen – Executive Business Administrator",
                     "Allen Horton – Technology and Infrastructure",
@@ -1524,7 +1524,7 @@
                 ]
             },
             {
-                "title": "Särskilt tack till:",
+                "title": "Särskilda tack",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -1546,7 +1546,7 @@
         ]
     },
     {
-        "section": "Särskilt tack till:",
+        "section": "Särskilda tack",
         "titles": [
             {
                 "title": "Albert Pastore - Affärsutvecklingschef, musikansvarig och rekryterare",
@@ -1786,7 +1786,7 @@
                 ]
             },
             {
-                "title": "Medhjälpare, efterlevnadstest",
+                "title": "Medhjälpare vid efterlevnadstest",
                 "names": [
                     "Adam Czajkowski (Lionbridge)",
                     "Adrian Zalewski (Lionbridge)",
@@ -1805,7 +1805,7 @@
                 ]
             },
             {
-                "title": "Särskilt tack till:",
+                "title": "Särskilda tack",
                 "names": [
                     "Dariusz Sokołowski (Lionbridge)",
                     "Evan Wright (Lionbridge)",
@@ -2097,7 +2097,7 @@
                 ]
             },
             {
-                "title": "Teknisk chef",
+                "title": "Utvecklingsansvarig",
                 "names": [
                     "Rikard Herlitz"
                 ]
@@ -2174,7 +2174,7 @@
                 ]
             },
             {
-                "title": "Startfönstret",
+                "title": "Programstartaren",
                 "names": [
                     "Anders Rosén",
                     "Carl Westin",
@@ -2235,14 +2235,14 @@
                 ]
             },
             {
-                "title": "Ledande systemtekniker",
+                "title": "Ledande systemingenjör",
                 "names": [
                     "Tom Miles",
                     "Tomas Sommar"
                 ]
             },
             {
-                "title": "Systemtekniker",
+                "title": "Systemingenjörer",
                 "names": [
                     "Hazen Miller (Insight Global, Inc)",
                     "Louis A Castaneda (Insight Global, Inc)",
@@ -2270,7 +2270,7 @@
                 ]
             },
             {
-                "title": "Systemtekniker",
+                "title": "Systemingenjörer",
                 "names": [
                     "Robert Thresher (Collabera)"
                 ]
@@ -2285,7 +2285,7 @@
                 ]
             },
             {
-                "title": "Konstchef",
+                "title": "Estetiskt ansvarig",
                 "names": [
                     "Brad Shuber"
                 ]
@@ -2297,7 +2297,7 @@
                 ]
             },
             {
-                "title": "VFX-artist",
+                "title": "Visuella effekter",
                 "names": [
                     "Elin Ölund Forsling"
                 ]
@@ -2338,14 +2338,14 @@
                 ]
             },
             {
-                "title": "Ljudutvecklare",
+                "title": "Ljudtekniker",
                 "names": [
                     "Peter Hont",
                     "Shauny Jang (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Verkställande producent",
+                "title": "Exekutiv producent",
                 "names": [
                     "Erin Krell"
                 ]
@@ -2393,26 +2393,26 @@
                 ]
             },
             {
-                "title": "Konstchef, reklamprodukter",
+                "title": "Estetiskt ansvarig för kringprodukter",
                 "names": [
                     "Alexis Holmqvist"
                 ]
             },
             {
-                "title": "Produktsformgivare",
+                "title": "Produktformgivare",
                 "names": [
                     "Jennifer Hammervald"
                 ]
             },
             {
-                "title": "Chefsformgivare, användarupplevelse",
+                "title": "Ansvarig formgivare av användarupplevelsen",
                 "names": [
                     "Stephen Whetstine",
                     "Tobias Ahlin"
                 ]
             },
             {
-                "title": "Formgivare, användarupplevelse",
+                "title": "Formgivare av användarupplevelsen",
                 "names": [
                     "Connor Tompsett (CompuCom Systems Inc)",
                     "Lily Ekman",
@@ -2485,7 +2485,7 @@
                 ]
             },
             {
-                "title": "Ansvarig för verksamhetsplanering",
+                "title": "Ansvariga för verksamhetsplanering",
                 "names": [
                     "Adam Tratt"
                 ]
@@ -2506,7 +2506,7 @@
                 ]
             },
             {
-                "title": "Innehållskoordinatorer, Minecraft",
+                "title": "Innehållsansvariga för Minecraft",
                 "names": [
                     "Adam Martinsson",
                     "Sara Lempiäinen"
@@ -2522,7 +2522,7 @@
                 ]
             },
             {
-                "title": "Kreativ ledning",
+                "title": "Konstnärlig ledare",
                 "names": [
                     "John Hendricks"
                 ]
@@ -2587,7 +2587,7 @@
                 ]
             },
             {
-                "title": "Marknadsansvarig",
+                "title": "Ansvarig för marknadsföring",
                 "names": [
                     "Bianca Ciotti",
                     "Delilah Liu",
@@ -2743,7 +2743,7 @@
                 ]
             },
             {
-                "title": "Dataanalytiker och datalogistiker, kvalitet",
+                "title": "Dataanalytiker och datalogistiker inom kvalitet",
                 "names": [
                     "Jeff MacDermot"
                 ]

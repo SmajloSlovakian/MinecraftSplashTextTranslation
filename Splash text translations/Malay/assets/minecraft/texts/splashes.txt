@@ -286,35 +286,35 @@ Lennart lennart = new Lennart();
 Saya lihat perbendaharaan kata anda telah berkembang kaya!
 Siapa meletakkannya di situ?
 Anda tidak dapat menjelaskannya!
-if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
-§kFUNKY LOL
-Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
+if not baik then return end
+§1W§2a§3r§4n§5a§6w§7a§8r§9n§ai
+§kFUNKI LOL
+Gigi Tajam Besar!
+Bekarton mengawal pintu tembok!
+Mmmf, mmf!
+Jangan beri makan alpukat kepada burung kakak tua!
+Pedang untuk semua!
 Plz reply to my tweet!
 .party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
+Ambil bantal dia!
+Letak biskut itu!
+Agak seram!
+Saya ada cadangan.
 Now with extra hugs!
-Now Java 16!
+Kini dengan Java 16!
 Woah.
 HURNERJSGER?
-What's up, Doc?
+Apa khabar, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
 pls rt
-Do you want to join my server?
+Anda mahu sertai pelayanku?
 Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
 Extra things!
-Yay, puppies for everyone!
+Yay, anak anjing untuk semua!
 So sweet, like a nice bon bon!
 Very influential in its circle!
 Now With Multiplayer!
@@ -330,14 +330,14 @@ Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
+Berhenti bersikap wajar, ini adalah Internet!
 /give @a hugs 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
 GNU Terry Pratchett
-More Digital!
+Lebih Digital!
 doot doot
 Falling with style!
 There's no stopping the Trollmaso
@@ -349,60 +349,60 @@ Boats FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
-Don't feed chocolate to parrots!
+Jangan beri makan coklat kepada burung kakak tua!
 The true meaning of covfefe
-An illusion! What are you hiding?
-Something's not quite right...
+Sebuah ilusi! Apa yang anda sembunyikan?
+Ada sesuatu yang tidak betul...
 Thank you for the fish!
-All rumors are true!
+Semua khabar angin adalah benar!
 Truly gone fishing!
-Rainbow turtle?
+Penyu pelangi?
 Something funny!
 I need more context.
 Ahhhhhh!
 Don't worry, be happy!
-Water bottle!
+Botol air!
 What's the question?
-Plant a tree!
+Tanamlah sebatang pokok!
 Go to the dentist!
-What do you expect?
-Look mum, I'm in a splash!
+Apa yang anda sangkakan?
+Mak! Saya masuk dalam paparan tampilan!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
 10 years of Mining and Crafting!
 Ping the human!
-In case it isn't obvious, foxes aren't players.
+Sekiranya ia tidak jelas, musang bukanlah pemain.
 Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
-Support local businesses!
+Minecraft Edisi Java mempersembahkan: Pepijat Menjijikkan
+Basuh tangan anda!
+Sabun dan air!
+Sokong perniagaan tempatan!
 Stay home and play games!
 Stay safe!
 Stay strong!
-Cough or sneeze into your elbow!
-Don’t touch your face!
-Support elderly relatives and friends!
+Batuk atau bersin kearah siku anda!
+Jangan sentuh muka anda!
+Sokong saudara-mara dan rakan-rakan yang sudah tua!
 Prepare, but don’t hoard!
-Gamers unite – separately in your own homes!
-Save the world – stay inside!
+Semua pemain bersatu - secara berasingan di rumah anda sendiri!
+Selamatkan dunia – duduk di rumah!
 Shop for your elders!
-Hang out with your friends online!
+Bergaul dengan rakan anda secara dalam talian!
 Honey, I grew the bees!
 Find your claw!
 Everybody do the Leif!
 <3 Max & 99 & Ducky!
-Bushy eyebrows!
-Edit is a name!
+Bulu kening yang lebat!
+"Edit" adalah sebuah nama!
 From free range developers!
-Music by Lena Raine!
+Muzik oleh Lena Raine!
 Aww man!
 #minecraftfarms
-And my pickaxe!
-Envision! Create! Share!
-Fabulous graphics!
-Also try Minecraft Dungeons!
+Dan beliungku!
+Bayangkan! Cipta! Kongsi!
+Grafik menawan!
+Cuba juga Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
@@ -414,14 +414,14 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[this splash text has been delayed until part 2]
+[teks tampilan ini telah ditangguhkan sehingga bahagian ke-2]
 Contains simulated goats!
-Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+Buatan Sendiri!
+Ada seekor <<kucing pada ,papan kekunci ku!~
+Pemangsa paling comel yang pernah anda temui!
+Sekarang anda berfikir dengan omboh!
 Get to the coppah!
-Board game version also available!
+Versi permainan papan juga tersedia!
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
+Dihasilkan oleh orang-orang "sebenar"!

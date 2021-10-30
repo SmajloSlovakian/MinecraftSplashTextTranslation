@@ -1,47 +1,48 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
+כפי שנראה בטלויזיה!
+מגניב!
+100% טהור!
+עלול להכיל אגוזים!
+עוד מצולעים!
+נאה למדי!
+מהדורה מוגבלת!
+אותיות מהבהבות!
+זה כאן!
+הטוב בכיתה!
+זה גמור!
 Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
-Heaps of hits on YouTube!
-Indev!
-Spiders everywhere!
-Check it out!
+התרגשות!
+יותר מ500 נמכרו!
+אחד מסוגו!
+ערימות של להיטים ביוטיוב!
+בפיתוח!
+עכבישים בכל מקום!
+בדוק את זה!
 Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
+זה המשחק!
+נוצר בשוודיה!
+משתמש בLWJGL!
 Reticulating splines!
 Minecraft!
-Yaaay!
-Singleplayer!
-Keyboard compatible!
+יאאאי!
+שחקן יחיד!
+תומך במקלדת!
 Ingots!
 Exploding creepers!
 That's no moon!
 l33t!
-Create!
-Survive!
+
+צור!
+תשרוד!
 Dungeon!
 Exclusive!
 The bee's knees!
 Closed source!
 Classy!
 Wow!
-Not on steam!
+לא בsteam!
 Oh man!
 Awesome community!
-Pixels!
+פיקסלים!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
@@ -170,16 +171,16 @@ Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
 Give us Gordon!
-Tip your waiter!
-Very fun!
+תן תשר למלצר שלך!
+מאוד כיף!
 12345 is a bad password!
 Vote for net neutrality!
-Lives in a pineapple under the sea!
+חי באננס מתחת לים!
 MAP11 has two names!
 Omnipotent!
 Gasp!
 ...!
-Bees, bees, bees, bees!
+דבורים, דבורים, דבורים, דבורים!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
 Haha, LOL!

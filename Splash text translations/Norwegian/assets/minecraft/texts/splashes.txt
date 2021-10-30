@@ -1,4 +1,4 @@
-As seen on TV!
+Som sett på TV!
 Fantastisk!
 100% ren!
 Kan inneholde spor av nøtter!
@@ -20,21 +20,21 @@ Sjekk det ut!
 I alle dager!
 Det er et spill!
 Laget i Sverige!
-Uses LWJGL!
-Reticulating splines!
+Bruker Lightweight Java Game Library!
+Retikulerende vektorer!
 Minecraft!
-Yaaay!
+Jaaa!
 Enkeltspiller!
 Tastaturkompatibel!
 Barrer!
 Eksploderende creepere!
-That's no moon!
+Det der er ingen måne!
 l33t!
 Skap!
 Overlev!
 Grotter!
 Eksklusivt!
-The bee's knees!
+Dette er jammen "Bisnis"!
 Kopiering forbudt!
 Stiligt!
 Jøss!
@@ -54,13 +54,13 @@ Absolutt ingen memes!
 Gratis tannlege!
 Spør din fastlege!
 Mindreårige velkomne!
-Cloud computing!
+Sky prosessering!
 Tilatt i Finland!
-Hard to label!
+Vanskelig å navngi!
 Teknisk bra!
 Bringing home the bacon!
 Uavhengig!
-GOTY!
+Årets spill!
 Ceci n'est pas une title screen!
 Euklidisk geometri!
 Nå I 3D!
@@ -69,14 +69,14 @@ Herregud!
 Komplekse cellulære automater!
 Skal bli!
 Spilt av kugjetere!
-Now on OpenGL 3.2 core profile!
+Bruker nå OpenGL 3.2  kjerneprofil!
 Tusenvis av fargere!
 Prøv det!
 Age of Wonders er bedre!
 Prøv Soppstuingen!
 Sensasjonelt!
-"Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
+Hurra for deg, Ønsker deg alle gode ting!
+Ta han på sengen, keyboard cat!
 Garantert!
 Makroskopisk!
 Vis hva du er god for!
@@ -85,19 +85,19 @@ Ring moren din!
 Monster infighting!
 Elsket av millioner!
 Den ultimate utgaven!
-Freaky!
+Skrekkelig!
 You've got a brand new key!
 Vanntett!
 Ubrennbart!
-Whoa, dude!
+Hør. broder!
 Alt inkludert!
 Fortell dine venner!
 Det er ikke NP i P!
 Musikk fra C418!
 Direktesendt!
 Hjemsøkt!
-Polynomial!
-Terrestrial!
+Polynom!
+Terrestrisk!
 Kjærligheten kan finnes overalt!
 Fult av stjerner!
 Vitenskapelig!
@@ -182,7 +182,7 @@ Gisp!
 Bier. bier, bier, bier!
 Jag känner en bot!
 Denne teksten kan være vanskelig å lese i den standardoppløsningen, men ved 1080p kan det gå bedre!
-Haha, LOL!
+Haha, ler og ler!
 Hampsterdance!
 Mengersvampen!
 idspispopd!
@@ -195,7 +195,7 @@ Se ikke direkte på krypene!
 Endelig med stiger!
 Skummelt!
 Spill Minecraft, se Topgear, få gris!
-Twittered about!
+Twittret om!
 Jump up, jump up, and get down!
 Joel er en going!
 En gåte, pakket inn i et mysterium!
@@ -219,61 +219,61 @@ Rolig spilling!
 Ubeseiret!
 Ganske likt spillet Lemmings!
 "Følg toget, CJ"!
-Leveraging synergy!
+God praksis!
 Denne meldingen vil aldri bli vist på hovedmenyen. Er ikke det rart?
 DungeonQuest er urettferdig!
 90210!
 Ta en titt på Far lands på kanten av verdenen!
-Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
+Tyrion hadde elsket det!
+Prøv også VVVVVV!
+Prøv også Meat Boy!
+Prøv også Terraria!
+Prøv også Mount And Blade!
+Prøv også Project Zomboid!
+Prøv også World of Goo!
+Prøv også Limbo!
+Prøv også Pixeljunk Shooter!
+Prøv også Braid!
+Det er supert!
+Brød er for smerte!
+Les flere bøker!
 Khaaaaaaaaan!
-Less addictive than TV Tropes!
-More addictive than lemonade!
-Bigger than a bread box!
-Millions of peaches!
+Mindre avhengighetsskapende enn TV Tropes!
+Mer avhavhengighetsskapende enn saft!
+Større enn en brødboks!
+Millioner av fersken!
 Fnord!
-This is my true form!
-Don't bother with the clones!
-Pumpkinhead!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Feature packed!
-Boots with the fur!
+Dette er min endelige form!
+Ikke bry deg om kopiene!
+Gresskarhode!
+Skapt av Jeb!
+Har en slutt!
+Endelig ferdig!
+Fullspekket med innhold!
+Glade jul...!
 Stop, hammertime!
-Testificates!
-Conventional!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
-Place ALL the blocks!
-Does barrel rolls!
-Meeting expectations!
-PC gaming since 1873!
-Ghoughpteighbteau tchoghs!
+Inspisienter!
+Konvensjonell!
+Homeomorf til en 3D-sfære!
+Unviker ikke doble negativer!
+Plasser ALLE blokkene!
+Ruller rundt!
+Møter forventninger!
+Dataspilling siden 1873!
+Ibsens ripsbærbusker og andre buskevekster!
 Déjà vu!
 Déjà vu!
-Got your nose!
-Haley loves Elan!
-Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
-Technologic!
+Har nesen din!
+Haley elsker Elan!
+Redd for den store, svarte flaggermusen!
+Ikke bruk U-ordet!
+Bare barnemat!
+Ses kanskje neste fredag!
+Fra gatene i Södermalm!
+150 slag per minut i 400 000 minuter!
+Teknologisk!
 Funk soul brother!
-Pumpa kungen!
+Pumpa kongen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -281,147 +281,147 @@ Cześć Polsko!
 你好中国！
 Привет Россия!
 Γεια σου Ελλάδα!
-My life for Aiur!
+Jeg vier mitt liv til Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
-if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
-§kFUNKY LOL
-Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
+Jeg ser at ordforrådet ditt er blitt bedre!
+Hvem la det der!
+Du kan ikke forklare det!
+if not "godt" then return "slutt"!
+§1F§2a§3r§4g§5e§6r§7i§8k!
+§kJÆKLIG MORSOMT!
+Store spisse tenner!
+Bekarton vokter porten!
+Mmmff, mmff!
+Ikke gi avokadoer til papegøyer!
+Sverd til alle!
+Plis svar på tweeten min!
 .party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
-Now with extra hugs!
-Now Java 16!
-Woah.
+Ta puten hennes!
+Legg i fra deg den kjeksen!
+Ganske skummelt!
+Jeg har et forslag!
+Nå med ekstra mange klemmer!
+Nå på Java 16!
+Våh!
 HURNERJSGER?
-What's up, Doc?
-Now contains 32 random daily cats!
-That's Numberwang!
-pls rt
-Do you want to join my server?
-Put a little fence around it!
-Throw a blanket over it!
-One day, somewhere in the future, my work will be quoted!
-Now with additional stuff!
-Extra things!
-Yay, puppies for everyone!
-So sweet, like a nice bon bon!
-Very influential in its circle!
-Now With Multiplayer!
-Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
-Run, coward! I hunger!
-Flavor with no seasoning!
+Hva skjer, Doktor?
+inneholder nå 32 tilfeldige daglige katter!
+Det er Numberwang!
+Plis retweet!
+Vil du bli med på serveren min?
+Sett opp et lite gjerde rundt det!
+Kast et teppe over det!
+En dag, en gang i fremtiden, så vil arbeidet mitt bli sitert!
+Nå med flere ting enn tidligere!
+Ekstra ting!
+Stemmer, valper til alle!
+Så søtt, også så elskverdig!
+Veldig innflytelsesrik i dens sirkel!
+Nå med flerspillerfunksjon!
+Stå opp fra graven!
+Advarsel! Et svært slagskip "STEVE" nærmer seg med stormskritt!
+En blå kriger skjøt maten!
+Løp feiging! Jeg sulter!
+Smak uten krydder!
 Strange, but not a stranger!
 Tougher than diamonds, rich like cream!
 It swings, it jives!
-Cruising streets for gold!
-Take an eggbeater and beat it against a skillet!
-Make me a table, a funky table!
-Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
-/give @a hugs 64
-This is good for Realms.
-Any computer is a laptop if you're brave enough!
-Do it all, everything!
-Where there is not light, there can spider!
-GNU Terry Pratchett
-More Digital!
-doot doot
-Falling with style!
-There's no stopping the Trollmaso
-Throw yourself at the ground and miss
-Rule #1: it's never my fault
-Replaced molten cheese with blood?
-Absolutely fixed relatively broken coordinates
-Boats FTW
-Javalicious edition
-Should not be played while driving
-You're going too fast!
-Don't feed chocolate to parrots!
-The true meaning of covfefe
-An illusion! What are you hiding?
-Something's not quite right...
-Thank you for the fish!
-All rumors are true!
-Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
-Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
-Look mum, I'm in a splash!
-It came from space.
-Awesome game design right there!
-Ph1lza had a good run!
-10 years of Mining and Crafting!
-Ping the human!
-In case it isn't obvious, foxes aren't players.
-Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
-Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
-Cough or sneeze into your elbow!
-Don’t touch your face!
-Support elderly relatives and friends!
-Prepare, but don’t hoard!
-Gamers unite – separately in your own homes!
-Save the world – stay inside!
-Shop for your elders!
-Hang out with your friends online!
-Honey, I grew the bees!
-Find your claw!
-Everybody do the Leif!
+Mil etter mil!
+Mil etter mil, etter mil, etter mil. Mil etter mil, etter mil, etter mil!
+Bæ, bæ, lille lam!
+La det swinge!
+Slutt å være fornuftig, dette er Internettet!
+/give @a klemmer 64!
+Dette er bra for Realms!
+Alle datamaskiner kan være bærbar om en er vågal!
+Gjør alt, alt sammen!
+Hvor det ikke er lys, kan det være edderkopp!
+GNU Terry Pratchett!
+Enda mer digitalt!
+doot doot!
+Falle med stil!
+Ingenting kan stoppe Trollmaso!
+Kast deg mot bakken og bomm!
+Regel #1: Det er alldri min feil!
+Ble smeltet ost erstattet med blod?
+Har absolutt ordnet relativt ødelagte koordinater!
+Lenge leve båter!
+Javatastisk utgave!
+Bør ikke spilles mens en kjører!
+Du går for fort!
+Ikke gi sjokolade til papegøyer!
+Den sanne mening om covfefe
+En illusjon! Hva er det du gjemmer?
+Noe stemmer ikke...!
+Takk for fisken!
+Alle rykter er sanne!
+Sanne dratt på fisketur!
+Regnbueskilpadde?
+Noe morsomt!
+Jeg trenger mer kontekst!
+Aaaaaaa!
+Ja vi elsker!
+Vannflaske!
+Hva er spørsmålet?
+Plant et tre!
+Dra til tannlegen!
+Hva forventet du?
+Se mamma, jeg en utkaststekst!
+Det kom fra rommet!
+Fantastisk spilldesign her!
+Ph1lza klarte seg bra!
+10 år med bygging og graving!
+Varsle mennesket!
+I tilfelle det ikker er tydelig, så er ikke rever spillere!
+Summende bier!
+Minecraft Java Edition presenterer: Ekle kryp!
+Vask hendene dine!
+Såpe og vann!
+Støtt lokale bedrifter!
+Bli hjemme og spill spill!
+Hold deg trygg!
+Hold ut!
+Hoste eller nys i albuen!
+Ikke berør ansiktet ditt!
+Støtt dine nære og kjære!
+Vær forberedt, men hamstre ikke!
+Samle dere spillere, men i hvert sitt hjem!
+Redd verden, ved å bli inne!
+Handle for de eldre!
+Treff dine venner over nettet!
+Kjære, jeg irriterte biene!
+Finn kloen din!
+Alle ta å gjør  en Leif!
 <3 Max & 99 & Ducky!
-Bushy eyebrows!
-Edit is a name!
-From free range developers!
-Music by Lena Raine!
-Aww man!
-#minecraftfarms
-And my pickaxe!
-Envision! Create! Share!
-Fabulous graphics!
-Also try Minecraft Dungeons!
+Buskete øyenbryn!
+Hans er et navn!
+Fra frittgående utviklere!
+Med musikk fra Lena Raine!
+åååh nei!
+#minecraftfarms!
+Og hakken min!
+Drøm! Skap! Del!
+Fantastisk grafikk!
+Prøv også Minecraft Dungeons!
 Vanilla!
-May contain traces of citrus!
+Kan inneholde spor av sitrus!
 Zoglin!?
 Black lives matter!
-Be anti-racist!
+Vær antirasist!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
 Amplify and listen to BIPOC voices!
-Educate your friends on anti-racism!
+Lær dine venner om anti-rasisme!
 Support the BIPOC community and creators!
-Stand up for equality in your community!
-[this splash text has been delayed until part 2]
-Contains simulated goats!
-Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
-Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
-Plant-based light sources!
-Made by "real" people!
+Stå opp for likestilling i samfunnet ditt!
+[Denne utkaststeksten har blitt utsatt til del 2 av spillet]
+Inneholder simulerte geiter!
+Hjemmelaget!
+Det er "en katt på ,tastaturet mitt!~
+Det søteste rovdyret du noen gang vil møte!
+Nå tenker du på stempler!
+kopper av kobber!
+En versjon fins også som et brettspill!
+Søting, jeg vokset kobberet!
+Plantbaserte lyskilder!
+Laget av "ekte" folk!

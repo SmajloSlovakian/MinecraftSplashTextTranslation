@@ -9,7 +9,7 @@
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Ketua Pegawai Eksekutif",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "Reka Bentuk",
         "titles": [
             {
                 "title": "Chief Creative Officers",
@@ -27,7 +27,7 @@
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Pengarah Permainan",
                 "names": [
                     "Agnes Larsson"
                 ]
@@ -394,13 +394,13 @@
         "section": "Visual Arts",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Pengarah Seni",
                 "names": [
                     "Andy Zibits"
                 ]
             },
             {
-                "title": "Art Leads",
+                "title": "Peneraju Seni",
                 "names": [
                     "Daniel Björkefors",
                     "Joel Garvin",
@@ -410,7 +410,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artis",
                 "names": [
                     "Andrea Sanchez Sepulveda (Randstad)",
                     "Chi Wong",
@@ -430,19 +430,19 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Artis Teknikal Utama",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Artis Teknikal",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Artis Grafik",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
@@ -619,7 +619,7 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "Jaminan Kualiti",
                 "names": [
                     "Matthew Dryden",
                     "Thommy Siverman"
@@ -823,7 +823,7 @@
                 ]
             },
             {
-                "title": "Artist",
+                "title": "Artis",
                 "names": [
                     "Morten Rasmussen"
                 ]
@@ -865,7 +865,7 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Operasi",
         "titles": [
             {
                 "title": "Franchise Chief Operations Officer",
@@ -886,7 +886,7 @@
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Ketua Kakitangan",
                 "names": [
                     "Amy Stillion"
                 ]
@@ -904,7 +904,7 @@
                 ]
             },
             {
-                "title": "Office Manager",
+                "title": "Pengurus Pejabat",
                 "names": [
                     "Siri Hoel Andersson"
                 ]
@@ -931,7 +931,7 @@
                 ]
             },
             {
-                "title": "IT Manager",
+                "title": "Pengurus IT",
                 "names": [
                     "Cesar Sima Falck",
                     "Jason Perry Minard"
@@ -951,7 +951,7 @@
                 ]
             },
             {
-                "title": "Operations Manager",
+                "title": "Pengurus Operasi",
                 "names": [
                     "Sheila Ho"
                 ]

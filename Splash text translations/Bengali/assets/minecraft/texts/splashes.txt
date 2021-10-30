@@ -3,7 +3,7 @@
 ১০০% বিশুদ্ধ!
 বাদাম থাকতে পারে!
 আরও বহুভুজ!
-অবিশ্বাস্য!
+মাঝারিভাবে আকর্ষণীয়!
 সীমিত সংস্করণ!
 ঝলকানি অক্ষর!
 এটা এখানে!
@@ -30,9 +30,10 @@ LWJGL ব্যবহার করে!
 যেখানে ক্রিপারের ভয় সেখানে সন্ধ্যা হয়!
 এখানে চাঁদ নেই!
 অস্থির!
-Create!
+
+সৃষ্টি করা!
 বেঁচে থাকুন!
-Dungeon!
+অন্ধকূপ!
 Exclusive!
 The bee's knees!
 ক্লোসদ সোর্স!
@@ -47,7 +48,7 @@ Kaaneeeedaaaa!
 Now with difficulty!
 Enhanced!
 ৯০% পোকামুক্ত!
-Pretty!
+সুন্দর!
 12 herbs and spices!
 ফ্যাট ফ্রি!
 Absolutely no memes!
@@ -71,7 +72,7 @@ Complex cellular automata!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
-Try it!
+এটা চেষ্টা করুন
 Age of Wonders is better!
 Try the mushroom stew!
 Sensational!
@@ -93,7 +94,7 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP কখনো P হয় না!
-Music by C418!
+C418 সংগীত!
 Livestreamed!
 Haunted!
 Polynomial!
@@ -116,7 +117,7 @@ Phobos anomaly!
 Punching wood!
 Falling off cliffs!
 ১% চিনি!
-150% hyperbole!
+১৫০% হাইপারবোল
 Synecdoche!
 Let's danec!
 Seecret Friday update!
@@ -125,7 +126,7 @@ Kiss the sky!
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
-Do not distribute!
+বিতরণ করো না!
 Cogito ergo sum!
 4815162342 lines of code!
 A skeleton popped out!
@@ -143,12 +144,12 @@ Octagonal!
 Une baguette!
 Gargamel plays it!
 Rita is the new top dog!
-SWM forever!
+SWM চিরতরে!
 Representing Edsbyn!
 Matt Damon!
 Supercalifragilisticexpialidocious!
 Consummate V's!
-Cow Tools!
+গাভী টুল!
 Double buffered!
 Fan fiction!
 Flaxkikare!
@@ -158,7 +159,7 @@ Internet enabled!
 Autonomous!
 Engage!
 Fantasy!
-DRR! DRR! DRR!
+ডিআরআর! ডিআরআর! ডিআরআর!
 Kick it root down!
 Regional resources!
 Woo, facepunch!
@@ -179,10 +180,10 @@ MAP11 has two names!
 Omnipotent!
 Gasp!
 ...!
-Bees, bees, bees, bees!
+মৌমাছি, মৌমাছি, মৌমাছি, মৌমাছি!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Haha, LOL!
+হাহাহা, LOL!
 Hampsterdance!
 Menger sponge!
 idspispopd!
@@ -227,7 +228,7 @@ Check out the far lands!
 Tyrion would love it!
 Also try VVVVVV!
 Also try Super Meat Boy!
-Also try Terraria!
+টেরারিয়াও চেষ্টা করুন!
 Also try Mount And Blade!
 Also try Project Zomboid!
 Also try World of Goo!
@@ -235,7 +236,7 @@ Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
 পুরাই জোস!
-Bread হচ্ছে ব্যথা!
+রুটি হচ্ছে ব্যথা!
 বই পড়ুন!
 চৌধুরী সাহেএএএএএএএএব!
 ইত্যাদি! ইত্যাদি!! ইত্যাদি!!!
@@ -248,7 +249,7 @@ Don't bother with the clones!
 Pumpkinhead!
 Made by Jeb!
 Has an ending!
-Finally complete!
+অবশেষে সম্পূর্ণ!
 Feature packed!
 Boots with the fur!
 Stop, hammertime!
@@ -261,8 +262,8 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
+দেজা ভু!
+দেজা ভু!
 Got your nose!
 চুপি চুপি বল কেউ জেনে যাবে!
 Afraid of the big, black bat!
@@ -289,7 +290,7 @@ You can't explain that!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
-Big Pointy Teeth!
+বড় তীক্ষ্ণ দাঁত!
 নাম বললে চাকরি থাকবে না!
 ভ্রুউউম, ভ্রুউম!
 টিয়াপাখিকে অ্যাভোকাডো ফল খাওয়াবেন না!
@@ -338,7 +339,7 @@ Do it all, everything!
 যেখানে অন্ধকার, সেখানে মাকড়সা!
 আমরা তোমাদের ভুলবো না!
 More Digital!
-doot doot
+ডুট ডুট
 Falling with style!
 There's no stopping the Trollmaso
 যদি তোর ডাক শুনে কেও না আসে, তবে একলা চলো রে
@@ -359,7 +360,7 @@ Truly gone fishing!
 Rainbow turtle?
 Something funny!
 I need more context.
-Ahhhhhh!
+আহহহহহ!
 Don't worry, be happy!
 পানির বোতল!
 প্রশ্নটা কি?
@@ -375,7 +376,7 @@ Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
+হাত ধুয়ে নিন!
 Soap and water!
 Support local businesses!
 Stay home and play games!
@@ -406,7 +407,7 @@ Also try Minecraft Dungeons!
 ভ্যানিলা!
 May contain traces of citrus!
 Zoglin!?
-Black lives matter!
+বি এল এম!
 Be anti-racist!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
@@ -417,11 +418,11 @@ Stand up for equality in your community!
 [this splash text has been delayed until part 2]
 Contains simulated goats!
 ঘরে তৈরি!
-There's <<a cat on ,my keyboard!~
+আমার ,কীবোর্ডে <<একটি বিড়াল আছে!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
 Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
+প্রকৃত মানুষ দ্বারা তৈরি
