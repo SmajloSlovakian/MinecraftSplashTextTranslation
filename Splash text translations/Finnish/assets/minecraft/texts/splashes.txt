@@ -1,70 +1,70 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
-Heaps of hits on YouTube!
+Kuten TV:ssä!
+Huikeaa!
+100% puhdas!
+Voi sisältää pähkinöitä!
+Lisää monikulmioita!
+Kohtalaisen houkutteleva!
+Rajoitettu versio!
+Vilkkuvia kirjaimia!
+Se on täällä!
+Luokkansa paras!
+Se on valmis!
+Tavallaan lohikäärmevapaa!
+Jännitys!
+Yli 500 myyty!
+Ainutlaatuinen!
+Paljon katsojia YouTubessa!
 Indev!
-Spiders everywhere!
-Check it out!
-Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
-Reticulating splines!
+Hämähäkkejä kaikkialla!
+Tsekkaa se!
+Pyhä lehmä!
+Se on peli!
+Valmistettu Ruotsissa!
+Käyttää LWJGL:ää!
+Yhdistellään splinejä!
 Minecraft!
-Yaaay!
-Singleplayer!
-Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
+Jeeee!
+Yksinpeli!
+Näppäimistö yhteensopiva!
+Harkot!
+Räjähtävät creeperit!
+Tuo ei ole kuu!
 l33t!
-Create!
-Selviä!
-Dungeon!
-Exclusive!
-The bee's knees!
-Closed source!
-Classy!
-Wow!
+Luo!
+Selviydy!
+Tyrmä!
+Ekslusiivinen!
+Maailman paras!
+Suljettu lähde!
+Tyylikäs!
+Vau!
 Ei steamissa!
-Oh man!
-Awesome community!
-Pixels!
+Voi veljet!
+Mahtava yhteisö!
+Pilseleitä!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
-90% bug free!
-Pretty!
-12 herbs and spices!
-Fat free!
-Absolutely no memes!
-Free dental!
-Ask your doctor!
-Minors welcome!
-Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
-Bringing home the bacon!
+Nyt vaikeuksien kanssa!
+Tehostettu!
+90% bugivapaa!
+Kaunis!
+12 yrttiä ja maustetta!
+Rasva vapaa!
+Ei missään nimessä meemejä!
+Ilmainen hammashoito!
+Kysy lääkäriltäsi!
+Alaikäiset tervetulleita!
+Pilvilaskenta!
+Laillinen Suomessa!
+Vaikea nimetä!
+Teknisesti hyvä!
+Tuodaan pekonia kotiin!
 Indie!
 GOTY!
 Ceci n'est pas une title screen!
-Euclidian!
-Now in 3D!
-Inspirational!
+Euklidinen!
+Nyt 3D:ssä!
+Inspiroiva!
 Herregud!
 Complex cellular automata!
 Yes, sir!
