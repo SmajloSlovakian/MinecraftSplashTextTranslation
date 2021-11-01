@@ -3,7 +3,7 @@
         "section": "মাইনক্রাফট",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "মাইনক্রাফ্টের প্রধান",
                 "names": [
                     "Helen Chiang"
                 ]
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "নকশা",
         "titles": [
             {
                 "title": "Chief Creative Officers",
@@ -27,13 +27,13 @@
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "খেলা পরিচালক",
                 "names": [
                     "Agnes Larsson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "সৃজনশীল পরিচালক",
                 "names": [
                     "Jesse Merriam",
                     "Torfi Frans Olafsson"
@@ -46,14 +46,14 @@
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "প্রধান খেলা ডিজাইনার",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "খেলা নকশাকার",
                 "names": [
                     "Art Usher",
                     "Brandon Franklin (Insight Global, Inc)",
@@ -365,7 +365,7 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "অডিও",
         "titles": [
             {
                 "title": "Lead Sound Designer",
