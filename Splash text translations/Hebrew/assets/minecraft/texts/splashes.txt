@@ -53,7 +53,7 @@ Enhanced!
 Fat free!
 Absolutely no memes!
 Free dental!
-Ask your doctor!
+תשאל את הרופא שלך!
 Minors welcome!
 Cloud computing!
 Legal in Finland!
@@ -68,7 +68,7 @@ Now in 3D!
 Inspirational!
 Herregud!
 Complex cellular automata!
-Yes, sir!
+כן, המפקד!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
@@ -194,7 +194,7 @@ Try the Nether!
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
-Scary!
+מפחיד!
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
