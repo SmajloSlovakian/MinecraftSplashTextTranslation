@@ -394,7 +394,7 @@
         "section": "Artes visuales",
         "titles": [
             {
-                "title": "Art Director",
+                "title": "Director de Arte",
                 "names": [
                     "Andy Zibits"
                 ]
@@ -436,13 +436,13 @@
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Diseñador Técnico",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Artistas Gráficos",
                 "names": [
                     "Jasper Boerstra",
                     "Mattis Grahm"
@@ -748,7 +748,7 @@
                 ]
             },
             {
-                "title": "Creative Writers",
+                "title": "Escritores Creativos",
                 "names": [
                     "Cristina Anderca",
                     "Kelsey Howard",
