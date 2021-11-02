@@ -297,8 +297,8 @@ Swords for everyone!
 Пж, ответь на мой твит!
 .party()!
 Возьмите её подушку!
-Put that cookie down!
-Pretty scary!
+Положите это печенье вниз!
+Довольно страшно!
 У меня есть предложение.
 Now with extra hugs!
 Теперь с Java 16!
@@ -354,7 +354,7 @@ The true meaning of covfefe
 Иллюзия! Ты прячешься?
 Что-то пошло не правильно...
 Спасибо за рыбу!
-All rumors are true!
+Все слухи верны!
 Truly gone fishing!
 Радужная черепаха?
 Что-то смешное!
@@ -377,7 +377,7 @@ Truly gone fishing!
 Minecraft Java Edition представляет: Отвратительные ошибки
 Мойте руки!
 Мыло и вода!
-Support local businesses!
+Поддержите локальный бизнес!
 Оставайтесь дома и играйте в игры!
 Держитесь!
 Держитесь!
@@ -387,7 +387,7 @@ Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Игроки объединяйтесь – отдельно в своих домах!
 Сохраните мир – оставайтесь дома!
-Shop for your elders!
+Делайте покупки для пожилых людей!
 Hang out with your friends online!
 Милый, я вырастила пчёл!
 Найдите свой когти!
