@@ -199,7 +199,7 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Ketua Arkitek",
                 "names": [
                     "Greg Snook",
                     "Henry Golding",
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arkitek",
                 "names": [
                     "Dom Humphrey",
                     "Mike Frost",
@@ -478,7 +478,7 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Produksi",
         "titles": [
             {
                 "title": "Head of Creator",
@@ -546,7 +546,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Pengeluar",
                 "names": [
                     "Adrian Östergård",
                     "Andrea Lam",
@@ -997,7 +997,7 @@
                 ]
             },
             {
-                "title": "Data Science",
+                "title": "Sains Data",
                 "names": [
                     "Anh Ying Lang (Design Laboratory Inc)",
                     "Bhrigu Shree",
@@ -1016,7 +1016,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Jurutera Data",
                 "names": [
                     "Bill Klees",
                     "Dhiraj Nilange",
@@ -1027,7 +1027,7 @@
         ]
     },
     {
-        "section": "User Research",
+        "section": "Penyelidikan Pengguna",
         "titles": [
             {
                 "title": "User Research Studio Lead",
