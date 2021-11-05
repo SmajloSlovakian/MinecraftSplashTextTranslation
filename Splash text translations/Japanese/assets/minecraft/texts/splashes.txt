@@ -1,105 +1,108 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
-Heaps of hits on YouTube!
+テレビで紹介されました！
+素晴らしい！
+純度100%！
+広告が含まれる場合があります
+より多くのポリゴン！
+ちょっと魅力的！
+限定版！
+書き込み中！
+こちらです！
+最高のクラス！
+完了！
+ドラゴンは何種類でも無料です！
+ワクワクする！
+500個以上の販売実績！
+一点ものです！
+YouTubeでヒット中！
 Indev!
-Spiders everywhere!
-Check it out!
-Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
-Reticulating splines!
-Minecraft!
-Yaaay!
-Singleplayer!
-Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
+どこに行ってもクモが！
+チェケラ！
+神聖な牛！
+これはゲームです
+Made in スウェーデン！
+LWJGLを使用
+繊維を網羅
+Minecraft！
+いぇーい！
+シングルプレイヤー！
+キーボードに対応しました！
+インドット！
+クリーパーを爆発させます！
+それは月ではありません！
 l33t!
-Create!
-Survive!
-Dungeon!
-Exclusive!
-The bee's knees!
-Closed source!
-Classy!
-Wow!
-Not on steam!
-Oh man!
-Awesome community!
-Pixels!
-Teetsuuuuoooo!
+作る！
+サバイバル！
+ダンジョン！
+限定！
+ミツバチの巣！
+クローズしたソース
+エレガント！
+ワオ！
+蒸気ではありません！
+やれやれ
+最高のコミニティ！
+ピクセル！
+Teetsuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
-90% bug free!
-Pretty!
-12 herbs and spices!
-Fat free!
-Absolutely no memes!
-Free dental!
-Ask your doctor!
-Minors welcome!
-Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
-Bringing home the bacon!
+今は難しいです！
+強化済
+90%はバグがありません
+かわいい！
+12種類のハーブとスパイス!
+脂肪はつきません！
+ミーム禁止！
+無料の歯医者
+医者に聞いてみよう！
+未成年歓迎！
+クラウドコンピューティング！
+フィンランドでは合法です！
+ラベル付けが難しい！
+素晴らしい技術！
+ベーコンを持ち帰ります
 Indie!
-GOTY!
-Ceci n'est pas une title screen!
-Euclidian!
-Now in 3D!
-Inspirational!
-Herregud!
-Complex cellular automata!
-Yes, sir!
-Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
-Age of Wonders is better!
-Try the mushroom stew!
-Sensational!
+
+おっと！
+これはタイトル画面ではありません
+ユークリッド！
+今は3Dです！
+インスピレーション
+
+Oh my god!
+複雑なオートメーションセル
+了解！
+カウボーイたちがプレイ
+OpenGL 3.2 のコアプロファイルに追加されました！
+何千もの色!
+試してみてください！
+Age of Wondersよりはいいです！
+きのこのシチューを試してみて！
+衝撃的！
 Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
-Guaranteed!
-Macroscopic!
-Bring it on!
-Random splash!
-Call your mother!
-Monster infighting!
-Loved by millions!
-Ultimate edition!
-Freaky!
-You've got a brand new key!
-Water proof!
-Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
-NP is not in P!
-Music by C418!
-Livestreamed!
-Haunted!
-Polynomial!
-Terrestrial!
-All is full of love!
-Full of stars!
+
+彼はプレイ、猫はキーボードの上！
+保証付き！
+マクロで見る！
+持ってきて！
+ランダムなスプラッシュ！
+お母さんを呼んで！
+モンスターの戦い！
+何百万人に愛されています！
+究極のエディション！
+気まぐれ
+新しい鍵を手に入れました！
+防水加工済み！
+不燃性！
+おっと！
+全て込み込み！
+友達に教えてあげよう！
+NPがPにありません！
+C418によるBGM！
+ライブ配信されました！
+お化けだ！
+多項式！
+地上波で！
+全ては愛に満ちている！
+満点の星！
 Scientific!
 Not as cool as Spock!
 Collaborate and listen!
@@ -264,24 +267,24 @@ Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
 Got your nose!
-Haley loves Elan!
-Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
-Technologic!
-Funk soul brother!
-Pumpa kungen!
-日本ハロー！
+ヘイリーはエランが大好きです!
+大きな黒いコウモリの恐怖!
+Uを使わない！
+子供の遊び！
+来週の金曜日にまた会いましょう!
+Södermalm通りからこんにちは！
+40万分間は150bpm!
+テクノロジー！
+ファンクソウルブラザー！
+パンプキンキング！
+こんにちは日本！
 한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
 Привет Россия!
 Γεια σου Ελλάδα!
-My life for Aiur!
+私の愛人のための人生!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
 Who put it there?

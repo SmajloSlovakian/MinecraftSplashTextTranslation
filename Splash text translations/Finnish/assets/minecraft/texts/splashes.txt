@@ -1,156 +1,156 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
-Heaps of hits on YouTube!
+Kuten TV:ssä!
+Huikeaa!
+100% puhdas!
+Voi sisältää pähkinöitä!
+Lisää monikulmioita!
+Kohtalaisen houkutteleva!
+Rajoitettu versio!
+Vilkkuvia kirjaimia!
+Se on täällä!
+Luokkansa paras!
+Se on valmis!
+Tavallaan lohikäärmevapaa!
+Jännitys!
+Yli 500 myyty!
+Ainutlaatuinen!
+Paljon katsojia YouTubessa!
 Indev!
-Spiders everywhere!
-Check it out!
-Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
-Reticulating splines!
+Hämähäkkejä kaikkialla!
+Tsekkaa se!
+Pyhä lehmä!
+Se on peli!
+Valmistettu Ruotsissa!
+Käyttää LWJGL:ää!
+Yhdistellään splinejä!
 Minecraft!
-Yaaay!
-Singleplayer!
-Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
+Jeeee!
+Yksinpeli!
+Näppäimistö yhteensopiva!
+Harkot!
+Räjähtävät creeperit!
+Tuo ei ole kuu!
 l33t!
-Create!
-Selviä!
-Dungeon!
-Exclusive!
-The bee's knees!
-Closed source!
-Classy!
-Wow!
+Luo!
+Selviydy!
+Tyrmä!
+Ekslusiivinen!
+Maailman paras!
+Suljettu lähde!
+Tyylikäs!
+Vau!
 Ei steamissa!
-Oh man!
-Awesome community!
-Pixels!
+Voi veljet!
+Mahtava yhteisö!
+Pilseleitä!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
-90% bug free!
-Pretty!
-12 herbs and spices!
-Fat free!
-Absolutely no memes!
-Free dental!
-Ask your doctor!
-Minors welcome!
-Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
-Bringing home the bacon!
+Nyt vaikeuksien kanssa!
+Tehostettu!
+90% bugivapaa!
+Kaunis!
+12 yrttiä ja maustetta!
+Rasva vapaa!
+Ei missään nimessä meemejä!
+Ilmainen hammashoito!
+Kysy lääkäriltäsi!
+Alaikäiset tervetulleita!
+Pilvilaskenta!
+Laillinen Suomessa!
+Vaikea nimetä!
+Teknisesti hyvä!
+Tuodaan pekonia kotiin!
 Indie!
 GOTY!
 Ceci n'est pas une title screen!
-Euclidian!
-Now in 3D!
-Inspirational!
+Euklidinen!
+Nyt 3D:ssä!
+Inspiroiva!
 Herregud!
-Complex cellular automata!
-Yes, sir!
-Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
-Age of Wonders is better!
-Try the mushroom stew!
-Sensational!
-Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
-Guaranteed!
-Macroscopic!
-Bring it on!
-Random splash!
-Call your mother!
-Monster infighting!
-Loved by millions!
-Ultimate edition!
-Freaky!
-You've got a brand new key!
-Water proof!
-Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
-NP is not in P!
-Music by C418!
-Livestreamed!
-Haunted!
-Polynomial!
-Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
-Collaborate and listen!
-Never dig down!
-Take frequent breaks!
-Not linear!
-Han shot first!
-Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
-sqrt(-1) love you!
-Phobos anomaly!
-Punching wood!
-Falling off cliffs!
-1% sugar!
-150% hyperbole!
-Synecdoche!
-Let's danec!
-Seecret Friday update!
-Reference implementation!
-Kiss the sky!
+Monimutkainen soluautomaatti!
+Kyllä, herra!
+Cowboyiden pelaama!
+Nyt OpenGL 3.2 ydinprofiilissa!
+Tuhansia värejä!
+Kokeile sitä!
+Age of Wonders on parempi!
+Kokeile sienimuhennosta!
+Sensationaalinen!
+Kuuma tamale, kuuma kuuma tamale!
+Soita hänet pois, näppäimistö kissa!
+Taattu!
+Makroskooppinen!
+Antaa mennä!
+Satunnainen splash!
+Soita äidillesi!
+Hirviöiden välinen taistelu!
+Miljoonien rakastama!
+Ultimate versio!
+Outo!
+Sinulla on upouusi avain!
+Vedenkestävä!
+Syttymätön!
+Vau, kaveri!
+Kaikki mukaan lukien!
+Kerro ystävillesi!
+NP ei ole P:ssä!
+Musiikin tekijä C418!
+Livestreamattu!
+Kummitteleva!
+Polynominen!
+Maanpäällinen!
+Kaikki on täynnä rakkautta!
+Tähtiä täynnä!
+Tieteellinen!
+Ei niin siisti kuin Spock!
+Tee yhteistyötä ja kuuntele!
+Älä koskaan kaiva alas!
+Pidä usein taukoja!
+Ei lineaarinen!
+Han ampui ensin!
+Hauska tutustua!
+Ämpärillisiä laavaa!
+Ratsasta possulla!
+Suurempi kuin Maa!
+sqrt(-1) rakastan sinua!
+Phobos-anomalia!
+Lyödään puuta!
+Pudotaan kallioilta!
+1% sokeria!
+150% liioittelua!
+Synekdootti!
+Tanssitaan!
+Saalainen perjantai päivitys!
+Viitetoteutus!
+Suutelee taivasta!
 20 GOTO 10!
-Verlet intregration!
+Verlet-integraatio!
 Peter Griffin!
-Do not distribute!
+Älä jaa!
 Cogito ergo sum!
-4815162342 lines of code!
-A skeleton popped out!
-The sum of its parts!
-BTAF used to be good!
-I miss ADOM!
+4815162342 riviä koodia!
+Luuranko ponnahti ulos!
+Osien summa!
+BTAF oli ennen hyvä!
+Kaipaan ADOM:ia!
 umop-apisdn!
 OICU812!
-Bring me Ray Cokes!
-Finger-licking!
-Thematic!
-Pneumatic!
-Sublime!
-Octagonal!
+Tuo minulle Ray Cokes!
+Sormia nuoleskellen!
+Teemallinen!
+Pneumaattinen!
+Loistavaa!
+Kahdeksankulmainen!
 Une baguette!
-Gargamel plays it!
-Rita is the new top dog!
-SWM forever!
-Representing Edsbyn!
+Gargamel pelaa sitä!
+Rita on uusi kärkikoira!
+SWM ikuisesti!
+Edsbynin edustaja!
 Matt Damon!
 Supercalifragilisticexpialidocious!
-Consummate V's!
-Cow Tools!
-Double buffered!
-Fan fiction!
+Täydelliset V:t!
+Lehmätyökalut!
+Tuplapuskuroitu!
+Fanifiktio!
 Flaxkikare!
 Jason! Jason! Jason!
 Hotter than the sun!

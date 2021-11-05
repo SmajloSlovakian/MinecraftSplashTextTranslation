@@ -27,7 +27,7 @@ Minecraft!
 שחקן יחיד!
 תומך במקלדת!
 Ingots!
-Exploding creepers!
+קריפרים מתפוצצים!
 That's no moon!
 l33t!
 
@@ -41,19 +41,19 @@ Classy!
 Wow!
 לא בsteam!
 Oh man!
-Awesome community!
+קהילה מדהימה!
 פיקסלים!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
 Enhanced!
 90% bug free!
-Pretty!
+יפה!
 12 herbs and spices!
 Fat free!
 Absolutely no memes!
 Free dental!
-Ask your doctor!
+תשאל את הרופא שלך!
 Minors welcome!
 Cloud computing!
 Legal in Finland!
@@ -63,17 +63,18 @@ Bringing home the bacon!
 Indie!
 GOTY!
 Ceci n'est pas une title screen!
-Euclidian!
-Now in 3D!
-Inspirational!
+אוקלידי!
+עכשיו בתלת מימד!
+
+מעורר השראה!
 Herregud!
 Complex cellular automata!
-Yes, sir!
+כן, המפקד!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
-Age of Wonders is better!
+אלפי צבעים!
+נסו זאת!
+Age of Wonders יותר טוב!
 Try the mushroom stew!
 Sensational!
 Hot tamale, hot hot tamale!
@@ -82,9 +83,9 @@ Guaranteed!
 Macroscopic!
 Bring it on!
 Random splash!
-Call your mother!
+תקרא לאמא!
 Monster infighting!
-Loved by millions!
+אהוב על ידי מיליונים!
 Ultimate edition!
 Freaky!
 You've got a brand new key!
@@ -96,7 +97,7 @@ Tell your friends!
 NP is not in P!
 Music by C418!
 Livestreamed!
-Haunted!
+רדוף!
 Polynomial!
 Terrestrial!
 All is full of love!
@@ -109,18 +110,18 @@ Take frequent breaks!
 Not linear!
 Han shot first!
 Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
+דליי לבה!
+רכוב על החזיר!
+גדול מכדור הארץ!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
-1% sugar!
+1% סוכר!
 150% hyperbole!
 Synecdoche!
-Let's danec!
-Seecret Friday update!
+בוא נרקדו!
+עדכון שישי סווודי!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
@@ -194,7 +195,7 @@ Try the Nether!
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
-Scary!
+מפחיד!
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
