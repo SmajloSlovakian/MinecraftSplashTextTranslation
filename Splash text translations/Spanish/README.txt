@@ -1,13 +1,13 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Este proyecto fue creado por SmajloSlovakian#1077 (no puedes enviarme solicitud de amistad si eres un completo desconocido para mí)
 
 ¿Como añado este paquete a Minecraft?
 -Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
   Resource Packs and pick the pack which has just appeared.
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-¡Pero espera! that doesn't work!
--Click on a button called "Resource packs folder..."
+¿Como entro en la carpeta de los paquetes de texturas?
+-Abre Minecraft, ve a ajustes, paquetes de recursos, arrastra y suelta el paquete de texturas en la ventana de Minecraft...
+¡Pero espera! ¡Eso no funciona!
+-Haz cilc en un botón llamado "Resource packs folder..."
 
 
 
