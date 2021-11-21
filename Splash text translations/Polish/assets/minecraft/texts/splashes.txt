@@ -34,7 +34,7 @@ Twórz!
 Przetrwaj!
 Lochy!
 Na wyłączność!
-Rewelacja!
+Raz kozie śmierć!
 Oprogramowanie zamknięte!
 Z klasą!
 Łał!
@@ -133,7 +133,7 @@ Suma jego części!
 BTAF kiedyś był dobry!
 Tęsknie za ADOM!
 nłop op èrǫ6!
-OICU812!
+3-maj się!
 Dawać tu Raya Cokesa!
 Palce lizać!
 Tematyczny!
@@ -156,7 +156,7 @@ Jason! Jason! Jason!
 Gorętszy niż słońce!
 Z dostępem do Internetu!
 Autonomiczny!
-Aktywować!
+Cała naprzód!
 Fantasy!
 DRR! DRR! DRR!
 Kick it root down!
@@ -256,10 +256,10 @@ Testificate!
 Konwencjonalny!
 Homeomorficzny ze sferą!
 Nie unika podwójnych przeczeń!
-Postaw wszystkie bloki!
+Postaw WSZYSTKIE bloki!
 Robi beczki!
 Spełnia oczekiwania!
-PC gaming since 1873!
+PC gaming od 1873 r.!
 Grzegorz Brzęczyszczykiewicz!
 Déjà vu!
 Déjà vu!
@@ -315,7 +315,7 @@ Kiedyś w przyszłości moją pracę ktoś zacytuje!
 Teraz z tym i owym!
 To i owo!
 Hurra, szczeniaczki dla wszystkich!
-So sweet, like a nice bon bon!
+Cud miód!
 Bardzo wpływowy w swoim kręgu!
 Gra wieloosobowa już tu jest!
 Powstań z grobu!
@@ -329,7 +329,7 @@ Widać, słychać i czuć!
 Dni, których jeszcze nie znamy!
 Parę chwil, na które czekamy!
 Twe dłonie jak Kornwalie!
-Take the elevator to the mezzanine!
+Nadejszła wiekopomna chwila!
 Przestań być rozsądny, jesteśmy w Internecie!
 /give @a przytulas 64
 To się nada na Realms.
@@ -355,7 +355,7 @@ Iluzja! Co ukrywasz?
 Coś tu nie gra…
 Dziękuję za rybę!
 Wszystkie plotki są prawdziwe!
-Truly gone fishing!
+Też zdanża!
 Tęczowy żółw?
 Coś śmiesznego!
 Potrzebuję dodatkowego kontekstu.
@@ -379,8 +379,8 @@ Myj ręce!
 Mydło i woda!
 Wesprzyj lokalne przedsiębiorstwa!
 Zostań w domu i graj w gry!
-Stay safe!
-Stay strong!
+Zachowaj bezpieczeństwo!
+Zachowaj siłę!
 Kaszl i kichaj w łokieć!
 Nie dotykaj swojej twarzy!
 Wspomóż starszych krewnych i znajomych!
@@ -391,7 +391,7 @@ Rób zakupy dla starszych osób!
 Spotykaj się online z przyjaciółmi!
 Kochanie, wyhodowałem pszczoły!
 Znajdź swój pazur!
-Everybody do the Leif!
+Każdy robi to co Leif!
 <3 Max & 99 & Ducky!
 Krzaczaste brwi!
 Edit to imię!
@@ -410,7 +410,7 @@ BLM!
 Przeciwstawiaj się rasizmowi!
 Okazuj wsparcie!
 Opowiedz się przeciwko dyskryminacji i za równouprawnieniem!
-Amplify and listen to BIPOC voices!
+Nagłaśniaj i słuchaj głosów BIPOC!
 Uświadom znajomych na temat antyrasizmu!
 Wspieraj społeczność BIPOC oraz twórców!
 Broń równości w swojej społeczności!
