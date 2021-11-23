@@ -17,7 +17,7 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "Dizajn",
         "titles": [
             {
                 "title": "Chief Creative Officers",
@@ -46,14 +46,14 @@
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Glavni dizajneri igre",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Dizajneri igre",
                 "names": [
                     "Art Usher",
                     "Brandon Franklin (Insight Global, Inc)",
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programiranje",
         "titles": [
             {
                 "title": "Chief Technology Officer",
