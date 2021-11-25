@@ -9,7 +9,7 @@
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Toimitusjohtaja",
                 "names": [
                     "Jonas Mårtensson"
                 ]
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Ohjelmointi",
         "titles": [
             {
                 "title": "Chief Technology Officer",
@@ -171,7 +171,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Käyttöliittymän kehittäjät",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
