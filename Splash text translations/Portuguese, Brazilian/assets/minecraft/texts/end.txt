@@ -1,12 +1,12 @@
-§3Vejo o jogador que você quer ser.
+§3I see the player you mean.
 
-§2JOGADORNAME?
+§2PLAYERNAME?
 
-§3Sim. Se cuida. Isso chegou em um nível elevado agora. Isso pode ler os nossos pensamentos.
+§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
 
-§2Isso não importa. Isso acha que fazemos parte do jogo.
+§2That doesn't matter. It thinks we are part of the game.
 
-§3Eu gosto deste jogador. Ele jogava bem. Não desistiu.
+§3I like this player. It played well. It did not give up.
 
 §2Está lendo nossos pensamentos como se fossem palavras em um tela.
 
