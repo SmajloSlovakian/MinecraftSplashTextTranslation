@@ -301,7 +301,7 @@ Mmmph, mmph!
 ¡Bastante asustadizo!
 Tengo una sugerencia.
 ¡Ahora con abrazos extra!
-¡Ahora Java 16!
+Java 16 + 1 = 17!
 Woah.
 HURNERJSGER?
 ¿Qué pasa, Doc?
@@ -414,7 +414,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[este texto de splah ha sido retrasado hasta la parte 2]
+[this splash text is now available]
 ¡Contiene cabras simuladas!
 ¡Hecho en casa!
 ¡Hay un <<gato en ,mi teclado!~
