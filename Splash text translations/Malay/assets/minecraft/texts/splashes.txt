@@ -301,7 +301,7 @@ Letak biskut itu!
 Agak seram!
 Saya ada cadangan.
 Now with extra hugs!
-Kini dengan Java 16!
+Java 16 + 1 = 17!
 Woah.
 HURNERJSGER?
 Apa khabar, Doc?
@@ -414,7 +414,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[teks tampilan ini telah ditangguhkan sehingga bahagian ke-2]
+[this splash text is now available]
 Mengandungi kambing yang disimulasi!
 Buatan Sendiri!
 Ada seekor <<kucing pada ,papan kekunci ku!~
