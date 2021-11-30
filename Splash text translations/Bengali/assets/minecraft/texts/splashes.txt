@@ -302,7 +302,7 @@ if not ok then return end
 অনেক ভয়ঙ্কর!
 আমার একটা প্রস্তাব আছে।
 এখন এক্সট্রা কোলাকুলি হবে!
-এখন জাভা ১৬!
+Java 16 + 1 = 17!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -415,7 +415,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[this splash text has been delayed until part 2]
+[this splash text is now available]
 Contains simulated goats!
 ঘরে তৈরি!
 আমার ,কীবোর্ডে <<একটি বিড়াল আছে!~
