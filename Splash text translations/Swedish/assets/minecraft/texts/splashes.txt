@@ -301,7 +301,7 @@ Lägg ned den där kakan!
 Ganska läskigt!
 Jag har ett förslag.
 Nu med extra många kramar!
-Nu med Java 16!
+Java 16 + 1 = 17!
 Hörru.
 HURNERJSGER?
 Vad händer, Doc?
@@ -414,7 +414,7 @@ Förstärk och lyssna på röster från BIPOC!
 Lär dina vänner att vara antirasister!
 Stöd BIPOC-gemenskapen och dess skapare!
 Kämpa för jämlikhet i ditt område!
-[den här textremsan har blivit uppskjuten till del 2]
+[this splash text is now available]
 Innehåller simulerade getter!
 Hemmagjort!
 Det står <<en katt på ,mitt tangentbord!~
