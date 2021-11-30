@@ -1,6 +1,6 @@
 Dit project is gestart door SmajloSlovakian#1077 (je kunt me niet als vriend toevoegen als je een vreemde voor mij bent)
 
-Hoe voeg ik dit pakket toe aan Minecraft?
+How do I add this pack to Minecraft?
 -Voeg de map die je net hebt geopend toe aan
 "\Appdata\Roaming\.minecraft\resourcepacks\" map, ga in Minecraft, instellingen, 
   Resource Packs and pick the pack which has just appeared.
