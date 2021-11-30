@@ -1,6 +1,6 @@
 Projek ini dihasilkan oleh SmajloSlovakian#1077 (anda tidak boleh menghantar saya permohonan rakan jika anda adalah orang asing bagi saya)
 
-Bagaimanakah cara untuk saya menambahkan pek in kedalam Minecraft?
+How do I add this pack to Minecraft?
 -Tambahkan folder yang anda baru buka ke folder "\Appdata\Roaming\.minecraft\resourcepacks\", pergi kedalam Minecraft, tetapan, 
   Pek Sumber dan pilih pek mana yang baru sahaja muncul.
 
