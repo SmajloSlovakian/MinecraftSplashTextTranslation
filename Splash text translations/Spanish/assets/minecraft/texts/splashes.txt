@@ -220,7 +220,7 @@ Salta, salta, ¡y abajo!
 ¡Parecido a Lemmings!
 ¡Sigue el tren, CJ!
 ¡Aprovechando la sinergia!
-¡Traducido por Nan!
+ValueError: invalid literal for int()
 ¡DungeonQuest es injusto!
 ¡90210!
 ¡Échale un vistazo a las far lands!
@@ -238,27 +238,27 @@ Salta, salta, ¡y abajo!
 ¡Pan es pain!
 ¡Lee más libros!
 ¡Khaaaaaaaaan!
-Less addictive than TV Tropes!
+¡Menos adictivo que la televisión!
 ¡Más adictivo que la limonada!
 ¡Más grande que una caja de pan!
 ¡Millones de melocotones!
-Fnord!
+¡Fnord!
 ¡Esta es mi verdadera forma!
-Don't bother with the clones!
+¡No te preocupes por los clones!
 ¡Cabezacalabaza!
 ¡Hecho por Jeb!
 ¡Tiene un final!
-Finally complete!
+¡Finalmente completo!
 ¡Paquete destacado!
-Boots with the fur!
-Stop, hammertime!
-Testificates!
+¡Botas de piel!
+¡Hora del martillo!
+¡Testificados!
 ¡Convencional!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
+¡Homeomórfico a 3 esferas!
+¡No evita los dobles negativos!
 ¡Coloca TODOS los bloques!
-Does barrel rolls!
-Meeting expectations!
+¡Hace vueltas de barril!
+¡Cumpliendo con las expectativas!
 ¡PC gaming desde 1873!
 ¡Ghoughpteighbteau tchoghs!
 ¡Déjà-vu!
@@ -268,9 +268,9 @@ Meeting expectations!
 Afraid of the big, black bat!
 ¡No usa la U-palabra!
 ¡Los niños juegan!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
+¡Te veo el siguiente viernes o por ahí!
+¡De las calles de Södermalm!
+¡A 150 bpm por 400000 minutos!
 ¡Tecnológico!
 Funk soul brother!
 Pumpa kungen!
@@ -301,23 +301,23 @@ Mmmph, mmph!
 ¡Bastante asustadizo!
 Tengo una sugerencia.
 ¡Ahora con abrazos extra!
-Java 16 + 1 = 17!
+¡Java 16 + 1 = 17!
 Woah.
-HURNERJSGER?
+¿HURNERJSGER?
 ¿Qué pasa, Doc?
-Now contains 32 random daily cats!
-That's Numberwang!
+¡Ahora con 32 gatos diarios aleatorios!
+¡Eso es numberwang!
 porfa rt
 ¿Quieres unirte a mi servidor?
 ¡Pon una pequeña valla alrededor!
-Throw a blanket over it!
-One day, somewhere in the future, my work will be quoted!
+¡Échale una manta!
+¡Algún día, en el futuro, mis trabajos serán citados!
 ¡Ahora con cosas adicionales!
 ¡Cosas extra!
 ¡Sii, cachorros para todos!
 ¡Tan dulce, como un buen bon bon!
-Very influential in its circle!
-¡Ahora Con Multijugador!
+¡Muy influyente en su círculo!
+¡Ahora con multijugador!
 ¡Levántate de tu tumba!
 ¡Advertencia! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
@@ -369,9 +369,9 @@ No te preocupes, ¡sé feliz!
 ¡Mira mami, estoy en un splash!
 Vino del espacio.
 ¡Increíble diseño de juego ahí mismo!
-¡Ph1lza tuvo una buena carrera!
-¡10 años de Minar y Fabricar!
-Ping the human!
+¡Ph1lza tuvo una buena partida!
+¡10 años minando y fabricando!
+¡Haz ping al humano!
 En caso de que no sea obvio, los zorros no son jugadores.
 Buzzy Bees!
 Minecraft Java Edition presenta: Bugs Asquerosos
