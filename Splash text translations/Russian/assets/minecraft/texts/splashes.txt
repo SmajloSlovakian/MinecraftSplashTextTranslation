@@ -288,10 +288,10 @@ Lennart lennart = new Lennart();
 Ты не объяснишь это!
 if not ok then return end
 §4Р§6а§eд§2у§9г§1а§5!
-§kFUNKY LOL
-Big Pointy Teeth!
+§kЛОЛ ПРИКОЛ
+Большие острые зубы!
 Bekarton guards the gate!
-Mmmph, mmph!
+Хмммм, хммм!
 Don't feed avocados to parrots!
 Swords for everyone!
 Пж, ответь на мой твит!
@@ -318,7 +318,7 @@ Yay, puppies for everyone!
 So sweet, like a nice bon bon!
 Very influential in its circle!
 Теперь с Мультиплеером!
-Rise from your grave!
+Восстань из могилы!
 Осторожно! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
 Run, coward! Я голоден!
