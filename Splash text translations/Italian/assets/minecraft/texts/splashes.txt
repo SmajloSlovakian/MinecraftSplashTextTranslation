@@ -301,7 +301,7 @@ Metti giù quel biscotto!
 Piuttosto spaventoso!
 Ho un'idea.
 Ora con abbracci extra!
-Ora su Java 16!
+Java 16 + 1 = 17!
 Woah.
 HURNERJSGER?
 Che succede, amico?
@@ -414,7 +414,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[questo sottotitolo è stato rinviato alla parte 2]
+[this splash text is now available]
 Include capre che campano!
 Fatto in casa!
 C'é <<un gatto sulLa ,mia tastiera!|
