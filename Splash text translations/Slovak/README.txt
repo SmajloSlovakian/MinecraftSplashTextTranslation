@@ -1,6 +1,6 @@
 Tento projekt vytvoril SmajloSlovakian#1077 (neprijímam žiadosti o priateľstvo)
 
-Ako pridám tento balíček do minecraftu?
+How do I add this pack to Minecraft?
 -Presuň tento priečinok do tvojho "\Appdata\Roaming\.minecraft\resourcepacks\" priečinku, choď do Minecraftu, nastavenia, 
   Zdrojové balíky a vyber si balík, ktorý sa ti tam zjavil.
 
