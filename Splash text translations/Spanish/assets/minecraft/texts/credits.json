@@ -27,7 +27,7 @@
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "Directores del juego",
                 "names": [
                     "Agnes Larsson",
                     "Måns Olson"
@@ -48,7 +48,7 @@
                 ]
             },
             {
-                "title": "Principal Design Manager",
+                "title": "Mánager de diseño principal",
                 "names": [
                     "Michael Harnisch"
                 ]
@@ -61,7 +61,7 @@
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Diseñadores del Juego",
                 "names": [
                     "Art Usher",
                     "Brandon Pearce",
@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Director narrativo",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Diseñador narrativo",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "Mánager de diseño",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -132,7 +132,7 @@
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Director Técnico",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Principales Desarrolladores del Juego",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Desarrolladores del juego",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Desarrolladores del lanzador",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -248,14 +248,14 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Arquitectos líder",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arquitectos",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
@@ -435,7 +435,7 @@
         "section": "Audio",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Director de Audio",
                 "names": [
                     "Samuel Åberg"
                 ]
@@ -464,7 +464,7 @@
         "section": "Artes visuales",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Directores de arte",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Artistas líder",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -508,20 +508,20 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "Artistas 3D",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Artistas gráficos",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Diseñadores Gráficos",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animador",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -602,7 +602,7 @@
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Productores Ejecutivos",
                 "names": [
                     "Anita Sujarit",
                     "David Nisshagen",
@@ -626,7 +626,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Productores",
                 "names": [
                     "Aaron Culbreth (Insight Global, Inc)",
                     "Adrian Östergård",
@@ -735,7 +735,7 @@
                 ]
             },
             {
-                "title": "Lead Producers",
+                "title": "Productores líder",
                 "names": [
                     "Christine Platon",
                     "Milo Bengtsson",
@@ -743,7 +743,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Productores",
                 "names": [
                     "Adele Major",
                     "Charlotte Angantyr",
@@ -836,7 +836,7 @@
                 ]
             },
             {
-                "title": "Creative Writers",
+                "title": "Escritores Creativos",
                 "names": [
                     "Cristina Anderca",
                     "Per Landin",
@@ -847,7 +847,7 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "Comunicaciones",
         "titles": [
             {
                 "title": "Chief Storyteller",
@@ -862,7 +862,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Productores",
                 "names": [
                     "Sofia Orrheim"
                 ]
@@ -947,7 +947,7 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Operaciones",
         "titles": [
             {
                 "title": "Franchise Chief Operations Officer",
