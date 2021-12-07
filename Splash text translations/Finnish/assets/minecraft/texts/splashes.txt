@@ -1,5 +1,5 @@
 Kuten TV:ssä!
-Huikeaa!
+Mahtavaa!
 100% puhdas!
 Voi sisältää pähkinöitä!
 Lisää monikulmioita!
@@ -41,7 +41,7 @@ Vau!
 Ei steamissa!
 Voi veljet!
 Mahtava yhteisö!
-Pilseleitä!
+Pikseleitä!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Nyt vaikeuksien kanssa!
@@ -49,7 +49,7 @@ Tehostettu!
 90% bugivapaa!
 Kaunis!
 12 yrttiä ja maustetta!
-Rasva vapaa!
+Rasvavapaa!
 Ei missään nimessä meemejä!
 Ilmainen hammashoito!
 Kysy lääkäriltäsi!
@@ -118,8 +118,8 @@ Pudotaan kallioilta!
 1% sokeria!
 150% liioittelua!
 Synekdootti!
-Tanssitaan!
-Saalainen perjantai päivitys!
+Tansitaan!
+Saalainen perjantaipäivitys!
 Viitetoteutus!
 Suutelee taivasta!
 20 GOTO 10!
@@ -301,7 +301,7 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Now Java 16!
+Java 16 + 1 = 17!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -414,7 +414,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[this splash text has been delayed until part 2]
+[this splash text is now available]
 Contains simulated goats!
 Home-made!
 There's <<a cat on ,my keyboard!~

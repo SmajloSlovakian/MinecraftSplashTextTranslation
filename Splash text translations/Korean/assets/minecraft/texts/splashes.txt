@@ -1,14 +1,14 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
+TV에 나왔음!
+멋짐!
+100% 순수!
+견과류 포함 가능!
+폴리곤이 늘어남!
 Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
+한정판!
+반짝이는 글자!
+여기 있어요!
+우리 반 최고!
+끝났어요!
 Kind of dragon free!
 Excitement!
 More than 500 sold!
@@ -301,7 +301,7 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Now Java 16!
+Java 16 + 1 = 17!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -414,7 +414,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[this splash text has been delayed until part 2]
+[this splash text is now available]
 Contains simulated goats!
 Home-made!
 There's <<a cat on ,my keyboard!~

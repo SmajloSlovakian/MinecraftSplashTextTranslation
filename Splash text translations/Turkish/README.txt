@@ -1,6 +1,6 @@
 Bu proje SmajloSlovakian#1077 tarafından yapılmıştır. (Eğer tanışmıyorsak bana arkadaşlık isteği gönderemezsiniz.)
 
-Bu paketi Minecraft'a nasıl eklerim?
+How do I add this pack to Minecraft?
 - Açtığınız dosyayı "\Appdata\Roaming\.minecraft\resourcepacks\" dosyasına atın.  
   - Attığımız dosyayı oyunun içinde "Resource Pack" menüsünden aktive edin.
 

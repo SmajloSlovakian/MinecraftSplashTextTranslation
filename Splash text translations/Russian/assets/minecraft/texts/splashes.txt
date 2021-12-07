@@ -263,8 +263,8 @@ Does barrel rolls!
 Ъуъ!
 Дежавю!
 Déjà vu!
-Got your nose!
-Haley loves Elan!
+Твой нос у меня!
+Хайли любит Алана
 Afraid of the big, black bat!
 Doesn't use the U-word!
 Child's play!
@@ -288,10 +288,10 @@ Lennart lennart = new Lennart();
 Ты не объяснишь это!
 if not ok then return end
 §4Р§6а§eд§2у§9г§1а§5!
-§kFUNKY LOL
-Big Pointy Teeth!
+§kЛОЛ ПРИКОЛ
+Большие острые зубы!
 Bekarton guards the gate!
-Mmmph, mmph!
+Хмммм, хммм!
 Don't feed avocados to parrots!
 Swords for everyone!
 Пж, ответь на мой твит!
@@ -301,7 +301,7 @@ Swords for everyone!
 Довольно страшно!
 У меня есть предложение.
 Now with extra hugs!
-Теперь с Java 16!
+Java 16 + 1 = 17!
 Вау.
 HURNERJSGER?
 Как дела, Док?
@@ -318,7 +318,7 @@ Yay, puppies for everyone!
 So sweet, like a nice bon bon!
 Very influential in its circle!
 Теперь с Мультиплеером!
-Rise from your grave!
+Восстань из могилы!
 Осторожно! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
 Run, coward! Я голоден!
@@ -414,7 +414,7 @@ From free range developers!
 Отучайте своих друзей от расизма!
 Поддерживайте BIPOC сообщество и создателей!
 Отстаивайте равноправие в сообществе!
-[этот сплеш был отложен до второй части]
+[этот сплэш теперь доступен]
 Содержит симулируемых коз!
 Дом-сделан!
 У меня 47кот/* на клавиатуре!щдз

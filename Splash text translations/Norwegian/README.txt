@@ -1,6 +1,6 @@
 Dette prosjektet ble skapt av SmajloSlovakian#1077 (Du vil ikke bli akseptert som venn om du sender venneforespørsel om du er helt fremmed for meg)
 
-Men hvordan legger jeg til denne pakken til Minecraft?
+How do I add this pack to Minecraft?
 --Da må du legge til mappen du nettopp har åpnet til din
 "\Appdata\Roaming\.minecraft\resourcepacks\" mappe, gå inn i Minecraft, innstillinger, 
   Ressurspakker og velg deretter pakken som dukket opp.

@@ -301,7 +301,7 @@ if not ok then return end
 Πολύ τρομακτικό!
 Έχω μια πρόταση.
 Τώρα με έξτρα αγκαλιές!
-Τώρα με Java 16!
+Java 16 + 1 = 17!
 Ουάου.
 HURNERJSGER?
 Τι τρέχει, Γιατρέ;
@@ -414,7 +414,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[this splash text has been delayed until part 2]
+[this splash text is now available]
 Περιέχει προσομοιωμένες κατσίκες!
 Σπιτικό!
 Υπάρχει <<μια γάτα στο ,πληκτρολόγιό μου!~

@@ -1,6 +1,6 @@
 تم إنشاء هذا المشروع بواسطة SmajloSlovakian#1077 (لا يمكنك إرسال طلب صداقة لي إذا كنت غريبًا تمامًا عني)
 
-كيف أضيف هذه الحزمة إلى Minecraft؟
+How do I add this pack to Minecraft?
 -Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
   Resource Packs and pick the pack which has just appeared.
 

@@ -301,7 +301,7 @@ Odłóż to ciastko!
 Całkiem straszny!
 Mam propozycję.
 Teraz jeszcze więcej uścisków!
-Teraz na Javie 16!
+Java 16 + 1 = 17!
 Łoo.
 HURNERJSGER?
 Co jest, doktorku?
@@ -414,7 +414,7 @@ Nagłaśniaj i słuchaj głosów BIPOC!
 Uświadom znajomych na temat antyrasizmu!
 Wspieraj społeczność BIPOC oraz twórców!
 Broń równości w swojej społeczności!
-[ten tekst powitalny został opóźniony do części 2]
+[this splash text is now available]
 Zawiera symulowane kozy!
 Domowej roboty!
 Mam <<kota ,na klawiaturze!~

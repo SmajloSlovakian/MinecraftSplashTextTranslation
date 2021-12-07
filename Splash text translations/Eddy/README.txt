@@ -1,6 +1,6 @@
 This projected wased createded by SmajloSlovakian#1077 (you cannoted sended med friended reqed if you are completed stranger to med)
 
-How doed i added this packed to Minecrafted?
+How do I add this pack to Minecraft?
 -Added thed foldered you'ved just openeded to your "\Appdated\Roamed\.minecrafted\resourcepacked\" folder, goed into Minecrafted, settings, 
   Resourced Packeds and pick the packed which has just appeareedd.
 
