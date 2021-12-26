@@ -54,14 +54,14 @@
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Baş Oyun Tasarımcıları",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Oyun Tasarımcıları",
                 "names": [
                     "Art Usher",
                     "Brandon Pearce",
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programlama",
         "titles": [
             {
                 "title": "Chief Technology Officer",
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "Ses",
         "titles": [
             {
                 "title": "Audio Director",
@@ -508,14 +508,14 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "3D Sanatçıları",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafik Tasarımcılar",
                 "names": [
                     "Mattis Grahm"
                 ]
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animatör",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -551,7 +551,7 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Üretim",
         "titles": [
             {
                 "title": "Head of Creator Platform",
@@ -910,7 +910,7 @@
                 ]
             },
             {
-                "title": "Web Content Manager",
+                "title": "Web İçerik Yönetimi",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
