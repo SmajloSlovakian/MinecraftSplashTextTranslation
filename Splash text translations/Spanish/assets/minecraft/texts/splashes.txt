@@ -265,14 +265,14 @@ ValueError: invalid literal for int()
 ¡Déjà vu!
 ¡Tengo tu nariz!
 ¡Haley ama a Elan!
-Afraid of the big, black bat!
+¡Teme al gran murciélago negro!
 ¡No usa la U-palabra!
 ¡Los niños juegan!
 ¡Te veo el siguiente viernes o por ahí!
 ¡De las calles de Södermalm!
 ¡A 150 bpm por 400000 minutos!
 ¡Tecnológico!
-Funk soul brother!
+¡Alma funk hermano!
 Pumpa kungen!
 日本ハロー！
 한국 안녕하세요!
