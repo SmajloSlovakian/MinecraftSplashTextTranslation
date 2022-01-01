@@ -1,8 +1,8 @@
 ¡Como en la tele!
 ¡Genial!
-¡100% Puro!
-¡Podría contener nueces!
-¡Mas polígonos!
+¡100% puro!
+¡Puede contener nueces!
+¡Más polígonos!
 ¡Moderadamente atractivo!
 ¡Edicion limitada!
 ¡Letras intermitentes!
@@ -265,7 +265,7 @@ ValueError: invalid literal for int()
 ¡Déjà vu!
 ¡Tengo tu nariz!
 ¡Haley ama a Elan!
-¡Teme al gran murciélago negro!
+¡Temo al gran murciélago negro!
 ¡No usa la U-palabra!
 ¡Los niños juegan!
 ¡Te veo el siguiente viernes o por ahí!
@@ -273,24 +273,24 @@ ValueError: invalid literal for int()
 ¡A 150 bpm por 400000 minutos!
 ¡Tecnológico!
 ¡Alma funk hermano!
-Pumpa kungen!
-日本ハロー！
-한국 안녕하세요!
-Helo Cymru!
-Cześć Polsko!
-你好中国！
-Привет Россия!
-Γεια σου Ελλάδα!
+¡Pumpa kungen!
+¡日本ハロー！
+¡한국 안녕하세요!
+¡Helo Cymru!
+¡Cześć Polsko!
+¡你好中国！
+¡Привет Россия!
+¡Γεια σου Ελλάδα!
 ¡Mi vida por Aiur!
-Lennart lennart = new Lennart();
+Lennart lennart = nuevo Lennart();
 ¡Veo que tu vocabulario ha mejorado!
 ¿Quién ha puesto eso ahí?
 ¡No puedes explicar eso!
-if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+if not aceptable then return end
+§1C§2o§3l§4o§5r§6m§7á§8t§9i§ac§do
 §kFUNKY LOL
 ¡Dientes Grandes y Puntiagudos!
-Bekarton guards the gate!
+¡Bekarton monta guardia en el portón!
 Mmmph, mmph!
 ¡No alimentes con aguacates a los loros!
 ¡Espadas para todos!
@@ -319,18 +319,18 @@ porfa rt
 ¡Muy influyente en su círculo!
 ¡Ahora con multijugador!
 ¡Levántate de tu tumba!
-¡Advertencia! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
+¡Advertencia! ¡Un enorme barco de guerra "STEVE" se acerca rápidamente!
+¡El guerrero azul disparó a la comida!
 ¡Corre, cobarde! ¡Tengo hambre!
-Flavor with no seasoning!
+¡Sabor sin sazonar!
 ¡Extraño, pero no un desconocido!
 ¡Más duro que los diamantes, rico como el helado!
-It swings, it jives!
-Cruising streets for gold!
-Take an eggbeater and beat it against a skillet!
+¡Se balancea, vibra!
+¡Navegando las calles por el oro!
+¡Coge la batidora y remuévela contra una sartén!
 ¡Hazme una mesa, una mesa funky!
-Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
+¡Coge el ascensor al entreplantas!
+¡Deja de intentar que las cosas tengan sentido, estamos en internet!
 /give @a abrazos 64
 Esto es bueno para Realms.
 ¡Cualquier ordenador es un portátil si eres lo suficientemente valiente!
@@ -343,19 +343,19 @@ doot doot
 There's no stopping the Trollmaso
 Lánzate al suelo y falla
 Regla #1: nunca es culpa mía
-Replaced molten cheese with blood?
-Absolutely fixed relatively broken coordinates
+¿Se ha cambiado el queso fundido con sangre?
+Definitivamente arreglado las coordenadas relativamente rotas
 Barcos FTW
 Edición Javaliciosa
 No debería ser jugado mientras conduces
 ¡Vas demasiado rápido!
 ¡No les des chocolate a los loros!
-The true meaning of covfefe
+El verdadero significado de covfefe
 ¡Una ilusión! ¿Qué escondes?
 Algo no va bien del todo...
 ¡Gracias por el pescado!
 ¡Los rumores son ciertos!
-Truly gone fishing!
+¡Yendo a pescar de verdad!
 ¿Tortuga arcoíris?
 ¡Algo gracioso!
 Necesito más contexto.
@@ -373,7 +373,7 @@ Vino del espacio.
 ¡10 años minando y fabricando!
 ¡Haz ping al humano!
 En caso de que no sea obvio, los zorros no son jugadores.
-Buzzy Bees!
+¡Abejas zumbadoras!
 Minecraft Java Edition presenta: Bugs Asquerosos
 ¡Lávate las manos!
 ¡Jabón y agua!
@@ -383,19 +383,19 @@ Minecraft Java Edition presenta: Bugs Asquerosos
 ¡Mantente fuerte!
 ¡Tose o estornuda en tu codo!
 ¡No te toques la cara!
-Support elderly relatives and friends!
-Prepare, but don’t hoard!
-Gamers unite – separately in your own homes!
+¡Apoya a tus familiares y amigos más mayores!
+¡Prepara, pero no acapares!
+¡Gamers reunidos – cada uno desde su casa!
 Salva el mundo - ¡Quédate dentro!
-Shop for your elders!
+¡Haz la compra a tus mayores!
 ¡Pasa el rato con tus amigos online!
-Honey, I grew the bees!
-Find your claw!
-Everybody do the Leif!
+¡Dulce, hice crecer las abejas!
+¡Encuentra tu gancho!
+¡Todos bailan el Leif!
 <3 Max & 99 & Ducky!
-Bushy eyebrows!
-Edit is a name!
-From free range developers!
+¡Cejas pobladas!
+¡Edit es un nombre!
+¡De desarrolladores criados en libertad!
 ¡Música por Lena Raine!
 ¡Aww man!
 #minecraftfarms
@@ -404,16 +404,16 @@ From free range developers!
 ¡Gráficos fabulosos!
 ¡También prueba Minecraft Dungeons!
 ¡Vanilla!
-May contain traces of citrus!
+¡Puede contener trazas de cítricos!
 ¿¡Zoglin!?
-Black lives matter!
+¡Las vidas negras importan!
 ¡Sé anti-racista!
-Learn about allyship!
-Speak OUT against injustice and UP for equality!
-Amplify and listen to BIPOC voices!
+¡Aprende sobre alianzas!
+¡Protesta contra la injusticia y habla alto por la igualdad!
+¡Difunde y escucha las voces BIPOC!
 ¡Educa a tus amigos sobre el anti-racismo!
-Support the BIPOC community and creators!
-Stand up for equality in your community!
+¡Apoya a los creadores y comunidades BIPOC!
+¡Lucha por la igualdad en tu comunidad!
 [este texto ahora está disponible]
 ¡Contiene cabras simuladas!
 ¡Hecho en casa!
@@ -423,5 +423,5 @@ Stand up for equality in your community!
 ¡Al helicóptero!
 ¡Versión en juego de mesa ya disponible!
 Cariño, ¡enceré el cobre!
-Plant-based light sources!
+¡Fuentes de luz con base vegetal!
 ¡Hecho por gente "real"!
