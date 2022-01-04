@@ -414,7 +414,7 @@ Förstärk och lyssna på röster från BIPOC!
 Lär dina vänner att vara antirasister!
 Stöd BIPOC-gemenskapen och dess skapare!
 Kämpa för jämlikhet i ditt område!
-[this splash text is now available]
+[den här textremsan är nu tillgänglig]
 Innehåller simulerade getter!
 Hemmagjort!
 Det står <<en katt på ,mitt tangentbord!~
