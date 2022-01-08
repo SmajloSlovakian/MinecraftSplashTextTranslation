@@ -301,7 +301,7 @@ Legg i fra deg den kjeksen!
 Ganske skummelt!
 Jeg har et forslag!
 Nå med ekstra mange klemmer!
-Java 16 + 1 = 17!
+Java 16 + 1 =  Java 17!
 Våh!
 HURNERJSGER?
 Hva skjer, Doktor?
@@ -414,7 +414,7 @@ Amplify and listen to BIPOC voices!
 Lær dine venner om anti-rasisme!
 Support the BIPOC community and creators!
 Stå opp for likestilling i samfunnet ditt!
-[this splash text is now available]
+[Denne teksten er endelig tilgjengelig]
 Inneholder simulerte geiter!
 Hjemmelaget!
 Det er "en katt på ,tastaturet mitt!~

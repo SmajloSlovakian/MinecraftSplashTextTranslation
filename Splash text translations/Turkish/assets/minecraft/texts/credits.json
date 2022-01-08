@@ -54,14 +54,14 @@
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Baş Oyun Tasarımcıları",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Oyun Tasarımcıları",
                 "names": [
                     "Art Usher",
                     "Brandon Pearce",
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programlama",
         "titles": [
             {
                 "title": "Chief Technology Officer",
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "Ses",
         "titles": [
             {
                 "title": "Audio Director",
@@ -508,14 +508,14 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "3D Sanatçıları",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafik Tasarımcılar",
                 "names": [
                     "Mattis Grahm"
                 ]
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animatör",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -551,7 +551,7 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Üretim",
         "titles": [
             {
                 "title": "Head of Creator Platform",
@@ -626,7 +626,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Yapımcılar",
                 "names": [
                     "Aaron Culbreth (Insight Global, Inc)",
                     "Adrian Östergård",
@@ -712,7 +712,7 @@
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "Teknik Yazarlar",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)"
                 ]
@@ -862,7 +862,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Yapımcılar",
                 "names": [
                     "Sofia Orrheim"
                 ]
@@ -904,13 +904,13 @@
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Web Tasarımı",
                 "names": [
                     "Paul Madlon (Ten Gun Design, Inc)"
                 ]
             },
             {
-                "title": "Web Content Manager",
+                "title": "Web İçerik Yönetimi",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
@@ -918,7 +918,7 @@
         ]
     },
     {
-        "section": "User Experience",
+        "section": "Kullanıcı Deneyimi",
         "titles": [
             {
                 "title": "User Experience Design Director",
@@ -994,7 +994,7 @@
                 ]
             },
             {
-                "title": "Human Resources",
+                "title": "İnsan Kaynakları",
                 "names": [
                     "Aleksandra Zajac",
                     "Aron Glauser",
@@ -1121,7 +1121,7 @@
                 ]
             },
             {
-                "title": "Data Science",
+                "title": "Veri Bilimi",
                 "names": [
                     "Aaron Johnson",
                     "Bhrigu Shree",
@@ -1388,7 +1388,7 @@
         ]
     },
     {
-        "section": "Marketing",
+        "section": "Pazarlama",
         "titles": [
             {
                 "title": "Head of Marketing",
@@ -1444,7 +1444,7 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Finans",
         "titles": [
             {
                 "title": "Finance Director",
@@ -1977,13 +1977,13 @@
                 ]
             },
             {
-                "title": "Programmer",
+                "title": "Programcı",
                 "names": [
                     "Eric Nguyen"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Yapımcı",
                 "names": [
                     "Grue Robinson"
                 ]
@@ -2084,13 +2084,13 @@
         "section": "Development Partner: Red Lens Games",
         "titles": [
             {
-                "title": "President",
+                "title": "Başkan",
                 "names": [
                     "Jared Noftle"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Yapımcı",
                 "names": [
                     "Nova Barlow"
                 ]
@@ -2143,7 +2143,7 @@
         "section": "Development Partner: Virtuosity",
         "titles": [
             {
-                "title": "Game Developers",
+                "title": "Oyun Geliştiricileri",
                 "names": [
                     "Aishwarya Jayabal (Virtuosity)",
                     "Ganesh Sethy (Virtuosity)",
@@ -2164,7 +2164,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Yapımcılar",
                 "names": [
                     "Chokkalingam Ramu Kuppaswamy (Virtuosity)"
                 ]
@@ -2510,7 +2510,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Sanatçılar",
                 "names": [
                     "Erin Caswell (eXcell, a division of CompuCom)",
                     "Lilei Yu (Collabera)"
@@ -2537,7 +2537,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Sanatçılar",
                 "names": [
                     "Amanda Cook (Harvey Nash)",
                     "Bart Kaufman (Randstad)",
@@ -2591,7 +2591,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Yapımcılar",
                 "names": [
                     "Alen Voljevica",
                     "Anna Holdosi-Simon",

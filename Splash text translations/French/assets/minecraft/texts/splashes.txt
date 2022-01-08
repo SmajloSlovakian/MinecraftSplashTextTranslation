@@ -5,7 +5,7 @@ Peut contenir des noix !
 Encore plus de polygones !
 Modérément attractif !
 Édition limitée !
-Flashing letters!
+Des lettres clignotantes !
 C'est arrivé !
 Meilleur en classe !
 C'est fini !
@@ -16,31 +16,31 @@ Unique !
 Des tas de succès sur YouTube !
 Indev !
 Des araignées partout !
-Check it out!
+Découvrez-les !
 Holy cow, man!
-It's a game!
+C'est un jeu!
 Made in Sweden!
-Uses LWJGL!
+Utilise LWJGL!
 Reticulating splines!
 Minecraft!
 Yaaay!
 Singleplayer!
-Keyboard compatible!
+Clavier compatible !
 Ingots!
 Exploding creepers!
 That's no moon!
 l33t!
-Create!
-Survive!
-Dungeon!
+Créer!
+Survivre !
+Donjon!
 Exclusive!
 The bee's knees!
 Closed source!
 Classy!
 Wow!
-Not on steam!
+Pas sur steam
 Oh man!
-Awesome community!
+Superbe communauté !
 Pixels!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
@@ -115,7 +115,7 @@ sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
-1% sugar!
+1 % de sucre !
 150% hyperbole!
 Synecdoche!
 Let's danec!

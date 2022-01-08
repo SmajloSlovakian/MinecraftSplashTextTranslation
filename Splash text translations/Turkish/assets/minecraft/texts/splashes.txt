@@ -152,7 +152,9 @@ Consummate V's!
 Double buffered!
 Fan fiction!
 Flaxkikare!
-Jason! Jason! Jason!
+Jason!
+ Jason!
+ Jason!
 
 Güneşten daha sıcak!
 İnternetli!
@@ -262,7 +264,7 @@ Testificates!
 Conventional!
 Homeomorphic to a 3-sphere!
 Doesn't avoid double negatives!
-Place ALL the blocks!
+TÜM blokları yerleştir!
 Does barrel rolls!
 Meeting expectations!
 1873'den beri bilgisayar oyunculuğu!
@@ -294,7 +296,7 @@ My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
 Bunu buraya kim koydu?
-You can't explain that!
+Bunu açıklayamazsın!
 if not ok then return end
 §1R§2E§3n§4k§5l§6i§7i§8i§9i
 §kFUNKY LOL
@@ -302,12 +304,12 @@ Big Pointy Teeth!
 Bekarton guards the gate!
 Mmmph, mmph!
 Don't feed avocados to parrots!
-Swords for everyone!
+Herkes için kılıçlar!
 Lütfen tweet'ime cevap verin!
-.party()!
+.parti()!
 Take her pillow!
-Put that cookie down!
-Pretty scary!
+Bırak o kurabiyeyi!
+Oldukça korkutucu!
 I have a suggestion.
 Now with extra hugs!
 Java 16 + 1 = 17!
@@ -317,12 +319,12 @@ Naber, Doktor?
 Now contains 32 random daily cats!
 That's Numberwang!
 pls rt
-Do you want to join my server?
+Sunucuma katılmak ister misin?
 Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
-Extra things!
+Ekstra şeyler!
 Yay, puppies for everyone!
 So sweet, like a nice bon bon!
 Very influential in its circle!
@@ -332,7 +334,7 @@ Warning! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
 Run, coward! I hunger!
 Flavor with no seasoning!
-Strange, but not a stranger!
+Garip, ama yabancı değil!
 Tougher than diamonds, rich like cream!
 It swings, it jives!
 Cruising streets for gold!
@@ -351,31 +353,31 @@ doot doot
 Falling with style!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
-Rule #1: it's never my fault
+Kural #1: bu asla benim suçum değildi
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
 Boats FTW
 Javalicious edition
-Should not be played while driving
-You're going too fast!
+Sürüş sırasında oynanmamalı 
+Çok hızlı gidiyorsun!
 Don't feed chocolate to parrots!
 The true meaning of covfefe
 An illusion! What are you hiding?
 Something's not quite right...
-Thank you for the fish!
+Balık için teşekkürler!
 All rumors are true!
 Truly gone fishing!
-Rainbow turtle?
+Gökkuşağı kaplumbağa?
 Something funny!
 I need more context.
 Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
+Endişelenme, mutlu ol!
+Su şişesi!
 What's the question?
-Plant a tree!
-Go to the dentist!
+Bir ağaç dik!
+Dişçiye git!
 What do you expect?
-Look mum, I'm in a splash!
+Anne bak, Splash'deyim!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
@@ -384,10 +386,10 @@ Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
+Ellerini yıka!
+Sabun ve su!
 Support local businesses!
-Stay home and play games!
+Evde kal ve oyunlar oyna!
 Güvende Kal!
 Güçlü kal!
 Cough or sneeze into your elbow!
@@ -409,9 +411,9 @@ Music by Lena Raine!
 Aww man!
 #minecraftfarms
 And my pickaxe!
-Envision! Create! Share!
+Envision! Create! Paylaş!
 Fabulous graphics!
-Also try Minecraft Dungeons!
+Ayrıca Minecraft Dungeons'ı da dene!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
