@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Pengarah Naratif",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Pereka Naratif",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "Pengurus Rekaan",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -98,41 +98,41 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Pengatur Cara",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Ketua Pegawai Teknologi",
                 "names": [
                     "Michael W Weilbacher",
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Ketua Pengendalian Perkhidmatan dan Operasi",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Ketua Perancang Permainan",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Ketua Perancang Platform Pencipta",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Pengarah Mutu Francais",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Pengarah Teknikal",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Ketua Pembangun Permainan",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Pembangun Permainan",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Ketua Pembangun Pengantaramukaan Pengguna",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Pembangun Pengantaramukaan Pengguna",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Pembangun Pelancar",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -248,21 +248,21 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Ketua Arkitek",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arkitek",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Ketua Pembangun Perisian Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Pembangun Perisian Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,21 +362,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Ketua Pembangun Laman Sesawang",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Perancang Perisian Realms",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Ketua Perancang Sistem",
                 "names": [
                     "Robert Sjödahl",
                     "Pär Axelsson",
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Perancang Perisian Perkhidmatan",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Pengurus Perancangan",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -435,13 +435,13 @@
         "section": "Audio",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Pengarah Audio",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Pengarah Bunyi",
                 "names": [
                     "Daniel Rosenfeld",
                     "Johan Pettersson",
@@ -451,7 +451,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Muzik digubah oleh",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kumi Tanioka",
@@ -461,7 +461,7 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Seni Visual",
         "titles": [
             {
                 "title": "Art Directors",
@@ -521,7 +521,7 @@
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Pereka Grafik",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "Pereka Grafik Bergerak",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Juruanimasi",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -554,55 +554,55 @@
         "section": "Produksi",
         "titles": [
             {
-                "title": "Head of Creator Platform",
+                "title": "Ketua Platform Pencipta",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Game Production",
+                "title": "Ketua Penerbitan Permainan",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Ketua Minecraft China",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "Ketua Perancangan Bisnes",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Ketua Permainan",
                 "names": [
                     "Sara Jansson Bach"
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Ketua Pasar Pencipita",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Minecraft Education",
+                "title": "Ketua Minecraft Education",
                 "names": [
                     "Allison Matthews"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Pengarah Minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Penerbit Eksekutif",
                 "names": [
                     "Anita Sujarit",
                     "David Nisshagen",
@@ -616,7 +616,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Pengurus Penerbitan",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -626,7 +626,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Penerbit",
                 "names": [
                     "Aaron Culbreth (Insight Global, Inc)",
                     "Adrian Östergård",
@@ -678,7 +678,7 @@
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Jurulatih Organisasi",
                 "names": [
                     "Martin Bloomstine",
                     "Rasmus Noah Hansen",
@@ -687,13 +687,13 @@
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Ketua Pengurusan Pengeluaran",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Pengurus Pengeluaran",
                 "names": [
                     "Andrew Pritchard",
                     "Josh Mulanax",
@@ -712,7 +712,7 @@
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "Penulis Teknikal",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)"
                 ]
@@ -720,22 +720,22 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "Kreatif Jenama",
         "titles": [
             {
-                "title": "Creative Director",
+                "title": "Pengarah Kreatif",
                 "names": [
                     "Markus Toivonen"
                 ]
             },
             {
-                "title": "Head of Creative Production",
+                "title": "Ketua Penerbitan Kreatif",
                 "names": [
                     "Isabella Arningsmark"
                 ]
             },
             {
-                "title": "Lead Producers",
+                "title": "Ketua Penerbit",
                 "names": [
                     "Christine Platon",
                     "Milo Bengtsson",
@@ -743,7 +743,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Penerbit",
                 "names": [
                     "Adele Major",
                     "Charlotte Angantyr",
@@ -1076,7 +1076,7 @@
                 ]
             },
             {
-                "title": "Automation Support",
+                "title": "Bantuan Automasi",
                 "names": [
                     "Chris Ilson (Collabera)",
                     "Corey Smith (Insight Global, Inc)",
@@ -1088,40 +1088,40 @@
         ]
     },
     {
-        "section": "Data and Analytics",
+        "section": "Data dan Analisis",
         "titles": [
             {
-                "title": "Head of Data Science and Analytics",
+                "title": "Ketua Sains Data dan Analisis",
                 "names": [
                     "Francisco Rius"
                 ]
             },
             {
-                "title": "Data Science Lead",
+                "title": "Ketua Sains Data",
                 "names": [
                     "Abby Gaddis"
                 ]
             },
             {
-                "title": "Data Engineering Lead",
+                "title": "Ketua Perancangan Data",
                 "names": [
                     "Bill Chism"
                 ]
             },
             {
-                "title": "Data and Analytics Lead",
+                "title": "Ketua Data dan Analisis",
                 "names": [
                     "Natalie Selin"
                 ]
             },
             {
-                "title": "Analytics Environment Manager",
+                "title": "Pengurus Persekitaran Analisis",
                 "names": [
                     "Troy Henke"
                 ]
             },
             {
-                "title": "Data Science",
+                "title": "Sains Data",
                 "names": [
                     "Aaron Johnson",
                     "Bhrigu Shree",
@@ -1139,7 +1139,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Perancangan Data",
                 "names": [
                     "Addy Deodikar (Design Laboratory, Inc)",
                     "Bill Klees",
@@ -1153,16 +1153,16 @@
         ]
     },
     {
-        "section": "User Research",
+        "section": "Penyelidikan Pengguna",
         "titles": [
             {
-                "title": "User Research Studio Lead",
+                "title": "Ketua Studio Penyelidikan Pengguna",
                 "names": [
                     "Jerome Hagen"
                 ]
             },
             {
-                "title": "User Researcher",
+                "title": "Penyelidik Pengguna",
                 "names": [
                     "Melissa Boone",
                     "Olga Zielinska",
@@ -1172,34 +1172,34 @@
         ]
     },
     {
-        "section": "Business & Licensing",
+        "section": "Bisnes & Pelesenan",
         "titles": [
             {
-                "title": "Head of Franchise Business & Growth",
+                "title": "Ketua Bisnes & Pembesaran Francais",
                 "names": [
                     "Scott Dell'Osso"
                 ]
             },
             {
-                "title": "Head of Franchise Development",
+                "title": "Ketua Pembangunan Francais",
                 "names": [
                     "Kayleen Walters"
                 ]
             },
             {
-                "title": "Head of Social Impact & Partnerships",
+                "title": "Ketua Kesan Sosial & Perkongsian",
                 "names": [
                     "Ada Duan"
                 ]
             },
             {
-                "title": "Chief Media Officer",
+                "title": "Ketua Pegawai Media",
                 "names": [
                     "Vu Bui"
                 ]
             },
             {
-                "title": "Directors of Business Development",
+                "title": "Pengarah Pembangunan Bisnes",
                 "names": [
                     "Bob Brennecke",
                     "Federico San Martin",
@@ -1209,14 +1209,14 @@
                 ]
             },
             {
-                "title": "Directors of Business Management",
+                "title": "Pengarah Pengurusan Bisnes",
                 "names": [
                     "Amy Zou",
                     "Michelle Hua"
                 ]
             },
             {
-                "title": "Business Managers",
+                "title": "Pengurus Bisnes",
                 "names": [
                     "Adam Lemcio",
                     "Alina Skripnik",
@@ -1242,7 +1242,7 @@
                 ]
             },
             {
-                "title": "Business Development Managers",
+                "title": "Pengurus Pembangunan Bisnes",
                 "names": [
                     "Christy Weckner",
                     "Eileen Lee",
@@ -1251,7 +1251,7 @@
                 ]
             },
             {
-                "title": "Brand Assurance Managers",
+                "title": "Pengurus Jaminan Jenama",
                 "names": [
                     "Celene Tolentino (Harvey Nash)",
                     "Dana Mack (Harvey Nash)",
@@ -1259,39 +1259,39 @@
                 ]
             },
             {
-                "title": "Business Analyst",
+                "title": "Penganalisis Bisnes",
                 "names": [
                     "Keiko Ramer (Apex Systems, Inc)",
                     "Kristin Grein"
                 ]
             },
             {
-                "title": "Japan Country Manager",
+                "title": "Pengurus Negara Jepun",
                 "names": [
                     "Yutaka Noma"
                 ]
             },
             {
-                "title": "Director of Partner Management",
+                "title": "Pengarah Pengurusan Rakan Kongsi",
                 "names": [
                     "Todd Stevens"
                 ]
             },
             {
-                "title": "Partner Program Manager",
+                "title": "Pengurus Atur Cara Rakan Kongsi",
                 "names": [
                     "Quinn Richter"
                 ]
             },
             {
-                "title": "Content Coordinator",
+                "title": "Penyelaras Kandungan",
                 "names": [
                     "Oskar Thysell",
                     "Niclas Fredriksson"
                 ]
             },
             {
-                "title": "Program Managers",
+                "title": "Pengurus Atur Cara",
                 "names": [
                     "Bryan G. Bonham",
                     "Christopher Dauchot (Insight Global, Inc)",
@@ -1311,25 +1311,25 @@
                 ]
             },
             {
-                "title": "Studio Compliance Lead",
+                "title": "Ketua Pematuhan Studio",
                 "names": [
                     "Eric Odell-Hein"
                 ]
             },
             {
-                "title": "Studio Compliance Analyst",
+                "title": "Penganalisis Pematuhan Studio",
                 "names": [
                     "Justin Ray (Design Laboratory, Inc)"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Ketua Penguat Kuasa Hak Milik Intelektual",
                 "names": [
                     "Gaylon Blank"
                 ]
             },
             {
-                "title": "Category Managers",
+                "title": "Pengurus Kategori",
                 "names": [
                     "Audrey Searcy",
                     "Emily Clock",
@@ -1340,22 +1340,22 @@
         ]
     },
     {
-        "section": "Player Operations",
+        "section": "Operasi Pemain",
         "titles": [
             {
-                "title": "Director of Player Support",
+                "title": "Pengarah Bantuan Pemain",
                 "names": [
                     "Anne Quaranta"
                 ]
             },
             {
-                "title": "Director of Community",
+                "title": "Pengarah Komuniti",
                 "names": [
                     "Nea Aime Rollan"
                 ]
             },
             {
-                "title": "Community Managers",
+                "title": "Pengurus Komuniti",
                 "names": [
                     "Cameron Thomas",
                     "Jay Wells",
@@ -1367,20 +1367,20 @@
                 ]
             },
             {
-                "title": "Customer Support Program Manager",
+                "title": "Pengurus Atur Cara Perkhidmatan Pelanggan",
                 "names": [
                     "Jon-Eric L. Swigart (Collabera)"
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Ketua Perkhidmatan Pelanggan",
                 "names": [
                     "Jen Pedersen",
                     "Justin Putnam (TEKsystems, Inc)"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Perkhidmatan Pelanggan",
                 "names": [
                     "Andrew Lee (Apex Systems, Inc)"
                 ]
@@ -1388,23 +1388,23 @@
         ]
     },
     {
-        "section": "Marketing",
+        "section": "Pemasaran",
         "titles": [
             {
-                "title": "Head of Marketing",
+                "title": "Ketua Pemasaran",
                 "names": [
                     "Jessica Freeman"
                 ]
             },
             {
-                "title": "Marketing Directors",
+                "title": "Pengarah Pemasaran",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
                 ]
             },
             {
-                "title": "Marketing Managers",
+                "title": "Pengurus Pemasaran",
                 "names": [
                     "Anton Maslennikov",
                     "Ashley Davidson (Simplicity Consulting, Inc)",
@@ -1424,16 +1424,16 @@
         ]
     },
     {
-        "section": "Legal",
+        "section": "Guaman",
         "titles": [
             {
-                "title": "Head of Legal",
+                "title": "Ketua Guaman",
                 "names": [
                     "Nick Morgan"
                 ]
             },
             {
-                "title": "Legal Counsel",
+                "title": "Penasihat Undang-undang",
                 "names": [
                     "Kari Annand (Snodgrass Annand)",
                     "Maya Yamazaki (Davis Wright Tremaine)",
@@ -1444,23 +1444,23 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Kewangan",
         "titles": [
             {
-                "title": "Finance Director",
+                "title": "Pengarah Kewangan",
                 "names": [
                     "Marina Kostesic"
                 ]
             },
             {
-                "title": "Finance Manager",
+                "title": "Pengurus Kewangan",
                 "names": [
                     "Evan Dowdell",
                     "Katarina Norlander"
                 ]
             },
             {
-                "title": "Senior Financial Accountant",
+                "title": "Akauntan Kewangan Kanan",
                 "names": [
                     "Josefina Axelsson"
                 ]
@@ -2096,33 +2096,33 @@
                 ]
             },
             {
-                "title": "Engineering Director",
+                "title": "Pengarah Perancangan",
                 "names": [
                     "Kyle Walsh"
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Ketua Pengurus Projek",
                 "names": [
                     "Allie Murdock"
                 ]
             },
             {
-                "title": "Dev Lead",
+                "title": "Ketua Pembangun",
                 "names": [
                     "Arend Danielek",
                     "Steve Chiavelli"
                 ]
             },
             {
-                "title": "Tech Lead",
+                "title": "Ketua Teknikal",
                 "names": [
                     "Nathan Carlson",
                     "Ryan Edgemon"
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Perancang Perisian",
                 "names": [
                     "Alan Nelson",
                     "Alex Green",
@@ -2140,10 +2140,10 @@
         ]
     },
     {
-        "section": "Development Partner: Virtuosity",
+        "section": "Rakan Kongsi Pembangunan: Virtuosity",
         "titles": [
             {
-                "title": "Game Developers",
+                "title": "Pembangun Permainan",
                 "names": [
                     "Aishwarya Jayabal (Virtuosity)",
                     "Ganesh Sethy (Virtuosity)",
@@ -2164,7 +2164,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Penerbit",
                 "names": [
                     "Chokkalingam Ramu Kuppaswamy (Virtuosity)"
                 ]
@@ -2172,89 +2172,89 @@
         ]
     },
     {
-        "section": "Mojang Alumni",
+        "section": "Alumni Mojang",
         "titles": [
             {
-                "title": "Original Creator of Minecraft",
+                "title": "Pencipta Asal Minecraft",
                 "names": [
                     "Markus Persson"
                 ]
             },
             {
-                "title": "Head of Minecraft",
+                "title": "Ketua Minecraft",
                 "names": [
                     "Matt Booty"
                 ]
             },
             {
-                "title": "Head of Minecraft Atlas",
+                "title": "Ketua Atlas Minecraft",
                 "names": [
                     "Deirdre Quarnstrom"
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Ketua Pegawai Eksekutif",
                 "names": [
                     "Carl Manneh"
                 ]
             },
             {
-                "title": "Chief Finance Officer",
+                "title": "Ketua Pegawai Kewangan",
                 "names": [
                     "Karin Severinson"
                 ]
             },
             {
-                "title": "Chief Product Officer",
+                "title": "Ketua Pegawai Hasil",
                 "names": [
                     "Olof Carlson Sandvik"
                 ]
             },
             {
-                "title": "Project Director",
+                "title": "Pengarah Projek",
                 "names": [
                     "Jakob Porsér"
                 ]
             },
             {
-                "title": "Production Director",
+                "title": "Pengarah Penerbitan",
                 "names": [
                     "Daniel Kaplan"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Ketua Permainan",
                 "names": [
                     "Patrick Liu"
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Pengarah Permainan",
                 "names": [
                     "Henrik Pettersson"
                 ]
             },
             {
-                "title": "Narrative Design",
+                "title": "Pereka Naratif",
                 "names": [
                     "Max Herngren"
                 ]
             },
             {
-                "title": "Chief Technology Officer",
+                "title": "Ketua Pegawai Teknologi",
                 "names": [
                     "Rikard Herlitz"
                 ]
             },
             {
-                "title": "Technical Director Games",
+                "title": "Permainan Pengarah Teknikal",
                 "names": [
                     "Jason Major",
                     "Kristoffer Jelbring"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Pereka Permainan",
                 "names": [
                     "Miko Charbonneau",
                     "Brandon Franklin (Insigt Global, Inc)",
@@ -2267,14 +2267,14 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Ketua Pembangun Permainan",
                 "names": [
                     "Niklas Börestam",
                     "Piotr Kundu"
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Pembangun Permainan",
                 "names": [
                     "Alexander Kandalaft (Insight Global, Inc)",
                     "Andrew Griffin (Insight Global, Inc)",
@@ -2332,13 +2332,13 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Ketua Pembangun Pengantaramukaan Pengguna",
                 "names": [
                     "Sebasian Hindefeldt"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Pembangun Pengantaramukaan Pengguna",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -2351,7 +2351,7 @@
                 ]
             },
             {
-                "title": "Additional Programming",
+                "title": "Pengaturcaraan Tambahan",
                 "names": [
                     "Elliot 'Hippoplatimus' Segal",
                     "Paul Spooner",
@@ -2359,7 +2359,7 @@
                 ]
             },
             {
-                "title": "Launcher",
+                "title": "Pelancar",
                 "names": [
                     "Anders Rosén",
                     "Carl Westin",
@@ -2367,7 +2367,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arkitek",
                 "names": [
                     "Michael Seydl",
                     "Mike Frost",
@@ -2375,7 +2375,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Ketua Pembangun Perisian Bedrock",
                 "names": [
                     "Aaron Heysse",
                     "Adrian LaVallee",
@@ -2384,7 +2384,7 @@
                 ]
             },
             {
-                "title": "Software Developers",
+                "title": "Pembangun Perisian",
                 "names": [
                     "Alex Wouters (Insight Global, Inc)",
                     "Arend Danielek (TEKsystems, Inc)",
@@ -2412,7 +2412,7 @@
                 ]
             },
             {
-                "title": "Realms Developers",
+                "title": "Pembangun Realms",
                 "names": [
                     "Alexander Johansson",
                     "Amir Moulavi",
@@ -2427,7 +2427,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Pembangun Pelancar",
                 "names": [
                     "Andrew Hewitson",
                     "Linus Cumselius",
@@ -2438,13 +2438,13 @@
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Ketua Perancang Sistem",
                 "names": [
                     "Tom Miles"
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Perancang Sistem",
                 "names": [
                     "Hazen Miller (Insight Global, Inc)",
                     "Louis A Castaneda (Insight Global, Inc)",
@@ -2452,7 +2452,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Perancang Perisian Perkhidmatan",
                 "names": [
                     "Anders Martini",
                     "Don S Frazier II",
@@ -2466,7 +2466,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Perancang Perisian",
                 "names": [
                     "Evelyn Collier (Insight Global)",
                     "Michael Andersson",
@@ -2474,19 +2474,19 @@
                 ]
             },
             {
-                "title": "Engineering Manager",
+                "title": "Pengurus Perancangan",
                 "names": [
                     "Wenlan Yang"
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Perancang Sistem",
                 "names": [
                     "Robert Thresher (Collabera)"
                 ]
             },
             {
-                "title": "System Developers",
+                "title": "Pembangun Permainan",
                 "names": [
                     "Christoffer Hammarström",
                     "Dodge Lafnitzegger (Insight Global, Inc)",
@@ -2495,7 +2495,7 @@
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Pengarah Seni",
                 "names": [
                     "Brad Shuber",
                     "Logan Lubera",
@@ -2559,7 +2559,7 @@
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Ketua Pereka Permainan",
                 "names": [
                     "Christine Gutierrez"
                 ]
@@ -2953,7 +2953,7 @@
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Agents",
+                "title": "Ejen Penguat Kuasa Hak Milik Intelektual",
                 "names": [
                     "Johan Hedlund",
                     "Marcus Forss",
@@ -2962,13 +2962,13 @@
                 ]
             },
             {
-                "title": "Lead Producer - Brand Experience",
+                "title": "Ketua Penerbit - Pengalaman Jenama",
                 "names": [
                     "Karim Walldén"
                 ]
             },
             {
-                "title": "Communication Manager",
+                "title": "Pengurus Komunikasi",
                 "names": [
                     "John Schork"
                 ]
@@ -2983,14 +2983,14 @@
                 ]
             },
             {
-                "title": "HR Administrator",
+                "title": "Pentadbir Sumber Manusia",
                 "names": [
                     "Charlie Bjurström",
                     "Petra Stenqvist"
                 ]
             },
             {
-                "title": "HR Advisor",
+                "title": "Penasihat Sumber Manusia",
                 "names": [
                     "Viktoria Petersson"
                 ]
@@ -3002,63 +3002,63 @@
                 ]
             },
             {
-                "title": "Senior Recruiter",
+                "title": "Jururekrut Kanan",
                 "names": [
                     "Tove Oldebäck"
                 ]
             },
             {
-                "title": "Recruiters",
+                "title": "Jururekrut",
                 "names": [
                     "Aimée Narfström",
                     "Ida Utterström"
                 ]
             },
             {
-                "title": "Creative Communications Editor",
+                "title": "Penyunting Komunikasi Kreatif",
                 "names": [
                     "Marsh Davies",
                     "Tom Stone"
                 ]
             },
             {
-                "title": "Cloud Computing Engineer",
+                "title": "Perancang Pengomputeran Awan",
                 "names": [
                     "Dolly Mackwan"
                 ]
             },
             {
-                "title": "Support Team Lead",
+                "title": "Ketua Pasukan Bantuan",
                 "names": [
                     "Mattias Jacob Victorin"
                 ]
             },
             {
-                "title": "Consumer Products Designer",
+                "title": "Pereka Barangan Pengguna",
                 "names": [
                     "Kelsey Ranallo"
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Ketua Pengurus Projek",
                 "names": [
                     "Vera Mirchev"
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Reka Bentuk Laman Sesawang",
                 "names": [
                     "Taylor Kasony (eXcell, a division of CompuCom)"
                 ]
             },
             {
-                "title": "Quality Manager",
+                "title": "Pengurus Mutu",
                 "names": [
                     "Rob Straavaldson"
                 ]
             },
             {
-                "title": "Development Partner: Skybox",
+                "title": "Rakan Kongsi Pembangunan: Skybox",
                 "names": [
                     "Ace Cheung",
                     "Alex MacKay",
@@ -3111,7 +3111,7 @@
                 ]
             },
             {
-                "title": "Development Partner: BBI",
+                "title": "Rakan Kongsi Pembangunan: BBI",
                 "names": [
                     "Alex Sharp - Assistant Producer",
                     "Andrew Yuennan - Programmer",
@@ -3141,7 +3141,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Red Lens",
+                "title": "Rakan Kongsi Pembangunan: Red Lens",
                 "names": [
                     "Christopher Kohnert",
                     "Joshua Claeys",
@@ -3149,37 +3149,37 @@
                 ]
             },
             {
-                "title": "Development Partner: Virtuosity",
+                "title": "Rakan Kongsi Pembangunan: Virtuosity",
                 "names": [
                     "Shanthi Kanchibhotla (Virtuosity)"
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Bahagian Depan",
                 "names": [
                     "Adam Blänning"
                 ]
             },
             {
-                "title": "Product Owner",
+                "title": "Pemilik Produk",
                 "names": [
                     "Johannes Söderberg"
                 ]
             },
             {
-                "title": "Technical Audio Developer",
+                "title": "Pembangun Audio Teknikal",
                 "names": [
                     "Jonatan Crafoord"
                 ]
             },
             {
-                "title": "Senior Financial Accountant",
+                "title": "Akauntan Kewangan Kanan",
                 "names": [
                     "Natalie Levinsson"
                 ]
             },
             {
-                "title": "Social Media Manager",
+                "title": "Pengurus Media Sosial",
                 "names": [
                     "Natascha Cox"
                 ]
@@ -3187,34 +3187,34 @@
         ]
     },
     {
-        "section": "Studios Quality Alumni",
+        "section": "Alumni Mutu Studio",
         "titles": [
             {
-                "title": "Quality Leads",
+                "title": "Ketua Mutu",
                 "names": [
                     "Tony Harlich"
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Perancang Mutu",
                 "names": [
                     "Akshata Trivedi"
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Penganalisis Data & Perancangan Mutu",
                 "names": [
                     "Jeff MacDermot"
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Penganalisis Muttu",
                 "names": [
                     "Yi Zhao (Kforce)"
                 ]
             },
             {
-                "title": "Poland - Team Leads",
+                "title": "Poland - Ketua Pasukan",
                 "names": [
                     "Anna Wróbel (Lionbridge)",
                     "Kamil Bazydło (Lionbridge)",
@@ -3222,13 +3222,13 @@
                 ]
             },
             {
-                "title": "US Team - Software Test Engineering Leads",
+                "title": "Pasukan AS - Ketua Perancangan Ujian Perisian",
                 "names": [
                     "Chris James (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "US Team - Software Test Engineers",
+                "title": "Pasukan AS - Perancangan Ujian Perisian",
                 "names": [
                     "Brendan McElroy (Insight Global, Inc)",
                     "Crystal Edwards (Insight Global, Inc)",
@@ -3239,7 +3239,7 @@
                 ]
             },
             {
-                "title": "US Team - Test Associates",
+                "title": "Pasukan AS - Rakan Sekutu Ujian",
                 "names": [
                     "Brian Sears (Experis)"
                 ]
