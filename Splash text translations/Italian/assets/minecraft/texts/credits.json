@@ -9,7 +9,7 @@
                 ]
             },
             {
-                "title": "Head of Stockholm Studio",
+                "title": "Capo dello studio di Stoccolma",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Sviluppatori principali del gioco",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Sviluppatori del gioco",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Sviluppatori principali dell'interfaccia utente",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Sviluppatori dell'interfaccia utente",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Sviluppatori del launcher",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -262,7 +262,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Sviluppatori principali del software Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Sviluppatori del software Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,7 +362,7 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Sviluppatori web principali",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
@@ -435,7 +435,7 @@
         "section": "Audio",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Direttore audio",
                 "names": [
                     "Samuel Åberg"
                 ]
@@ -461,7 +461,7 @@
         ]
     },
     {
-        "section": "Arti Visive",
+        "section": "Arte visiva",
         "titles": [
             {
                 "title": "Art Directors",
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animatore",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -566,7 +566,7 @@
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Capo di Minecraft China",
                 "names": [
                     "Travis Howland"
                 ]
@@ -693,7 +693,7 @@
                 ]
             },
             {
-                "title": "Gestori Dei Rilascio",
+                "title": "Gestori della pubblicazione",
                 "names": [
                     "Andrew Pritchard",
                     "Josh Mulanax",
@@ -701,7 +701,7 @@
                 ]
             },
             {
-                "title": "Tester\n",
+                "title": "Garanzia di qualità\n",
                 "names": [
                     "Kristian Grimberg",
                     "Matthew Dryden",
@@ -980,7 +980,7 @@
                 ]
             },
             {
-                "title": "HR Directors",
+                "title": "Direttori risorse umane",
                 "names": [
                     "David Hill",
                     "Maja Samuelsson"
@@ -994,7 +994,7 @@
                 ]
             },
             {
-                "title": "Human Resources",
+                "title": "Risorse umane",
                 "names": [
                     "Aleksandra Zajac",
                     "Aron Glauser",
@@ -1424,16 +1424,16 @@
         ]
     },
     {
-        "section": "Legal",
+        "section": "Consulenza legale",
         "titles": [
             {
-                "title": "Head of Legal",
+                "title": "Capo consulenza legale",
                 "names": [
                     "Nick Morgan"
                 ]
             },
             {
-                "title": "Legal Counsel",
+                "title": "Consulenti legali",
                 "names": [
                     "Kari Annand (Snodgrass Annand)",
                     "Maya Yamazaki (Davis Wright Tremaine)",
@@ -1444,7 +1444,7 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Finanza",
         "titles": [
             {
                 "title": "Finance Director",
@@ -1959,31 +1959,31 @@
         "section": "Development Partner: Disbelief",
         "titles": [
             {
-                "title": "President",
+                "title": "Presidente",
                 "names": [
                     "Steve Ellmore"
                 ]
             },
             {
-                "title": "CTO",
+                "title": "Direttore tecnico",
                 "names": [
                     "Steve Anichini"
                 ]
             },
             {
-                "title": "Senior Programmer",
+                "title": "Programmatore anziano",
                 "names": [
                     "Tim Hagberg"
                 ]
             },
             {
-                "title": "Programmer",
+                "title": "Programmatori",
                 "names": [
                     "Eric Nguyen"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Produttore",
                 "names": [
                     "Grue Robinson"
                 ]
@@ -2084,13 +2084,13 @@
         "section": "Development Partner: Red Lens Games",
         "titles": [
             {
-                "title": "President",
+                "title": "Presidente",
                 "names": [
                     "Jared Noftle"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Produttore",
                 "names": [
                     "Nova Barlow"
                 ]
@@ -2122,7 +2122,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Ingegneri software",
                 "names": [
                     "Alan Nelson",
                     "Alex Green",
@@ -2143,7 +2143,7 @@
         "section": "Development Partner: Virtuosity",
         "titles": [
             {
-                "title": "Game Developers",
+                "title": "Sviluppatori del gioco",
                 "names": [
                     "Aishwarya Jayabal (Virtuosity)",
                     "Ganesh Sethy (Virtuosity)",
@@ -2164,7 +2164,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produttori",
                 "names": [
                     "Chokkalingam Ramu Kuppaswamy (Virtuosity)"
                 ]
@@ -2175,31 +2175,31 @@
         "section": "Mojang Alumni",
         "titles": [
             {
-                "title": "Original Creator of Minecraft",
+                "title": "Creatore originale di Minecraft",
                 "names": [
                     "Markus Persson"
                 ]
             },
             {
-                "title": "Head of Minecraft",
+                "title": "Capo di Minecraft",
                 "names": [
                     "Matt Booty"
                 ]
             },
             {
-                "title": "Head of Minecraft Atlas",
+                "title": "Capo di Minecraft Atlas",
                 "names": [
                     "Deirdre Quarnstrom"
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Amministratore delegato",
                 "names": [
                     "Carl Manneh"
                 ]
             },
             {
-                "title": "Chief Finance Officer",
+                "title": "Direttore finanziario",
                 "names": [
                     "Karin Severinson"
                 ]
@@ -2517,7 +2517,7 @@
                 ]
             },
             {
-                "title": "3D/VFX",
+                "title": "3D/Effetti video",
                 "names": [
                     "Elin Ölund Forsling",
                     "Jakob Gavelli",
@@ -2591,7 +2591,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produttori",
                 "names": [
                     "Alen Voljevica",
                     "Anna Holdosi-Simon",
