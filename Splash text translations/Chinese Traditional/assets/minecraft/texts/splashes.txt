@@ -18,13 +18,13 @@ Indev!
 Spiders everywhere!
 Check it out!
 Holy cow, man!
-It's a game!
-Made in Sweden!
+這是一個遊戲！
+瑞典製造！
 Uses LWJGL!
 Reticulating splines!
 Minecraft!
 Yaaay!
-Singleplayer!
+單人模式！
 Keyboard compatible!
 Ingots!
 Exploding creepers!
@@ -38,10 +38,10 @@ The bee's knees!
 Closed source!
 Classy!
 Wow!
-Not on steam!
+沒有在 Steam 上架！
 Oh man!
 Awesome community!
-Pixels!
+像素！
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
@@ -93,8 +93,8 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP is not in P!
-Music by C418!
-Livestreamed!
+音樂由 C418 製作！
+現場直播！
 Haunted!
 Polynomial!
 Terrestrial!
@@ -127,7 +127,7 @@ Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
-4815162342 lines of code!
+4815162342行代碼！
 A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
@@ -168,7 +168,7 @@ Woo, worldofminecraft!
 Woo, reddit!
 Woo, 2pp!
 Google anlyticsed!
-Now supports åäö!
+現在支援åäö！
 Give us Gordon!
 Tip your waiter!
 Very fun!
@@ -196,7 +196,7 @@ Finally with ladders!
 恐怖！
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
-Jump up, jump up, and get down!
+跳高點，跳高點，然後跳下來！
 Joel is neat!
 A riddle, wrapped in a mystery!
 This parrot is no more! It has ceased to be!
@@ -206,7 +206,7 @@ Stay a while and listen!
 Treatment for your rash!
 "Autological" is!
 Information wants to be free!
-"Almost never" is an interesting concept!
+「幾乎從不」的概念真有意思！
 Lots of truthiness!
 The creeper is a spy!
 Turing complete!
@@ -246,9 +246,9 @@ Fnord!
 This is my true form!
 Don't bother with the clones!
 南瓜頭！
-Made by Jeb!
-Has an ending!
-Finally complete!
+由Jeb製作！
+有結尾了！
+終於完成了！
 Feature packed!
 Boots with the fur!
 Stop, hammertime!
@@ -360,7 +360,7 @@ Rainbow turtle?
 Something funny!
 I need more context.
 啊啊啊啊啊！！！
-Don't worry, be happy!
+不要憂慮，要快樂！
 Water bottle!
 What's the question?
 Plant a tree!
