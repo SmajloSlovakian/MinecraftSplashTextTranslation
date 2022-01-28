@@ -1,10 +1,10 @@
 Diese Projekt wurde von SmajloSlovakian#1077 erstellt (Du kannst mir keine Freundschaftsanfragen senden, wenn du mir völlig fremd sind)
 
 Wie aktiviere ich dieses Paket in Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
+Füge den Ordner, den du gerade geöffnet hast, zu deinem "\Appdata\Roaming\.minecraft\resourcepacks\" Ordner hinzu. Gehe in Minecraft, Einstellungen 
   Resource Packs and pick the pack which has just appeared.
 
-How to get into the resourcepacks folder?
+Wie komme ich in den Ressourcenpakete Ordner?
 -Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
 But wait! that doesn't work!
 -Click on a button called "Resource packs folder..."
