@@ -1,6 +1,6 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Diese Projekt wurde von SmajloSlovakian#1077 erstellt (Du kannst mir keine Freundschaftsanfragen senden, wenn du mir völlig fremd sind)
 
-How do I add this pack to Minecraft?
+Wie aktiviere ich dieses Paket in Minecraft?
 -Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
   Resource Packs and pick the pack which has just appeared.
 
