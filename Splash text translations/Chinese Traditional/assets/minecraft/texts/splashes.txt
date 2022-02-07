@@ -8,7 +8,7 @@ Limited edition!
 Flashing letters!
 It's here!
 Best in class!
-It's finished!
+終於完成了！
 Kind of dragon free!
 Excitement!
 More than 500 sold!
@@ -16,21 +16,21 @@ One of a kind!
 Heaps of hits on YouTube!
 Indev!
 Spiders everywhere!
-Check it out!
+來看看吧！
 Holy cow, man!
-It's a game!
-Made in Sweden!
+這是一個遊戲！
+瑞典製造！
 Uses LWJGL!
 Reticulating splines!
 Minecraft!
 Yaaay!
-Singleplayer!
+單人模式！
 Keyboard compatible!
 Ingots!
 Exploding creepers!
 That's no moon!
 l33t!
-Create!
+創建！
 Survive!
 Dungeon!
 Exclusive!
@@ -38,10 +38,10 @@ The bee's knees!
 Closed source!
 Classy!
 Wow!
-Not on steam!
+沒有在 Steam 上架！
 Oh man!
 Awesome community!
-Pixels!
+像素！
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
@@ -71,7 +71,7 @@ Yes, sir!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
-Try it!
+試試吧！
 Age of Wonders is better!
 Try the mushroom stew!
 Sensational!
@@ -93,12 +93,12 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP is not in P!
-Music by C418!
-Livestreamed!
+音樂由 C418 製作！
+現場直播！
 Haunted!
 Polynomial!
 Terrestrial!
-All is full of love!
+一切都充滿愛！
 Full of stars!
 Scientific!
 Not as cool as Spock!
@@ -107,27 +107,27 @@ Never dig down!
 Take frequent breaks!
 Not linear!
 Han shot first!
-Nice to meet you!
+很高興認識你！
 Buckets of lava!
 Ride the pig!
-Larger than Earth!
+比地球還大！
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
-1% sugar!
+含糖量1%！
 150% hyperbole!
 Synecdoche!
 Let's danec!
 Seecret Friday update!
 Reference implementation!
-Kiss the sky!
+親吻天空！
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
-4815162342 lines of code!
+4815162342行代碼！
 A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
@@ -168,7 +168,7 @@ Woo, worldofminecraft!
 Woo, reddit!
 Woo, 2pp!
 Google anlyticsed!
-Now supports åäö!
+現在支援åäö！
 Give us Gordon!
 Tip your waiter!
 Very fun!
@@ -181,7 +181,7 @@ Gasp!
 ...!
 Bees, bees, bees, bees!
 Jag känner en bot!
-This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
+在預設解析度下這些文字很難看清，但1080p高畫質就可以了！
 Haha, LOL!
 Hampsterdance!
 Menger sponge!
@@ -189,14 +189,14 @@ idspispopd!
 Eple (original edit)!
 So fresh, so clean!
 Slow acting portals!
-Try the Nether!
+前往地獄吧！
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
 恐怖！
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
-Jump up, jump up, and get down!
+跳高點，跳高點，然後跳下來！
 Joel is neat!
 A riddle, wrapped in a mystery!
 This parrot is no more! It has ceased to be!
@@ -206,7 +206,7 @@ Stay a while and listen!
 Treatment for your rash!
 "Autological" is!
 Information wants to be free!
-"Almost never" is an interesting concept!
+「幾乎從不」的概念真有意思！
 Lots of truthiness!
 The creeper is a spy!
 Turing complete!
@@ -220,7 +220,7 @@ Undefeated!
 Kinda like Lemmings!
 Follow the train, CJ!
 Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
+這條資訊永遠不會顯示在標題畫面上，是不是很神奇呢？
 DungeonQuest is unfair!
 90210!
 Check out the far lands!
@@ -246,9 +246,9 @@ Fnord!
 This is my true form!
 Don't bother with the clones!
 南瓜頭！
-Made by Jeb!
-Has an ending!
-Finally complete!
+由Jeb製作！
+有結尾了！
+終於完成了！
 Feature packed!
 Boots with the fur!
 Stop, hammertime!
@@ -256,10 +256,10 @@ Testificates!
 Conventional!
 Homeomorphic to a 3-sphere!
 Doesn't avoid double negatives!
-Place ALL the blocks!
+放置所有的方塊！
 Does barrel rolls!
 Meeting expectations!
-PC gaming since 1873!
+專注電腦遊戲，自1873！
 Ghoughpteighbteau tchoghs!
 逮蝦戶！
 逮蝦戶！
@@ -308,7 +308,7 @@ What's up, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
 pls rt
-Do you want to join my server?
+你想來我的伺服器玩玩嗎？
 Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
@@ -342,8 +342,8 @@ doot doot
 Falling with style!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
-Rule #1: it's never my fault
-Replaced molten cheese with blood?
+第一條規則：這絕對不是我的錯
+用融化的芝士代替血？
 Absolutely fixed relatively broken coordinates
 Boats FTW
 Javalicious edition
@@ -356,11 +356,11 @@ Something's not quite right...
 Thank you for the fish!
 All rumors are true!
 Truly gone fishing!
-Rainbow turtle?
+彩虹龜？
 Something funny!
 I need more context.
 啊啊啊啊啊！！！
-Don't worry, be happy!
+不要憂慮，要快樂！
 Water bottle!
 What's the question?
 Plant a tree!
@@ -396,7 +396,7 @@ Everybody do the Leif!
 Bushy eyebrows!
 Edit is a name!
 From free range developers!
-Music by Lena Raine!
+由 Lena Raine 製作的音樂！
 Aww man!
 #minecraftfarms
 And my pickaxe!
@@ -421,7 +421,7 @@ There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
-Board game version also available!
+也有桌遊版本！
 Honey, I waxed the copper!
 Plant-based light sources!
 由「真」人製作！
