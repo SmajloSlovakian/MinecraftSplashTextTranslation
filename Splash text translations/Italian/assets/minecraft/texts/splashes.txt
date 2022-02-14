@@ -1,6 +1,6 @@
 Come in TV!
 Fantastico!
-100% puro!
+Puro al 100%!
 Può contenere tracce di noci!
 + Poligoni!
 Abbastanza attraente!
@@ -23,7 +23,7 @@ Prodotto in Svezia!
 Usa LWJGL!
 Reticolazione delle spline in corso!
 Minecraft!
-Evvai!!!
+Evvai!
 Giocatore singolo!
 Compatibile con le tastiere!
 Lingotti!
@@ -190,7 +190,7 @@ Eple (copia originale)!
 So fresh, so clean!
 Portali ad azione lenta!
 Visita il Nether!
-Non guardare i bug negli occhi!
+Non guardare dritto ai bug!
 Va bene, uomini suini!
 Finalmente con scale a pioli!
 Spaventoso!
@@ -207,7 +207,7 @@ Per chi soffre di lentiggini!
 "Autologico" lo è!
 L'informazione vuole essere libera!
 "Quasi mai" è un concetto interessante!
-Lots of truthiness!
+Una valanga di "verità" verosimili!
 The creeper is a spy!
 Turing equivalente!
 È rivoluzionario!
@@ -368,7 +368,7 @@ Vai dal dentista!
 Cosa ti aspetti?
 Guarda mamma, sono in un sottotitolo!
 È venuto dallo spazio.
-Awesome game design right there!
+Piuccheperfetto!
 Ph1lza ha resistito finché ha potuto!
 10 anni di Min e Craft!
 Notifica quell'umano!
@@ -420,7 +420,7 @@ Fatto in casa!
 C'é <<un gatto sulLa ,mia tastiera!|
 Il predatore più adorabile che tu abbia mai incontrato!
 Ora stai pensando con i tuoi pistoni!
-Get to the coppah!
+Prenderò il ramen
 Disponibile anche come gioco da tavolo!
 Tesoro, ho dato la cera!
 Piante bioluminescenti!
