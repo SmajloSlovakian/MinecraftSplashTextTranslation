@@ -2,41 +2,41 @@ Come in TV!
 Fantastico!
 Puro al 100%!
 Può contenere tracce di noci!
-+ Poligoni!
+Più digitale!
 Abbastanza attraente!
 Edizione limitata!
 Lettere lampeggianti!
 È qui!
 Il migliore della classe!
-Finito!
+Finalmente completo!
 Quasi senza draghi!
 Che eccitazione!
 Ha venduto più di 500 copie!
 Unici nel suo genere!
 Un sacco di successi su YouTube!
-In via di sviluppo!
+Evvai!
 Ragni dappertutto!
 Vedi com'è!
-Perbacco!
+Mmmpf, mmpf!
 È un gioco!
 Prodotto in Svezia!
 Usa LWJGL!
 Reticolazione delle spline in corso!
 Minecraft!
-Evvai!
+Immagina!
 Giocatore singolo!
 Compatibile con le tastiere!
-Lingotti!
+Sineddoche!
 Creeper esplosivi!
 Non è una luna, quella!
 l33t!
 Crea!
 Sopravvivi!
-Segrete!
+DungeonQuest non è equo!
 Esclusivo!
 La crème de la crème!
 Sorgente chiusa!
-Ha stile!
+Carino!
 Wow!
 Non è su Steam!
 Oh man!
@@ -47,11 +47,11 @@ Kaaneeeedaaaa!
 Ora con più difficoltà!
 Migliorato!
 90% senza bug!
-Carino!
+Piuccheperfetto!
 12 erbe e spezie!
 Senza grassi!
 Completamente privo di meme!
-Spese mediche garantite!
+Vai dal dentista!
 Leggere attentamente il foglietto illustrativo!
 Aperto ai minori!
 Nuvola informatica!
@@ -60,21 +60,21 @@ Difficile da etichettare!
 Tecnicamente buono!
 Aiuta a sbarcare il lunario!
 Indipendente!
-Gioco dell'anno!
+Zuccone!
 Ceci n'est pas une schermata iniziale!
 Euclideio!
 Ora in 3D!
-Ti ispirerà!
+Sensazionale!
 Herregud!
 Complesso automa cellulare!
-Sissignore!
+Oh, reddit!
 Ci giocano anche i cowboy!
 Ora su OpenGL 3.2 core profile!
 Migliaia di colori!
 Provalo!
 Age of Wonders è meglio!
 Prova la zuppa di funghi!
-Sensazionale!
+Spaventoso!
 Hot tamale, hot hot tamale!
 Keyboard Cat, suonalo via!
 Garantito!
@@ -82,12 +82,12 @@ Macroscopico!
 Bring it on!
 Sottotitolo a caso!
 Chiama tua madre!
-Lotte intestine fra mostri!
+Infestato!
 Amato da milioni di persone!
 Edizione definitiva!
 Freaky!
 You've got a brand new key!
-Impermeabile!
+Ampolla d'acqua!
 Non infiammabile!
 Whoa, dude!
 Tutto incluso!
@@ -95,7 +95,7 @@ Parlane ai tuoi amici!
 NP non è un sottoinsieme di P!
 Musiche di C418!
 In diretta!
-Infestato!
+Piuttosto spaventoso!
 Polimoniale!
 Terrestre!
 Fatto con amore!
@@ -117,7 +117,7 @@ Prende a pugni il legno!
 Vola giù da uno strapiombo!
 1% di zuccheri!
 150% di iperboli!
-Sineddoche!
+Impermeabile!
 Si aprano le danez!
 Aggiornamento secreto del venerdì!
 Reference implementation!
@@ -135,7 +135,7 @@ Mi manca ADOM!
 oirartnoc lA!
 80-7!
 Fammi vedere Ray Cokes!
-Se non lecchi le dita, godi solo a metà!
+Lavati le mani!
 A tema!
 Pneumatico!
 Sublime!
@@ -165,7 +165,7 @@ Oh, facepunch!
 Oh, somethingawful!
 Oh, tigsource!
 Oh, worldofminecraft!
-Oh, reddit!
+Ahah, LOL!
 Oh, 2pp!
 Analyticizzato da Google!
 Ora supporta åäö!
@@ -193,10 +193,10 @@ Visita il Nether!
 Non guardare dritto ai bug!
 Va bene, uomini suini!
 Finalmente con scale a pioli!
-Spaventoso!
+Imbattuto!
 Play Minecraft, Watch Topgear, Get Pig!
-Se ne twitta molto!
-Fai un salto! Fanne un altro!
+Perfavore rispondi al mio tweet!
+Fai un salto!
 Joel is neat!
 Un indovinello, avvolto in un mistero!
 Questo bel pappagallo non è più! È schiattato!
@@ -216,11 +216,11 @@ The sky is the limit!
 Jeb ha dei bellissimi capelli!
 Anche Ryan ha dei capelli bellissimi!
 Gioco dilettantistico!
-Imbattuto!
+Segrete!
 Un po' come Lemmings!
 Segui il treno, CJ!
 Sfrutta le sinergie!
-Questo messaggio non apparirà mai sulla schermata iniziale! Che strano...
+Questo messaggio non apparirà mai sulla schermata iniziale!
 DungeonQuest non è equo!
 90210!
 Visita le Far Lands!
@@ -245,10 +245,10 @@ Millions of peaches!
 Fnord!
 Ecco chi sono veramente!
 Lascia perdere i doppioni!
-Zuccone!
+Perbacco!
 Realizzato da Jeb!
 Ha un finale!
-Finalmente completo!
+Finito!
 Pieno di funzionalità!
 Boots with the fur!
 Stop, hammertime!
@@ -257,10 +257,10 @@ Convenzionale!
 Omeomorfo a una sfera!
 Non evita doppie negazioni!
 Piazza TUTTI i blocchi!
-Fa una giravolta!
+Include capre che campano!
 Va incontro alle aspettative!
 PC gaming since 1873!
-Tubero affettato e cotto in olio bollente!
+Tieni duro!
 Déjà-vu!
 Déjà-vu!
 Ti ho preso il naso!
@@ -318,7 +318,7 @@ Evviva, cuccioli per tutti!
 So sweet, like a nice bon bon!
 Very influential in its circle!
 Ora in multigiocatore!
-Alzati e cammina!
+Ti ispirerà!
 Warning! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
 Run, coward! I hunger!
@@ -361,7 +361,7 @@ Qualcosa di divertente!
 Ho bisogno di più contesto.
 Ahhhhhh!
 Non ti preoccupare, sii felice!
-Ampolla d'acqua!
+Acqua e sapone!
 Qual è la domanda?
 Pianta un albero!
 Vai dal dentista!
@@ -373,9 +373,9 @@ Ph1lza ha resistito finché ha potuto!
 10 anni di Min e Craft!
 Notifica quell'umano!
 Nel caso in cui non sia ovvio, le volpi non sono giocatori.
-Api ronzanti!
+Tesoro, mi sono cresciute le api!
 Minecraft Java Edition presenta: bug disgustosi
-Lavati le mani!
+Lascia la mancia!
 Acqua e sapone!
 Sostieni le imprese locali!
 Resta a casa e gioca!
@@ -389,13 +389,13 @@ Giocatori, unitevi! (Ma ognuno a casa propria)
 Salva il mondo: resta a casa!
 Fai la spesa per i più anziani!
 Vediti con gli amici online!
-Tesoro, mi sono cresciute le api!
+Tesoro, ho dato la cera!
 Tira fuori gli artigli!
 Tutti quanti voglion fare il Leif!
 <3 Max & 99 & Ducky!
 Mr. Sopracciglia!
 Nome è una cosa e una città!
-Da sviluppatori allevati all'aperto!
+In via di sviluppo!
 Musiche di Lena Raine!
 Aww man!
 #minecraftfarms
