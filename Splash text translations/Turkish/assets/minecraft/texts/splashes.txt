@@ -1,5 +1,5 @@
 Televizyonda görüldüğü gibi!
-Muhteşem!
+Güzel!
 100% Saf!
 Fındık içerebilir!
 Daha çok çokgenler!
@@ -8,22 +8,22 @@ Sınırlı sayıda!
 Parıldayan harfler!
 O burda!
 Sınıfın en iyisi!
-Bitti!
+Sonunda bitti!
 Ejderhasız gibi!
-Heyecan!
+Çok Eğlenceli!
 500'den fazla satıldı!
-Türünün tek örneği!
+Bir oyun!
 YouTube'da hit yığınları!
 Indev!
 Örümcekler her yerde!
 Göz at!
-İnanılmaz, adamım!
-Bir oyun!
+Oha, adamım!
+Çocuk oyunu!
 Isveç yapımı!
 LWJGL kullanmakta!
-Yivleri ağ gibi örmek!
+Arının dizleri!
 Minecraft!
-Yaşasın!
+Acayip!
 Tek Oyunculu!
 Klavye uyumlu!
 Külçeler!
@@ -32,22 +32,22 @@ O bir ay değil!
 l33t!
 Oluştur!
 Hayatta kal!
-Zindan!
+Deneyin!
 Özel!
-Arının dizleri!
+Domuzu sür!
 Kapalı kaynak!
-Şık!
-Vay canına!
-Steamde değil!
+Muhteşem!
 Oh adamım!
+Steamde değil!
+İnanılmaz, adamım!
 Harika topluluk!
-Pikseller!
+Lanetli!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Şimdi zorluk seviyesiyle!
 Geliştirilmiş!
 %90 bugsız!
-Güzel!
+Bu harika!
 12 otu ve baharatıyla!
 Yağsız!
 Kesinlikle meme yok!
@@ -74,28 +74,28 @@ Binlerce Renk!
 Deneyin!
 Age of Wonders daha iyi!
 Mantar çorbasını dene!
-Sansasyonel!
+Korkunç!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
 Garanti!
 Makroskobik!
-Elinden geleni ardına koyma!
+Vay canına!
 Rastgele yazı!
 Anneni ara!
 Yaratık içsavaşı!
 Milyonların aşkı!
 Nihai versiyon!
-Acayip!
+Oldukça korkutucu!
 You've got a brand new key!
 Su geçirmez!
 Uninflammable!
-Oha, adamım!
+Yaşasın, reddit!
 Her şey dahil!
 Arkadaşlarına söyle!
 NP is not in P!
 Müziği besteleyen C418!
 Canlı Yayınlandı!
-Lanetli!
+Heyecan!
 Çokterimli!
 Terrestrial!
 Her şey aşk ile dolu!
@@ -103,17 +103,17 @@ Yıldızla dolu!
 Bilimsel!
 Spock kadar havalı değil!
 Collaborate and listen!
-Asla direkt aşağı kazma!
+Yenilmez!
 Sık sık mola yap!
 Not linear!
 İlk ateş eden Han!
 Tanıştığımıza memnun oldum!
 Kovalar dolusu lav!
-Domuzu sür!
+Oduna yumruk atmak!
 Dünyadan daha büyük!
 sqrt(-1) love you!
 Phobos anomaly!
-Oduna yumruk atmak!
+Bir ağaç dik!
 Uçurumlardan düşmek!
 %1 şeker!
 150% hyperbole!
@@ -125,7 +125,7 @@ Gökyüzünü öp!
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
-Rahatsız etmeyin!
+Paylaş!
 Cogito ergo sum!
 4815162342 sıra kod!
 Bir iskelet ortaya çıktı!
@@ -138,7 +138,7 @@ Bring me Ray Cokes!
 Finger-licking!
 Thematic!
 Pneumatic!
-Yüce!
+Çokterimli!
 Sekizgen!
 Une baguette!
 Gargamel bile oynuyor!
@@ -168,8 +168,7 @@ Woo, facepunch!
 Woo, somethingawful!
 Woo, tigsource!
 Woo, worldofminecraft!
-Yaşasın, reddit!
-
+Yüce!
 Yaşasın, 2app!
 Google anlyticsed!
 Now supports åäö!
@@ -198,7 +197,7 @@ Try the Nether!
 Hatalara doğrudan bakmayın!
 Oh, ok, Pigmen!
 Sonunda merdivenlerle!
-Korkunç!
+Ekstra şeyler!
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
@@ -219,10 +218,9 @@ It's groundbreaking!
 Let our battle's begin!
 The sky is the limit!
 Jeb'in harika saçları var!
-
 Ryanında harika saçları var!
 Casual gaming!
-Yenilmez!
+Burnunu kaptım!
 Kinda like Lemmings!
 Treni takip et, CJ!
 Leveraging synergy!
@@ -274,7 +272,7 @@ Déjà vu!
 
 Déjà vu!
 
-Burnunu kaptım!
+Yüzüne dokunma!
 Haley Elanı seviyor!
 Afraid of the big, black bat!
 Doesn't use the U-word!
@@ -324,7 +322,7 @@ Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
-Ekstra şeyler!
+İnek Eşyaları!
 Yay, puppies for everyone!
 So sweet, like a nice bon bon!
 Very influential in its circle!
@@ -393,7 +391,7 @@ Evde kal ve oyunlar oyna!
 Güvende Kal!
 Güçlü kal!
 Cough or sneeze into your elbow!
-Yüzüne dokunma!
+Rahatsız etmeyin!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
