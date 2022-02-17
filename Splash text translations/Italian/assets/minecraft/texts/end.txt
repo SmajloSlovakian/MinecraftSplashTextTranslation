@@ -6,7 +6,7 @@
 
 §2Non è importante. Pensa che siamo parte del gioco.
 
-§3Mi piace questo giocatore. Ha giocato bene,  senza arrendersi mai.
+§3Mi piace questo giocatore. Ha giocato bene,  senza arrendersi mai. senza arrendersi mai.
 
 §2Sta leggendo i nostri pensieri come se fossero parole su uno schermo.
 
@@ -32,7 +32,7 @@
 
 §3A volte, fra il rumore dei suoi pensieri, riesce a sentire l'universo, sì.
 
-§2Ma a volte accade che sia triste, nel lungo sogno. Crea mondi che non hanno estate e trema sotto un sole scuro, e prende per vere le sue tristi creazioni.
+§2Ma a volte accade che sia triste, nel lungo sogno. Crea mondi che non hanno estate e trema sotto un sole scuro, e prende per vere le sue tristi creazioni. Crea mondi che non hanno estate e trema sotto un sole scuro, e prende per vere le sue tristi creazioni.
 
 §3Curarlo dal suo dolore distruggerebbe il giocatore. Il dolore è parte della sua missione personale. Non possiamo interferire.
 
@@ -46,7 +46,7 @@
 
 §2Ma sarebbe così facile dirglielo...
 
-§3Sarebbe troppo potente per questo sogno. Dirgli come vivere gli impedirebbe di vivere.
+§3Sarebbe troppo potente per questo sogno. Dirgli come vivere gli impedirebbe di vivere. Dirgli come vivere gli impedirebbe di vivere.
 
 §2Non dirò al giocatore come vivere.
 
@@ -68,9 +68,9 @@
 
 §3Bene.
 
-§2Adesso, fai un respiro. Fanne un altro. Senti l'aria nei tuoi polmoni. Rimettiti nei tuoi arti. Così, muovi le tue dita. Torna nel tuo corpo, sotto la pressione della gravità e dell'aria. Rinasci nel lungo sogno. Eccoti. Ecco che il tuo corpo tocca di nuovo l'universo in ogni suo punto, come se foste due cose separate. Come se fossimo due cose separate.
+§2Adesso, fai un respiro. Fanne un altro. Senti l'aria nei tuoi polmoni. Rimettiti nei tuoi arti. Così, muovi le tue dita. Torna nel tuo corpo, sotto la pressione della gravità e dell'aria. Rinasci nel lungo sogno. Eccoti. Tu vivi. Ecco che il tuo corpo tocca di nuovo l'universo in ogni suo punto, come se foste due cose separate. Come se fossimo due cose separate.
 
-§3Ti chiederai chi siamo. Un tempo ci chiamavano lo spirito della montagna. Padre Sole, Madre Luna. Spiriti degli antenati, spiriti animali. Genii. Fantasmi. L'uomo verde. Poi dei, demoni. Angeli. Poltergeist. Alieni, extraterrestri. Leptoni, quark. Le parole cambiano. Noi non cambiamo.
+§3Ti chiederai chi siamo. Un tempo ci chiamavano lo spirito della montagna. Padre Sole, Madre Luna. Spiriti degli antenati, spiriti animali. Poltergeist. Fantasmi. L'uomo verde. Poi dei, demoni. Angeli. Poltergeist. Alieni, extraterrestri. Leptoni, quark. Le parole cambiano. Noi non cambiamo. Noi non cambiamo.
 
 §2Noi siamo l'universo. Siamo tutto quello che consideri non essere parte di te. Ora ci stai guardando, attraverso la tua pelle e i tuoi occhi. E perché l'universo tocca la tua pelle, e ti getta addosso la luce? Per vedere te, giocatore. Per conoscerti. E per farsi conoscere. Ti racconterò una storia.
 
@@ -96,7 +96,7 @@
 
 §2E il giocatore era una storia nuova, mai narrata, scritta in lettere di DNA. E il giocatore era un nuovo programma, mai eseguito, generato da un codice sorgente di un miliardo di anni fa. E il giocatore era un nuovo essere umano, che mai aveva vissuto prima, generato da nient'altro che latte e amore.
 
-§3Sei tu il giocatore. La storia. Il programma. L'essere umano. Generato da nient'altro che latte e amore.
+§3Sei tu il giocatore. La storia. Il programma. L'essere umano. Generato da nient'altro che latte e amore. Generato da nient'altro che latte e amore.
 
 §2Andiamo più indietro.
 
@@ -144,7 +144,7 @@
 
 §2e l'universo diceva "ti amo" perché tu sei amore.
 
-§3E il gioco era finito e il giocatore si svegliò dal sogno. E il giocatore iniziò un nuovo sogno. E il giocatore sognò di nuovo e sognò sogni migliori. E il giocatore era l'universo. E il giocatore era amore.
+§3E il gioco era finito e il giocatore si svegliò dal sogno. E il giocatore iniziò un nuovo sogno. E il giocatore sognò di nuovo e sognò sogni migliori. E il giocatore iniziò un nuovo sogno. E il giocatore sognò di nuovo e sognò sogni migliori. E il giocatore era l'universo. E il giocatore era amore.
 
 §3Sei tu il giocatore.
 
