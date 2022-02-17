@@ -1,42 +1,42 @@
 ¡Como en la tele!
-¡Genial!
+¡Increíble!
 ¡100% puro!
 ¡Puede contener nueces!
 ¡Más polígonos!
 ¡Moderadamente atractivo!
 ¡Edicion limitada!
-¡Letras intermitentes!
+¡Pumpa kungen!
 ¡Está aquí!
 ¡El mejor de la clase!
 ¡Está terminado!
 ¡Más o menos libre de dragones!
 ¡Emoción!
 ¡Más de 500 vendidas!
-¡Único en su clase!
+¡Un jugador!
 ¡Montones de éxitos en YouTube!
 ¡Indev!
 ¡Arañas en todos lados!
 ¡Échale un vistazo!
-¡Increíble!
+¡Vaya, tío!
 ¡Es un juego!
 ¡Hecho en Suecia!
 ¡Usa LWJGL!
 ¡Reticulando esplinas!
 ¡Minecraft!
 ¡Yaaay!
-¡Un jugador!
+¡Ahora con multijugador!
 ¡Compatible con teclado!
 ¡Lingotes!
 ¡Creepers explosivos!
 ¡Eso no es la luna!
 ¡l33t!
-¡Crea!
+¡Participa!
 ¡Sobrevive!
-¡Mazmorra!
+¡DungeonQuest es injusto!
 ¡Exclusivo!
-¡Buenísimo!
-¡Código privado!
-¡Con clase!
+¡Cejas pobladas!
+¡Woo, tigsource!
+¡Genial!
 ¡Wow!
 ¡No está en steam!
 ¡Oh, tío!
@@ -64,8 +64,8 @@
 ¡Esto no es una pantalla de inicio!
 ¡Euclidiano!
 ¡Ahora en 3D!
-¡Inspirador!
-¡Autómata celular complejo!
+¡Una ilusión!
+¡Crea!
 ¡Autómata celular complejo!
 ¡Si, señor!
 ¡Jugado por cowboys!
@@ -74,22 +74,22 @@
 ¡Pruébalo!
 ¡Age of Wonders es mejor!
 ¡Prueba el estofado de champiñones!
-¡Sensacional!
+¡Sublime!
 ¡Hot tamale, hot hot tamale!
 ¡Play him off, keyboard cat!
-¡Garantizado!
+¡Manténte seguro!
 ¡Macroscópico!
-¡Adelante!
+¡Crea!
 ¡Pantalla random!
 ¡Llama a tu madre!
 ¡Lucha interna de monstruos!
 ¡Amado por millones!
 ¡Edición definitiva!
-¡Rarillo!
+¡Fantasía!
 ¡Tienes una nueva llave!
 ¡Resistente al agua!
 ¡No inflamable!
-¡Vaya, tío!
+¡Jaja, LOL!
 ¡Todo incluido!
 ¡Cuéntaselo a tus amigos!
 ¡NP no está en P!
@@ -97,7 +97,7 @@
 ¡Transmitido en vivo!
 ¡Embrujado!
 ¡Polinomial!
-¡Terrestre!
+¡Aterrador!
 ¡Todo está lleno de amor!
 ¡Lleno de estrellas!
 ¡Científico!
@@ -117,8 +117,8 @@
 ¡Cayendo por acantilados!
 ¡1% azucar!
 ¡150% hipérbole!
-¡Sinécdoque!
-¡Vamos a baliar!
+¡idspispopd!
+¡Terrestre!
 ¡Actualización seecreta del Viernes!
 ¡Implementación de referencias!
 ¡Besa el cielo!
@@ -132,13 +132,13 @@
 ¡La suma de sus partes!
 ¡BTAF solía ser bueno!
 ¡Echo de menos ADOM!
-¡savar-lep!
+¡Gasp!
 ¡OICU812!
 ¡Tráeme a Ray Cokes!
 ¡Para chuparse los dedos!
 ¡Temático!
 ¡Pneumático!
-¡Sublime!
+¡Sensacional!
 ¡Octogonal!
 ¡Une baguette!
 ¡Gargamel lo juega!
@@ -147,7 +147,7 @@
 ¡Representando a Edsbyn!
 ¡Matt Damon!
 ¡Supercalifragilisticoespialidoso!
-¡Consume V!
+¡Comparte!
 ¡Cow Tools!
 ¡Búfer doble!
 ¡Fanfic!
@@ -155,17 +155,17 @@
 ¡Jason! ¡Jason! ¡Jason!
 ¡Más caliente qué el sol!
 ¡Internet activado!
-¡Autónomo!
-¡Participa!
-¡Fantasía!
+¡Sinécdoque!
+¡Tuiteado!
+¡Adelante!
 ¡DRR! ¡DRR! ¡DRR!
 ¡Echa raíces!
 ¡Recursos regionales!
 ¡Woo, facepunch!
 ¡Woo, somethingawful!
-¡Woo, tigsource!
-¡Woo, worldofminecraft!
 ¡Woo, reddit!
+¡Woo, worldofminecraft!
+¡Ahhhhhh!
 ¡Woo, 2pp!
 ¡Analítizado con Google!
 ¡Ahora compatible con åäö!
@@ -177,15 +177,15 @@
 ¡Vive en una piña debajo del mar!
 ¡MAP11 tiene dos nombres!
 ¡Omnipotente!
-¡Gasp!
+¡Visión!
 ¡...!
 ¡Abejas, abejas, abejas, abejas!
 ¡Jag känner en bot!
 Este texto es difícil de leer si juegas con la resolución por defecto, ¡pero a 1080p se ve bien!
-¡Jaja, LOL!
+¡Khaaaaaaaaan!
 ¡Hampsterdance!
 ¡Esponja de Menger!
-¡idspispopd!
+¡Advertencia!
 ¡Eple (edición original)!
 ¡Tan fresco, tan limpio!
 ¡Portales lentos!
@@ -193,16 +193,16 @@ Este texto es difícil de leer si juegas con la resolución por defecto, ¡pero 
 ¡No mires a lus bugs directamente!
 Oh, ok, ¡hombres cerdo!
 ¡Por fin con escaleras!
-¡Aterrador!
+¡Bastante asustadizo!
 ¡Juega a Minecraft, mira Topgear, ponte cerdo!
-¡Tuiteado!
+¡Porfa contesta a mi tweet!
 Salta, salta, ¡y abajo!
 ¡Joel está bien!
 ¡Un enigma, envuelto en un misterio!
 ¡El loro ya no es! ¡Ha cesado de ser!
 ¡Bienvenido a tu infierno!
 ¡Una vez empiezas, no hay parar!
-¡Quédate un rato y escucha!
+¡Colabora y escucha!
 ¡Tratamiento para tu sarpullido!
 ¡"Autologica" es!
 ¡La información quiere ser libre!
@@ -210,7 +210,7 @@ Salta, salta, ¡y abajo!
 ¡Mucha verdadeza!
 ¡El creeper es un espía!
 ¡Turing completo!
-¡Es innovador!
+¡Cabezacalabaza!
 ¡La batalla ya ha empezado!
 ¡El cielo es el límite!
 ¡Jeb tiene un pelo increíble!
@@ -245,7 +245,7 @@ ValueError: invalid literal for int()
 ¡Fnord!
 ¡Esta es mi verdadera forma!
 ¡No te preocupes por los clones!
-¡Cabezacalabaza!
+¡Botas de piel!
 ¡Hecho por Jeb!
 ¡Tiene un final!
 ¡Finalmente completo!
@@ -273,7 +273,7 @@ ValueError: invalid literal for int()
 ¡A 150 bpm por 400000 minutos!
 ¡Tecnológico!
 ¡Alma funk hermano!
-¡Pumpa kungen!
+¡Botella de agua!
 ¡日本ハロー！
 ¡한국 안녕하세요!
 ¡Helo Cymru!
@@ -298,7 +298,7 @@ Mmmph, mmph!
 .fiesta()!
 ¡Coge su almohada!
 ¡Pon abajo esa galleta!
-¡Bastante asustadizo!
+¡Algo gracioso!
 Tengo una sugerencia.
 ¡Ahora con abrazos extra!
 ¡Java 16 + 1 = 17!
@@ -359,9 +359,9 @@ Algo no va bien del todo...
 ¿Tortuga arcoíris?
 ¡Algo gracioso!
 Necesito más contexto.
-¡Ahhhhhh!
+¡Indie!
 No te preocupes, ¡sé feliz!
-¡Botella de agua!
+¡Jabón y agua!
 ¿Cúal es la pregunta?
 ¡Planta un árbol!
 ¡Ve al dentista!
@@ -379,7 +379,7 @@ Minecraft Java Edition presenta: Bugs Asquerosos
 ¡Jabón y agua!
 ¡Apoya negocios locales!
 ¡Quédate en casa y juega juegos!
-¡Manténte seguro!
+¡Garantizado!
 ¡Mantente fuerte!
 ¡Tose o estornuda en tu codo!
 ¡No te toques la cara!
@@ -397,10 +397,10 @@ Salva el mundo - ¡Quédate dentro!
 ¡Edit es un nombre!
 ¡De desarrolladores criados en libertad!
 ¡Música por Lena Raine!
-¡Aww man!
+¡Buenísimo!
 #minecraftfarms
 ¡Y mi pico!
-¡Visión! ¡Crea! ¡Comparte!
+¡savar-lep! ¡Crea! ¡Comparte!
 ¡Gráficos fabulosos!
 ¡También prueba Minecraft Dungeons!
 ¡Vanilla!
