@@ -12,4 +12,4 @@ Aspetta! Non funziona!
 
 
 Il mio progetto mira a tradurre i testi intraducibili in Minecraft, come i sottotitoli del menù principale, i titoli di coda e altri.
-È solo un progetto della community e non è affiliato né a Mojang AB né a Minecraft, essendo gestito da un membro della community.
+È solo un progetto della community e non è affiliato né a Mojang AB né a Minecraft, essendo gestito da un membro della community. né a Minecraft, essendo gestito da un membro della community.
