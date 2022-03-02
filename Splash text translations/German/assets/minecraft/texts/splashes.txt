@@ -10,7 +10,7 @@ Es ist hier!
 Bestes in der Klasse!
 Es ist vollbracht!
 Quasi drachenfrei!
-Excitement!
+Aufregung!
 Mehr als 500 verkauft!
 Einer von jeder Art!
 Haufen von Treffern auf YouTube!
@@ -20,7 +20,7 @@ Probier es aus!
 Heilige Kuh, Mann!
 Es ist ein Spiel!
 Hergestellt in Schweden!
-Uses LWJGL!
+Verwendet LWJGL!
 Reticulating splines!
 Minecraft!
 Yaaay!
@@ -32,21 +32,21 @@ Das ist kein Mond!
 l33t!
 Kreiere!
 Überlebe!
-Dungeon!
+Verlies!
 Exklusiv!
 The bee's knees!
 Closed source!
 Classy!
 Wow!
-Not on steam!
+Nicht bei Steam!
 Oh man!
 Awesome community!
 Pixels!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
+Jetzt mit Schwierigkeit!
 Enhanced!
-90% bug free!
+90% fehlerfrei!
 Pretty!
 12 herbs and spices!
 Fat free!
@@ -63,15 +63,15 @@ Indie!
 GOTY!
 Ceci n'est pas une title screen!
 Euclidian!
-Now in 3D!
+Jetzt in 3D!
 Inspirational!
 Herregud!
 Complex cellular automata!
 Yes, sir!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
+Tausende von Farben!
+Versuche es!
 Age of Wonders is better!
 Try the mushroom stew!
 Sensational!
@@ -83,7 +83,7 @@ Bring it on!
 Random splash!
 Call your mother!
 Monster infighting!
-Loved by millions!
+Geliebt von Millionen!
 Ultimate edition!
 Freaky!
 You've got a brand new key!
