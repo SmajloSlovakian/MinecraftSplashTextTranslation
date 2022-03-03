@@ -4,7 +4,7 @@ Wie aktiviere ich dieses Paket in Minecraft?
 Füge den Ordner, den du gerade geöffnet hast, zu deinem "\Appdata\Roaming\.minecraft\resourcepacks\" Ordner hinzu. Gehe in Minecraft, Einstellungen 
   Resource Packs and pick the pack which has just appeared.
 
-Wie komme ich in den Ressourcenpakete Ordner?
+Wie komme ich in den Ressourcenpakete-Ordner?
 -Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
 But wait! that doesn't work!
 -Click on a button called "Resource packs folder..."
