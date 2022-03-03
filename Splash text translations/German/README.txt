@@ -1,15 +1,15 @@
-Diese Projekt wurde von SmajloSlovakian#1077 erstellt (Du kannst mir keine Freundschaftsanfragen senden, wenn du mir völlig fremd sind)
+Dieses Projekt wurde von SmajloSlovakian#1077 erstellt (Du kannst mir keine Freundschaftsanfragen senden, wenn Du mir völlig fremd bist)
 
-Wie aktiviere ich dieses Paket in Minecraft?
-Füge den Ordner, den du gerade geöffnet hast, zu deinem "\Appdata\Roaming\.minecraft\resourcepacks\" Ordner hinzu. Gehe in Minecraft, Einstellungen 
-  Resource Packs and pick the pack which has just appeared.
+Wie füge ich dieses Paket zu Minecraft hinzu?
+-Füge den Ordner, den du gerade geöffnet hast, zu deinem „\Appdata\Roaming\.minecraft\resourcepacks\“ Ordner hinzu. Navigiere in Minecraft zu Einstellungen, 
+  Ressourcenpakete und wähle das Paket aus, welches gerade erschienen ist.
 
 Wie komme ich in den Ressourcenpakete-Ordner?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Resource packs folder..."
+-Öffne Minecraft, navigiere zu Einstellungen, Ressourcenpakete, ziehe das Ressourcenpaket in das Minecraft Fenster...
+Aber warte! das funktioniert nicht!
+-Klicke auf dem Knopf Namens „Paketordner öffnen“
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+Mein Projekt versucht, die nicht übersetzten Texte in Minecraft zu übersetzen, wie zum Beispiel Splash-Textnachrichten, Endspiel-Credits und andere.
+Es ist ein einfaches Gemeinschaftsprojekt, das nicht mit Mojang AB verbunden ist. noch Minecraft selbst, da es von einem Mitglied der Gemeinschaft betrieben wird.
