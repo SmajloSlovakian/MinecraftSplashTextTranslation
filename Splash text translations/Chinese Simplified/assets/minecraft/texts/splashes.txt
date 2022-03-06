@@ -52,87 +52,87 @@ Pretty!
 零脂肪！
 我们不玩梗（大嘘
 Free dental!
-Ask your doctor!
-Minors welcome!
-Cloud computing!
+详情请遵医嘱
+请先进行实名认证（bushi
+云计算（大雾
 Legal in Finland!
 Hard to label!
 Technically good!
-Bringing home the bacon!
+确定不在你家里放个信标吗？
 Indie!
 GOTY!
 Ceci n'est pas une title screen!
 Euclidian!
-Now in 3D!
-Inspirational!
+现在3D了！
+励 志 游 戏
 Herregud!
 Complex cellular automata!
 Yes, sir!
 Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
-Try it!
+来逝逝吧
 Age of Wonders is better!
-Try the mushroom stew!
+这蘑菇煲十分滴珍贵
 Sensational!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
 Guaranteed!
 Macroscopic!
 Bring it on!
-Random splash!
+<随机的闪烁标语>
 Call your mother!
 Monster infighting!
-Loved by millions!
-Ultimate edition!
+100w+ 点赞
+限 量 款
 Freaky!
 You've got a brand new key!
-Water proof!
+这里不归牛顿管
 Uninflammable!
 Whoa, dude!
 All inclusive!
 Tell your friends!
 NP is not in P!
-Music by C418!
-Livestreamed!
-Haunted!
-Polynomial!
+音乐由 C418 制作！
+现 场 直 播
+闹鬼
+多项式
 Terrestrial!
 All is full of love!
 Full of stars!
-Scientific!
+充 满 科 学 （才怪
 Not as cool as Spock!
 Collaborate and listen!
-Never dig down!
-Take frequent breaks!
+永远不要垂直向下挖
+别贪玩，注意休息
 Not linear!
 Han shot first!
 Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
-sqrt(-1) love you!
+岩浆桶
+猪骑士（无颜色
+比地球大！
+√-1 love you
 Phobos anomaly!
-Punching wood!
+要想富，先撸树
 Falling off cliffs!
-1% sugar!
+1%糖!
 150% hyperbole!
 Synecdoche!
-Let's danec!
-Seecret Friday update!
+让我们眺午吧
+秘——密周五更新
 Reference implementation!
-Kiss the sky!
+亲吻天空吧
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
-4815162342 lines of code!
+4815162342行代码！
 A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
 I miss ADOM!
-umop-apisdn!
+了过来反话句这
 OICU812!
 Bring me Ray Cokes!
 Finger-licking!
@@ -414,7 +414,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[this splash text is now available]
+[此闪烁标语现在可用]
 Contains simulated goats!
 Home-made!
 There's <<a cat on ,my keyboard!~
