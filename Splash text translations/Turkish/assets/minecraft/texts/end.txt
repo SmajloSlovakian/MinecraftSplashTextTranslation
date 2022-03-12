@@ -2,7 +2,7 @@
 
 §2PLAYERNAME?
 
-§3Evet. Dikkatli ol. It has reached a higher level now. It can read our thoughts.
+§3Evet. Dikkatli ol. Daha yüksek bir seviyeye ulaştı. Düşüncelerini okuyabilir.
 
 §2Bu önemli değil. Oyunun bir parçası olduğumuzu düşünüyor.
 
