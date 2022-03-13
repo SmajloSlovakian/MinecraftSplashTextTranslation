@@ -62,7 +62,7 @@ Najciemniej pod latarnią!
 Indie!
 Gra roku!
 Ceci n'est pas une ekran tytułowy!
-Ełklidejski!
+Ełklidesowy!
 Teraz w 3D!
 Inspirujący!
 Herregud!
@@ -196,7 +196,7 @@ Drabiny w końcu tu są!
 Straszny!
 Graj w Minecrafta, oglądaj Top Gear, spraw sobie świnię!
 Twitteruje się o nim!
-Jump up, jump up, and get down!
+Wydrze wydrzę wydrze wydrze wydrze wydrzę!
 Joel jest spoko!
 Zagadka owinięta w tajemnicę!
 Papugi nie ma! Przestała istnieć!
@@ -414,7 +414,7 @@ Nagłaśniaj i słuchaj głosów BIPOC!
 Uświadom znajomych na temat antyrasizmu!
 Wspieraj społeczność BIPOC oraz twórców!
 Broń równości w swojej społeczności!
-[this splash text is now available]
+[ta wiadomość powitalna test teraz dostępna]
 Zawiera symulowane kozy!
 Domowej roboty!
 Mam <<kota ,na klawiaturze!~
