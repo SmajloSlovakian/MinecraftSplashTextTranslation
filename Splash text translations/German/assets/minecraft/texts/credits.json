@@ -551,7 +551,7 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "Produktion",
         "titles": [
             {
                 "title": "Head of Creator Platform",
@@ -560,49 +560,49 @@
                 ]
             },
             {
-                "title": "Head of Game Production",
+                "title": "Leiter der Spieleproduktion",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Leiter von Minecraft China",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "Leiter Business Engineering",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Spielleiter",
                 "names": [
                     "Sara Jansson Bach"
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Leiter des Autoren-Marketplace",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Minecraft Education",
+                "title": "Leiter von Minecraft Education",
                 "names": [
                     "Allison Matthews"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Direktor von Minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Produktionsleitung",
                 "names": [
                     "Anita Sujarit",
                     "David Nisshagen",
@@ -616,7 +616,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Produktionsleitung",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -626,7 +626,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produzenten",
                 "names": [
                     "Aaron Culbreth (Insight Global, Inc)",
                     "Adrian Östergård",
@@ -687,13 +687,13 @@
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Release-Management-Leiter",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Release Manager",
                 "names": [
                     "Andrew Pritchard",
                     "Josh Mulanax",
@@ -701,7 +701,7 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "Qualitätssicherung",
                 "names": [
                     "Kristian Grimberg",
                     "Matthew Dryden",
@@ -712,7 +712,7 @@
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "Technische Autoren",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)"
                 ]
@@ -723,13 +723,13 @@
         "section": "Brand Creative",
         "titles": [
             {
-                "title": "Creative Director",
+                "title": "Künstlerische Leitung",
                 "names": [
                     "Markus Toivonen"
                 ]
             },
             {
-                "title": "Head of Creative Production",
+                "title": "Leiter der Kreativproduktion",
                 "names": [
                     "Isabella Arningsmark"
                 ]
@@ -743,7 +743,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produzenten",
                 "names": [
                     "Adele Major",
                     "Charlotte Angantyr",
@@ -761,14 +761,14 @@
                 ]
             },
             {
-                "title": "Creative Leads",
+                "title": "Kreative Leiter",
                 "names": [
                     "Martin Johansson",
                     "Antti Meriluoto"
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Künstlerischer Leiter",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -777,20 +777,20 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Kunstleiter",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Künstler",
                 "names": [
                     "Morten Rasmussen",
                     "Markus Frost"
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "Grafikdesigner",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
@@ -808,7 +808,7 @@
                 ]
             },
             {
-                "title": "Product Designers",
+                "title": "Produktentwickler",
                 "names": [
                     "Adrian Ward",
                     "Débora Martins",
@@ -829,7 +829,7 @@
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "Social Media Manager",
                 "names": [
                     "Julian Tunru",
                     "Ross Keatley"
@@ -847,7 +847,7 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "Kommunikationen",
         "titles": [
             {
                 "title": "Chief Storyteller",
@@ -862,7 +862,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produzenten",
                 "names": [
                     "Sofia Orrheim"
                 ]
@@ -874,14 +874,14 @@
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "Social Media Manager",
                 "names": [
                     "Alex Fleck (Adecco)",
                     "David Ramos (Collabera)"
                 ]
             },
             {
-                "title": "Communication Managers",
+                "title": "Kommunikationsmanagement",
                 "names": [
                     "Holly Amber Smith",
                     "Rebecca Gordius"
@@ -904,7 +904,7 @@
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Webdesign",
                 "names": [
                     "Paul Madlon (Ten Gun Design, Inc)"
                 ]
@@ -918,10 +918,10 @@
         ]
     },
     {
-        "section": "User Experience",
+        "section": "Nutzererfahrung",
         "titles": [
             {
-                "title": "User Experience Design Director",
+                "title": "Designdirektor für Benutzererfahrung",
                 "names": [
                     "Anna Wendelin"
                 ]
@@ -947,7 +947,7 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Betrieb",
         "titles": [
             {
                 "title": "Franchise Chief Operations Officer",

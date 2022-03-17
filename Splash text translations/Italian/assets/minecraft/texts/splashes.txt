@@ -66,7 +66,7 @@ Euclideio!
 Ora in 3D!
 Ti ispirerà!
 Herregud!
-Complesso automa cellulare!
+Un complesso automa cellulare!
 Sissignore!
 Ci giocano anche i cowboy!
 Ora su OpenGL 3.2 core profile!
@@ -85,7 +85,7 @@ Chiama tua madre!
 Lotte intestine fra mostri!
 Amato da milioni di persone!
 Edizione definitiva!
-Freaky!
+Peculiare!
 You've got a brand new key!
 Impermeabile!
 Non infiammabile!
@@ -147,7 +147,7 @@ Celibe bianco per sempre!
 In nome degli abitanti di Edsbyn!
 Matt Damon!
 Supercalifragilistichespiralidoso!
-Consummate V's!
+Punte puntualmente appuntite!
 Cow Tools!
 Double buffered!
 Fan fiction!
@@ -179,7 +179,7 @@ MAP11 ha due nomi!
 Onnipotente!
 Gasp!
 ...!
-Bees, bees, bees, bees!
+Vola, vola, vola, vola, vola!
 Jag känner en bot!
 Questo testo è difficile da leggere se giochi alla risoluzione predefinita, ma a 1080p si legge bene!
 Ahah, LOL!
@@ -212,7 +212,7 @@ The creeper is a spy!
 Turing equivalente!
 È rivoluzionario!
 Che la nostra battaglia abbia in Izio!
-The sky is the limit!
+Nel blu dipinto di blu!
 Jeb ha dei bellissimi capelli!
 Anche Ryan ha dei capelli bellissimi!
 Gioco dilettantistico!
@@ -234,7 +234,7 @@ Prova anche World of Goo!
 Prova anche Limbo!
 Prova anche Pixeljunk Shooter!
 Prova anche Braid!
-That's super!
+Grandioso!
 Burro d'asino!
 Leggi di più!
 Khaaaaaaaaan!
@@ -259,7 +259,7 @@ Non evita doppie negazioni!
 Piazza TUTTI i blocchi!
 Fa una giravolta!
 Va incontro alle aspettative!
-PC gaming since 1873!
+Gaming su PC dal 1873!
 Tubero affettato e cotto in olio bollente!
 Déjà-vu!
 Déjà-vu!

@@ -2,14 +2,14 @@
 Отлично!
 100% натуральный!
 Может содержать орехи!
-Больше многоугольников!
+Больше полигонов!
 Довольно таки привлекательно!
 Лимитированное издание!
 Сверкающие буквы!
 А вот и он!
 Лучший в классе!
 Завершён!
-Вероятность дракона крайне мала!
+Практически нету драконов!
 Радость!
 Продано более 500 копий!
 Единственный в своём роде!
@@ -36,7 +36,7 @@ Minecraft!
 Эксклюзивный!
 Пчелиные колени!
 Закрытый код!
-Первоклассный!
+Классный!
 Ого!
 Нас нету в Steam!
 О, чувак!
@@ -118,7 +118,7 @@ Phobos anomaly!
 1% сахара!
 150% преувеличения!
 Синекдоха!
-Давай танцеавть!
+Давай в таенц!
 Обновление Сеекретная Пятница!
 Больше отсылок!
 Оранжевое небо!
@@ -267,11 +267,11 @@ Déjà vu!
 Хайли любит Алана
 Afraid of the big, black bat!
 Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
+Детские игры!
+Увидимся в следующую пятницу или около того!
 From the streets of Södermalm!
 150 bpm за 400000 минут!
-Technologic!
+Технологично!
 Funk soul brother!
 Pumpa kungen!
 日本ハロー！
@@ -279,7 +279,7 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
+Привет, Россия!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
@@ -300,7 +300,7 @@ Swords for everyone!
 Положите это печенье вниз!
 Довольно страшно!
 У меня есть предложение.
-Now with extra hugs!
+Теперь с дополнительными обнимашками!
 Java 16 + 1 = 17!
 Вау.
 HURNERJSGER?
@@ -342,7 +342,7 @@ More Digital!
 Падение со стилем!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
-Правило #1: Это не моя вина
+Правило №1: виноват никогда не я
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
 Boats FTW
@@ -384,7 +384,7 @@ Minecraft Java Edition представляет: Отвратительные о
 Кашляйте и чихайте в локоть!
 Не трогайте своё лицо!
 Support elderly relatives and friends!
-Prepare, but don’t hoard!
+Готовьтесь, но не запасайтесь!
 Игроки объединяйтесь – отдельно в своих домах!
 Сохраните мир – оставайтесь дома!
 Делайте покупки для пожилых людей!
@@ -393,7 +393,7 @@ Hang out with your friends online!
 Найдите свой когти!
 Everybody do the Leif!
 <3 Max & 99 & Ducky!
-Bushy eyebrows!
+Кустистые брови!
 Измени имя!
 From free range developers!
 Музыка от Лены Рейн!
@@ -421,7 +421,7 @@ From free range developers!
 Самый милый хищник, которого вы когда-нибудь встретите!
 Теперь, ты думаешь с поршнями!
 С днём меди!
-Board game version also available!
+Версия настольной игры также доступна!
 Милый, я сделал вощённую медь!
-Plant-based light sources!
+Источники света на основе растений!
 Сделано «реальными» людьми!

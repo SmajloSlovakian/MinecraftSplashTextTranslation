@@ -9,7 +9,7 @@
                 ]
             },
             {
-                "title": "Head of Stockholm Studio",
+                "title": "Stockholm Stüdyo Müdürü",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -27,7 +27,7 @@
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "Oyun Direktörleri",
                 "names": [
                     "Agnes Larsson",
                     "Måns Olson"
@@ -48,7 +48,7 @@
                 ]
             },
             {
-                "title": "Principal Design Manager",
+                "title": "Tasarım Ekibi Yöneticisi",
                 "names": [
                     "Michael Harnisch"
                 ]
@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Hikaye Direktörü",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Hikaye Tasarımcısı",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "Tasarım Yöneticisi",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -101,38 +101,38 @@
         "section": "Programlama",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Teknoloji İşleri Şefi",
                 "names": [
                     "Michael W Weilbacher",
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Servis ve Ops-Yazılımcılığı Müdürü",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Oyun Yazılımcılığı Müdürü",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Platform Oluşturucu Yazılımı Müdürü",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Franchise Kalitesi Direktörü",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Teknik Direktör",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Oyun Geliştiricileri Rehberi",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Oyun Geliştiricileri",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "UI Geliştiricileri Rehberi",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "UI Geliştiricileri",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Kurulum Geliştiricileri",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
