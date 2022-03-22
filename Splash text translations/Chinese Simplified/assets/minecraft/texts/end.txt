@@ -46,15 +46,15 @@
 
 §2但是很容易告诉他们...
 
-§3Too strong for this dream. To tell them how to live is to prevent them living.
+对这个梦来说太强大了。 告诉它们如何生活，就是在阻止它们生活。
 
-§2I will not tell the player how to live.
+§2我不会告诉玩家如何生活.
 
-§3The player is growing restless.
+§3这个玩家正在变得不安。
 
-§2I will tell the player a story.
+§2我会告诉玩家一个故事。
 
-§3But not the truth.
+§3但不是事实.
 
 §2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
 
