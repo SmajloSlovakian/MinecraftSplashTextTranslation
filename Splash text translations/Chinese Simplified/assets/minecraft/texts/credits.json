@@ -17,7 +17,7 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "设计",
         "titles": [
             {
                 "title": "Chief Creative Officers",
@@ -255,7 +255,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "架构师",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "音频",
         "titles": [
             {
                 "title": "Audio Director",
