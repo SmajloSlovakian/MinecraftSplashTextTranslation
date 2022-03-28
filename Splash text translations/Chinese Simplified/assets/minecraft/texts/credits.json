@@ -17,24 +17,24 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "设计",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "首席创意官",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "游戏经理",
                 "names": [
                     "Agnes Larsson",
                     "Måns Olson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "创意总监",
                 "names": [
                     "Jesse Merriam",
                     "Magnus Nedfors",
@@ -42,26 +42,26 @@
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "首席设计主任",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Principal Design Manager",
+                "title": "首席设计经理",
                 "names": [
                     "Michael Harnisch"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "游戏设计领导",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "游戏设计师",
                 "names": [
                     "Art Usher",
                     "Brandon Pearce",
@@ -90,7 +90,7 @@
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "设计总监",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "编程员",
         "titles": [
             {
                 "title": "Chief Technology Officer",
@@ -132,7 +132,7 @@
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "技术总监",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "首席游戏开发者",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "界面开发者",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "启动器开发人员",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -255,7 +255,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "架构师",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "音频",
         "titles": [
             {
                 "title": "Audio Director",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "首席美工",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "动画师",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -723,7 +723,7 @@
         "section": "Brand Creative",
         "titles": [
             {
-                "title": "Creative Director",
+                "title": "创意总监",
                 "names": [
                     "Markus Toivonen"
                 ]
@@ -1216,7 +1216,7 @@
                 ]
             },
             {
-                "title": "Business Managers",
+                "title": "业务经理",
                 "names": [
                     "Adam Lemcio",
                     "Alina Skripnik",
@@ -1242,7 +1242,7 @@
                 ]
             },
             {
-                "title": "Business Development Managers",
+                "title": "业务发展经理",
                 "names": [
                     "Christy Weckner",
                     "Eileen Lee",
@@ -1388,7 +1388,7 @@
         ]
     },
     {
-        "section": "Marketing",
+        "section": "市场营销",
         "titles": [
             {
                 "title": "Head of Marketing",
@@ -1466,7 +1466,7 @@
                 ]
             },
             {
-                "title": "Financial Accountant",
+                "title": "财务会计师",
                 "names": [
                     "Jelena Pejic"
                 ]
@@ -1879,7 +1879,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "特别鸣谢",
                 "names": [
                     "Dariusz Sokołowski (Lionbridge)",
                     "Evan Wright (Lionbridge)",

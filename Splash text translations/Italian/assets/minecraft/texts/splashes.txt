@@ -280,7 +280,7 @@ Helo Cymru!
 Cześć Polsko!
 你好中国！
 Привет Россия!
-Γεια σου Ελλάδα!
+Χαῖρε, ὦ Ἑλλάς;
 La mia vita per Aiur!
 Lennart lennart = new Lennart();
 Vedo che il tuo vocabolario è migliorato!
@@ -342,7 +342,7 @@ doot doot
 Cadere con stile!
 Trollmaso è inarrestabile
 Buttati giù dall'alto evitando di colpire il terreno
-Regola #1: non è mai colpa mia
+Regola №1: non è mai colpa mia
 Il formaggio fuso è stato sostituito con il sangue?
 Coordinate relativamente malfunzionanti assolutamente corrette
 Viva le barche!
@@ -420,7 +420,7 @@ Fatto in casa!
 C'é <<un gatto sulLa ,mia tastiera!|
 Il predatore più adorabile che tu abbia mai incontrato!
 Ora stai pensando con i tuoi pistoni!
-Prenderò il ramen
+Prenderò il ramen!
 Disponibile anche come gioco da tavolo!
 Tesoro, ho dato la cera!
 Piante bioluminescenti!

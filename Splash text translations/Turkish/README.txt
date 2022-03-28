@@ -1,6 +1,6 @@
 Bu proje SmajloSlovakian#1077 tarafından yapılmıştır. (Eğer tanışmıyorsak bana arkadaşlık isteği gönderemezsiniz.)
 
-How do I add this pack to Minecraft?
+Bu paketi nasıl Minecraft'a eklerim?
 - Açtığınız dosyayı "\Appdata\Roaming\.minecraft\resourcepacks\" dosyasına atın.  
   - Attığımız dosyayı oyunun içinde "Resource Pack" menüsünden aktive edin.
 
@@ -12,4 +12,4 @@ Ama bekleyin! Bu tam öyle çalışmıyor!
 
 
 Projem Minecraft'taki alt metinler, oyun sonu yazıları ve benzeri çevirilmemiş yazıları çevirmeyi amaçlamaktadır.
-Bu bir topluluk projesidir. Mojang ile bir bağlantısı yoktur. nor Minecraft itself as it is run by a member of the community.
+Bu bir topluluk projesidir. Mojang ile bir bağlantısı yoktur. Aslında, Minecraft da bir topluluk projesi ya.

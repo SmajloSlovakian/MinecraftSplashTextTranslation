@@ -89,7 +89,7 @@ Freaky!
 You've got a brand new key!
 这里不归牛顿管
 Uninflammable!
-Whoa, dude!
+哇！伙计！
 All inclusive!
 Tell your friends!
 NP is not in P!
@@ -153,8 +153,8 @@ Double buffered!
 Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Hotter than the sun!
-Internet enabled!
+比太阳更热！
+已联网！
 Autonomous!
 Engage!
 Fantasy!
@@ -172,7 +172,7 @@ Now supports åäö!
 Give us Gordon!
 Tip your waiter!
 Very fun!
-12345 is a bad password!
+12345是一个不好的密码！
 Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
@@ -227,7 +227,7 @@ Check out the far lands!
 Tyrion would love it!
 Also try VVVVVV!
 Also try Super Meat Boy!
-Also try Terraria!
+也去试一试泰拉瑞亚！
 Also try Mount And Blade!
 Also try Project Zomboid!
 Also try World of Goo!
@@ -250,13 +250,13 @@ Made by Jeb!
 Has an ending!
 Finally complete!
 Feature packed!
-Boots with the fur!
+毛皮靴子！
 Stop, hammertime!
 Testificates!
 Conventional!
 Homeomorphic to a 3-sphere!
 Doesn't avoid double negatives!
-Place ALL the blocks!
+放置所有方块！
 Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
@@ -284,10 +284,10 @@ Cześć Polsko!
 My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+谁把它放这的？
+你解释不了！
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+§1五§2颜§3六§4色§5的§6缤§7纷§8大§9世§a界！
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
@@ -301,8 +301,8 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Java 16 + 1 = 17!
-Woah.
+Java 16 + 1 = Java17!
+哇~
 HURNERJSGER?
 What's up, Doc?
 Now contains 32 random daily cats!
@@ -313,13 +313,13 @@ Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
-Extra things!
-Yay, puppies for everyone!
+更多物品！
+每个人都有狗狗，好耶!
 So sweet, like a nice bon bon!
 Very influential in its circle!
 Now With Multiplayer!
 Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
+警告！ A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
 Run, coward! I hunger!
 Flavor with no seasoning!
@@ -331,18 +331,18 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
+/give @a 拥抱 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
 GNU Terry Pratchett
 More Digital!
-doot doot
+嘟，嘟
 Falling with style!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
-Rule #1: it's never my fault
+规则1：这肯定不是我的错
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
 Boats FTW
@@ -351,21 +351,21 @@ Should not be played while driving
 You're going too fast!
 Don't feed chocolate to parrots!
 The true meaning of covfefe
-An illusion! What are you hiding?
-Something's not quite right...
+这是个错觉！ 你在掩饰什么？
+有些东西不对劲...
 Thank you for the fish!
-All rumors are true!
+所有的谣言都是真实的！
 Truly gone fishing!
 Rainbow turtle?
-Something funny!
+一些有趣的东西！
 I need more context.
-Ahhhhhh!
-Don't worry, be happy!
+啊啊啊啊啊！
+别着急了，开心一点！
 Water bottle!
 What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
+种棵树吧！
+去看看牙医！
+你在期待什么？
 Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
@@ -373,33 +373,33 @@ Ph1lza had a good run!
 10 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
-Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
-Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
+嗡嗡蜂群！
+Minecraft Java 版显示：正在清空Bug！
+请洗手！
+肥皂和水！
+支持本地产业！
+在家里玩游戏！
+保持安全 ！
+保持强壮！
 Cough or sneeze into your elbow!
-Don’t touch your face!
-Support elderly relatives and friends!
+别碰你的脸！
+帮助老年亲属和朋友！
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
 Save the world – stay inside!
-Shop for your elders!
+替家中的老人购物！
 Hang out with your friends online!
 Honey, I grew the bees!
 Find your claw!
 Everybody do the Leif!
 <3 Max & 99 & Ducky!
-Bushy eyebrows!
-Edit is a name!
+浓密的眉毛！
+“Edit”其实是个人名！
 From free range developers!
-Music by Lena Raine!
+Lena Raine制作的音乐！
 Aww man!
 #minecraftfarms
-And my pickaxe!
+再带上我的镐子！
 Envision! Create! Share!
 Fabulous graphics!
 Also try Minecraft Dungeons!

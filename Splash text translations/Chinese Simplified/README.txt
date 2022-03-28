@@ -5,8 +5,8 @@ How do I add this pack to Minecraft?
   Resource Packs and pick the pack which has just appeared.
 
 How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
+-打开Minecraft，进入设置，资源包，拖放资源包到Minecraft窗口中...
+But wait! 那没用的！
 -Click on a button called "Resource packs folder..."
 
 
