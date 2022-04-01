@@ -331,7 +331,7 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Berhenti bersikap wajar, ini adalah Internet!
-/give @a hugs 64
+/give @a pelukan 64
 Ini amat baik untuk Realms.
 Any computer is a laptop if you're brave enough!
 Buat semua, segalanya!
