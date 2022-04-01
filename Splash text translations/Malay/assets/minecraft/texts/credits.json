@@ -464,7 +464,7 @@
         "section": "Seni Visual",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Pengarah Seni",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Penseni Utama",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -484,7 +484,7 @@
                 ]
             },
             {
-                "title": "Artis",
+                "title": "Penseni",
                 "names": [
                     "Aleesa Tana (Randstad)",
                     "Andrea Sanchez Sepulveda (Randstad)",
@@ -508,14 +508,14 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "Penseni 3D",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Penseni Grafik",
                 "names": [
                     "Mattis Grahm"
                 ]
@@ -543,7 +543,7 @@
                 ]
             },
             {
-                "title": "Art Manager",
+                "title": "Pengurus Seni",
                 "names": [
                     "Samir Belarbi"
                 ]
@@ -761,14 +761,14 @@
                 ]
             },
             {
-                "title": "Creative Leads",
+                "title": "Kreatif Utama",
                 "names": [
                     "Martin Johansson",
                     "Antti Meriluoto"
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Pengarah Seni",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -777,38 +777,38 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Ketua Seni",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Penseni",
                 "names": [
                     "Morten Rasmussen",
                     "Markus Frost"
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "Pereka Grafik",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
             },
             {
-                "title": "3D Artist / Motion Graphic Designer",
+                "title": "Penseni 3D / Pereka Grafik Bergerak",
                 "names": [
                     "Jesper Hallin"
                 ]
             },
             {
-                "title": "Gameplay Capture Artist",
+                "title": "Penseni Penangkapan Permainan",
                 "names": [
                     "Husein Kurbegovic"
                 ]
             },
             {
-                "title": "Product Designers",
+                "title": "Pereka Produk\n",
                 "names": [
                     "Adrian Ward",
                     "Débora Martins",
@@ -817,26 +817,26 @@
                 ]
             },
             {
-                "title": "Publishing Editor",
+                "title": "Penyunting Penerbitan",
                 "names": [
                     "Alex Wiltshire"
                 ]
             },
             {
-                "title": "Director of Creative Communications",
+                "title": "Pengarah Komunikasi Kreatif",
                 "names": [
                     "Owen Jones"
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "Pengurus Media Sosial",
                 "names": [
                     "Julian Tunru",
                     "Ross Keatley"
                 ]
             },
             {
-                "title": "Creative Writers",
+                "title": "Penulis Kreatif",
                 "names": [
                     "Cristina Anderca",
                     "Per Landin",
@@ -847,48 +847,48 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "Komunikasi",
         "titles": [
             {
-                "title": "Chief Storyteller",
+                "title": "Ketua Pencerita",
                 "names": [
                     "Lydia Winters"
                 ]
             },
             {
-                "title": "Senior Media Producers",
+                "title": "Senior Penerbit Media",
                 "names": [
                     "Carina Petersson"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Penerbit",
                 "names": [
                     "Sofia Orrheim"
                 ]
             },
             {
-                "title": "Director of Communications",
+                "title": "Pengarah Komunikasi",
                 "names": [
                     "Regan O'Leary"
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "Pengurus Media Sosial",
                 "names": [
                     "Alex Fleck (Adecco)",
                     "David Ramos (Collabera)"
                 ]
             },
             {
-                "title": "Communication Managers",
+                "title": "Pengurus Komunikasi",
                 "names": [
                     "Holly Amber Smith",
                     "Rebecca Gordius"
                 ]
             },
             {
-                "title": "Assembly Media, Inc",
+                "title": "Assembly Media Inc",
                 "names": [
                     "Adam Pannel",
                     "Erin Dwyer",
@@ -898,19 +898,19 @@
                 ]
             },
             {
-                "title": "Sr. Social Media Lead",
+                "title": "Ketua Sr. Media Sosial",
                 "names": [
                     "Sara Reiner"
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Reka Bentuk Laman Sesawang",
                 "names": [
                     "Paul Madlon (Ten Gun Design, Inc)"
                 ]
             },
             {
-                "title": "Web Content Manager",
+                "title": "Pengurus Kandungan Laman Sesawang",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
@@ -918,16 +918,16 @@
         ]
     },
     {
-        "section": "User Experience",
+        "section": "Pengalaman Pengguna",
         "titles": [
             {
-                "title": "User Experience Design Director",
+                "title": "Pengarah Reka Bentuk Pengalaman Pengguna",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "User Experience Designers",
+                "title": "Pereka Bentuk Pengalaman Pengguna",
                 "names": [
                     "Jin Shin",
                     "Jonathan Paton Gallina",
@@ -939,7 +939,7 @@
                 ]
             },
             {
-                "title": "User Experience Writer",
+                "title": "Program Pengalaman Pengguna",
                 "names": [
                     "Juan Buis"
                 ]
@@ -947,54 +947,54 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Pengendalian",
         "titles": [
             {
-                "title": "Franchise Chief Operations Officer",
+                "title": "Pegawai Ketua Pengendalian Francais",
                 "names": [
                     "Annie Chenn"
                 ]
             },
             {
-                "title": "Head of Stockholm Operations",
+                "title": "Ketua Pengendalian Stockholm",
                 "names": [
                     "Sheila Ho"
                 ]
             },
             {
-                "title": "Executive Strategic Advisor",
+                "title": "Eksekutif penasihat strategi",
                 "names": [
                     "Jonas Mårtensson"
                 ]
             },
             {
-                "title": "Head of Franchise Operations",
+                "title": "Ketu Pengendalian Francais\n",
                 "names": [
                     "Josh Bliggenstorffer"
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Ketua Kakitangan",
                 "names": [
                     "Amy Stillion"
                 ]
             },
             {
-                "title": "HR Directors",
+                "title": "Pengarah HR",
                 "names": [
                     "David Hill",
                     "Maja Samuelsson"
                 ]
             },
             {
-                "title": "Sr HR Business Partners",
+                "title": "Sr HR Rakan Kongsi Perniagaan",
                 "names": [
                     "Maja Samuelsson",
                     "Nia Parker"
                 ]
             },
             {
-                "title": "Human Resources",
+                "title": "Sumber Manusia",
                 "names": [
                     "Aleksandra Zajac",
                     "Aron Glauser",
@@ -1011,19 +1011,19 @@
                 ]
             },
             {
-                "title": "Office Manager",
+                "title": "Pengurus Pejabat",
                 "names": [
                     "Siri Hoel"
                 ]
             },
             {
-                "title": "Office Coordinators",
+                "title": "Penyelaras Pejabat",
                 "names": [
                     "Joël Älveroth"
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Eksekutif Pentadbir Perniagaan",
                 "names": [
                     "Erin Decker",
                     "Lisa Liu",
@@ -1032,14 +1032,14 @@
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Bahagian Depan",
                 "names": [
                     "Eliza Lancelot",
                     "Felicia Björn Nordling"
                 ]
             },
             {
-                "title": "IT Managers",
+                "title": "Pengurus IT",
                 "names": [
                     "Cesar Sima Falck",
                     "Jason Perry Minard"
@@ -1058,13 +1058,13 @@
                 ]
             },
             {
-                "title": "Operations Manager",
+                "title": "Pengurus Operasi",
                 "names": [
                     "Kaya Hatcher"
                 ]
             },
             {
-                "title": "Internal Communications Manager",
+                "title": "Pengurus Komunikasi Dalaman",
                 "names": [
                     "Matt Martin"
                 ]
