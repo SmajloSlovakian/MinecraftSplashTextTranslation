@@ -306,14 +306,14 @@ Woah.
 YINRAZUZIURNQ?
 Apa khabar, Doc?
 Kini mengandungi 32 kucing rambang setiap hari!
-That's Numberwang!
+Itu adalah Numberwang!
 pls rt
 Anda mahu sertai pelayanku?
-Put a little fence around it!
-Throw a blanket over it!
+Letak pagar kecil kelilingnya!
+Campakkan selimut ke atasnya!
 Satu hari, bila-bila di masa hadapan, kerja saya akan dipetik!
 Kini dengan benda tambahan!
-Extra things!
+Lebihan benda!
 Yay, anak anjing untuk semua!
 So sweet, like a nice bon bon!
 Sangat berpengaruh dalam lingkarannya
@@ -327,13 +327,13 @@ Asing, tapi bukan orang asing!
 Lebih keras daripada berlian, kaya seperti krim!
 It swings, it jives!
 bersiar-siar di jalanan untuk emas!
-Take an eggbeater and beat it against a skillet!
-Make me a table, a funky table!
+Ambil pemukul telur dan ketuknya pada kuali!
+Buatkan saya sebuah meja, sebuah meja funky!
 Take the elevator to the mezzanine!
 Berhenti bersikap wajar, ini adalah Internet!
 /give @a pelukan 64
 Ini amat baik untuk Realms.
-Any computer is a laptop if you're brave enough!
+Mana-mana komputer adalah sebuah komputer riba sekiranya kamu cukup berani!
 Buat semua, segalanya!
 Apabila tiada cahaya, akan ada lelabah!
 GNU Terry Pratchett
@@ -344,18 +344,18 @@ There's no stopping the Trollmaso
 Throw yourself at the ground and miss
 Peraturan #1: tidak pernah salah saya
 Gantikan keju cair dengan darah?
-Absolutely fixed relatively broken coordinates
+Semestinya dibetulkan koordinat yang secara relatifnya rosak
 Sampan FTW
 Edisi Javasedap
 Tidak patut dimainkan semasa memandu
-You're going too fast!
+Anda bergerak terlalu laju!
 Jangan beri makan coklat kepada burung kakak tua!
 Maksud sebenar covfefe
 Suatu Khayalan Apa yang anda sembunyikan?
 Ada sesuatu yang tidak betul...
 Terima kasih untuk ikannya!
 Semua khabar angin adalah benar!
-Truly gone fishing!
+Benar-benar telah pergi memancing!
 Penyu pelangi?
 Sesuatu yang lawak!
 Saya memerlukan lebih konteks
@@ -370,10 +370,10 @@ Mak! Saya masuk dalam paparan tampilan!
 Ia datang dari angkasa.
 Reka bentuk permainan yang hebat di situ!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
-Ping the human!
+10 tahun Melombong dan Menukang!
+Ping Manusia Itu!
 Sekiranya ia tidak jelas, musang bukanlah pemain.
-Buzzy Bees!
+Lebah Berdegung!
 Minecraft Edisi Java mempersembahkan: Pepijat Menjijikkan
 Basuh tangan anda!
 Sabun dan air!
@@ -384,18 +384,18 @@ Kekal tabah!
 Batuk atau bersin kearah siku anda!
 Jangan sentuh muka anda!
 Sokong saudara-mara dan rakan-rakan yang sudah tua!
-Prepare, but don’t hoard!
+Siap siaga, tapi jangan mengumpul!
 Semua pemain bersatu - secara berasingan di rumah anda sendiri!
 Selamatkan dunia – duduk di rumah!
-Shop for your elders!
+Belikan barangan untuk orang tua anda!
 Bergaul dengan rakan anda secara dalam talian!
-Honey, I grew the bees!
+Sayang, saya telah memperbesarkan lebah!
 Find your claw!
-Everybody do the Leif!
+Semua orang lakukan Leif!
 <3 Max & 99 & Ducky!
 Bulu kening yang lebat!
 "Edit" adalah sebuah nama!
-From free range developers!
+Daripada pembangun perisian diternak bebas!
 Muzik oleh Lena Raine!
 Aww man!
 #minecraftfarms
@@ -409,7 +409,7 @@ Zoglin!?
 Black lives matter!
 Jadi anti-perkauman!
 Belajar tentang Kebersekutuan!
-Bersuara menentang ketidakadilan dan tentang kesaksamaan
+Bersuara menentang ketidakadilan dan berkenaan kesaksamaan
 Menguatkan dan mendengar suara-suara BIPOC
 Didik kawan-kawan anda tentang anti-perkauman!
 Sokong komuniti dan pencipta BIPOC!
@@ -422,6 +422,6 @@ Pemangsa paling comel yang pernah anda temui!
 Sekarang anda berfikir dengan omboh!
 Sampai ke tembagah!
 Versi permainan papan juga tersedia!
-Honey, I waxed the copper!
+Sayang, saya telah melilinkan tembaga!
 Sumber cahaya berasaskan tumbuhan!
 Dihasilkan oleh orang-orang "sebenar"!
