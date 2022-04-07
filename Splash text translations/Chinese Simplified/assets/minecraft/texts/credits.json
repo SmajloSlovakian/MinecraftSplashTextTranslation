@@ -3,13 +3,13 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "Minecraft主管",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Head of Stockholm Studio",
+                "title": "斯德哥尔摩工作室总管",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -78,7 +78,7 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "副主任",
                 "names": [
                     "Kevin Grace"
                 ]
@@ -461,10 +461,10 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "视觉艺术",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "艺术总监",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -508,20 +508,20 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "3D 美工",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "图像美工",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "图形设计师",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "动画设计师",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -543,7 +543,7 @@
                 ]
             },
             {
-                "title": "Art Manager",
+                "title": "艺术经理",
                 "names": [
                     "Samir Belarbi"
                 ]
@@ -566,7 +566,7 @@
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "中国区Minecraft总管",
                 "names": [
                     "Travis Howland"
                 ]
