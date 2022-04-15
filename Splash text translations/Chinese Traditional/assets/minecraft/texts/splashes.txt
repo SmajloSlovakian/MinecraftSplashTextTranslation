@@ -57,47 +57,47 @@ Enhanced!
 雲端運算！
 在芬蘭是合法的！
 很難定性！
-Technically good!
-Bringing home the bacon!
-Indie!
-GOTY!
-Ceci n'est pas une title screen!
-Euclidian!
-Now in 3D!
-Inspirational!
-Herregud!
-Complex cellular automata!
-Yes, sir!
-Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-試試吧！
-Age of Wonders is better!
-Try the mushroom stew!
-Sensational!
-Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
-Guaranteed!
-Macroscopic!
-Bring it on!
-Random splash!
-Call your mother!
-Monster infighting!
-Loved by millions!
-Ultimate edition!
-Freaky!
-You've got a brand new key!
-Water proof!
-Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
-NP is not in P!
-音樂由 C418 製作！
-現場直播！
-Haunted!
-Polynomial!
-Terrestrial!
+在技術上很棒！
+帶些培根回家！
+獨立！
+年度最佳遊戲！
+這不是標題畫面！
+擼樹！
+現在，3D立體模式！
+設想！ 創造！ 分享！
+質保！
+複雜的細胞自動機！
+是的，先生！
+牛仔玩的玩意！
+現在基於OpenGL 3.2 core profile！
+上萬種顏色！
+試試看！
+奇蹟時代更好！
+試試蘑菇湯！
+令人轟動！
+辣美眉，火辣的美眉！
+鍵盤貓，幹掉他！
+保持安全！
+宏觀的！
+來吧！
+捉摸不定！
+叫你媽媽來！
+怪物內訌！
+萬人追捧！
+終極版！
+恐怖！
+你有了嶄新的鑰匙！
+防水！
+不易燃！
+哎喲，老兄！
+一切都充滿愛！
+告訴你的朋友們！
+P不包含NP！
+C418作曲！
+實況直播！
+恐怖！
+多項式！
+在地球上！
 一切都充滿愛！
 Full of stars!
 Scientific!
