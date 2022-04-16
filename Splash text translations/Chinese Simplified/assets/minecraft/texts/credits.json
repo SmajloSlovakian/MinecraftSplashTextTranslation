@@ -678,7 +678,7 @@
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "组织辅导员",
                 "names": [
                     "Martin Bloomstine",
                     "Rasmus Noah Hansen",
@@ -687,13 +687,13 @@
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "首席发行管理",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "发行管理",
                 "names": [
                     "Andrew Pritchard",
                     "Josh Mulanax",
@@ -701,7 +701,7 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "质量管理",
                 "names": [
                     "Kristian Grimberg",
                     "Matthew Dryden",
@@ -712,7 +712,7 @@
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "技术文本作者",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)"
                 ]
@@ -720,7 +720,7 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "品牌创意",
         "titles": [
             {
                 "title": "创意总监",
@@ -729,13 +729,13 @@
                 ]
             },
             {
-                "title": "Head of Creative Production",
+                "title": "创意制作总监",
                 "names": [
                     "Isabella Arningsmark"
                 ]
             },
             {
-                "title": "Lead Producers",
+                "title": "首席制作者",
                 "names": [
                     "Christine Platon",
                     "Milo Bengtsson",
@@ -743,7 +743,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "制作者",
                 "names": [
                     "Adele Major",
                     "Charlotte Angantyr",
@@ -761,14 +761,14 @@
                 ]
             },
             {
-                "title": "Creative Leads",
+                "title": "创意主管",
                 "names": [
                     "Martin Johansson",
                     "Antti Meriluoto"
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "艺术总监",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -777,38 +777,38 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "美术总监",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "美工",
                 "names": [
                     "Morten Rasmussen",
                     "Markus Frost"
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "图形设计",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
             },
             {
-                "title": "3D Artist / Motion Graphic Designer",
+                "title": "3D美工/动画设计师",
                 "names": [
                     "Jesper Hallin"
                 ]
             },
             {
-                "title": "Gameplay Capture Artist",
+                "title": "游戏捕捉美工",
                 "names": [
                     "Husein Kurbegovic"
                 ]
             },
             {
-                "title": "Product Designers",
+                "title": "产品设计师",
                 "names": [
                     "Adrian Ward",
                     "Débora Martins",
@@ -817,26 +817,26 @@
                 ]
             },
             {
-                "title": "Publishing Editor",
+                "title": "发布编辑",
                 "names": [
                     "Alex Wiltshire"
                 ]
             },
             {
-                "title": "Director of Creative Communications",
+                "title": "创意通信主任",
                 "names": [
                     "Owen Jones"
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "社交媒体管理员",
                 "names": [
                     "Julian Tunru",
                     "Ross Keatley"
                 ]
             },
             {
-                "title": "Creative Writers",
+                "title": "创意作者",
                 "names": [
                     "Cristina Anderca",
                     "Per Landin",
