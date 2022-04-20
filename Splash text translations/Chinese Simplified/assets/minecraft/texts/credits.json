@@ -84,7 +84,7 @@
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "叙事设计师",
                 "names": [
                     "Kelsey Howard"
                 ]
@@ -101,32 +101,32 @@
         "section": "编程员",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "首席技术官",
                 "names": [
                     "Michael W Weilbacher",
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "服务和运营工程主管",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "游戏工程主管",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Creator 平台工程负责人\n",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "特许经营质量经理",
                 "names": [
                     "Matthew Ng"
                 ]
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "游戏开发者",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "首席界面开发者",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -248,7 +248,7 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "首席架构师",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
@@ -262,7 +262,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "首席基岩版开发者",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "基岩版开发者",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,21 +362,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "首席 Web 开发人员",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Realms软件工程师",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "首席系统工程师",
                 "names": [
                     "Robert Sjödahl",
                     "Pär Axelsson",
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "服务软件工程师",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "技术经理",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -435,13 +435,13 @@
         "section": "音频",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "音频主任",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "音效设计师",
                 "names": [
                     "Daniel Rosenfeld",
                     "Johan Pettersson",
@@ -451,7 +451,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "音乐制作师",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kumi Tanioka",
@@ -484,7 +484,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "美工",
                 "names": [
                     "Aleesa Tana (Randstad)",
                     "Andrea Sanchez Sepulveda (Randstad)",
@@ -551,16 +551,16 @@
         ]
     },
     {
-        "section": "Production",
+        "section": "制作",
         "titles": [
             {
-                "title": "Head of Creator Platform",
+                "title": "Creator 平台负责人\n",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Game Production",
+                "title": "游戏制作主管",
                 "names": [
                     "John Thornton"
                 ]
@@ -572,37 +572,37 @@
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "商务工程主管",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "游戏主管",
                 "names": [
                     "Sara Jansson Bach"
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Creator市场主管",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Minecraft Education",
+                "title": "Minecraft教育版主管",
                 "names": [
                     "Allison Matthews"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Minecraft官网主管",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "执行制作人",
                 "names": [
                     "Anita Sujarit",
                     "David Nisshagen",
@@ -616,7 +616,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "项目经理",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -626,7 +626,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "制作者",
                 "names": [
                     "Aaron Culbreth (Insight Global, Inc)",
                     "Adrian Östergård",
@@ -678,7 +678,7 @@
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "组织辅导员",
                 "names": [
                     "Martin Bloomstine",
                     "Rasmus Noah Hansen",
@@ -687,13 +687,13 @@
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "首席发行管理",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "发行管理",
                 "names": [
                     "Andrew Pritchard",
                     "Josh Mulanax",
@@ -701,7 +701,7 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "质量管理",
                 "names": [
                     "Kristian Grimberg",
                     "Matthew Dryden",
@@ -712,7 +712,7 @@
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "技术文本作者",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)"
                 ]
@@ -720,7 +720,7 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "品牌创意",
         "titles": [
             {
                 "title": "创意总监",
@@ -729,13 +729,13 @@
                 ]
             },
             {
-                "title": "Head of Creative Production",
+                "title": "创意制作总监",
                 "names": [
                     "Isabella Arningsmark"
                 ]
             },
             {
-                "title": "Lead Producers",
+                "title": "首席制作者",
                 "names": [
                     "Christine Platon",
                     "Milo Bengtsson",
@@ -743,7 +743,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "制作者",
                 "names": [
                     "Adele Major",
                     "Charlotte Angantyr",
@@ -761,14 +761,14 @@
                 ]
             },
             {
-                "title": "Creative Leads",
+                "title": "创意主管",
                 "names": [
                     "Martin Johansson",
                     "Antti Meriluoto"
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "艺术总监",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -777,38 +777,38 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "美术总监",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "美工",
                 "names": [
                     "Morten Rasmussen",
                     "Markus Frost"
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "图形设计",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
             },
             {
-                "title": "3D Artist / Motion Graphic Designer",
+                "title": "3D美工/动画设计师",
                 "names": [
                     "Jesper Hallin"
                 ]
             },
             {
-                "title": "Gameplay Capture Artist",
+                "title": "游戏捕捉美工",
                 "names": [
                     "Husein Kurbegovic"
                 ]
             },
             {
-                "title": "Product Designers",
+                "title": "产品设计师",
                 "names": [
                     "Adrian Ward",
                     "Débora Martins",
@@ -817,26 +817,26 @@
                 ]
             },
             {
-                "title": "Publishing Editor",
+                "title": "发布编辑",
                 "names": [
                     "Alex Wiltshire"
                 ]
             },
             {
-                "title": "Director of Creative Communications",
+                "title": "创意通信主任",
                 "names": [
                     "Owen Jones"
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "社交媒体管理员",
                 "names": [
                     "Julian Tunru",
                     "Ross Keatley"
                 ]
             },
             {
-                "title": "Creative Writers",
+                "title": "创意作者",
                 "names": [
                     "Cristina Anderca",
                     "Per Landin",

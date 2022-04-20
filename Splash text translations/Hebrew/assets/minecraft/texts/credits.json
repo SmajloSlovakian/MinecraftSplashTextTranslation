@@ -3,13 +3,13 @@
         "section": "מיינקראפט",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "אחראי מיינקראפט",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Head of Stockholm Studio",
+                "title": "ראש סטודיו שטוקהולם",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -27,7 +27,7 @@
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "מנהלי משחק",
                 "names": [
                     "Agnes Larsson",
                     "Måns Olson"
@@ -42,26 +42,26 @@
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "מנהל עיצוב ראשי",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Principal Design Manager",
+                "title": "מנהל עיצוב ראשי",
                 "names": [
                     "Michael Harnisch"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "מעצבי משחק מובילים",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "מעצבי המשחק",
                 "names": [
                     "Art Usher",
                     "Brandon Pearce",
@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "מנהל נרטיב",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "מעצב נרטיבי",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "מנהל עיצוב",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -114,25 +114,25 @@
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "ראש מחלקת הנדסת המשחק",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "ראש הנדסת פלטפורמות יוצרים",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "מנהל איכות זכיינות",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "מנהל טכני",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "מפתחי משחק מובילים",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "מפתחי המשחק",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "מפתחים ראשיים של ממשק משתמש",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
