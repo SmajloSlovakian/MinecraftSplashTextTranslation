@@ -1,30 +1,31 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
-Heaps of hits on YouTube!
+Como visto na TV!
+Incrível!
+100% puro!
+Pode conter nozes!
+Mais polígonos!
+Moderadamente atraente!
+Edição limitada!
+Letras piscantes!
+Está aqui!
+
+Melhor na aula!
+Está concluído!
+Quase livre de dragões!
+Excitante!
+Mais de 500 vendidos!
+Exclusivo!
+Muitos hits no YouTube!
 Indev!
-Spiders everywhere!
-Check it out!
-Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
-Reticulating splines!
+Aranhas por toda parte!
+Confira!
+Vaca sagrada, cara!
+É um jogo!
+Feito na Suécia!
+Usa LWJGL!
+Reticulando splines!
 Minecraft!
-Yaaay!
-Singleplayer!
+Ebaaa!
+Um jogador!
 Keyboard compatible!
 Ingots!
 Exploding creepers!
