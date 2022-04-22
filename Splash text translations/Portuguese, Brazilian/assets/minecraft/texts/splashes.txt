@@ -54,7 +54,7 @@ Livre de gorduras!
 Absolutamente sem memes!
 Odontologia grátis!
 Pergunte ao seu doutor!
-Minors welcome!
+Boas-vindas aos menores!
 Computação na nuvem!
 Legal na Finlândia!
 Difícil de rotular!
@@ -112,7 +112,7 @@ Prazer em conhecê-lo!
 Baldes de lava!
 Monte no porco!
 Maior que a Terra!
-sqrt(-1) love you!
+eu te amo!
 Anomalia de Fobos!
 Batendo na madeira!
 Caindo de penhascos!
@@ -168,7 +168,7 @@ Uau, tigsource!
 Uau, worldofminecraft!
 Uau, reddit!
 Uau, 2pp!
-Google anlyticsed!
+Analisado pelo Google!
 Agora suporta åäö!
 Dê-nos Gordon!
 Dê gorjeta para seu garçom!
@@ -375,7 +375,7 @@ Ph1lza resistiu até o fim!
 Chame o humano!
 Se não estiver claro, raposas não são jogadores.
 Abelhas Zumbantes!
-Minecraft Java Edition presents: Disgusting Bugs
+Minecraft Java Edition apresenta: Bugs Chatos
 Lave as mãos!
 Água e sabão!
 Apoie negócios locais!
@@ -396,33 +396,33 @@ Todos, façam Leif!
 <3 Max & 99 & Ducky!
 Sobrancelhas espessas!
 "Edit" é um nome!
-From free range developers!
-Music by Lena Raine!
-Aww man!
+Por desenvolvedores à distância livres!
+Música feita por Lena Raine!
+Aww, cara!
 #minecraftfarms
-And my pickaxe!
-Envision! Create! Share!
-Fabulous graphics!
-Also try Minecraft Dungeons!
+E minha picareta!
+Imaginar! Criar! Compartilhar!
+Gráficos fabulosos!
+Também experimente Minecraft Dungeons!
 Vanilla!
-May contain traces of citrus!
+Pode conter traços de citrino!
 Zoglin!?
-Black lives matter!
-Be anti-racist!
-Learn about allyship!
-Speak OUT against injustice and UP for equality!
-Amplify and listen to BIPOC voices!
-Educate your friends on anti-racism!
-Support the BIPOC community and creators!
-Stand up for equality in your community!
-[this splash text is now available]
-Contains simulated goats!
-Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
-Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
-Plant-based light sources!
-Made by "real" people!
+Vidas negras importam!
+Seja anti-racista!
+Aprenda sobre alianças!
+Diga NÃO a injustiça e SIM à igualdade!
+Amplifique e escute as vozes étnicas!
+Eduque seus amigos ao anti-racismo!
+Apoie a comunidade BIPOC e seus criadores!
+Defenda a igualdade em sua comunidade!
+[este texto de abertura está disponível]
+Contém cabras simuladas!
+Feito em casa!
+Tem um <<gato no ,meu teclado!~
+O predador mais fofo que você irá conhecer!
+Você está pensando em pistões!
+Pegue o cobreh!
+Versão de tabuleiro também disponível!
+Querida, eu lavei o cobre!
+Plantas alimentadas por luz!
+Feito por pessoas "reais"!
