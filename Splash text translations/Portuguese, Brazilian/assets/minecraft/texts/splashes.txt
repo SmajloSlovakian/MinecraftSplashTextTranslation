@@ -14,7 +14,7 @@ Quase livre de dragões!
 Excitante!
 Mais de 500 vendidos!
 Exclusivo!
-Muitos hits no YouTube!
+Muitos cliques no YouTube!
 Indev!
 Aranhas por toda parte!
 Confira!
@@ -135,7 +135,7 @@ BTAF costumava ser bom!
 Sinto falta do ADOM!
 ¡oxıɐq ɐɹɐd ɐɔǝqɐɔ ǝp
 OICU812!
-Me traga Cocas de Raio!
+Me traga Ray Cokes!
 De lamber os dedos!
 Temático!
 Pneumático!
@@ -147,7 +147,7 @@ Rita é o novo cachorro superior!
 SWM para sempre!
 Representando Edsbyn!
 Matt Damon!
-Supercalifragilisticexpialidocious!
+Supermegaplushiperfantástico!
 Consumar V's!
 Ferramentas de vaca!
 Tamponado duplo!
@@ -196,7 +196,7 @@ Oh, ok, Homem Porco!
 Finalmente com escadas!
 Assustador!
 Jogue Minecraft, assista Topgear, pegue o porco!
-Tweete sobre!
+Tweetei sobre!
 Pule, pule e abaixe-se!
 Joel é legal!
 Um enigma, embrulhado em um mistério!
@@ -227,14 +227,14 @@ DungeonQuest é injusto!
 Dê uma olhada nas Far Lands!
 Tyrion iria adorar!
 Experimente também VVVVVVV!
-Experimente também Super Meat Boy!
-Experimente também Terraria!
-Experimente também Mount And Blade!
-Experimente também Project Zomboid!
-Experimente também World of Goo!
-Experimente também Limbo!
-Experimente também Pixeljunk Shooter!
-Experimente também Braid!
+Também experimente Super Meat Boy!
+Também experimente Terraria!
+Também experimente Mount And Blade!
+Também experimente Project Zomboid!
+Também experimente World of Goo!
+Também experimente Limbo!
+Também experimente Pixeljunk Shooter!
+Também experimente Braid!
 Que super!
 O pão está com dor!
 Leia mais livros!
@@ -332,7 +332,7 @@ Pegue uma batida de ovos e bate-a contra um martelo!
 Faça de mim uma mesa, uma mesa engraçada!
 Deixe fluir!
 Deixe de pensar, essa é a internet!
-/give @a abraços 64
+/dar @a abraços 64
 Isso é bom para os Realms.
 Qualquer computador é um notebook se você for corajoso o suficiente!
 Faça tudo, tudo!
