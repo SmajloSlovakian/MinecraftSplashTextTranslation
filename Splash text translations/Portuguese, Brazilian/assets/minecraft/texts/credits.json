@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "Desenvolvedores de UI",
+                "title": "Desenvolvedores de Interface",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -1879,7 +1879,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Agradecimentos Especiais",
                 "names": [
                     "Dariusz Sokołowski (Lionbridge)",
                     "Evan Wright (Lionbridge)",
@@ -1920,7 +1920,7 @@
         "section": "Development Partner: BBI",
         "titles": [
             {
-                "title": "Programmer",
+                "title": "Programador",
                 "names": [
                     "Curtis Hodgins",
                     "Devon Plourde",
@@ -1935,7 +1935,7 @@
                 ]
             },
             {
-                "title": "UI Artist",
+                "title": "Artista de Interface",
                 "names": [
                     "Richelle Brunt"
                 ]
@@ -1959,7 +1959,7 @@
         "section": "Development Partner: Disbelief",
         "titles": [
             {
-                "title": "President",
+                "title": "Presidente",
                 "names": [
                     "Steve Ellmore"
                 ]
@@ -1971,19 +1971,19 @@
                 ]
             },
             {
-                "title": "Senior Programmer",
+                "title": "Programador Sênior",
                 "names": [
                     "Tim Hagberg"
                 ]
             },
             {
-                "title": "Programmer",
+                "title": "Programador",
                 "names": [
                     "Eric Nguyen"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Produtor",
                 "names": [
                     "Grue Robinson"
                 ]
@@ -2332,13 +2332,13 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Líderies de Desenvolvimento de Interface",
                 "names": [
                     "Sebasian Hindefeldt"
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Desenvolvedores de Interface",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
