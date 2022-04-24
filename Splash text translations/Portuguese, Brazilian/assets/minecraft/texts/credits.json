@@ -1380,7 +1380,7 @@
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Atendimento ao Cliente",
                 "names": [
                     "Andrew Lee (Apex Systems, Inc)"
                 ]
@@ -1391,20 +1391,20 @@
         "section": "Marketing",
         "titles": [
             {
-                "title": "Head of Marketing",
+                "title": "Chefe de Marketing ",
                 "names": [
                     "Jessica Freeman"
                 ]
             },
             {
-                "title": "Marketing Directors",
+                "title": "Diretores de Marketing",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
                 ]
             },
             {
-                "title": "Marketing Managers",
+                "title": "Gerentes de Marketing",
                 "names": [
                     "Anton Maslennikov",
                     "Ashley Davidson (Simplicity Consulting, Inc)",
@@ -1427,13 +1427,13 @@
         "section": "Legal",
         "titles": [
             {
-                "title": "Head of Legal",
+                "title": "Chefe do Departamento Jurídico",
                 "names": [
                     "Nick Morgan"
                 ]
             },
             {
-                "title": "Legal Counsel",
+                "title": "Consultor Jurídico",
                 "names": [
                     "Kari Annand (Snodgrass Annand)",
                     "Maya Yamazaki (Davis Wright Tremaine)",
@@ -1444,16 +1444,16 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Financeiro",
         "titles": [
             {
-                "title": "Finance Director",
+                "title": "Diretor de Finanças",
                 "names": [
                     "Marina Kostesic"
                 ]
             },
             {
-                "title": "Finance Manager",
+                "title": "Gerente de Finanças",
                 "names": [
                     "Evan Dowdell",
                     "Katarina Norlander"
@@ -2084,13 +2084,13 @@
         "section": "Development Partner: Red Lens Games",
         "titles": [
             {
-                "title": "President",
+                "title": "Presidente",
                 "names": [
                     "Jared Noftle"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Produtor",
                 "names": [
                     "Nova Barlow"
                 ]
@@ -2164,7 +2164,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produtores",
                 "names": [
                     "Chokkalingam Ramu Kuppaswamy (Virtuosity)"
                 ]
@@ -2510,7 +2510,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artistas",
                 "names": [
                     "Erin Caswell (eXcell, a division of CompuCom)",
                     "Lilei Yu (Collabera)"
