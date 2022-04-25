@@ -1032,7 +1032,7 @@
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Frente da Casa",
                 "names": [
                     "Eliza Lancelot",
                     "Felicia Björn Nordling"
@@ -1495,7 +1495,7 @@
                 ]
             },
             {
-                "title": "Quality Leads",
+                "title": "Liderança de Qualidade",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1564,7 +1564,7 @@
         "section": "Studios Quality Team - US Teams",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Gerente de Testes",
                 "names": [
                     "Tom Dieterich (Experis) - Test Manager, Tempe"
                 ]
@@ -1662,7 +1662,7 @@
         "section": "Development Partner: Lionbridge Quality - Poland Team",
         "titles": [
             {
-                "title": "Test Director",
+                "title": "Diretor de Testes",
                 "names": [
                     "Michał Błoński (Lionbridge)"
                 ]
@@ -1680,13 +1680,13 @@
                 ]
             },
             {
-                "title": "Test Leads",
+                "title": "Líder de Testes",
                 "names": [
                     "Beata Jastrzębska (Lionbridge)"
                 ]
             },
             {
-                "title": "Team Leads",
+                "title": "Time de Líderes",
                 "names": [
                     "Kamil Kostrzewa (Lionbridge)",
                     "Michał Sławek (Lionbridge)",
