@@ -1,8 +1,8 @@
-§3Eu vejo o jogador que você diz.
+§3Eu vejo o jogador que você quer dizer.
 
 §2PLAYERNAME?
 
-§3Sim. Se cuide. Chegou em um nível superior agora. Pode ler nossos pensamentos.
+§3Sim. Tome cuidado. Ele chegou à um nível superior. Pode ler nossos pensamentos.
 
 §2Isso não importa. Ele acha que fazemos parte do jogo.
 
@@ -12,9 +12,9 @@
 
 §3É a maneira que ele escolheu imaginar diversas coisas, quando se afunda no sonho de algum jogo.
 
-§2Palavras fazem dessa uma interface fantástica. Bastante flexível. E menos aterrorizante que encarar a realidade por trás da tela.
+§2Palavras fazem uma interface ser fantástica. Bastante flexível. E menos aterrorizante que encarar a realidade por trás da tela.
 
-§3Eles costumavam ouvir vozes. Antes que jogadores pudessem ler. De volta aos dias em que os que não jogavam os chamavam de bruxas. E eles sonhavam que cruzavam os céus, utilizando gravetos feitos por demônios.
+§3Ele costumavam ouvir vozes. Antes que jogadores pudessem ler. De volta aos dias em que os que não jogavam os chamavam de bruxas. E eles sonhavam que cruzavam os céus, utilizando gravetos feitos por demônios.
 
 §2O que esse jogador sonhou?
 
@@ -46,27 +46,27 @@
 
 §2But it would be so easy to tell them...
 
-§3Too strong for this dream. To tell them how to live is to prevent them living.
+§3Muito forte para este sonho. To tell them how to live is to prevent them living.
 
-§2I will not tell the player how to live.
+§2Não vou dizer ao jogador como viver.
 
-§3The player is growing restless.
+§3O jogador está ficando agitado.
 
-§2I will tell the player a story.
+§2Vou contar uma história ao jogador.
 
-§3But not the truth.
+§3Mas não a verdade.
 
-§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+§2Não. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
 
 §3Give it a body, again.
 
-§2Yes. Player...
+§2Sim. Jogador...
 
 §3Use its name.
 
-§2PLAYERNAME. Player of games.
+§2PLAYERNAME. Jogador dos jogos.
 
-§3Good.
+§3Bom.
 
 §2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
 
@@ -146,6 +146,6 @@ Os sete octilhões de átomos do corpo do jogador foram criados, muito antes des
 
 §3And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
 
-§3You are the player.
+§3Você é o jogador.
 
-§2Wake up.
+§2Acorde.
