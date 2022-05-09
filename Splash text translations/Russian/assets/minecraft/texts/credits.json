@@ -27,7 +27,7 @@
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "Игровые директоры",
                 "names": [
                     "Агнес Ларссон",
                     "Måns Olson"
@@ -78,13 +78,13 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Директор повествования",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Дизайнер повествования",
                 "names": [
                     "Kelsey Howard"
                 ]
@@ -114,7 +114,7 @@
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Глава разработки игры",
                 "names": [
                     "Åsa Bredin"
                 ]
@@ -126,13 +126,13 @@
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Директор по качеству франшизы",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Технический директор",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Ведущее руководство игры",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Разработчики игры",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Ведущие разработчики пользовательского интерфейса",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Разработчики пользовательского интерфейса",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Разработчики лаунчера",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -248,14 +248,14 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Ведущие архитекторы",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Архитекторы",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
