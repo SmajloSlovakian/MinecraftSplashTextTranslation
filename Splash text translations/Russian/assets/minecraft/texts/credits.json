@@ -435,7 +435,7 @@
         "section": "Звук",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Аудио директор",
                 "names": [
                     "Samuel Åberg"
                 ]
@@ -464,7 +464,7 @@
         "section": "Визуальные художники",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Арт-директор",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Ведущие художники",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -515,13 +515,13 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Графические художники",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Графические дизайнеры",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "Дизайнеры моушн-графики",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Аниматор",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
