@@ -27,7 +27,7 @@
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "Игровые директоры",
                 "names": [
                     "Агнес Ларссон",
                     "Måns Olson"
@@ -78,13 +78,13 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Директор повествования",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Дизайнер повествования",
                 "names": [
                     "Kelsey Howard"
                 ]
@@ -114,25 +114,25 @@
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Глава разработки игры",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Руководитель отдела разработки платформы Creator",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Директор по качеству франшизы",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Технический директор",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Ведущее руководство игры",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Разработчики игры",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Ведущие разработчики пользовательского интерфейса",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Разработчики пользовательского интерфейса",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Разработчики лаунчера",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -248,21 +248,21 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Ведущие архитекторы",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Архитекторы",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Ведущие разработчики программного обеспечения Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Разработчики программного обеспечения Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,14 +362,14 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Ведущие веб-разработчики",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Инженеры программного обеспечения Realms",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Инженеры программного обеспечения сервиса",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -435,7 +435,7 @@
         "section": "Звук",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Аудио директор",
                 "names": [
                     "Samuel Åberg"
                 ]
@@ -464,7 +464,7 @@
         "section": "Визуальные художники",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Арт-директор",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Ведущие художники",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -515,13 +515,13 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Графические художники",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Графические дизайнеры",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "Дизайнеры моушн-графики",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Аниматор",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]

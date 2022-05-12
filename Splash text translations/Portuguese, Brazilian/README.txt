@@ -1,6 +1,6 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Este projeto foi criado por SmajloSlovakian#1077 (você não pode me enviar um pedido de amizade se você é completamente estranho para mim)
 
-How do I add this pack to Minecraft?
+Como eu adiciono este pacote para o Minecraft?
 -Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
   Resource Packs and pick the pack which has just appeared.
 
@@ -11,5 +11,5 @@ But wait! that doesn't work!
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+Meu projeto tenta traduzir os textos não traduzidos no Minecraft, como mensagens de texto de abertura, créditos de jogo finais e outros.
+É um projeto simples da comunidade não afiliado à Mojang AB. Nem o próprio Minecraft, ele é admnistrado por um membro da comunidade.
