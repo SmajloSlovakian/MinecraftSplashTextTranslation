@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "Desenvolvedores de Interface",
+                "title": "Desenvolvedores de interface",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -461,10 +461,10 @@
         ]
     },
     {
-        "section": "Artes Visuais",
+        "section": "Artes visuais",
         "titles": [
             {
-                "title": "Diretores de Arte",
+                "title": "Diretores artísticos",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Artistas Líderes",
+                "title": "Líderes artísticos",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -515,7 +515,7 @@
                 ]
             },
             {
-                "title": "Artista Gráfico",
+                "title": "Artistas gráficos",
                 "names": [
                     "Mattis Grahm"
                 ]
@@ -543,7 +543,7 @@
                 ]
             },
             {
-                "title": "Gerende de Arte",
+                "title": "Gerente artístico",
                 "names": [
                     "Samir Belarbi"
                 ]
@@ -602,7 +602,7 @@
                 ]
             },
             {
-                "title": "Produtores Executivos",
+                "title": "Produtores executivos",
                 "names": [
                     "Anita Sujarit",
                     "David Nisshagen",
@@ -616,7 +616,7 @@
                 ]
             },
             {
-                "title": "Gerentes de Produção",
+                "title": "Gerentes de produção",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -768,7 +768,7 @@
                 ]
             },
             {
-                "title": "Diretores de Arte",
+                "title": "Diretores artístico",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -777,7 +777,7 @@
                 ]
             },
             {
-                "title": "Líder de Arte",
+                "title": "Líder artístico",
                 "names": [
                     "Amanda Ström"
                 ]
@@ -790,7 +790,7 @@
                 ]
             },
             {
-                "title": "Desginer Gráfico",
+                "title": "Desginer gráfico",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
@@ -836,7 +836,7 @@
                 ]
             },
             {
-                "title": "Escritores Criativos",
+                "title": "Escritores criativos",
                 "names": [
                     "Cristina Anderca",
                     "Per Landin",
@@ -868,7 +868,7 @@
                 ]
             },
             {
-                "title": "Diretor de Comunicações",
+                "title": "Diretor de comunicações",
                 "names": [
                     "Regan O'Leary"
                 ]
@@ -1032,14 +1032,14 @@
                 ]
             },
             {
-                "title": "Frente da Casa",
+                "title": "Frente da casa",
                 "names": [
                     "Eliza Lancelot",
                     "Felicia Björn Nordling"
                 ]
             },
             {
-                "title": "Gerentes da TI",
+                "title": "Gerentes de TI",
                 "names": [
                     "Cesar Sima Falck",
                     "Jason Perry Minard"
@@ -1088,7 +1088,7 @@
         ]
     },
     {
-        "section": "Dados e Estatísticas",
+        "section": "Dados e estatísticas",
         "titles": [
             {
                 "title": "Head of Data Science and Analytics",
@@ -1495,7 +1495,7 @@
                 ]
             },
             {
-                "title": "Liderança de Qualidade",
+                "title": "Liderança de qualidade",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1564,7 +1564,7 @@
         "section": "Studios Quality Team - US Teams",
         "titles": [
             {
-                "title": "Gerente de Testes",
+                "title": "Gerente de testes",
                 "names": [
                     "Tom Dieterich (Experis) - Test Manager, Tempe"
                 ]
@@ -1613,7 +1613,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Agradecimentos especiais",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -1637,7 +1637,7 @@
         ]
     },
     {
-        "section": "Special Thanks",
+        "section": "Agradecimentos especiais",
         "titles": [
             {
                 "title": "",
@@ -1662,7 +1662,7 @@
         "section": "Development Partner: Lionbridge Quality - Poland Team",
         "titles": [
             {
-                "title": "Diretor de Testes",
+                "title": "Diretor de testes",
                 "names": [
                     "Michał Błoński (Lionbridge)"
                 ]
@@ -1680,13 +1680,13 @@
                 ]
             },
             {
-                "title": "Líder de Testes",
+                "title": "Líder de testes",
                 "names": [
                     "Beata Jastrzębska (Lionbridge)"
                 ]
             },
             {
-                "title": "Time de Líderes",
+                "title": "Time de líderes",
                 "names": [
                     "Kamil Kostrzewa (Lionbridge)",
                     "Michał Sławek (Lionbridge)",
@@ -1879,7 +1879,7 @@
                 ]
             },
             {
-                "title": "Agradecimentos Especiais",
+                "title": "Agradecimentos especiais",
                 "names": [
                     "Dariusz Sokołowski (Lionbridge)",
                     "Evan Wright (Lionbridge)",
@@ -1935,7 +1935,7 @@
                 ]
             },
             {
-                "title": "Artista de Interface",
+                "title": "Artista de interface",
                 "names": [
                     "Richelle Brunt"
                 ]
@@ -2332,13 +2332,13 @@
                 ]
             },
             {
-                "title": "Líderies de Desenvolvimento de Interface",
+                "title": "Lead UI Developers",
                 "names": [
                     "Sebasian Hindefeldt"
                 ]
             },
             {
-                "title": "Desenvolvedores de Interface",
+                "title": "Desenvolvedores de interface",
                 "names": [
                     "Albin Odervall",
                     "Anna Päärni",
@@ -2367,7 +2367,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Arquitetos",
                 "names": [
                     "Michael Seydl",
                     "Mike Frost",
@@ -2495,7 +2495,7 @@
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Diretores artísticos",
                 "names": [
                     "Brad Shuber",
                     "Logan Lubera",
@@ -2504,7 +2504,7 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Líder artístico",
                 "names": [
                     "Sarah Kisor"
                 ]
@@ -2537,7 +2537,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artistas",
                 "names": [
                     "Amanda Cook (Harvey Nash)",
                     "Bart Kaufman (Randstad)",
@@ -2551,7 +2551,7 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Artistas gráficos",
                 "names": [
                     "Jerica Harada (TEKsystems, Inc)",
                     "Kristoffer Zetterstrand",
@@ -2585,13 +2585,13 @@
                 ]
             },
             {
-                "title": "Executive Producer",
+                "title": "Produtores executivos",
                 "names": [
                     "Erin Krell"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Produtores",
                 "names": [
                     "Alen Voljevica",
                     "Anna Holdosi-Simon",
