@@ -331,7 +331,7 @@ Pegue uma batida de ovos e bate-a contra um martelo!
 Faça de mim uma mesa, uma mesa engraçada!
 Deixe fluir!
 Deixe de pensar, essa é a internet!
-/dar @a abraços 64
+/give @a abraços 64
 Isso é bom para os Realms.
 Qualquer computador é um notebook se você for corajoso o suficiente!
 Faça tudo, tudo!
