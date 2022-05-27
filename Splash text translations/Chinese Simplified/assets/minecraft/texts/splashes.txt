@@ -28,7 +28,7 @@ Indev!
 允许使用键盘（？）
 矿锭万岁
 别，别炸，兄弟
-快跑啊，傻孩子
+那不是个月亮
 l33t!
 游戏模式：创造
 游戏模式：生存
@@ -47,7 +47,7 @@ Kaaneeeedaaaa!
 现在我们遇到了亿点困难
 增强了！
 只有10%是特性
-Pretty!
+漂亮！
 12 herbs and spices!
 零脂肪！
 我们不玩梗（大嘘
@@ -152,7 +152,7 @@ Cow Tools!
 Double buffered!
 Fan fiction!
 Flaxkikare!
-Jason! Jason! Jason!
+Jason！ Jason! Jason!
 比太阳更热！
 已联网！
 Autonomous!
@@ -222,10 +222,10 @@ Follow the train, CJ!
 Leveraging synergy!
 This message will never appear on the splash screen, isn't that weird?
 DungeonQuest is unfair!
-90210!
+90210！
 Check out the far lands!
 Tyrion would love it!
-Also try VVVVVV!
+也去试一试VVVVVV！
 Also try Super Meat Boy!
 也去试一试泰拉瑞亚！
 Also try Mount And Blade!
@@ -236,7 +236,7 @@ Also try Pixeljunk Shooter!
 Also try Braid!
 That's super!
 Bread is pain!
-Read more books!
+多读书！
 可汗————————！！
 比电视机更难上瘾！
 比柠檬水更容易上瘾！
@@ -353,21 +353,21 @@ Don't feed chocolate to parrots!
 The true meaning of covfefe
 这是个错觉！ 你在掩饰什么？
 有些东西不对劲...
-Thank you for the fish!
+谢谢你的鱼！
 所有的谣言都是真实的！
 Truly gone fishing!
-Rainbow turtle?
+彩虹海龟？
 一些有趣的东西！
 I need more context.
 啊啊啊啊啊！
 别着急了，开心一点！
-Water bottle!
+水瓶！
 What's the question?
 种棵树吧！
 去看看牙医！
 你在期待什么？
 Look mum, I'm in a splash!
-It came from space.
+它来自太空。
 Awesome game design right there!
 Ph1lza had a good run!
 10 years of Mining and Crafting!
@@ -386,9 +386,9 @@ Cough or sneeze into your elbow!
 帮助老年亲属和朋友！
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
-Save the world – stay inside!
+拯救世界——待在家里！
 替家中的老人购物！
-Hang out with your friends online!
+与你的好友在线上闲逛！
 Honey, I grew the bees!
 Find your claw!
 Everybody do the Leif!
@@ -400,8 +400,8 @@ Lena Raine制作的音乐！
 Aww man!
 #minecraftfarms
 再带上我的镐子！
-Envision! Create! Share!
-Fabulous graphics!
+Envision! 创造！ 分享！
+极佳画质！
 Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!

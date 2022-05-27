@@ -292,7 +292,7 @@ if not baik then return end
 Gigi Tajam Besar!
 Bekarton mengawal pintu tembok!
 Mmmf, mmf!
-Jangan beri makan alpukat kepada burung kakak tua!
+Jangan beri makan alpukat kepada burung nuri!
 Pedang untuk semua!
 Tolong balas ciapan saya!
 .party()!
@@ -325,11 +325,11 @@ Lari, pengecut! Saya lapar!
 Rasa tanpa bahan perasa!
 Asing, tapi bukan orang asing!
 Lebih keras daripada berlian, kaya seperti krim!
-It swings, it jives!
+Ia berayun, ia bergegar!
 bersiar-siar di jalanan untuk emas!
 Ambil pemukul telur dan ketuknya pada kuali!
 Buatkan saya sebuah meja, sebuah meja funky!
-Take the elevator to the mezzanine!
+Naiki lif ke mezanin!
 Berhenti bersikap wajar, ini adalah Internet!
 /give @a pelukan 64
 Ini amat baik untuk Realms.
@@ -390,7 +390,7 @@ Selamatkan dunia – duduk di rumah!
 Belikan barangan untuk orang tua anda!
 Bergaul dengan rakan anda secara dalam talian!
 Sayang, saya telah memperbesarkan lebah!
-Find your claw!
+Cari cakar anda!
 Semua orang lakukan Leif!
 <3 Max & 99 & Ducky!
 Bulu kening yang lebat!

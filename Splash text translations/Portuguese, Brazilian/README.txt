@@ -12,4 +12,4 @@ But wait! that doesn't work!
 
 
 Meu projeto tenta traduzir os textos não traduzidos no Minecraft, como mensagens de texto de abertura, créditos de jogo finais e outros.
-É um projeto simples da comunidade não afiliado à Mojang AB. Nem o próprio Minecraft, ele é admnistrado por um membro da comunidade.
+É um projeto simples da comunidade não afiliado à Mojang AB. Nem o próprio Minecraft, ele é administrado por um membro da comunidade.
