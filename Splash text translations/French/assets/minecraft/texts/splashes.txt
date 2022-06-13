@@ -65,10 +65,10 @@ Ceci n'est pas un écran-titre !
 Euclidien !
 Maintenant en 3D !
 Inspirant !
-Herregud!
-Complex cellular automata!
-Yes, sir!
-Played by cowboys!
+Herregud !
+Automates cellulaires complexes !
+Oui, monsieur !
+Joué par des cow-boys !
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
 Try it!
