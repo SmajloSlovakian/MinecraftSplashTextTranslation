@@ -38,7 +38,7 @@ C'est le must !
 Logiciel à source fermée !
 Chic !
 Waouh !
-Pas sur Steam !
+Pas sur steam !
 Oh mec !
 Communauté géniale !
 Des pixels !
@@ -116,11 +116,11 @@ Phobos anomaly !
 Frapper du bois !
 Tomber des falaises !
 1% de sucre !
-150% hyperbole!
-Synecdoche!
-Let's danec!
-Seecret Friday update!
-Reference implementation!
+150% d'hyperbole !
+Synecdoque !
+Dansosn !
+Mise à jour de seecret vendredi !
+Implémentation de référence !
 Kiss the sky!
 20 GOTO 10!
 Verlet intregration!
