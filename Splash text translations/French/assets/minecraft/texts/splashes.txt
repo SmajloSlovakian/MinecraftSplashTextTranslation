@@ -121,11 +121,11 @@ Synecdoque !
 Dansosn !
 Mise à jour de seecret vendredi !
 Implémentation de référence !
-Kiss the sky!
-20 GOTO 10!
-Verlet intregration!
-Peter Griffin!
-Do not distribute!
+Kiss the sky !
+20 GOTO 10 !
+Intrégration de Verlet !
+Peter Griffin !
+Ne distribuez pas !
 Cogito ergo sum!
 4815162342 lines of code!
 A skeleton popped out!
