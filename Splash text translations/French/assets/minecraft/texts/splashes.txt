@@ -1,139 +1,139 @@
 Vu à la télé !
-Incroyable !
+Génial !
 100% pur !
 Peut contenir des noix !
-Encore plus de polygones !
+Plus de polygones !
 Modérément attractif !
 Édition limitée !
 Des lettres clignotantes !
-C'est arrivé !
-Meilleur en classe !
-C'est fini !
-À peu près sans dragons !
+C'est ici !
+Crème de la crème !
+C'est fait !
+À peu près sans dragon !
 Excitation !
-Plus de 500 exemplaires vendus !
-Unique !
+Plus de 500 vendues !
+Un d'un genre !
 Des tas de succès sur YouTube !
 Indev !
 Des araignées partout !
-Découvrez-les !
-Holy cow, man!
-C'est un jeu!
-Made in Sweden!
-Utilise LWJGL!
-Reticulating splines!
-Minecraft!
-Yaaay!
-Singleplayer!
-Clavier compatible !
-Ingots!
-Exploding creepers!
-That's no moon!
-l33t!
-Créer!
-Survivre !
-Donjon!
-Exclusive!
-The bee's knees!
-Closed source!
-Classy!
-Wow!
-Pas sur steam
-Oh man!
-Superbe communauté !
-Pixels!
-Teetsuuuuoooo!
-Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
-90% bug free!
-Pretty!
-12 herbs and spices!
-Fat free!
-Absolutely no memes!
-Free dental!
-Ask your doctor!
-Minors welcome!
-Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
-Bringing home the bacon!
-Indie!
-GOTY!
-Ceci n'est pas une title screen!
-Euclidian!
-Now in 3D!
-Inspirational!
-Herregud!
-Complex cellular automata!
-Yes, sir!
-Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
-Age of Wonders is better!
-Try the mushroom stew!
-Sensational!
-Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
-Guaranteed!
-Macroscopic!
-Bring it on!
-Random splash!
-Call your mother!
-Monster infighting!
-Loved by millions!
-Ultimate edition!
-Freaky!
-You've got a brand new key!
-Water proof!
-Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
-NP is not in P!
-Music by C418!
-Livestreamed!
-Haunted!
-Polynomial!
-Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
-Collaborate and listen!
-Never dig down!
-Take frequent breaks!
-Not linear!
-Han shot first!
-Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
-sqrt(-1) love you!
-Phobos anomaly!
-Punching wood!
-Falling off cliffs!
-1 % de sucre !
-150% hyperbole!
-Synecdoche!
-Let's danec!
-Seecret Friday update!
-Reference implementation!
-Kiss the sky!
-20 GOTO 10!
-Verlet intregration!
-Peter Griffin!
-Do not distribute!
-Cogito ergo sum!
-4815162342 lines of code!
-A skeleton popped out!
-The sum of its parts!
-BTAF used to be good!
-I miss ADOM!
-umop-apisdn!
-OICU812!
+Jetez-y un coup d'œil !
+La vache, mec !
+C'est un jeu !
+Fabriqué en Suède !
+Utilise LWJGL !
+Réticulation des splines !
+Minecraft !
+Ouaaais !
+Solo !
+Compatibilité des claviers !
+Des lingots !
+Des explosions de Creepers !
+Ce n'est pas la lune !
+l33t !
+Créez !
+Survivez !
+Cachot !
+Exclusif !
+C'est le must !
+Logiciel à source fermée !
+Chic !
+Waouh !
+Pas sur steam !
+Oh mec !
+Communauté géniale !
+Des pixels !
+Teetsuuuuoooo !
+Kaaneeeedaaaa !
+Maintenant avec difficulté !
+Amélioré !
+90% sans bug !
+Joli !
+12 herbes et épices !
+Sans gras !
+Absolument aucuns mèmes !
+Des soins dentaires gratuits !
+Demandez à votre médecin généraliste !
+Bienvenue aux mineurs !
+Infonuagique !
+Légal en Finlande !
+Difficile d'étiqueter !
+Techniquement bon !
+Apporte l'argent !
+Indie !
+GOTY !
+Ceci n'est pas un écran-titre !
+Euclidien !
+Maintenant en 3D !
+Inspirant !
+Herregud !
+Automates cellulaires complexes !
+Oui, monsieur !
+Joué par des cow-boys !
+Maintenant sur profil central d'OpenGL 3.2 !
+Des milliers de couleurs !
+Essayez-le !
+Age of Wonders est meilleur !
+Essayez le ragoût de champignons !
+Sensationnel !
+Hot tamale, hot hot tamale !
+Joue-le, chat au clavier !
+Garanti !
+Macroscopique !
+Vas-y !
+Texte aléatoire d'accueil !
+Appelez votre mère !
+Combats internes de monstres !
+Aimé par des millions !
+Édition ultime !
+Bizarre !
+Vous avez une toute nouvelle clé !
+Résistant à l'eau !
+Ininflammable !
+Ouah, mec !
+Tout inclus !
+Informez vos amis !
+NP n'est pas en P !
+Musique par C418 !
+Diffusé en direct !
+Hanté !
+Polynomial !
+Terrestre !
+Tout est plein d'amour !
+Plein d'étoiles !
+Scientifique !
+Pas aussi cool que Spock !
+Collaborez et écoutez !
+Ne creusez jamais en bas !
+Faites des pauses fréquentes !
+Pas linéaire !
+Han a tiré d'abord !
+Enchanté(e) !
+Des seaux de lave !
+Montez le cochon !
+Plus grand que la Terre !
+sqrt(-1)2.71 vous aime !
+Phobos anomaly !
+Frapper du bois !
+Tomber des falaises !
+1% de sucre !
+150% d'hyperbole !
+Synecdoque !
+Dansosn !
+Mise à jour de seecret vendredi !
+Implémentation de référence !
+Kiss the sky !
+20 GOTO 10 !
+Intrégration de Verlet !
+Peter Griffin !
+Ne distribuez pas !
+Cogito ergo sum !
+4815162342 lignes de code !
+Un squelette a surgi !
+La somme de ses parties !
+BTAF était autrefois bon !
+ADOM me manque !
+snossǝp snssǝp suǝs !
+OICU812 !
 Bring me Ray Cokes!
 Finger-licking!
 Thematic!
