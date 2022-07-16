@@ -248,21 +248,21 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Şef Mimarlar",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Mimarlar\n",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Bedrock Yazılım Geliştirme Şefleri",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Bedrock Yazılım Geliştirme",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,21 +362,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Web Geliştirici Şefleri",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Realms Yazılım Mühendisleri",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Sistem Mühendis şefleri",
                 "names": [
                     "Robert Sjödahl",
                     "Pär Axelsson",
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Yazılım Servisi Mühendisleri",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Mühendislik Yönetimi",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -435,13 +435,13 @@
         "section": "Ses",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Ses Yönetmeni",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Ses Tasarımcıları",
                 "names": [
                     "Daniel Rosenfeld",
                     "Johan Pettersson",
