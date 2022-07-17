@@ -18,11 +18,11 @@ Indev !
 Araignées partout !
 Jetez-y un coup d'œil !
 La vache, mec !
-C'est un jeu !
+C'est un jeu !
 Fabriqué en Suède !
-Utilise LWJGL !
+Utilise LWJGL !
 Réticulation des splines !
-Minecraft !
+Minecraft !
 Ouaaais !
 Solo !
 Compatibilité des claviers !
