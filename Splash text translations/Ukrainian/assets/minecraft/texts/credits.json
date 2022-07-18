@@ -9,7 +9,7 @@
                 ]
             },
             {
-                "title": "Head of Stockholm Studio",
+                "title": "Керівник Стокгольмської студії",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -20,21 +20,21 @@
         "section": "Дизайн",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "Головні креативні керівники",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "Директори гри",
                 "names": [
                     "Agnes Larsson",
                     "Måns Olson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Творчий директор",
                 "names": [
                     "Jesse Merriam",
                     "Magnus Nedfors",
@@ -42,26 +42,26 @@
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "Головний директор з дизайну",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Principal Design Manager",
+                "title": "Головний менеджер з дизайну",
                 "names": [
                     "Michael Harnisch"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Провідні дизайнери ігор",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Дизайнери гри",
                 "names": [
                     "Art Usher",
                     "Brandon Pearce",
@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Директор оповідання",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Дизайнер оповідання",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "Менеджер з дизайну",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -98,41 +98,41 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Програмування",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Головний технічний директор",
                 "names": [
                     "Michael W Weilbacher",
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Керівник служби та інженерії операцій",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Керівник ігрової інженерії",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Керівник інженерної розробки платформи",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Директор з якості франшизи",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Технічний директор",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Головні розробники гри",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Розробники гри",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Головні розробники UI",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Розробники UI",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Розробники програми запуску",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -248,21 +248,21 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Головні архітектори",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Архітектори",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Головні розробники програмного забезпечення Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Розробники програмного забезпечення Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,21 +362,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Головні веб-розробники",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Інженери програмного забезпечення Realms",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Головні системні інженери",
                 "names": [
                     "Robert Sjödahl",
                     "Pär Axelsson",
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Інженери програмного забезпечення сервісу",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Інженерні менеджери",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -432,16 +432,16 @@
         ]
     },
     {
-        "section": "Audio",
+        "section": "Звук",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Аудіорежисер",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Звукові дизайнери",
                 "names": [
                     "Daniel Rosenfeld",
                     "Johan Pettersson",
@@ -451,7 +451,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Музику склав",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kumi Tanioka",
@@ -461,10 +461,10 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Візуальні художники",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Художні директори",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Головні виконавці",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -484,7 +484,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Виконавці",
                 "names": [
                     "Aleesa Tana (Randstad)",
                     "Andrea Sanchez Sepulveda (Randstad)",
@@ -508,20 +508,20 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "3D Виконавці",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Графічні художники",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Графічні дизайнери",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "Дизайнери анімаційної графіки",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Аніматор",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
