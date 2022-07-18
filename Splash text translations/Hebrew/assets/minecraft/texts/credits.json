@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "מפתחי ממשק המשתמש",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -248,14 +248,14 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "אדריכלים ראשיים",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "אדריכלים",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
@@ -515,13 +515,13 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "אמנים גרפיים",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "מעצבים גרפיים",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "מעצבי גרפיקות תנועה",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "אנימטור",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -626,7 +626,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "מפיקים",
                 "names": [
                     "Aaron Culbreth (Insight Global, Inc)",
                     "Adrian Östergård",
@@ -723,7 +723,7 @@
         "section": "Brand Creative",
         "titles": [
             {
-                "title": "Creative Director",
+                "title": "במאי יצירתי",
                 "names": [
                     "Markus Toivonen"
                 ]
@@ -743,7 +743,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "מפיקים",
                 "names": [
                     "Adele Major",
                     "Charlotte Angantyr",
@@ -768,7 +768,7 @@
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "מפיקים אומנותיים",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -783,14 +783,14 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "אמנים",
                 "names": [
                     "Morten Rasmussen",
                     "Markus Frost"
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "מעצבים גרפיים",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
@@ -808,7 +808,7 @@
                 ]
             },
             {
-                "title": "Product Designers",
+                "title": "מעצבי מוצר",
                 "names": [
                     "Adrian Ward",
                     "Débora Martins",
