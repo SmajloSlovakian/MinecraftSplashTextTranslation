@@ -5,7 +5,7 @@ Peut contenir des noix !
 Plus de polygones !
 Modérément attractif !
 Édition limitée !
-Des lettres clignotantes !
+Lettres clignotantes !
 C'est ici !
 Crème de la crème !
 C'est fait !
@@ -13,21 +13,21 @@ C'est fait !
 Excitation !
 Plus de 500 vendues !
 Un d'un genre !
-Des tas de succès sur YouTube !
+Tas de succès sur YouTube !
 Indev !
-Des araignées partout !
+Araignées partout !
 Jetez-y un coup d'œil !
 La vache, mec !
-C'est un jeu !
+C'est un jeu !
 Fabriqué en Suède !
-Utilise LWJGL !
+Utilise LWJGL !
 Réticulation des splines !
-Minecraft !
-Ouaaais !
+Minecraft !
+Youpiii !
 Solo !
 Compatibilité des claviers !
-Des lingots !
-Des explosions de Creepers !
+Lingots !
+Explosions de Creepers !
 Ce n'est pas la lune !
 l33t !
 Créez !
@@ -41,7 +41,7 @@ Waouh !
 Pas sur steam !
 Oh mec !
 Communauté géniale !
-Des pixels !
+Pixels !
 Teetsuuuuoooo !
 Kaaneeeedaaaa !
 Maintenant avec difficulté !
@@ -51,7 +51,7 @@ Joli !
 12 herbes et épices !
 Sans gras !
 Absolument aucuns mèmes !
-Des soins dentaires gratuits !
+Soins dentaires gratuits !
 Demandez à votre médecin généraliste !
 Bienvenue aux mineurs !
 Infonuagique !
@@ -70,7 +70,7 @@ Automates cellulaires complexes !
 Oui, monsieur !
 Joué par des cow-boys !
 Maintenant sur profil central d'OpenGL 3.2 !
-Des milliers de couleurs !
+Milliers de couleurs !
 Essayez-le !
 Age of Wonders est meilleur !
 Essayez le ragoût de champignons !
@@ -89,7 +89,7 @@ Bizarre !
 Vous avez une toute nouvelle clé !
 Résistant à l'eau !
 Ininflammable !
-Ouah, mec !
+Ho, mec !
 Tout inclus !
 Informez vos amis !
 NP n'est pas en P !
@@ -108,7 +108,7 @@ Faites des pauses fréquentes !
 Pas linéaire !
 Han a tiré d'abord !
 Enchanté(e) !
-Des seaux de lave !
+Seaux de lave !
 Montez le cochon !
 Plus grand que la Terre !
 sqrt(-1)2.71 vous aime !
@@ -119,7 +119,7 @@ Tomber des falaises !
 150% d'hyperbole !
 Synecdoque !
 Dansosn !
-Mise à jour de seecret vendredi !
+Mise à jour de vendredi seecret !
 Implémentation de référence !
 Kiss the sky !
 20 GOTO 10 !
@@ -132,57 +132,57 @@ Un squelette a surgi !
 La somme de ses parties !
 BTAF était autrefois bon !
 ADOM me manque !
-snossǝp snssǝp suǝs !
-OICU812 !
-Bring me Ray Cokes!
-Finger-licking!
-Thematic!
-Pneumatic!
-Sublime!
-Octagonal!
-Une baguette!
-Gargamel plays it!
-Rita is the new top dog!
-SWM forever!
-Representing Edsbyn!
-Matt Damon!
-Supercalifragilisticexpialidocious!
-Consummate V's!
-Cow Tools!
-Double buffered!
-Fan fiction!
-Flaxkikare!
-Jason! Jason! Jason!
-Hotter than the sun!
-Internet enabled!
-Autonomous!
-Engage!
-Fantasy!
-DRR! DRR! DRR!
-Kick it root down!
-Regional resources!
-Woo, facepunch!
-Woo, somethingawful!
-Woo, tigsource!
-Woo, worldofminecraft!
-Woo, reddit!
-Woo, 2pp!
-Google anlyticsed!
-Now supports åäö!
-Give us Gordon!
-Tip your waiter!
-Very fun!
-12345 is a bad password!
-Vote for net neutrality!
-Lives in a pineapple under the sea!
-MAP11 has two names!
-Omnipotent!
-Gasp!
-...!
-Bees, bees, bees, bees!
-Jag känner en bot!
-This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Haha, LOL!
+snossap snssap suas !
+OT1AM1G1OC !
+Apporte-moi des Ray Cokes !
+À s'en lécher les doigts !
+Thématique !
+Pneumatique !
+Sublime !
+Octogonal !
+Une baguette !
+Gargamel le joue !
+Rita est le nouveau boss !
+SWM pour toujours !
+Représenter Edsbyn !
+Matt Damon !
+Supercalifragilisticexpidelilicieux !
+V's consommés !
+Outils de vache !
+À double tampon !
+Fanfiction !
+Flaxkikare !
+Jason ! Jason ! Jason !
+Plus chaud que le soleil !
+À accès Internet !
+Autonome !
+Jouez !
+Fantasy !
+DRR ! DRR ! DRR !
+Donnez-le un coup de pied à la racine !
+Ressources régionales !
+Ouais, facepunch !
+Ouais, somethingawful !
+Ouais, tigsource !
+Ouais, worldofminecraft !
+Ouais, reddit !
+Ouais, 2pp !
+Google analyticsé !
+Supporte désormais åäö !
+Donnez-nous Gordon !
+Donnez un pourboire à votre serveur !
+Très amusant !
+12345 est un mauvais mot de passe !
+Votez pour neutralité du réseau !
+Vit dans un ananas dans la mer !
+MAP11 a deux noms !
+Omnipotent !
+Quelle surprise !
+... !
+Abeilles, abeilles, abeilles, abeilles !
+Jag känner en bot !
+Ce texte est dur à lire si vous jouez au jeu à la résolution par défaut, mais à 1080p c'est bien !
+Haha, MDR !
 Hampsterdance!
 Menger sponge!
 idspispopd!
@@ -235,7 +235,7 @@ Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
 That's super!
-Bread is pain!
+Lunettes sont spectacles !
 Read more books!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!

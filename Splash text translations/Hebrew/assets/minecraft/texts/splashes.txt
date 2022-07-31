@@ -159,7 +159,7 @@ Hotter than the sun!
 Internet enabled!
 Autonomous!
 Engage!
-Fantasy!
+פנטזיה!
 DRR! DRR! DRR!
 Kick it root down!
 Regional resources!
@@ -174,7 +174,7 @@ Now supports åäö!
 Give us Gordon!
 תן תשר למלצר שלך!
 מאוד כיף!
-12345 is a bad password!
+12345 זאת סיסמה רעה!
 Vote for net neutrality!
 חי באננס מתחת לים!
 MAP11 has two names!
@@ -237,7 +237,7 @@ Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
 That's super!
-Bread is pain!
+לחם זה כאב!
 Read more books!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
@@ -247,7 +247,8 @@ Millions of peaches!
 Fnord!
 This is my true form!
 Don't bother with the clones!
-Pumpkinhead!
+ראש דלעת!
+
 Made by Jeb!
 Has an ending!
 Finally complete!
@@ -269,7 +270,7 @@ Got your nose!
 Haley loves Elan!
 Afraid of the big, black bat!
 Doesn't use the U-word!
-Child's play!
+משחק ילדים!
 See you next Friday or so!
 From the streets of Södermalm!
 150 bpm for 400000 minutes!
@@ -333,9 +334,9 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
+give @a hugs 64/
 This is good for Realms.
-Any computer is a laptop if you're brave enough!
+כל מחשב הוא לפטופ אם אתה אמיץ מספיק!
 Do it all, everything!
 Where there is not light, there can spider!
 GNU Terry Pratchett
@@ -361,13 +362,13 @@ Truly gone fishing!
 Rainbow turtle?
 Something funny!
 I need more context.
-Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
+אהההההה!
+אל תדאג, תהיה שמח!
+בקבוק מים!
 What's the question?
 Plant a tree!
 Go to the dentist!
-What do you expect?
+מה אתה מצפה?
 Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!

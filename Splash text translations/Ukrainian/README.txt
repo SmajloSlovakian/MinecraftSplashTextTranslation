@@ -1,15 +1,15 @@
-This project was created by SmajloSlovakian#1077 (you cannot send me friend req if you are complete stranger to me)
+Цей проєкт був створений SmajloSlovakian#1077 (ви не можете надіслати мені запит про дружбу, якщо ви мені абсолютно незнайомі)
 
-How do I add this pack to Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
-  Resource Packs and pick the pack which has just appeared.
+Як додати цей пакет до Minecraft?
+- Додайте папку, яку ви щойно відкрили, до папки "\Appdata\Roaming\.minecraft\resourcepacks\", перейдіть у Minecraft, налаштування, 
+  Пакети ресурсів і виберіть пакет, який щойно з’явився.
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Resource packs folder..."
+Як потрапити в папку resourcepacks?
+-Відкрийте Minecraft, перейдіть у налаштування, пакети ресурсів, перетягніть пакет ресурсів у вікно Minecraft...
+Але зачекайте! Це не працює!
+-Натисніть кнопку під назвою "Папки ресурсів..."
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+Мій проєкт намагається перекласти неперекладені тексти в Minecraft, такі як текстові повідомлення, титри в кінці гри та інші.
+Це простий проєкт спільноти, не пов’язаний з Mojang AB. не сам Minecraft, оскільки ним керує член спільноти.

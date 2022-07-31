@@ -1,13 +1,13 @@
 Este projeto foi criado por SmajloSlovakian#1077 (você não pode me enviar um pedido de amizade se você é completamente estranho para mim)
 
 Como eu adiciono este pacote para o Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
-  Resource Packs and pick the pack which has just appeared.
+-Adicione a pasta que você acabou de abrir à sua pasta "\Appdata\Roaming\.minecraft\resourcepacks\", entre no Minecraft, opções, 
+   pacotes de recursos e escolha o pacote que acabou de aparecer.
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Resource packs folder..."
+Como entro na pasta de pacote de recursos?
+-Abra o Minecraft, vá em opções, pacotes de recursos, arraste e solte o pacote de recursos na janela do Minecraft...
+Mas espere! isso não funcionou!
+-Clique em um botão chamado "Abrir pasta de pacotes"
 
 
 
