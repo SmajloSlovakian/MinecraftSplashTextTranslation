@@ -3,13 +3,13 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "Chef de Minecraft",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Head of Stockholm Studio",
+                "title": "Chef du Studio de Stockholm",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -20,7 +20,7 @@
         "section": "Design",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "Directeur de la création",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
@@ -34,7 +34,7 @@
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Directeur artistique",
                 "names": [
                     "Jesse Merriam",
                     "Magnus Nedfors",
@@ -435,13 +435,13 @@
         "section": "Audio",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Directeur du son",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Designer sonore",
                 "names": [
                     "Daniel Rosenfeld",
                     "Johan Pettersson",
@@ -451,7 +451,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Musique composée par",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kumi Tanioka",
@@ -484,7 +484,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artistes",
                 "names": [
                     "Aleesa Tana (Randstad)",
                     "Andrea Sanchez Sepulveda (Randstad)",
@@ -508,7 +508,7 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "Artistes 3D",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
@@ -521,7 +521,7 @@
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Graphiste",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -537,7 +537,7 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animateur",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
@@ -1444,7 +1444,7 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Finances",
         "titles": [
             {
                 "title": "Finance Director",
