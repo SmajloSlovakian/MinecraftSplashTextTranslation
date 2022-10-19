@@ -219,67 +219,67 @@ So fresh, so clean!
 Непереможний!
 Схоже на гру "Lemmings"!
 Слідуй за потягом, СіДжей! 
-Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
-DungeonQuest is unfair!
-90210!
-Check out the far lands!
-Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
-Khaaaaaaaaan!
-Less addictive than TV Tropes!
-More addictive than lemonade!
-Bigger than a bread box!
-Millions of peaches!
-Fnord!
-This is my true form!
-Don't bother with the clones!
-Pumpkinhead!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Feature packed!
-Boots with the fur!
-Stop, hammertime!
-Testificates!
-Conventional!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
-Place ALL the blocks!
-Does barrel rolls!
-Meeting expectations!
-PC gaming since 1873!
-Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
-Got your nose!
-Haley loves Elan!
-Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
-Technologic!
+Не тупи!
+Це повідомлення ніколи не з'являться на екрані, хіба не дивно?
+Гра "DungeonQuest" несправедлива!
+01001!
+Відвідайте далекі землі!
+Тиріону сподобається!
+Зіграйте в "VVVVVV"!
+Зіграйте в "Super Meat Boy"!
+Зіграйте в "Terraria"!
+Зіграйте в "Mount And Blade"!
+Зіграйте в "Project Zomboid"!
+Зіграйте в "World of Goo"!
+Зіграйте в "Also try Limbo"!
+Зіграйте в "Pixeljunk Shooter"!
+Зіграйте в "Braid"!
+Офігезно!
+Хліб – усьому голова
+Читайте більше книг!
+Хаааааааааан!
+95 квартал затягує!
+Звикаєш швидше ніж до лимонаду!
+Більша ніж кошик для хліба!
+Мільйони персиків!
+Фнорд!
+Ось хто я!
+Не хвилюйтесь щодо клонів!
+Гарбузоголовий!
+Створено Джебом!
+Має кінцівку!
+Нарешті завершений!
+Далі буде!
+Чоботи з хутром!
+Коли настане день!
+Врозробці!
+Звичайнісьнький!
+Гомеоморфізм до 3 сфери!
+Не уникайте подвійних від'ємних значень!
+Розмістити ВСІ блоки!
+Зроби сальто!
+Очікування зустрічі!
+Граємо в ігри з 1873!
+Святі картопляні чипси!
+Дежавю!
+Дежавю!
+Я вкрав твій носик!
+Гейлі обожнює Ілана!
+Стережись, великого, чорного кажана!
+Не використовуй слово на "Р"!
+Дитячі забавки!
+Побачимося наступної п'ятниці!
+З вулиць Судермалу!
+150 ударів на 400000 хвилин!
+Технології!
 Funk soul brother!
-Pumpa kungen!
+Геть здурів!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привіт, росія
+Привіт, Україно!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
