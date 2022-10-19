@@ -300,42 +300,42 @@ Lennart lennart = new Lennart();
 Поклади печиво!
 Досить страшно!
 В мене пропозиція.
-Now with extra hugs!
+Тепер з обіймами!
 Java 16 + 1 = 17!
 Ого.
 СЕЛЯНИН?
-What's up, Doc?
-Now contains 32 random daily cats!
+Як справи, Док?
+Тепер має 32 випадкових щоденних котів!
 Це Numberwang!
 пж твітни
 Приєднаєшся до сервера?
-Put a little fence around it!
-Throw a blanket over it!
+Постав трохи огорожі навколо нього!
+Накинь на неї ковдру!
 Одного дня, десь в майбутньому, мої переклади будуть затверджені!
-Now with additional stuff!
-Extra things!
+Тепер з додатковими речами!
+Додаткові речі!
 Єє, цуценята на всіх!
 Солодко, як цукрова вата!
-Very influential in its circle!
+Дуже впливовий у своєму колі!
 З Мультиплеєром!
 Вилізь з могили!
 Увага! Величезний бойовий корабель "СТІВ" наближається швидко!
 Синій воїн застрелив їжу!
-Run, coward! I hunger!
-Flavor with no seasoning!
-Strange, but not a stranger!
-Tougher than diamonds, rich like cream!
-It swings, it jives!
-Cruising streets for gold!
+Біжи, боягуз! Я голодний!
+Аромат без сезону!
+Дивний, але не дивніше!
+Жорсткіше за діаманти, багаті як вершки!
+Він ковтає, п'є!
+Круїзи вулиць за золото!
 Take an eggbeater and beat it against a skillet!
-Make me a table, a funky table!
+Зробіть мене столиком, ще й кумедним!
 Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
+Годі бути розсудливим, це ж інтернет!
 /give @a hugs 64
-This is good for Realms.
-Any computer is a laptop if you're brave enough!
-Do it all, everything!
-Where there is not light, there can spider!
+Хороше для Realms.
+Будь-який комп'ютер є ноутбуком, якщо ви достатньо хоробрий!
+Зроби все, взагалі!
+Де немає світла, там може бути павук!
 GNU Terry Pratchett
 More Digital!
 doot doot
@@ -343,7 +343,7 @@ doot doot
 Там не зупиняти Trollmaso
 Впади на землю та пропади
 Правило #1: це не мої проблеми
-Replaced molten cheese with blood?
+Замінений розплавлений сир з кров'ю?
 Повністю виправлені відносно зламані координати
 Човни На Фініш
 Javalicious edition
@@ -351,39 +351,39 @@ Javalicious edition
 Надто швидко!
 Не давай шоколад папугам!
 The true meaning of covfefe
-Ілюзія! What are you hiding?
-Something's not quite right...
-Thank you for the fish!
-All rumors are true!
-Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
+Ілюзія! Що ховаємо?
+Щось тут не те...
+Дякую за рибину!
+Всі чутки правдиві!
+Пішов рибалити!
+Веселкова черепаха?
+Щось смішне!
+Треба більше контексту.
 Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
-Look mum, I'm in a splash!
-It came from space.
-Awesome game design right there!
-Ph1lza had a good run!
-10 years of Mining and Crafting!
-Ping the human!
-In case it isn't obvious, foxes aren't players.
-Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
-Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
-Cough or sneeze into your elbow!
-Don’t touch your face!
-Support elderly relatives and friends!
+Не хвилюйся, будь щасливим!
+Пляшка води!
+В чому питання?
+Посади дерево!
+Сходи до стоматолога!
+На що ти чекав?
+Мамо, я біля лого!
+Прийшло з космосу.
+Чудовий дизайн гри прямо тут!
+Ph1lza, непоганий забіг!
+10 років роботи та ремесла!
+Відміть людину!
+У разі, якщо це не очевидно, лисиці не гравці.
+Дзззвінкі бджоли!
+Minecraft Java Edition презентує: Огидні Баги
+Мий руки!
+Мило з водою!
+Підтримай місцеві бізнеси!
+Залишайся вдома і грай!
+Залишайся у безпеці!
+Залишайся сильним!
+Кашляйте чи чхайте до ліктя!
+Не чіпай обличчя!
+Допомагай дальним родичам та друзям!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
 Save the world – stay inside!
