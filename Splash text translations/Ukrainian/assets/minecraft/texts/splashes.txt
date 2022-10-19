@@ -281,46 +281,46 @@ Cześć Polsko!
 你好中国！
 Привіт, Україно!
 Γεια σου Ελλάδα!  (Вітаю, Греція!)
-My life for Aiur!
+Моє життя за Айура!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
+Я бачу, що твій словник покращився!
 Хто це залишив?
 Ти не поясниш це!
-if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+якщо не так тоді на кінець
+§1Г§2і§3р§4л§5я§6н§7д§8а§9!§a!
 §kЗЛЯКАВСЯ)
-Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
+Великі Випираючі Зуби!
+Бекартон захищає ворота!
+Стогни, клас!
+Не давай авокадо папугам!
+Меч для кожного!
+Пж, відповідь на мій твіт!
 .свято()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
+Візьми її подушку!
+Поклади печиво!
+Досить страшно!
+В мене пропозиція.
 Now with extra hugs!
 Java 16 + 1 = 17!
-Woah.
-HURNERJSGER?
+Ого.
+СЕЛЯНИН?
 What's up, Doc?
 Now contains 32 random daily cats!
-That's Numberwang!
-pls rt
-Do you want to join my server?
+Це Numberwang!
+пж твітни
+Приєднаєшся до сервера?
 Put a little fence around it!
 Throw a blanket over it!
-One day, somewhere in the future, my work will be quoted!
+Одного дня, десь в майбутньому, мої переклади будуть затверджені!
 Now with additional stuff!
 Extra things!
-Yay, puppies for everyone!
-So sweet, like a nice bon bon!
+Єє, цуценята на всіх!
+Солодко, як цукрова вата!
 Very influential in its circle!
-Now With Multiplayer!
-Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
+З Мультиплеєром!
+Вилізь з могили!
+Увага! Величезний бойовий корабель "СТІВ" наближається швидко!
+Синій воїн застрелив їжу!
 Run, coward! I hunger!
 Flavor with no seasoning!
 Strange, but not a stranger!
@@ -339,19 +339,19 @@ Where there is not light, there can spider!
 GNU Terry Pratchett
 More Digital!
 doot doot
-Falling with style!
-There's no stopping the Trollmaso
-Throw yourself at the ground and miss
-Rule #1: it's never my fault
+Падай стильно!
+Там не зупиняти Trollmaso
+Впади на землю та пропади
+Правило #1: це не мої проблеми
 Replaced molten cheese with blood?
-Absolutely fixed relatively broken coordinates
-Boats FTW
+Повністю виправлені відносно зламані координати
+Човни На Фініш
 Javalicious edition
-Should not be played while driving
-You're going too fast!
-Don't feed chocolate to parrots!
+Не грати під час водіння
+Надто швидко!
+Не давай шоколад папугам!
 The true meaning of covfefe
-An illusion! What are you hiding?
+Ілюзія! What are you hiding?
 Something's not quite right...
 Thank you for the fish!
 All rumors are true!
