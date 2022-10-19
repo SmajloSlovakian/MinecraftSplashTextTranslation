@@ -280,22 +280,22 @@ Helo Cymru!
 Cześć Polsko!
 你好中国！
 Привіт, Україно!
-Γεια σου Ελλάδα!
+Γεια σου Ελλάδα!  (Вітаю, Греція!)
 My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Хто це залишив?
+Ти не поясниш це!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
-§kFUNKY LOL
+§kЗЛЯКАВСЯ)
 Big Pointy Teeth!
 Bekarton guards the gate!
 Mmmph, mmph!
 Don't feed avocados to parrots!
 Swords for everyone!
 Plz reply to my tweet!
-.party()!
+.свято()!
 Take her pillow!
 Put that cookie down!
 Pretty scary!
