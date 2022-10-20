@@ -1597,7 +1597,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Партнери по тестуванню",
                 "names": [
                     "Austin Keeling (Experis)",
                     "Chris Youngs (Experis)",
@@ -1613,7 +1613,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Особлива подяка",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -1637,7 +1637,7 @@
         ]
     },
     {
-        "section": "Special Thanks",
+        "section": "Особлива подяка",
         "titles": [
             {
                 "title": "",
@@ -1659,34 +1659,34 @@
         ]
     },
     {
-        "section": "Development Partner: Lionbridge Quality - Poland Team",
+        "section": "Партнер розвитку: \"Lionbridge\" - Польська команда",
         "titles": [
             {
-                "title": "Test Director",
+                "title": "Директор тестування",
                 "names": [
                     "Michał Błoński (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Global Test Manager",
+                "title": "Старший глобальний менеджер з тестування",
                 "names": [
                     "Grzegorz Kohorewicz (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Test Manager",
+                "title": "Старший менеджер з тестування",
                 "names": [
                     "Mateusz Kałuża (Lionbridge)"
                 ]
             },
             {
-                "title": "Test Leads",
+                "title": "Головний по тестуванню",
                 "names": [
                     "Beata Jastrzębska (Lionbridge)"
                 ]
             },
             {
-                "title": "Team Leads",
+                "title": "Головні програмісти",
                 "names": [
                     "Kamil Kostrzewa (Lionbridge)",
                     "Michał Sławek (Lionbridge)",
@@ -1696,13 +1696,13 @@
                 ]
             },
             {
-                "title": "Compliance Leads",
+                "title": "Головні фахівці",
                 "names": [
                     "Łukasz Mikusek (Lionbridge)"
                 ]
             },
             {
-                "title": "Software Test Engineers",
+                "title": "Інженери з тестування програмного забезпечення",
                 "names": [
                     "Adam Rączkowski (Lionbridge)",
                     "Iwona Cieśla (Lionbridge)",
@@ -1727,7 +1727,7 @@
                 ]
             },
             {
-                "title": "Compliance Software Test Engineers",
+                "title": "Інженери-фахівці з тестування програмного забезпечення",
                 "names": [
                     "Adam Ronowski (Lionbridge)",
                     "Maciej Rodak (Lionbridge)",
@@ -1737,7 +1737,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Партнери по тестуванню",
                 "names": [
                     "Adam Krasieńko (Lionbridge)",
                     "Adam Sołtanowski (Lionbridge)",
@@ -1860,7 +1860,7 @@
                 ]
             },
             {
-                "title": "Compliance Test Associates",
+                "title": "Партнери-фахівці по тестуванню",
                 "names": [
                     "Adam Czajkowski (Lionbridge)",
                     "Arkadiusz Grzesiński (Lionbridge)",
@@ -1879,7 +1879,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Особлива подяка",
                 "names": [
                     "Dariusz Sokołowski (Lionbridge)",
                     "Evan Wright (Lionbridge)",
@@ -1893,23 +1893,23 @@
         ]
     },
     {
-        "section": "Quality - UK Team",
+        "section": "Команда якості - Великобританія",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Менеджер тестування",
                 "names": [
                     "Richard H. Jones (Lionbridge)"
                 ]
             },
             {
-                "title": "Compliance Test Engineer",
+                "title": "Інженер-фахівець з тестування",
                 "names": [
                     "Lee-Roy Dunn (Lionbridge)",
                     "Nick Dorsett (Lionbridge)"
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Обробка даних",
                 "names": [
                     "Patrick Fraioli"
                 ]
@@ -1917,10 +1917,10 @@
         ]
     },
     {
-        "section": "Development Partner: BBI",
+        "section": "Партнер розвитку: \"BBI\"",
         "titles": [
             {
-                "title": "Programmer",
+                "title": "Програміст",
                 "names": [
                     "Curtis Hodgins",
                     "Devon Plourde",
@@ -1929,25 +1929,25 @@
                 ]
             },
             {
-                "title": "Associate Programmer",
+                "title": "Помічник програміста",
                 "names": [
                     "Jacky Cai"
                 ]
             },
             {
-                "title": "UI Artist",
+                "title": "Художник інтерфейсу",
                 "names": [
                     "Richelle Brunt"
                 ]
             },
             {
-                "title": "UX Designer",
+                "title": "UX дизайнер",
                 "names": [
                     "Sam Flores"
                 ]
             },
             {
-                "title": "QA Analyst",
+                "title": "QA аналітик",
                 "names": [
                     "Jamie Cheung",
                     "Paul Pera"
@@ -1956,34 +1956,34 @@
         ]
     },
     {
-        "section": "Development Partner: Disbelief",
+        "section": "Партнер із розробки: \"Disbelief\"",
         "titles": [
             {
-                "title": "President",
+                "title": "Президент",
                 "names": [
                     "Steve Ellmore"
                 ]
             },
             {
-                "title": "CTO",
+                "title": "Технічний директор",
                 "names": [
                     "Steve Anichini"
                 ]
             },
             {
-                "title": "Senior Programmer",
+                "title": "Старший програміст",
                 "names": [
                     "Tim Hagberg"
                 ]
             },
             {
-                "title": "Programmer",
+                "title": "Програміст",
                 "names": [
                     "Eric Nguyen"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Продюсер",
                 "names": [
                     "Grue Robinson"
                 ]
@@ -1991,7 +1991,7 @@
         ]
     },
     {
-        "section": "Development Partner: Skybox",
+        "section": "Партнер із розробки: \"Skybox\"",
         "titles": [
             {
                 "title": "",
@@ -2081,48 +2081,48 @@
         ]
     },
     {
-        "section": "Development Partner: Red Lens Games",
+        "section": "Партнер із розробки: \"Red Lens Games\"",
         "titles": [
             {
-                "title": "President",
+                "title": "Президент",
                 "names": [
                     "Jared Noftle"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Продюсер",
                 "names": [
                     "Nova Barlow"
                 ]
             },
             {
-                "title": "Engineering Director",
+                "title": "Інженерний директор",
                 "names": [
                     "Kyle Walsh"
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Керівник проєкту",
                 "names": [
                     "Allie Murdock"
                 ]
             },
             {
-                "title": "Dev Lead",
+                "title": "Головний розробник",
                 "names": [
                     "Arend Danielek",
                     "Steve Chiavelli"
                 ]
             },
             {
-                "title": "Tech Lead",
+                "title": "Головний технічний розробник",
                 "names": [
                     "Nathan Carlson",
                     "Ryan Edgemon"
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Інженери програмного забезпечення",
                 "names": [
                     "Alan Nelson",
                     "Alex Green",
@@ -2140,10 +2140,10 @@
         ]
     },
     {
-        "section": "Development Partner: Virtuosity",
+        "section": "Партнер із розробки: \"Virtuosity\"",
         "titles": [
             {
-                "title": "Game Developers",
+                "title": "Розробники гри",
                 "names": [
                     "Aishwarya Jayabal (Virtuosity)",
                     "Ganesh Sethy (Virtuosity)",
@@ -2164,7 +2164,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Продюсери",
                 "names": [
                     "Chokkalingam Ramu Kuppaswamy (Virtuosity)"
                 ]
@@ -2175,37 +2175,37 @@
         "section": "Mojang Alumni",
         "titles": [
             {
-                "title": "Original Creator of Minecraft",
+                "title": "Оригінальний творець Minecraft",
                 "names": [
                     "Markus Persson"
                 ]
             },
             {
-                "title": "Head of Minecraft",
+                "title": "Керівник Minecraft",
                 "names": [
                     "Matt Booty"
                 ]
             },
             {
-                "title": "Head of Minecraft Atlas",
+                "title": "Глава Minecraft Atlas",
                 "names": [
                     "Deirdre Quarnstrom"
                 ]
             },
             {
-                "title": "Chief Executive Officer",
+                "title": "Головний виконавчий директор",
                 "names": [
                     "Carl Manneh"
                 ]
             },
             {
-                "title": "Chief Finance Officer",
+                "title": "Головний фінансовий директор",
                 "names": [
                     "Karin Severinson"
                 ]
             },
             {
-                "title": "Chief Product Officer",
+                "title": "Головний спеціаліст із продукції",
                 "names": [
                     "Olof Carlson Sandvik"
                 ]
@@ -2572,26 +2572,26 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Моушен-дизайнер",
                 "names": [
                     "Gabe Philbin (Randstad)"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Звукорежисери",
                 "names": [
                     "Kevin Martinez",
                     "Shauny Jang (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Executive Producer",
+                "title": "Виконавчий продюсер",
                 "names": [
                     "Erin Krell"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Продюсери",
                 "names": [
                     "Alen Voljevica",
                     "Anna Holdosi-Simon",
@@ -2629,19 +2629,19 @@
                 ]
             },
             {
-                "title": "Crganizational Coaches",
+                "title": "Організаційні тренери",
                 "names": [
                     "Marie Stålkrantz"
                 ]
             },
             {
-                "title": "Assistant Producer",
+                "title": "Асистент продюсера",
                 "names": [
                     "Warren Loo"
                 ]
             },
             {
-                "title": "Release Manager",
+                "title": "Менеджер релізу",
                 "names": [
                     "Brogan Irwin (Virtuosity)",
                     "Dustin Wood (Design Laboratory, Inc)",
@@ -2649,51 +2649,51 @@
                 ]
             },
             {
-                "title": "Merchandise Art Director",
+                "title": "Артдиректор мерчендайзингу",
                 "names": [
                     "Alexis Holmqvist"
                 ]
             },
             {
-                "title": "Technical Writer",
+                "title": "Технічний письменник",
                 "names": [
                     "Jeff Kim (Insight Global, Inc)",
                     "Nate Mackie (TEKsystems, Inc)"
                 ]
             },
             {
-                "title": "Product Designer",
+                "title": "Дизайнер продукту",
                 "names": [
                     "Jennifer Hammervald"
                 ]
             },
             {
-                "title": "Head of Creative Communications",
+                "title": "Керівник відділу креативних комунікацій",
                 "names": [
                     "Thomas Wiborgh"
                 ]
             },
             {
-                "title": "Director of Brand",
+                "title": "Директор бренду",
                 "names": [
                     "Jonathan Symington"
                 ]
             },
             {
-                "title": "Head of Creative Production",
+                "title": "Керівник креативного виробництва",
                 "names": [
                     "Katharina Hautz"
                 ]
             },
             {
-                "title": "User Experience Design Director",
+                "title": "Директор з дизайну взаємодії з користувачем",
                 "names": [
                     "Stephen Whetstine",
                     "Tobias Ahlin"
                 ]
             },
             {
-                "title": "User Experience Designer",
+                "title": "Дизайнер взаємодії з користувачем",
                 "names": [
                     "Connor Tompsett (CompuCom Systems, Inc)",
                     "Lily Ekman",
@@ -2701,7 +2701,7 @@
                 ]
             },
             {
-                "title": "Automation Support",
+                "title": "Відділ підтримки автоматизації",
                 "names": [
                     "Sean Connolly (Insight Global, Inc)",
                     "Matthew Gustaff (Digital Intelligence Systems, LLC)"
@@ -2717,19 +2717,19 @@
                 ]
             },
             {
-                "title": "Directors of Business Management",
+                "title": "Директори з управління бізнесом",
                 "names": [
                     "Stephen McHugh"
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Начальник штабу",
                 "names": [
                     "Andrew J. Adamyk"
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Виконавчі бізнес-адміністратори",
                 "names": [
                     "Cathy Wickersham",
                     "Darla J Barrett",
@@ -2738,13 +2738,13 @@
                 ]
             },
             {
-                "title": "Business Administrators",
+                "title": "Бізнес-адміністратори",
                 "names": [
                     "Shae M. Flanigan (C2S Technologies, Inc)"
                 ]
             },
             {
-                "title": "Office Managers",
+                "title": "Офіс-менеджери",
                 "names": [
                     "Alex Andersson",
                     "Charlotte Wredesjö",
@@ -2754,19 +2754,19 @@
                 ]
             },
             {
-                "title": "Reception",
+                "title": "Приймальна",
                 "names": [
                     "Chaimae Truving"
                 ]
             },
             {
-                "title": "Data Science & Analytics Lead",
+                "title": "Головний з науки даних та аналітики",
                 "names": [
                     "Warren Durrett"
                 ]
             },
             {
-                "title": "Data Science & Analytics",
+                "title": "Наука даних та аналітики",
                 "names": [
                     "Abby Jaloway (National Business Innovations)",
                     "Brynjólfur Erlingsson",
@@ -2784,25 +2784,25 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Інженерія даних",
                 "names": [
                     "Sachin Dekate (Design Laboratory, Inc)"
                 ]
             },
             {
-                "title": "Directors of Business Development",
+                "title": "Директори з розвитку бізнесу",
                 "names": [
                     "Cherie D Lutz"
                 ]
             },
             {
-                "title": "Directors of Business Planning",
+                "title": "Директори з бізнес-планування",
                 "names": [
                     "Adam Tratt"
                 ]
             },
             {
-                "title": "Business Managers",
+                "title": "Бізнес-менеджер",
                 "names": [
                     "Bill Wu",
                     "Claudine Ursino (Simplicity Consulting Inc)",
@@ -2811,14 +2811,14 @@
                 ]
             },
             {
-                "title": "Business Analysts",
+                "title": "Бізнес-аналітики",
                 "names": [
                     "Alvin M Chin (Populus Group, LLC)",
                     "Zheng Wang (Populus Group, LLC)"
                 ]
             },
             {
-                "title": "Minecraft Content Coordinators",
+                "title": "Координатори контенту Minecraft",
                 "names": [
                     "Adam Martinsson",
                     "Andreas Thomasson",
@@ -2826,7 +2826,7 @@
                 ]
             },
             {
-                "title": "Program Manager",
+                "title": "Програмний менеджер",
                 "names": [
                     "Amber Wu (Shang Hai Wei Chuang Ruan Jian)",
                     "Gregory Walls (CompuCom Systems, Inc)",
@@ -2838,38 +2838,38 @@
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Творчий директор",
                 "names": [
                     "John Hendricks"
                 ]
             },
             {
-                "title": "Media Director",
+                "title": "Медіа-директор",
                 "names": [
                     "Hans Abrahamsson"
                 ]
             },
             {
-                "title": "Creative Communications Assistant",
+                "title": "Асистент із творчих комунікацій",
                 "names": [
                     "Emily Richardson"
                 ]
             },
             {
-                "title": "Head of Social Media",
+                "title": "Керівник відділу соціальних мереж",
                 "names": [
                     "Amelia Dale",
                     "Alice Löfgren"
                 ]
             },
             {
-                "title": "Head of Player Operations",
+                "title": "Начальник відділу роботи з гравцями",
                 "names": [
                     "Aubrey Norris"
                 ]
             },
             {
-                "title": "Community Manager",
+                "title": "Менеджер спільноти",
                 "names": [
                     "Glory Robinson (Experis)",
                     "Helen Zbihlyj",
@@ -2877,13 +2877,13 @@
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Керівник служби підтримки клієнтів",
                 "names": [
                     "Mattias Victorin"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Служба підтримки",
                 "names": [
                     "Amelia Lindroth Henriksson",
                     "Ana Barata Martins",
@@ -2930,7 +2930,7 @@
                 ]
             },
             {
-                "title": "Marketing Manager",
+                "title": "Менеджер з маркетингу",
                 "names": [
                     "Bianca Ciotti",
                     "Delilah Liu",
@@ -2940,20 +2940,20 @@
                 ]
             },
             {
-                "title": "Legal",
+                "title": "Юридичний відділ",
                 "names": [
                     "Christi Davisson"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Керівник із захисту прав інтелектуальної власності",
                 "names": [
                     "Mathias Andersson",
                     "Teresa Lee Rodewald"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Agents",
+                "title": "Агенти із захисту інтелектуальної власності",
                 "names": [
                     "Johan Hedlund",
                     "Marcus Forss",
@@ -2962,13 +2962,13 @@
                 ]
             },
             {
-                "title": "Lead Producer - Brand Experience",
+                "title": "Провідний продюсер бренду",
                 "names": [
                     "Karim Walldén"
                 ]
             },
             {
-                "title": "Communication Manager",
+                "title": "Менеджер з комунікацій",
                 "names": [
                     "John Schork"
                 ]
@@ -2983,82 +2983,82 @@
                 ]
             },
             {
-                "title": "HR Administrator",
+                "title": "Адміністратор кадрів",
                 "names": [
                     "Charlie Bjurström",
                     "Petra Stenqvist"
                 ]
             },
             {
-                "title": "HR Advisor",
+                "title": "Радник з кадрів",
                 "names": [
                     "Viktoria Petersson"
                 ]
             },
             {
-                "title": "Sourcer",
+                "title": "Шукач талантів",
                 "names": [
                     "Sofia Andersson"
                 ]
             },
             {
-                "title": "Senior Recruiter",
+                "title": "Старший рекрутер",
                 "names": [
                     "Tove Oldebäck"
                 ]
             },
             {
-                "title": "Recruiters",
+                "title": "Рекрутери",
                 "names": [
                     "Aimée Narfström",
                     "Ida Utterström"
                 ]
             },
             {
-                "title": "Creative Communications Editor",
+                "title": "Редактор творчих комунікацій",
                 "names": [
                     "Marsh Davies",
                     "Tom Stone"
                 ]
             },
             {
-                "title": "Cloud Computing Engineer",
+                "title": "Інженер з хмарних обчислень",
                 "names": [
                     "Dolly Mackwan"
                 ]
             },
             {
-                "title": "Support Team Lead",
+                "title": "Керівник підтримки",
                 "names": [
                     "Mattias Jacob Victorin"
                 ]
             },
             {
-                "title": "Consumer Products Designer",
+                "title": "Дизайнер споживчих товарів",
                 "names": [
                     "Kelsey Ranallo"
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Головний менеджер проєкту",
                 "names": [
                     "Vera Mirchev"
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Веб дизайнери",
                 "names": [
                     "Taylor Kasony (eXcell, a division of CompuCom)"
                 ]
             },
             {
-                "title": "Quality Manager",
+                "title": "Менеджер з якості",
                 "names": [
                     "Rob Straavaldson"
                 ]
             },
             {
-                "title": "Development Partner: Skybox",
+                "title": "Партнер із розробки: \"Skybox\"",
                 "names": [
                     "Ace Cheung",
                     "Alex MacKay",
@@ -3111,7 +3111,7 @@
                 ]
             },
             {
-                "title": "Development Partner: BBI",
+                "title": "Партнер розвитку: \"BBI\"",
                 "names": [
                     "Alex Sharp - Assistant Producer",
                     "Andrew Yuennan - Programmer",
@@ -3141,7 +3141,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Red Lens",
+                "title": "Партнер із розробки: \"Red Lens Games\"",
                 "names": [
                     "Christopher Kohnert",
                     "Joshua Claeys",
@@ -3149,37 +3149,37 @@
                 ]
             },
             {
-                "title": "Development Partner: Virtuosity",
+                "title": "Партнер із розробки: \"Virtuosity\"",
                 "names": [
                     "Shanthi Kanchibhotla (Virtuosity)"
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Ресепшн",
                 "names": [
                     "Adam Blänning"
                 ]
             },
             {
-                "title": "Product Owner",
+                "title": "Власник продукту",
                 "names": [
                     "Johannes Söderberg"
                 ]
             },
             {
-                "title": "Technical Audio Developer",
+                "title": "Технічний розробник аудіо",
                 "names": [
                     "Jonatan Crafoord"
                 ]
             },
             {
-                "title": "Senior Financial Accountant",
+                "title": "Старший фінансовий бухгалтер",
                 "names": [
                     "Natalie Levinsson"
                 ]
             },
             {
-                "title": "Social Media Manager",
+                "title": "Менеджер соціальних мереж",
                 "names": [
                     "Natascha Cox"
                 ]
@@ -3187,34 +3187,34 @@
         ]
     },
     {
-        "section": "Studios Quality Alumni",
+        "section": "Студія якості \"Alumni\"",
         "titles": [
             {
-                "title": "Quality Leads",
+                "title": "Головні по якості",
                 "names": [
                     "Tony Harlich"
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Інженери з якості",
                 "names": [
                     "Akshata Trivedi"
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Аналіз та розробка даних якості",
                 "names": [
                     "Jeff MacDermot"
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Аналітики якості",
                 "names": [
                     "Yi Zhao (Kforce)"
                 ]
             },
             {
-                "title": "Poland - Team Leads",
+                "title": "Польща - Головні розробники",
                 "names": [
                     "Anna Wróbel (Lionbridge)",
                     "Kamil Bazydło (Lionbridge)",
@@ -3222,13 +3222,13 @@
                 ]
             },
             {
-                "title": "US Team - Software Test Engineering Leads",
+                "title": "Команда США - Керівники тестування програмного забезпечення",
                 "names": [
                     "Chris James (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "US Team - Software Test Engineers",
+                "title": "Команда США – інженери з тестування програмного забезпечення",
                 "names": [
                     "Brendan McElroy (Insight Global, Inc)",
                     "Crystal Edwards (Insight Global, Inc)",
@@ -3239,13 +3239,13 @@
                 ]
             },
             {
-                "title": "US Team - Test Associates",
+                "title": "Команда США - Партнери по тестуванню",
                 "names": [
                     "Brian Sears (Experis)"
                 ]
             },
             {
-                "title": "Lionbridge",
+                "title": "Компанія \"Lionbridge\"",
                 "names": [
                     "Adam Prażmo (Lionbridge)",
                     "Adam Ronowski (Lionbridge)",
