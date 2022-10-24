@@ -280,7 +280,6 @@ Pumpa kongen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
 Γεια σου Ελλάδα!
 Jeg vier mitt liv til Aiur!
 Lennart lennart = new Lennart();
@@ -426,3 +425,11 @@ En versjon fins også som et brettspill!
 Søting, jeg vokset kobberet!
 Plantbaserte lyskilder!
 Laget av "ekte" folk!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
