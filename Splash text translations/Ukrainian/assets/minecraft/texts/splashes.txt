@@ -279,7 +279,6 @@ So fresh, so clean!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привіт, Україно!
 Γεια σου Ελλάδα!  (Вітаю, Греція!)
 Моє життя за Айура!
 Леонардо да Вінчі!
@@ -400,7 +399,7 @@ Minecraft Java Edition презентує: Огидні Баги
 Оуууу, меен!
 #minecraftfarms
 Це моє кайло!
-Уявляй! Створюй! Поширюй!
+Уявляй! Створи! Поширюй!
 Неймовірна графіка!
 Також купи Minecraft Dungeons!
 Класичний!
@@ -425,3 +424,11 @@ Minecraft Java Edition презентує: Огидні Баги
 Кохана, я навощив мідь!
 Джерело світла на основі рослин!
 Зроблено "справжніми" людьми!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
