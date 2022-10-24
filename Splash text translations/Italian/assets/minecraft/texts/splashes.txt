@@ -279,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
 Χαῖρε, ὦ Ἑλλάς;
 La mia vita per Aiur!
 Lennart lennart = new Lennart();
@@ -425,3 +424,11 @@ Disponibile anche come gioco da tavolo!
 Tesoro, ho dato la cera!
 Piante bioluminescenti!
 Creato da persone "reali"!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
