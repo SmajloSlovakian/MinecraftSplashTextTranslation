@@ -279,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中國！
-Привет Россия!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
@@ -400,7 +399,7 @@ From free range developers!
 Aww man!
 #minecraftfarms
 And my pickaxe!
-Envision! Create! Share!
+Envision! 創建！ Share!
 Fabulous graphics!
 Also try Minecraft Dungeons!
 Vanilla!
@@ -425,3 +424,11 @@ Get to the coppah!
 Honey, I waxed the copper!
 Plant-based light sources!
 由「真」人製作！
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
