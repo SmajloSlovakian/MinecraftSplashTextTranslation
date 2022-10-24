@@ -1,4 +1,4 @@
-Dette prosjektet ble skapt av SmajloSlovakian#1077 (Du vil ikke bli akseptert som venn om du sender venneforespørsel om du er helt fremmed for meg)
+This project was created by SmajloSlovakian#1077
 
 Men hvordan legger jeg til denne pakken til Minecraft?
 --Da må du legge til mappen du nettopp har åpnet til din
