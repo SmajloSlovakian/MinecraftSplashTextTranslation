@@ -279,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国!
-Привет Россия!
 Γεια σου Ελλάδα!
 Minha vida para Aiur!
 Lennart lennart = new Lennart();
@@ -400,7 +399,7 @@ Música feita por Lena Raine!
 Aww, cara!
 #minecraftfarms
 E minha picareta!
-Imaginar! Criar! Compartilhar!
+Imaginar! Crie! Compartilhar!
 Gráficos fabulosos!
 Também experimente Minecraft Dungeons!
 Vanilla!
@@ -425,3 +424,11 @@ Versão de tabuleiro também disponível!
 Querida, eu encerei o cobre!
 Plantas alimentadas por luz!
 Feito por pessoas "reais"!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
