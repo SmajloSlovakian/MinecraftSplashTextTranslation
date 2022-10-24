@@ -115,15 +115,15 @@
 ¡Phobos anomaly!
 ¡Golpeando madera!
 ¡Cayendo por acantilados!
-¡1% azucar!
-¡150% hipérbole!
+¡1% azúcar!
+¡150% hiperbólico!
 ¡Sinécdoque!
 ¡Vamos a baliar!
-¡Actualización seecreta del Viernes!
+¡Actualización secreta del Viernes!
 ¡Implementación de referencias!
 ¡Besa el cielo!
 ¡20 GOTO 10!
-¡Intregración de Verlet!
+¡Integración de Verlet!
 ¡Peter Griffin!
 ¡No distribuir!
 ¡Cogito ergo sum!
@@ -131,24 +131,24 @@
 ¡Un esqueleto ha aparecido!
 ¡La suma de sus partes!
 ¡BTAF solía ser bueno!
-¡Echo de menos ADOM!
+¡Echo de menos a ADOM!
 ¡savar-lep!
 ¡OICU812!
 ¡Tráeme a Ray Cokes!
 ¡Para chuparse los dedos!
 ¡Temático!
-¡Pneumático!
+¡Neumático!
 ¡Sublime!
 ¡Octogonal!
 ¡Une baguette!
 ¡Gargamel lo juega!
-¡Rita es el nuevo perro superior!
+¡Rita es el nuevo mandamás!
 ¡SWM para siempre!
 ¡Representando a Edsbyn!
 ¡Matt Damon!
 ¡Supercalifragilisticoespialidoso!
-¡Consume V!
-¡Cow Tools!
+¡Consuma V's!
+¡Herramientas de vaca!
 ¡Búfer doble!
 ¡Fanfic!
 ¡Flaxkikare!
@@ -167,13 +167,13 @@
 ¡Woo, worldofminecraft!
 ¡Woo, reddit!
 ¡Woo, 2pp!
-¡Analítizado con Google!
+¡Analitizado con Google!
 ¡Ahora compatible con åäö!
 ¡Danos a Gordon!
-¡Da una propina a los camareros!
+¡Dale una propina a los camareros!
 ¡Muy divertido!
 ¡12345 es una mala contraseña!
-¡Vota por la neutralidad de la red!
+¡Vota por la neutralidad en la red!
 ¡Vive en una piña debajo del mar!
 ¡MAP11 tiene dos nombres!
 ¡Omnipotente!
@@ -190,29 +190,29 @@ Este texto es difícil de leer si juegas con la resolución por defecto, ¡pero 
 ¡Tan fresco, tan limpio!
 ¡Portales lentos!
 ¡Prueba el Nether!
-¡No mires a lus bugs directamente!
+¡No mires a los bugs directamente!
 Oh, ok, ¡hombres cerdo!
 ¡Por fin con escaleras!
 ¡Aterrador!
-¡Juega a Minecraft, mira Topgear, ponte cerdo!
+¡Juega a Minecraft, mira Topgear, consigue un cerdo!
 ¡Tuiteado!
 Salta, salta, ¡y abajo!
 ¡Joel está bien!
 ¡Un enigma, envuelto en un misterio!
-¡El loro ya no es! ¡Ha cesado de ser!
+¡El loro ya no existe! ¡Ha cesado de ser!
 ¡Bienvenido a tu infierno!
 ¡Una vez empiezas, no hay parar!
 ¡Quédate un rato y escucha!
 ¡Tratamiento para tu sarpullido!
-¡"Autologica" es!
+¡«Autológica» es!
 ¡La información quiere ser libre!
-¡"Casi nunca" es un concepto interesante!
+¡«Casi nunca» es un concepto interesante!
 ¡Mucha verdadeza!
 ¡El creeper es un espía!
 ¡Turing completo!
 ¡Es innovador!
 ¡La batalla ya ha empezado!
-¡El cielo es el límite!
+¡El límite está en el cielo!
 ¡Jeb tiene un pelo increíble!
 ¡Ryan también tiene un pelazo!
 ¡Gaming casual!
@@ -220,21 +220,21 @@ Salta, salta, ¡y abajo!
 ¡Parecido a Lemmings!
 ¡Sigue el tren, CJ!
 ¡Aprovechando la sinergia!
-ValueError: invalid literal for int()
+Acechando desde los archivos del juego...
 ¡DungeonQuest es injusto!
 ¡90210!
 ¡Échale un vistazo a las far lands!
 ¡A Tyrion le encantaría!
-¡Prueba también VVVVVVVV!
-¡Prueba también Super Meat Boy!
-¡Prueba también Terraria!
-¡Prueba también Mount and Blade!
-¡Prueba también Project Zomboid!
-¡Prueba también World of Goo!
-¡Prueba también Limbo!
-¡También prueba Pixeljunk Shooter!
-¡También prueba Braid!
-¡Eso es genial!
+¡Prueba VVVVVVVV también!
+¡Prueba Super Meat Boy también!
+¡Prueba Terraria también!
+¡Prueba Mount and Blade también!
+¡Prueba Project Zomboid también!
+¡Prueba World of Goo también!
+¡Prueba Limbo también!
+¡Prueba Pixeljunk Shooter también!
+¡Prueba Braid también!
+¡Eso está genial!
 ¡Pan es pain!
 ¡Lee más libros!
 ¡Khaaaaaaaaan!
@@ -249,92 +249,92 @@ ValueError: invalid literal for int()
 ¡Hecho por Jeb!
 ¡Tiene un final!
 ¡Finalmente completo!
-¡Paquete destacado!
-¡Botas de piel!
-¡Hora del martillo!
+¡Con todas las características!
+Boots with the fur!
+Stop, hammertime!
 ¡Testificados!
 ¡Convencional!
-¡Homeomórfico a 3 esferas!
+¡Homeomorfo a 3 esferas!
 ¡No evita los dobles negativos!
 ¡Coloca TODOS los bloques!
 ¡Hace vueltas de barril!
 ¡Cumpliendo con las expectativas!
 ¡PC gaming desde 1873!
-¡Ghoughpteighbteau tchoghs!
+Ghoughpteighbteau tchoghs!
 ¡Déjà-vu!
 ¡Déjà-vu!
 ¡Tengo tu nariz!
 ¡Haley ama a Elan!
-¡Temo al gran murciélago negro!
+¡Teme al gran murciélago negro!
 ¡No usa la U-palabra!
-¡Los niños juegan!
+¡Pan comido!
 ¡Te veo el siguiente viernes o por ahí!
 ¡De las calles de Södermalm!
-¡A 150 bpm por 400000 minutos!
+¡A 150 ppm durante 400000 minutos!
 ¡Tecnológico!
-¡Alma funk hermano!
+¡Alma funk, hermano!
 ¡Pumpa kungen!
-¡日本ハロー！
-¡한국 안녕하세요!
-¡Helo Cymru!
-¡Cześć Polsko!
-¡你好中国！
-¡Γεια σου Ελλάδα!
+日本ハロー！
+한국 안녕하세요!
+Helo Cymru!
+Cześć Polsko!
+你好中国！
+Γεια σου Ελλάδα!
 ¡Mi vida por Aiur!
-Lennart lennart = nuevo Lennart();
+Lennart lennart = new Lennart();
 ¡Veo que tu vocabulario ha mejorado!
 ¿Quién ha puesto eso ahí?
 ¡No puedes explicar eso!
-if not aceptable then return end
-§1C§2o§3l§4o§5r§6m§7á§8t§9i§ac§do
+if not ok then return end
+§1C§2o§3l§4o§5r§6m§7á§ct§9i§ac§do
 §kFUNKY LOL
-¡Dientes Grandes y Puntiagudos!
-¡Bekarton monta guardia en el portón!
-Mmmph, mmph!
-¡No alimentes con aguacates a los loros!
+¡Dientes grandes y guntiagudos!
+¡Bekarton protege la puerta!
+¡Mmmph, mmph!
+¡No les des aguacates a los loros!
 ¡Espadas para todos!
-¡Porfa contesta a mi tweet!
+¡Porfa contesta a mi tuit!
 .fiesta()!
 ¡Coge su almohada!
-¡Pon abajo esa galleta!
-¡Bastante asustadizo!
+¡Baja esa galleta!
+¡Bastante temible!
 Tengo una sugerencia.
 ¡Ahora con abrazos extra!
 ¡Java 16 + 1 = 17!
-Woah.
+Guau.
 ¿HURNERJSGER?
-¿Qué pasa, Doc?
+¿Qué pasa, doc?
 ¡Ahora con 32 gatos diarios aleatorios!
-¡Eso es numberwang!
+That's Numberwang!
 porfa rt
 ¿Quieres unirte a mi servidor?
-¡Pon una pequeña valla alrededor!
+¡Pon una pequeña valla a su alrededor!
 ¡Échale una manta!
 ¡Algún día, en el futuro, mis trabajos serán citados!
 ¡Ahora con cosas adicionales!
 ¡Cosas extra!
-¡Sii, cachorros para todos!
-¡Tan dulce, como un buen bon bon!
+¡Si, cachorros para todos!
+¡Tan dulce, como un buen bombón!
 ¡Muy influyente en su círculo!
 ¡Ahora con multijugador!
 ¡Levántate de tu tumba!
-¡Advertencia! ¡Un enorme barco de guerra "STEVE" se acerca rápidamente!
+¡Advertencia! ¡Un enorme barco de guerra «STEVE» se acerca rápidamente!
 ¡El guerrero azul disparó a la comida!
 ¡Corre, cobarde! ¡Tengo hambre!
-¡Sabor sin sazonar!
-¡Extraño, pero no un desconocido!
-¡Más duro que los diamantes, rico como el helado!
-¡Se balancea, vibra!
-¡Navegando las calles por el oro!
-¡Coge la batidora y remuévela contra una sartén!
-¡Hazme una mesa, una mesa funky!
-¡Coge el ascensor al entreplantas!
+¡Sabroso sin sazonar!
+¡Es extraño, pero no un extraño!
+Tougher than diamonds, rich like cream!
+It swings, it jives! 
+Cruising streets for gold!
+Take an eggbeater and beat it against a skillet!
+Make me a table, a funky table! 
+Take the elevator to the mezzanine! 
 ¡Deja de intentar que las cosas tengan sentido, estamos en internet!
 /give @a abrazos 64
 Esto es bueno para Realms.
 ¡Cualquier ordenador es un portátil si eres lo suficientemente valiente!
 ¡Hazlo todo, todo!
-¡onde no hay luz, ¡puede haber araña!
+Donde no hay luz, ¡puede haber araña!
 GNU Terry Pratchett
 ¡Más digital!
 doot doot
@@ -342,8 +342,8 @@ doot doot
 There's no stopping the Trollmaso
 Lánzate al suelo y falla
 Regla #1: nunca es culpa mía
-¿Se ha cambiado el queso fundido con sangre?
-Definitivamente arreglado las coordenadas relativamente rotas
+¿Se ha reemplazado el queso fundido con sangre?
+Definitivamente se han arregado las coordenadas relativamente rotas
 Barcos FTW
 Edición Javaliciosa
 No debería ser jugado mientras conduces
@@ -359,49 +359,49 @@ Algo no va bien del todo...
 ¡Algo gracioso!
 Necesito más contexto.
 ¡Ahhhhhh!
-No te preocupes, ¡sé feliz!
+Don't worry, be happy!
 ¡Botella de agua!
 ¿Cúal es la pregunta?
 ¡Planta un árbol!
 ¡Ve al dentista!
 ¿Qué esperas?
-¡Mira mami, estoy en un splash!
+¡Mira mamá, estoy en un splash!
 Vino del espacio.
-¡Increíble diseño de juego ahí mismo!
+¡Increíble diseño de juego!
 ¡Ph1lza tuvo una buena partida!
 ¡10 años minando y fabricando!
-¡Haz ping al humano!
+¡Hazle ping al humano!
 En caso de que no sea obvio, los zorros no son jugadores.
 ¡Abejas zumbadoras!
-Minecraft Java Edition presenta: Bugs Asquerosos
+Minecraft Java Edition presenta: Bugs asquerosos
 ¡Lávate las manos!
 ¡Jabón y agua!
-¡Apoya negocios locales!
+¡Apoya a los negocios locales!
 ¡Quédate en casa y juega juegos!
-¡Manténte seguro!
+¡Mantente seguro!
 ¡Mantente fuerte!
 ¡Tose o estornuda en tu codo!
 ¡No te toques la cara!
-¡Apoya a tus familiares y amigos más mayores!
-¡Prepara, pero no acapares!
-¡Gamers reunidos – cada uno desde su casa!
-Salva el mundo - ¡Quédate dentro!
-¡Haz la compra a tus mayores!
+¡Apoya a tus familiares más mayores y a tus amigos!
+Prepárate, ¡pero no acapares!
+¡Jugadores, uníos – cada uno desde su casa!
+Salva el mundo, ¡quédate dentro!
+¡Hazle la compra a tus mayores!
 ¡Pasa el rato con tus amigos online!
-¡Dulce, hice crecer las abejas!
+Cariño, he crecido a las abejas
 ¡Encuentra tu gancho!
-¡Todos bailan el Leif!
-<3 Max & 99 & Ducky!
+Everybody do the Leif!
+¡<3 Max y 99 y Ducky!
 ¡Cejas pobladas!
 ¡Edit es un nombre!
 ¡De desarrolladores criados en libertad!
 ¡Música por Lena Raine!
-¡Aww man!
+Aww man!
 #minecraftfarms
 ¡Y mi pico!
-¡Visión! ¡Crea! ¡Comparte!
+¡Visualiza! ¡Crea! ¡Comparte!
 ¡Gráficos fabulosos!
-¡También prueba Minecraft Dungeons!
+¡Prueba Minecraft Dungeons también!
 ¡Vanilla!
 ¡Puede contener trazas de cítricos!
 ¿¡Zoglin!?
@@ -409,26 +409,26 @@ Salva el mundo - ¡Quédate dentro!
 ¡Sé anti-racista!
 ¡Aprende sobre alianzas!
 ¡Protesta contra la injusticia y habla alto por la igualdad!
-¡Difunde y escucha las voces BIPOC!
-¡Educa a tus amigos sobre el anti-racismo!
+¡Difunde y escucha las voces de las BIPOC!
+¡Educa a tus amigos sobre el antiracismo!
 ¡Apoya a los creadores y comunidades BIPOC!
 ¡Lucha por la igualdad en tu comunidad!
-[este texto ahora está disponible]
+[este splash ahora está disponible]
 ¡Contiene cabras simuladas!
 ¡Hecho en casa!
 ¡Hay un <<gato en ,mi teclado!~
 ¡El depredador más adorable qué encontrarás!
 ¡Ahora estás pensando con pistones!
 ¡Al helicóptero!
-¡Versión en juego de mesa ya disponible!
-Cariño, ¡enceré el cobre!
-¡Fuentes de luz con base vegetal!
-¡Hecho por gente "real"!
-Shriek like a Sculk Shrieker!
+¡Versión de tablero ya disponible!
+Cariño, he encerado el cobre
+¡Fuentes de luz vegetales!
+¡Hecho por gente «real»!
+¡Chilla como un chillador de sculk!
 Who let the frogs out?
-RIBBIT!
-Croak team!
-Nooooooooooooo!
-Flower forest TM perfume
-Hat Fridays!
-Technoblade never dies!
+¡CROAC!
+¡Equipo croador!
+¡Nooooooooooooo!
+Perfume de bosque forestal TM
+¡Viernes de sombreros!
+¡Technoblade nunca muere!
