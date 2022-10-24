@@ -1,4 +1,4 @@
-This project was created by SmajloSlovakian#1077
+Цей проєкт створено SmajloSlovakian#1077
 
 Як додати цей пакет до Minecraft?
 - Додайте папку, яку ви щойно відкрили, до папки "\Appdata\Roaming\.minecraft\resourcepacks\", перейдіть у Minecraft, налаштування, 
