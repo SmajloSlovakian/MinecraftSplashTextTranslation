@@ -279,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет, Россия!
 Γεια σου Ελλάδα!
 Моя жизнь за Айур!
 Lennart lennart = new Lennart();
@@ -400,7 +399,7 @@ Minecraft Java Edition представляет: Отвратительные о
 Оуууу мэн!
 #minecraftфермы
 И моя кирка!
-Придумывай! Создавай! Распространяй!
+Придумывай! Твори! Распространяй!
 Невероятная графика!
 Также попробуйте Minecraft Dungeons!
 Ванилла!
@@ -425,3 +424,11 @@ Minecraft Java Edition представляет: Отвратительные о
 Дорогая, я покрыл медь воском!
 Источники света на основе растений!
 Сделано "реальными" людьми!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
