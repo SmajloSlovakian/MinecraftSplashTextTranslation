@@ -279,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć, Polsko!
 你好中国！
-Привет Россия!
 Γεια σου Ελλάδα!
 Moje życie dla Aiur!
 Lennart lennart = new Lennart();
@@ -425,3 +424,11 @@ Dostępny również w wersji planszowej!
 Kochanie, nawoskowałem miedź!
 Źródła światła pochodzenia roślinnego!
 Stworzony przez „prawdziwych” ludzi!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
