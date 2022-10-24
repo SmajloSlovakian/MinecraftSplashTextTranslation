@@ -280,7 +280,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
 Γεια σου Ελλάδα!
 হ্যালো বাংলাদেশ!
 Lennart lennart = new Lennart();
@@ -401,7 +400,8 @@ Music by Lena Raine!
 Aww man!
 #minecraftfarms
 And my pickaxe!
-Envision! Create! Share!
+Envision! 
+সৃষ্টি করা! Share!
 অসাধারণ গ্রাফিক্স!
 Also try Minecraft Dungeons!
 ভ্যানিলা!
@@ -426,3 +426,11 @@ Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
 প্রকৃত মানুষ দ্বারা তৈরি
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
