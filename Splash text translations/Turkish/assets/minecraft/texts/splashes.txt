@@ -287,7 +287,6 @@ Pumpa kongen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
 Γεια σου Ελλάδα!
 Aiur'a canımı veririm!
 Lennart lennart = new Lennart();
@@ -433,3 +432,11 @@ Artık bir masa oyunu da var!
 Tatlım, bakırı cilaladım!
 Bitkisel ışık kaynakları!
 "Gerçek" insanlar tarafından yapıldı!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
