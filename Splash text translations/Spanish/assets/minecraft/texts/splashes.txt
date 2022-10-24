@@ -262,7 +262,7 @@ ValueError: invalid literal for int()
 ¡PC gaming desde 1873!
 ¡Ghoughpteighbteau tchoghs!
 ¡Déjà-vu!
-¡Déjà vu!
+¡Déjà-vu!
 ¡Tengo tu nariz!
 ¡Haley ama a Elan!
 ¡Temo al gran murciélago negro!
@@ -279,7 +279,6 @@ ValueError: invalid literal for int()
 ¡Helo Cymru!
 ¡Cześć Polsko!
 ¡你好中国！
-¡Привет Россия!
 ¡Γεια σου Ελλάδα!
 ¡Mi vida por Aiur!
 Lennart lennart = nuevo Lennart();
@@ -425,3 +424,11 @@ Salva el mundo - ¡Quédate dentro!
 Cariño, ¡enceré el cobre!
 ¡Fuentes de luz con base vegetal!
 ¡Hecho por gente "real"!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
