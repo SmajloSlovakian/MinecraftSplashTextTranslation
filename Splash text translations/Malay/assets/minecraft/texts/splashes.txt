@@ -279,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
 Γεια σου Ελλάδα!
 Hidupku demi Aiur!
 Lennart lennart = new Lennart();
@@ -425,3 +424,11 @@ Versi permainan papan juga tersedia!
 Sayang, saya telah melilinkan tembaga!
 Sumber cahaya berasaskan tumbuhan!
 Dihasilkan oleh orang-orang "sebenar"!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
