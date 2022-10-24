@@ -1,4 +1,4 @@
-This project was created by SmajloSlovakian#1077
+Этот проект создан SmajloSlovakian#1077
 
 Как мне добавить этот набор в Minecraft?
 - Переместите папку с набором в "\Appdata\Roaming\.minecraft\resourcepacks\", затем зайдите 
