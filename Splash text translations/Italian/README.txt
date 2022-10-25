@@ -7,7 +7,7 @@ Come faccio ad aggiungere questo pacchetto a Minecraft?
 Come faccio ad accedere alla cartella "resourcepacks"?
 -Apri Minecraft, vai sulle impostazioni, clicca "Pacchetti di risorse", trascina il pacchetto di risorse nella finestra di Minecraft e rilascialo...
 Aspetta! Non funziona!
--Clicca sul pulsante chiamato "Apri la cartella dei pacchetti"
+-Click on a button called "Open pack folder"
 
 
 
