@@ -7,7 +7,7 @@ How do I add this pack to Minecraft?
 Ako sa do tohto priečinku dostať?
 -Otvor Minecraft, choď do nastavení, Zdrojové balíky, pretiahni balíček do Minecraft okna...
 Ale počkať! Nefunguje to!
--Stlač na tlačidlo "Priečinok s balíkmi"
+-Click on a button called "Open pack folder"
 
 
 
