@@ -1,4 +1,4 @@
-Dit project is gestart door SmajloSlovakian#1077 (je kunt me niet als vriend toevoegen als je een vreemde voor mij bent)
+This project was created by SmajloSlovakian#1077
 
 How do I add this pack to Minecraft?
 -Voeg de map die je net hebt geopend toe aan

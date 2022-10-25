@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Diseñadores principales de juegos",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
@@ -114,19 +114,19 @@
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Jefe de Ingeniería de Juegos",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Jefe de ingeniería de la plataforma de creadores",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Director de Calidad de Franquicia",
                 "names": [
                     "Matthew Ng"
                 ]
@@ -910,7 +910,7 @@
                 ]
             },
             {
-                "title": "Web Content Manager",
+                "title": "Director de Calidad de Franquicia",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
@@ -956,7 +956,7 @@
                 ]
             },
             {
-                "title": "Head of Stockholm Operations",
+                "title": "Jefe de Operaciones de Estocolmo",
                 "names": [
                     "Sheila Ho"
                 ]
@@ -1032,21 +1032,21 @@
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Frente de casa",
                 "names": [
                     "Eliza Lancelot",
                     "Felicia Björn Nordling"
                 ]
             },
             {
-                "title": "IT Managers",
+                "title": "Gerentes de informática",
                 "names": [
                     "Cesar Sima Falck",
                     "Jason Perry Minard"
                 ]
             },
             {
-                "title": "IT",
+                "title": "Informática",
                 "names": [
                     "Adam MacDowall",
                     "Anton \"Mr\" Wu",
@@ -1058,13 +1058,13 @@
                 ]
             },
             {
-                "title": "Operations Manager",
+                "title": "Gerente de Operaciones",
                 "names": [
                     "Kaya Hatcher"
                 ]
             },
             {
-                "title": "Internal Communications Manager",
+                "title": "Gerente de Comunicaciones Internas",
                 "names": [
                     "Matt Martin"
                 ]
@@ -1311,25 +1311,25 @@
                 ]
             },
             {
-                "title": "Studio Compliance Lead",
+                "title": "Líder de Cumplimiento de Estudio",
                 "names": [
                     "Eric Odell-Hein"
                 ]
             },
             {
-                "title": "Studio Compliance Analyst",
+                "title": "Analista de Conformidad de Estudio",
                 "names": [
                     "Justin Ray (Design Laboratory, Inc)"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Infracción de la propiedad intelectual",
                 "names": [
                     "Gaylon Blank"
                 ]
             },
             {
-                "title": "Category Managers",
+                "title": "Administrador de categorías",
                 "names": [
                     "Audrey Searcy",
                     "Emily Clock",
@@ -1340,10 +1340,10 @@
         ]
     },
     {
-        "section": "Player Operations",
+        "section": "Operaciones de jugadores",
         "titles": [
             {
-                "title": "Director of Player Support",
+                "title": "Director del Servicio al cliente",
                 "names": [
                     "Anne Quaranta"
                 ]
@@ -1453,26 +1453,26 @@
                 ]
             },
             {
-                "title": "Finance Manager",
+                "title": "Jefe de Finanzas",
                 "names": [
                     "Evan Dowdell",
                     "Katarina Norlander"
                 ]
             },
             {
-                "title": "Senior Financial Accountant",
+                "title": "Analista financiero sénior",
                 "names": [
                     "Josefina Axelsson"
                 ]
             },
             {
-                "title": "Financial Accountant",
+                "title": "Cuentas financieras",
                 "names": [
                     "Jelena Pejic"
                 ]
             },
             {
-                "title": "Financial Consultant",
+                "title": "Consultas financieras",
                 "names": [
                     "Stefan Lyrmark"
                 ]
@@ -1480,22 +1480,22 @@
         ]
     },
     {
-        "section": "Studios Quality Team - Microsoft",
+        "section": "Equipo de Calidad de estudios - Microsoft",
         "titles": [
             {
-                "title": "Director of Quality",
+                "title": "Director de Calidad",
                 "names": [
                     "Jimmy Bischoff"
                 ]
             },
             {
-                "title": "Studios Quality Manager",
+                "title": "Gestor de Calidad de Estudios",
                 "names": [
                     "Tyler Moeller"
                 ]
             },
             {
-                "title": "Quality Leads",
+                "title": "Potencias de calidad",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1505,7 +1505,7 @@
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Ingenieros de calidad",
                 "names": [
                     "Herve Iradukunda",
                     "Joe Whitman",
@@ -1515,7 +1515,7 @@
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Análisis de datos de calidad e Ingeniería",
                 "names": [
                     "Chelsi Hohnbaum",
                     "Christian Koguchi",
@@ -1523,7 +1523,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Ingeniero de software",
                 "names": [
                     "Jay Baxter",
                     "Aaron Amlag",
@@ -1532,7 +1532,7 @@
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Analizadores de calidad",
                 "names": [
                     "Agata Marciniak",
                     "Aidan Bower",
@@ -1561,23 +1561,23 @@
         ]
     },
     {
-        "section": "Studios Quality Team - US Teams",
+        "section": "Equipo de Calidad de Estudios - Equipos de Estados Unidos",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Mánager de diseño",
                 "names": [
                     "Tom Dieterich (Experis) - Test Manager, Tempe"
                 ]
             },
             {
-                "title": "Software Test Engineering Leads",
+                "title": "Líder de Ingeniería de Prueba de Software",
                 "names": [
                     "Barry Doyle (Insight Global, Inc)",
                     "Maria Berube (Experis)"
                 ]
             },
             {
-                "title": "Software Test Engineers",
+                "title": "Ingeniero de software",
                 "names": [
                     "Antoine Brown (Experis)",
                     "Adam DuBois (Experis)",
@@ -1597,7 +1597,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Asociados de pruebas",
                 "names": [
                     "Austin Keeling (Experis)",
                     "Chris Youngs (Experis)",
@@ -1659,22 +1659,22 @@
         ]
     },
     {
-        "section": "Development Partner: Lionbridge Quality - Poland Team",
+        "section": "Socio de desarrollo: Calidad de Lionbridge - Equipo de Polonia",
         "titles": [
             {
-                "title": "Test Director",
+                "title": "Director de prueba",
                 "names": [
                     "Michał Błoński (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Global Test Manager",
+                "title": "Administrador Senior Global Test",
                 "names": [
                     "Grzegorz Kohorewicz (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Test Manager",
+                "title": "Administrador Senior de Prueba",
                 "names": [
                     "Mateusz Kałuża (Lionbridge)"
                 ]
@@ -2172,7 +2172,7 @@
         ]
     },
     {
-        "section": "Mojang Alumni",
+        "section": "Alumno de Mojang",
         "titles": [
             {
                 "title": "Original Creator of Minecraft",
@@ -2438,13 +2438,13 @@
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Ingenieros de Sistema Líder",
                 "names": [
                     "Tom Miles"
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Ingenieros del sistema",
                 "names": [
                     "Hazen Miller (Insight Global, Inc)",
                     "Louis A Castaneda (Insight Global, Inc)",
@@ -2452,7 +2452,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Ingeniero superior de software",
                 "names": [
                     "Anders Martini",
                     "Don S Frazier II",
@@ -2466,7 +2466,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Ingenieros de software",
                 "names": [
                     "Evelyn Collier (Insight Global)",
                     "Michael Andersson",
@@ -2474,19 +2474,19 @@
                 ]
             },
             {
-                "title": "Engineering Manager",
+                "title": "Director de Ingeniería",
                 "names": [
                     "Wenlan Yang"
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Ingenieros del sistema",
                 "names": [
                     "Robert Thresher (Collabera)"
                 ]
             },
             {
-                "title": "System Developers",
+                "title": "Desarrolladores del juego",
                 "names": [
                     "Christoffer Hammarström",
                     "Dodge Lafnitzegger (Insight Global, Inc)",
@@ -2495,7 +2495,7 @@
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Director de diseño",
                 "names": [
                     "Brad Shuber",
                     "Logan Lubera",
@@ -2504,7 +2504,7 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Lider de Arte",
                 "names": [
                     "Sarah Kisor"
                 ]
@@ -2525,13 +2525,13 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Diseñador Técnico",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Artista Técnico",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
@@ -2559,7 +2559,7 @@
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Diseñadores principales de juegos",
                 "names": [
                     "Christine Gutierrez"
                 ]

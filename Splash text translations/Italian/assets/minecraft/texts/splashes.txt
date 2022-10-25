@@ -79,7 +79,7 @@ Hot tamale, hot hot tamale!
 Keyboard Cat, suonalo via!
 Garantito!
 Macroscopico!
-Bring it on!
+Fatevi sotto!
 Sottotitolo a caso!
 Chiama tua madre!
 Lotte intestine fra mostri!
@@ -89,7 +89,7 @@ Peculiare!
 You've got a brand new key!
 Impermeabile!
 Non infiammabile!
-Whoa, dude!
+Su, amico!
 Tutto incluso!
 Parlane ai tuoi amici!
 NP non è un sottoinsieme di P!
@@ -279,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
 Χαῖρε, ὦ Ἑλλάς;
 La mia vita per Aiur!
 Lennart lennart = new Lennart();
@@ -288,7 +287,7 @@ Chi l'ha messo lì?
 Non puoi spiegarlo!
 if not stai_bene then return end
 §1P§2o§3l§4i§5c§6r§7o§8m§9o
-§kFUNKY LOL
+§kSTRAMBO LOL
 Coniglio alla cacciatora!
 Bekarton è a guardia della porta!
 Mmmpf, mmpf!
@@ -425,3 +424,11 @@ Disponibile anche come gioco da tavolo!
 Tesoro, ho dato la cera!
 Piante bioluminescenti!
 Creato da persone "reali"!
+Urla come uno sculk urlatore!
+Chi ha permesso che uscissero le rane?
+CRA CRA!
+La cricca del cra!
+Nooooooooooooo!
+Gargné™ alle foglie™!
+Hat Fridays!
+Technoblade vivrà per sempre!

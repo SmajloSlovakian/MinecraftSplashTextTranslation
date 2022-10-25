@@ -1,4 +1,4 @@
-Tento projekt vytvoril SmajloSlovakian#1077 (neprijímam žiadosti o priateľstvo)
+This project was created by SmajloSlovakian#1077
 
 How do I add this pack to Minecraft?
 -Presuň tento priečinok do tvojho "\Appdata\Roaming\.minecraft\resourcepacks\" priečinku, choď do Minecraftu, nastavenia, 

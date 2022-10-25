@@ -279,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
 Γεια σου Ελλάδα!
 Jag ger mitt liv för Aiur!
 Lennart lennart = new Lennart();
@@ -425,3 +424,11 @@ Finns även som bordsspel!
 Älskling, jag vaxade in kopparn!
 Växtbaserade ljuskällor!
 Skapat av "riktiga" människor!
+Skrik som en sculkskrikare!
+Vem släppte ut grodorna?
+KVACK!
+Kväklaget!
+Neeeeeeeeeeeej!
+Blomskogsparfym™
+Hattfredagar!
+Technoblade dör aldrig!

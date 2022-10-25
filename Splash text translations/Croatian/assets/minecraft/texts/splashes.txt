@@ -23,10 +23,10 @@ Made in Sweden!
 Uses LWJGL!
 Reticulating splines!
 Minecraft!
-Yaaay!
-Singleplayer!
-Keyboard compatible!
-Ingots!
+Jeeej!
+Igraj sam!
+Kompatibilan s tipkovnicom!
+Poluge!
 Exploding creepers!
 That's no moon!
 l33t!
@@ -37,128 +37,128 @@ Exclusive!
 The bee's knees!
 Closed source!
 Classy!
-Wow!
+Vau!
 Not on steam!
-Oh man!
-Awesome community!
-Pixels!
+Oh čovječe!
+Fenomenalna zajednica!
+Pikseli!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
-Enhanced!
+Poboljšan!
 90% bug free!
-Pretty!
+Lijep!
 12 herbs and spices!
-Fat free!
+Bez masnoće!
 Absolutely no memes!
-Free dental!
-Ask your doctor!
-Minors welcome!
-Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
-Bringing home the bacon!
+Besplatna njega za zube!
+Pitajte svog liječnika!
+Maloljetnici dobrodošli!
+Računalstvo u oblaku!
+Legalan u Finskoj!
+Teško ga je opisati oznakom!
+Tehnički valjano!
+Donosi svjetla kući!
 Indie!
-GOTY!
+Igra godine!
 Ceci n'est pas une title screen!
-Euclidian!
-Now in 3D!
-Inspirational!
+Euklidski!
+Sada u 3D-u!
+Inspirativan!
 Herregud!
 Complex cellular automata!
-Yes, sir!
-Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
-Age of Wonders is better!
-Try the mushroom stew!
-Sensational!
+Da, gospodine!
+Igraju kauboji!
+Sada koristi OpenGL 3.2 profil jezgre!
+Tisuće boja!
+Isprobaj ga!
+Age of Wonders je bolji!
+Probaj gulaš od gljiva!
+Senzacionalan!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Guaranteed!
-Macroscopic!
-Bring it on!
-Random splash!
-Call your mother!
+Garantirano!
+Makroskopski!
+Samo daj!
+Nasumični pozdravni tekst!
+Nazovi svoju mamu!
 Monster infighting!
-Loved by millions!
-Ultimate edition!
-Freaky!
+Obožavaju milijuni!
+Ultimativno izdanje!
+Čudno!
 You've got a brand new key!
-Water proof!
-Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
-NP is not in P!
-Music by C418!
-Livestreamed!
-Haunted!
-Polynomial!
-Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
-Collaborate and listen!
-Never dig down!
-Take frequent breaks!
-Not linear!
-Han shot first!
-Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
-sqrt(-1) love you!
+Vodootporan!
+Nezapaljiv!
+Vau, stari!
+Sve uključeno!
+Reci svojim prijateljima!
+NP nije u P!
+Glazbu napravio C418!
+Prenošen uživo!
+Uklet!
+Polinomski!
+Zemaljski!
+Sve je puno ljubavi!
+Pun zvijezda!
+Znanstven!
+Nije tako cool kao Spock!
+Surađuj i slušaj!
+Ne kopaj ravno dolje!
+Često se odmaraj!
+Nelinearno!
+Han je pucao prvi!
+Drago mi je što smo se upoznali!
+Kante lave!
+Jaši svinju!
+Veći od Zemlje!
+Volim te!
 Phobos anomaly!
-Punching wood!
-Falling off cliffs!
-1% sugar!
-150% hyperbole!
-Synecdoche!
-Let's danec!
-Seecret Friday update!
-Reference implementation!
-Kiss the sky!
+Udaranje drva!
+Padanje niz litice!
+1% šećera
+150% pretjerivanja!
+Sinegdoha!
+Zapelšimo!
+Tajno ažuriranje petkom!
+Referentna implementacija
+Poljubi nebo!
 20 GOTO 10!
 Verlet intregration!
 Peter Griffin!
-Do not distribute!
+Nije dopuštena distribucija!
 Cogito ergo sum!
-4815162342 lines of code!
-A skeleton popped out!
-The sum of its parts!
-BTAF used to be good!
-I miss ADOM!
-umop-apisdn!
+4815162342 linija koda!
+Kostur je iskočio!
+Zbroj svojih dijelova!
+BTAF je nekad bio dobar!
+Nedostaje mi ADOM!
+oʇnuɹqo!
 OICU812!
-Bring me Ray Cokes!
-Finger-licking!
-Thematic!
-Pneumatic!
-Sublime!
-Octagonal!
+Donesi mi Ray Coke!
+Za prste polizati!
+Tematski!
+Pneumatičan!
+Uzvišen!
+Osmerokutan!
 Une baguette!
-Gargamel plays it!
+Gargamel ga igra!
 Rita is the new top dog!
-SWM forever!
-Representing Edsbyn!
+SWM zauvijek!
+Zastupa Edsbyn!
 Matt Damon!
 Supercalifragilisticexpialidocious!
 Consummate V's!
-Cow Tools!
-Double buffered!
+Kravlji alati!
+Koristi dvostruki međuspremnik!
 Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Hotter than the sun!
-Internet enabled!
-Autonomous!
-Engage!
-Fantasy!
-DRR! DRR! DRR!
+Topliji od sunca!
+Spaja se na internet!
+Autonoman!
+Napad!
+Fantazija!
+DDR! DDR! DDR!
 Kick it root down!
 Regional resources!
 Woo, facepunch!
@@ -167,21 +167,21 @@ Woo, tigsource!
 Woo, worldofminecraft!
 Woo, reddit!
 Woo, 2pp!
-Google anlyticsed!
-Now supports åäö!
-Give us Gordon!
-Tip your waiter!
-Very fun!
-12345 is a bad password!
+Google analitikzirano!
+Sada podržava čćž!
+Dajne nam Gordona!
+Dajte napojnicu svom konobaru!
+Vrlo zabavan!
+12345 je loša zaporka!
 Vote for net neutrality!
-Lives in a pineapple under the sea!
-MAP11 has two names!
-Omnipotent!
-Gasp!
+Pod morem on živi voli svoj dom!
+MAP11 ima dva imena!
+Svemoguć!
+Daht!
 ...!
-Bees, bees, bees, bees!
+Pčele, pčele, pčele, pčele!
 Jag känner en bot!
-This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
+Ovaj tekst je teško pročitati ako igraš igru na zadanoj rezoluciji, ali na 1080p je sasvim u redu!
 Haha, LOL!
 Hampsterdance!
 Menger sponge!
@@ -279,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
@@ -302,12 +301,12 @@ Pretty scary!
 I have a suggestion.
 Now with extra hugs!
 Java 16 + 1 = 17!
-Woah.
+Vau.
 HURNERJSGER?
 What's up, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
-pls rt
+pliz rt
 Do you want to join my server?
 Put a little fence around it!
 Throw a blanket over it!
@@ -425,3 +424,11 @@ Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
 Made by "real" people!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!

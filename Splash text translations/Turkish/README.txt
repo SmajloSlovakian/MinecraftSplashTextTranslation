@@ -1,4 +1,4 @@
-Bu proje SmajloSlovakian#1077 tarafından yapılmıştır. (Eğer tanışmıyorsak bana arkadaşlık isteği gönderemezsiniz.)
+This project was created by SmajloSlovakian#1077
 
 Bu paketi nasıl Minecraft'a eklerim?
 - Açtığınız dosyayı "\Appdata\Roaming\.minecraft\resourcepacks\" dosyasına atın.  

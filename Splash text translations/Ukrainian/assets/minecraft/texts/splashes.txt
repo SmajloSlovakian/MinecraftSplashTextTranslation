@@ -9,7 +9,7 @@
 Воно тут!
 Найкращий в класі!
 Воно завершене!
-Частично вільне від драконів!
+Частково вільне від драконів!
 Радість!
 Понад 500 копій продано!
 Єдиний у своєму роді!
@@ -19,7 +19,7 @@ Indev!
 Перевірте!
 Отакої, чоловіче!
 Це гра!
-Виготовлено в Швеції!
+Зроблено у Швеції!
 Використовуються LWJGL!
 Сітчасті рейки!
 Minecraft!
@@ -35,23 +35,23 @@ l33t!
 Підземелля!
 Ексклюзив!
 Бджолині коліна!
-Closed source!
+Початковий код заблоковано!
 Класний!
 Вау!
-Немає у steam!
+Не в Steam!
 Ох, чоловіче!
 Дуже крута спільнота!
 Пікселі!
-Teetsuuuuoooo!
-Kaaneeeedaaaa!
-Тепер насилу!
+Я викликаю тебеееее!
+Місячне сяйво - дай мені сил!
+Ще складніше!
 Покращено!
 90% без багів!
 Гарно!
 12 страв і спецій!
 Без жиру!
-Абсолютно немає мемів!
-Free dental!
+Точно без жартів!
+Рекомендують 9 з 10 стоматологів!
 Запитайте свого лікаря!
 Ласкаво просимо, дітлахи!
 Хмарні обчислення!
@@ -61,16 +61,16 @@ Free dental!
 Це перемога!
 Інді!
 Гра року!
-Ceci n'est pas une title screen!
+Цибуляний суп!
 Евклідова!
 Тепер у 3D!
 Натхненний!
 О боже!
 Складні клітинні автомати!
-Так. сер!
+Так, пане!
 Відтворено ковбоями!
 Тепер у профілі ядра OpenGL 3.2!
-Тисячі кольори!
+Тисячі кольорів!
 Спробуйте!
 Age of Wonders краще!
 Спробуйте грибне рагу!
@@ -103,7 +103,7 @@ NP немає в P!
 Науково!
 Не такий крутий, як Спок!
 Співпрацюйте та слухайте!
-Ніколи не копайте під себе!
+Не копати під собою!
 Частіше робіть перерви!
 Не лінійний!
 Хан вистрілив першим!
@@ -113,13 +113,13 @@ NP немає в P!
 Більше ніж Земля!
 sqrt(-39 тис.) люблю тебе
 Phobos anomaly!
-Штампування дерев!
+Рубання дерев!
 Падіння зі скель!
 1% цукру!
-150% hyperbole!
+Гіперболізовано на 150%
 Синекдоха!
 Давайте танцюймо!
-Оновлення Секретна П'ятниця!
+Оновлення Тааємної П'ятниці!
 Реалізація посилань!
 Поцілуй небо!
 20 GOTO 10!
@@ -132,7 +132,7 @@ Cogito ergo sum!
 Сума його частин!
 Раніше BTAF був хорошим!
 Я сумую за ADOM!
-иwɐɹон хdǝʚʚ
+иᥕɐ⅃oн иdo⅃oჩ
 OICU812!
 Принесіть мені Ray Cokes!
 Пальчики оближеш!
@@ -146,7 +146,7 @@ Une baguette!
 SWM назавжди!
 Представляємо Едсбін!
 Метт Деймон!
-Supercalifragilisticexpialidocious!
+Супердупермегаультра!
 Неперевершені V's!
 Cow Tools!
 Подвійна буферизація!
@@ -155,7 +155,7 @@ Flaxkikare!
 Джейсон! Джейсон! Джейсон!
 Гарячіше сонця!
 Інтернет включено!
-Autonomous!
+Автономічно!
 Залучайтесь!
 Фантазія!
 ДРР! ДРР! ДРР!
@@ -170,7 +170,7 @@ Autonomous!
 Google проаналізований!
 Тепер підтримує åäö!
 Віддайте нам Гордона!
-Дайте чайові для свого офіціанта!
+Чайові офіціанту!
 Дуже весело!
 12345 поганий пароль!
 Голосуйте за нейтралітет мережі!
@@ -183,245 +183,252 @@ MAP11 має дві назви!
 Jag känner en bot!
 Цей текст важко прочитати, якщо ви граєте в гру з роздільною здатністю за замовчуванням, але в 1080p це добре!
 Хаха, ЛОЛ!
-Hampsterdance!
+ТанціХом'яків!
 Губка Мангера!
 idspispopd!
 Eple (оригінальне редагування)!
 So fresh, so clean!
-Slow acting portals!
-Try the Nether!
-Don't look directly at the bugs!
-Oh, ok, Pigmen!
-Finally with ladders!
-Scary!
-Play Minecraft, Watch Topgear, Get Pig!
-Twittered about!
-Jump up, jump up, and get down!
-Joel is neat!
-A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
-Welcome to your Doom!
-Stay a while, stay forever!
-Stay a while and listen!
-Treatment for your rash!
-"Autological" is!
-Information wants to be free!
-"Almost never" is an interesting concept!
-Lots of truthiness!
-The creeper is a spy!
-Turing complete!
-It's groundbreaking!
-Let our battle's begin!
-The sky is the limit!
-Jeb has amazing hair!
-Ryan also has amazing hair!
-Casual gaming!
-Undefeated!
-Kinda like Lemmings!
-Follow the train, CJ!
-Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
-DungeonQuest is unfair!
-90210!
-Check out the far lands!
-Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
-Khaaaaaaaaan!
-Less addictive than TV Tropes!
-More addictive than lemonade!
-Bigger than a bread box!
-Millions of peaches!
-Fnord!
-This is my true form!
-Don't bother with the clones!
-Pumpkinhead!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Feature packed!
-Boots with the fur!
-Stop, hammertime!
-Testificates!
-Conventional!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
-Place ALL the blocks!
-Does barrel rolls!
-Meeting expectations!
-PC gaming since 1873!
-Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
-Got your nose!
-Haley loves Elan!
-Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
-Technologic!
-Funk soul brother!
-Pumpa kungen!
+Повільно дієві портали!
+Виживіть у Незері!
+Не приглядайся до багів.
+Ох, окей, Свинозомбі!
+Нарешті додано драбини!
+Моторошно!
+Грай в Minecraft, дивись Топ Ґір, купи свиню!
+Твітни про це!
+Вверх, вверх і вниз!
+Джоел крутий!
+Загадка, загорнута в таємницю!
+Папуги більше не існує! Її немає!
+Ласкаво прошу у "Doom"!
+Залишся на час, залишся назавжди!
+Зажди та прислухайся!
+Медична карта з собою?
+Це - "Автологія"!
+Інформація має бути безкоштовною!
+«Майже ніколи» — цікава концепція!
+Тут багато правдивості!
+Крипер - це шпигун!
+Повнота за Тюрінгом!
+Це новаторство!
+Нехай почнеться битва!
+Небо - це межа!
+У Джеба неперевершене волосся!
+У Раяна теж чудове волосся!
+Кежуальний ґеймінґ!
+Непереможний!
+Схоже на гру "Lemmings"!
+Слідуй за потягом, СіДжей! 
+Не тупи!
+Це повідомлення ніколи не з'являться на екрані, хіба не дивно?
+Гра "DungeonQuest" несправедлива!
+01001!
+Відвідайте далекі землі!
+Тиріону сподобається!
+Зіграйте в "VVVVVV"!
+Зіграйте в "Super Meat Boy"!
+Зіграйте в "Terraria"!
+Зіграйте в "Mount And Blade"!
+Зіграйте в "Project Zomboid"!
+Зіграйте в "World of Goo"!
+Зіграйте в "Limbo"!
+Зіграйте в "Pixeljunk Shooter"!
+Зіграйте в "Braid"!
+Офігезно!
+Хліб – усьому голова
+Читайте більше книг!
+Хаааааааааан!
+QTV затягувало...
+Звикаєш швидше ніж до лимонаду!
+Більша ніж кошик для хліба!
+Мільйони персиків!
+Фнорд!
+Ось хто я!
+Не хвилюйтесь щодо клонів!
+Гарбузоголовий!
+Створено Джебом!
+Має кінцівку!
+Нарешті завершений!
+Далі буде!
+Чоботи з хутром!
+Коли настане день!
+Випробується!
+Звичайнісьнький!
+Гомеоморфізм до 3 сфери!
+Не уникайте подвійних від'ємних значень!
+Розмістити ВСІ блоки!
+Зроби сальто!
+Очікування зустрічі!
+Граємо в ігри з 1873!
+Сокіабле!
+Дежавю!
+Дежавю!
+Я вкрав твій носик!
+Гейлі обожнює Ілана!
+Стережись, великого, чорного кажана!
+Не використовуй слово на "Р"!
+Дитячі забавки!
+Побачимося наступної п'ятниці!
+З вулиць Судермалу!
+150 ударів на 400000 хвилин!
+Технології!
+Вот е вандерфул ворлд!
+Геть здурів!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привіт, росія
-Γεια σου Ελλάδα!
-My life for Aiur!
-Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
-if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
-§kFUNKY LOL
-Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
-.party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
-Now with extra hugs!
+Γεια σου Ελλάδα!  (Вітаю, Греція!)
+Моє життя за Айура!
+Леонардо да Вінчі!
+Я бачу, що твій словник покращився!
+Хто це залишив?
+Ти не поясниш це!
+якщо не так тоді на кінець
+§1Г§2і§3р§4л§5я§6н§7д§8а§9!§a!
+§kЗЛЯКАВСЯ)
+Великі Випираючі Зуби!
+Бекартон захищає ворота!
+Стогни, клас!
+Не давай авокадо папугам!
+Меч для кожного!
+Пж, відповідь на мій твіт!
+.свято()!
+Візьми її подушку!
+Поклади печиво!
+Досить страшно!
+В мене пропозиція.
+Тепер з обіймами!
 Java 16 + 1 = 17!
-Woah.
-HURNERJSGER?
-What's up, Doc?
-Now contains 32 random daily cats!
-That's Numberwang!
-pls rt
-Do you want to join my server?
-Put a little fence around it!
-Throw a blanket over it!
-One day, somewhere in the future, my work will be quoted!
-Now with additional stuff!
-Extra things!
-Yay, puppies for everyone!
-So sweet, like a nice bon bon!
-Very influential in its circle!
-Now With Multiplayer!
-Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
-Run, coward! I hunger!
-Flavor with no seasoning!
-Strange, but not a stranger!
-Tougher than diamonds, rich like cream!
-It swings, it jives!
-Cruising streets for gold!
-Take an eggbeater and beat it against a skillet!
-Make me a table, a funky table!
-Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
+Ого.
+СЕЛЯНИН?
+Як справи, Док?
+Тепер має 32 випадкових щоденних котів!
+Це Numberwang!
+пж твітни
+Приєднаєшся до сервера?
+Постав трохи огорожі навколо нього!
+Накинь на неї ковдру!
+Одного дня, десь в майбутньому, мої переклади будуть затверджені!
+Тепер з додатковими речами!
+Додаткові речі!
+Єє, цуценята на всіх!
+Солодко, як цукрова вата!
+Дуже впливовий у своєму колі!
+З Мультиплеєром!
+Вилізь з могили!
+Увага! Величезний бойовий корабель "СТІВ" наближається швидко!
+Синій воїн застрелив їжу!
+Біжи, боягуз! Я голодний!
+Аромат без сезону!
+Дивний, але не дивніше!
+Жорсткіше за діаманти, багаті як вершки!
+Він ковтає, п'є!
+Круїзи вулиць за золото!
+Дуй бульбашку!
+Зробіть мене столиком, ще й кумедним!
+Не гальмуй!
+Годі бути розсудливим, це ж інтернет!
 /give @a hugs 64
-This is good for Realms.
-Any computer is a laptop if you're brave enough!
-Do it all, everything!
-Where there is not light, there can spider!
-GNU Terry Pratchett
-More Digital!
+Хороше для Realms.
+Будь-який комп'ютер є ноутбуком, якщо ви достатньо хоробрий!
+Зроби все, взагалі!
+Де немає світла, там може бути павук!
+GNU Террі Пратчетт!
+Цифровізація!
 doot doot
-Falling with style!
-There's no stopping the Trollmaso
-Throw yourself at the ground and miss
-Rule #1: it's never my fault
-Replaced molten cheese with blood?
-Absolutely fixed relatively broken coordinates
-Boats FTW
-Javalicious edition
-Should not be played while driving
-You're going too fast!
-Don't feed chocolate to parrots!
-The true meaning of covfefe
-An illusion! What are you hiding?
-Something's not quite right...
-Thank you for the fish!
-All rumors are true!
-Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
-Ahhhhhh!
+Падай стильно!
+Там не зупиняти Trollmaso
+Впади на землю та пропади
+Правило #1: це не мої проблеми
+Замінений розплавлений сир з кров'ю?
+Повністю виправлені відносно зламані координати
+Човни На Фініш
+Найякісніше видання!
+Не грати під час водіння
+Надто швидко!
+Не давай шоколад папугам!
+Пийте кохфе!
+Ілюзія! Що ховаємо?
+Щось тут не те...
+Дякую за рибину!
+Всі чутки правдиві!
+Пішов рибалити!
+Веселкова черепаха?
+Щось смішне!
+Треба більше контексту.
+Нііііііііі!
 Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
-Look mum, I'm in a splash!
-It came from space.
-Awesome game design right there!
-Ph1lza had a good run!
-10 years of Mining and Crafting!
-Ping the human!
-In case it isn't obvious, foxes aren't players.
-Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
-Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
-Cough or sneeze into your elbow!
-Don’t touch your face!
-Support elderly relatives and friends!
-Prepare, but don’t hoard!
-Gamers unite – separately in your own homes!
-Save the world – stay inside!
-Shop for your elders!
-Hang out with your friends online!
-Honey, I grew the bees!
-Find your claw!
-Everybody do the Leif!
-<3 Max & 99 & Ducky!
-Bushy eyebrows!
-Edit is a name!
-From free range developers!
-Music by Lena Raine!
-Aww man!
+Пляшка води!
+В чому питання?
+Посади дерево!
+Сходи до стоматолога!
+На що ти чекав?
+Мамо, я біля лого!
+Прийшло з космосу.
+Чудовий дизайн гри прямо тут!
+Ph1lza, непоганий забіг!
+10 років роботи та ремесла!
+Відміть людину!
+У разі, якщо це не очевидно, лисиці не гравці.
+Дзззвінкі бджоли!
+Minecraft Java Edition презентує: Огидні Баги
+Мий руки!
+Мило з водою!
+Підтримай місцеві бізнеси!
+Залишайся вдома і грай!
+Залишайся у безпеці!
+Залишайся сильним!
+Кашляйте чи чхайте до ліктя!
+Не чіпай обличчя!
+Допомагай дальнім родичам та друзям!
+Уникай контакту з обличчям!
+Ґеймери об’єднуйтесь - але окремо у своїх будинках!
+Збережи світ - залишись всередині!
+Купляй старшим!
+Зідзвонюйтесь з друзями онлайн!
+Люба, я виростив бджіл!
+Знайди кіготь!
+Закохуйтесь!
+Кляті дрони!
+Товстобровий!
+Едіт - це ім'я!
+Від розробників з любов'ю!
+Музика від Лена Рейн(
+Оуууу, меен!
 #minecraftfarms
-And my pickaxe!
-Envision! Create! Share!
-Fabulous graphics!
-Also try Minecraft Dungeons!
-Vanilla!
-May contain traces of citrus!
-Zoglin!?
-Black lives matter!
-Be anti-racist!
-Learn about allyship!
-Speak OUT against injustice and UP for equality!
-Amplify and listen to BIPOC voices!
-Educate your friends on anti-racism!
-Support the BIPOC community and creators!
-Stand up for equality in your community!
-[this splash text is now available]
-Contains simulated goats!
-Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+Це моє кайло!
+Уявляй! Створи! Поширюй!
+Неймовірна графіка!
+Також купи Minecraft Dungeons!
+Класичний!
+Може є сліди цитрусів!
+Зоглін!?
+Чорні не гірше білих!
+Не будь расистом!
+Дізнайся про союзництво!
+Висловлюйся про несправедливість та говори за рівність!
+Підтримуй Україну!
+Разом до перемоги!
+Слава Україні!
+Встаньте за рівність у спільноті!
+[цей сплеш існує]
+Має симульованих козлів!
+Роблене вдома!
+Тут кклкіт за"+ , клавіурою!~
+Наймиліший хижак, з яким ви коли-небудь зустрінетесь!
+Тепер думаєш за поршні!
 З днем міді!
 Також доступна версія настільної гри!
 Кохана, я навощив мідь!
 Джерело світла на основі рослин!
 Зроблено "справжніми" людьми!
+Крикля як Скалковий-крикун!
+Хто випустив жаб?
+Риб'яча жаба!
+Команда квакання!
+Нііііііііііііі!
+Парфум Квітковий ліс TM
+Капелюшні п'ятниці!
+Technoblade ніколи не помирає!
