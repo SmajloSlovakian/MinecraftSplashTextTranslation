@@ -7,7 +7,7 @@ Como eu adiciono este pacote para o Minecraft?
 Como entro na pasta de pacote de recursos?
 -Abra o Minecraft, vá em opções, pacotes de recursos, arraste e solte o pacote de recursos na janela do Minecraft...
 Mas espere! isso não funcionou!
--Clique em um botão chamado "Abrir pasta de pacotes"
+-Click on a button called "Open pack folder"
 
 
 
