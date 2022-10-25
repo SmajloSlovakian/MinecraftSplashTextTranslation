@@ -7,7 +7,7 @@ Bu paketi nasıl Minecraft'a eklerim?
 Resource Packs klasörüne nasıl ulaşırım?
 - Minecraft'ı aç. Ayarlara gir. Resource Packs'i aç. Resource Pack'i Minecraft penceresine sürükle ve bırak...
 Ama bekleyin! Bu tam öyle çalışmıyor!
-- Resource Packs yazan tuşa tıkla.
+-Click on a button called "Open pack folder"
 
 
 
