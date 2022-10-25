@@ -7,7 +7,7 @@ Hur lägger jag till det här paketet i Minecraft?
 Hur öppnar jag resurspakets-mappen?
 – Öppna Minecraft och välj "Alternativ", "Resurspaket". Du kan nu dra och släppa resurspaketet i Minecraft-fönstret...
 Nej, vänta! Det går ju inte!
-– Klicka på knappen där det står "Öppna mappen för paket".
+-Click on a button called "Open pack folder"
 
 
 
