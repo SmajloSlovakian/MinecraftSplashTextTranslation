@@ -7,7 +7,7 @@ Wie füge ich dieses Paket zu Minecraft hinzu?
 Wie komme ich in den Ressourcenpakete-Ordner?
 -Öffne Minecraft, navigiere zu Einstellungen, Ressourcenpakete, ziehe das Ressourcenpaket in das Minecraft Fenster...
 Aber warte! das funktioniert nicht!
--Klicke auf dem Knopf Namens „Paketordner öffnen“
+-Click on a button called "Open pack folder"
 
 
 
