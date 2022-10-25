@@ -244,35 +244,35 @@ Veći od kutije za kruh!
 Milijuni bresaka!
 Fnord!
 Ovo je moj pravi oblik!
-Don't bother with the clones!
-Pumpkinhead!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Feature packed!
+Ne zamaraj se klonovima!
+Bundevoglavi!
+Napravio Jeb!
+Ima kraj!
+Napokon dovršen!
+Pun mogućnosti!
 Boots with the fur!
-Stop, hammertime!
+Stani, hammer-vrijeme!
 Testificates!
-Conventional!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
-Place ALL the blocks!
+Konvencionalan!
+Homeomorfan do 3-sfere!
+Ne izbjegava dvostruke negative!
+Postavi SVE blokove!
 Does barrel rolls!
-Meeting expectations!
-PC gaming since 1873!
+Ispunjava očekivanja!
+Igranje računalnih igara od 1873!
 Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
-Got your nose!
-Haley loves Elan!
-Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
-Technologic!
-Funk soul brother!
+Imam tvoj nos!
+Haley voli Elana!
+Boji se velikog, crnog šišmiša!
+Ne koristi riječ koja počinje na ‘U!’
+Dječja igra!
+Vidimo se idućeg petka, ili tako nekako!
+S ulica Södermalma!
+150 bpm koji traju 400000 minuta!
+Tehnologično!
+Funk soul brate!
 Pumpa kungen!
 日本ハロー！
 한국 안녕하세요!
@@ -280,36 +280,36 @@ Helo Cymru!
 Cześć Polsko!
 你好中国！
 Γεια σου Ελλάδα!
-My life for Aiur!
+Moj život za Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Vidim da ti se vokabular poboljšao!
+Tko je to tamo stavio?
+Ovo ne možeš objasniti!
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+§1R§2a§3z§4n§5o§6b§7o§8j§9a§an
 §kFUNKY LOL
-Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
-.party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
-Now with extra hugs!
+Veliki šiljasti zubi!
+Bekarton čuva vrata!
+Mmmm, mmm!
+Ne hrani papige avokadom!
+Mačevi za sve!
+Pliz odgovori na moj twit!
+.tulimari()!
+Uzmi njen jastuk!
+Spusti taj keks!
+Prilično zastrašujući!
+Imam prijedlog.
+Sada sa dodatnim zagrljajima!
 Java 16 + 1 = 17!
 Vau.
 HURNERJSGER?
-What's up, Doc?
-Now contains 32 random daily cats!
-That's Numberwang!
+Kaj te muči, njofra?
+Od sada ima 32 nasumične dnevne mačke!
+To je Numberwang!
 pliz rt
-Do you want to join my server?
-Put a little fence around it!
-Throw a blanket over it!
+Želiš li se pridružiti mom serveru?
+Stavi malu ogradu oko toga!
+Baci deku preko toga!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
 Extra things!
@@ -344,7 +344,7 @@ Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
-Boats FTW
+Brodovi FTW!
 Javalicious edition
 Should not be played while driving
 You're going too fast!
@@ -426,9 +426,9 @@ Plant-based light sources!
 Made by "real" people!
 Shriek like a Sculk Shrieker!
 Who let the frogs out?
-RIBBIT!
+KREKET!
 Croak team!
-Nooooooooooooo!
+Neeeeeeeeeeeee!
 Flower forest TM perfume
 Hat Fridays!
 Technoblade never dies!
