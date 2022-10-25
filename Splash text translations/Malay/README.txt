@@ -7,7 +7,7 @@ Bagaimanakah saya menambah pek in kedalam Minecraft?
 Bagaimanakah cara untuk saya memasuki folder resourcepacks?
 -Buka Minecraft, pergi ke tetapan, Pek Sumber, seret dan lepaskan pek sumber itu kedalam tetingkap Minecraft...
 Tapi tunggu dulu!  ia tidak berfungsi!
--Klik pada sebuah butang bernama "Folder pek sumber..."
+-Click on a button called "Open pack folder"
 
 
 
