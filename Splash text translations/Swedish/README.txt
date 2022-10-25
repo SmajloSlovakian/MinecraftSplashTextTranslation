@@ -1,4 +1,4 @@
-This project was created by SmajloSlovakian#1077
+Detta projekt skapades av SmajloSlovakian#1077
 
 Hur lägger jag till det här paketet i Minecraft?
 – Lägg till mappen du precis öppnat i sökvägen: "\Appdata\Roaming\.minecraft\resourcepacks\". Öppna sedan Minecraft och välj "Alternativ", 
