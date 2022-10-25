@@ -7,7 +7,7 @@ How do I add this pack to Minecraft?
 Kiel trovi la resurspakaĵan dosierujon?
 -Startigu Minecraft, iru al agordoj, resurspakaĵoj, ŝovmetu la pakaĵon en la fenestron de Minecraft...
 Ho, atendu! tio ne funkcias!
--Klaku la butonon "Malfermi pakaĵujon"
+-Click on a button called "Open pack folder"
 
 
 
