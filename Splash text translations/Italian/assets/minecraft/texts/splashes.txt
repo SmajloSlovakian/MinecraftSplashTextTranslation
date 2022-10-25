@@ -86,7 +86,7 @@ Lotte intestine fra mostri!
 Amato da milioni di persone!
 Edizione definitiva!
 Peculiare!
-You've got a brand new key!
+La chiave del mio cuore!
 Impermeabile!
 Non infiammabile!
 Su, amico!
@@ -120,7 +120,7 @@ Vola giù da uno strapiombo!
 Sineddoche!
 Si aprano le danez!
 Aggiornamento secreto del venerdì!
-Reference implementation!
+Implementazione di riferimento!
 Bacia il cielo!
 20 GOTO 10!
 Algloritmo di Verlet!
