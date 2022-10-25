@@ -1,4 +1,4 @@
-This project was created by SmajloSlovakian#1077
+Questo progetto è stato creato da SmajloSlovakian#1077
 
 Come faccio ad aggiungere questo pacchetto a Minecraft?
 -Copia la cartella che hai appena aperto nella cartella "\Appdata\Roaming\.minecraft\resourcepacks\", apri Minecraft, vai alle impostazioni, 
@@ -7,7 +7,7 @@ Come faccio ad aggiungere questo pacchetto a Minecraft?
 Come faccio ad accedere alla cartella "resourcepacks"?
 -Apri Minecraft, vai sulle impostazioni, clicca "Pacchetti di risorse", trascina il pacchetto di risorse nella finestra di Minecraft e rilascialo...
 Aspetta! Non funziona!
--Click on a button called "Open pack folder"
+-Clicca sul pulsante chiamato "Apri la cartella dei pacchetti"
 
 
 
