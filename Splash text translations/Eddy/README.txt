@@ -7,7 +7,7 @@ How do I add this pack to Minecraft?
 How to ged into thed resourcepackeds folded?
 -Opened Minecrafted, goed into settings, Resource packeds, drag and dropped the resourcepacked into Minecrafted windowed...
 Butted waited! that doesn'ted worked!
--Clicked on a buttoned called "Resourced packeds folded..."
+-Click on a button called "Open pack folder"
 
 
 
