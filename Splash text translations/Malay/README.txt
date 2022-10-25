@@ -1,4 +1,4 @@
-This project was created by SmajloSlovakian#1077
+Projek ini dihasilkan oleh SmajloSlovakian#1077
 
 Bagaimanakah saya menambah pek in kedalam Minecraft?
 -Tambahkan folder yang anda baru buka ke folder "\Appdata\Roaming\.minecraft\resourcepacks\", pergi kedalam Minecraft, tetapan, 
