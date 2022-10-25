@@ -7,7 +7,7 @@ Este proyecto fue creado por SmajloSlovakian#1077
 ¿Cómo entro en la carpeta de los paquetes de texturas?
 -Abre Minecraft, ve a ajustes, paquetes de recursos, arrastra y suelta el paquete de texturas en la ventana de Minecraft...
 ¡Pero espera! ¡Eso no ha funcionado!
--Haz clic en el botón en el que pone «Abrir carpeta de paquetes»
+-Click on a button called "Open pack folder"
 
 
 
