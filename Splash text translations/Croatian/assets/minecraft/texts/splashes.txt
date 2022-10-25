@@ -1,18 +1,18 @@
 As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
+Predobro!
+100% čist!
+Može sadržavati orašaste plodove!
 More polygons!
 Moderately attractive!
-Limited edition!
+Ograničeno izdanje!
 Flashing letters!
-It's here!
-Best in class!
+Evo ga!
+Najbolji u klasi!
 It's finished!
 Kind of dragon free!
 Excitement!
 More than 500 sold!
-One of a kind!
+Jedinstven!
 Heaps of hits on YouTube!
 Indev!
 Spiders everywhere!
@@ -20,7 +20,7 @@ Check it out!
 Holy cow, man!
 It's a game!
 Made in Sweden!
-Uses LWJGL!
+Koristi LWJGL!
 Reticulating splines!
 Minecraft!
 Jeeej!
@@ -160,20 +160,20 @@ Napad!
 Fantazija!
 DDR! DDR! DDR!
 Kick it root down!
-Regional resources!
-Woo, facepunch!
-Woo, somethingawful!
-Woo, tigsource!
-Woo, worldofminecraft!
-Woo, reddit!
-Woo, 2pp!
+Regionalni resursi!
+Jeej, facepunch!
+Jeej, somethingawful!
+Jeej, tigsource!
+Jeej, worldofminecraft!
+Jeej, reddit!
+Jeej, 2pp!
 Google analitikzirano!
 Sada podržava čćž!
 Dajne nam Gordona!
 Dajte napojnicu svom konobaru!
 Vrlo zabavan!
 12345 je loša zaporka!
-Vote for net neutrality!
+Glasajte za neutralnost interneta!
 Pod morem on živi voli svoj dom!
 MAP11 ima dva imena!
 Svemoguć!
@@ -189,61 +189,61 @@ idspispopd!
 Eple (original edit)!
 So fresh, so clean!
 Slow acting portals!
-Try the Nether!
-Don't look directly at the bugs!
-Oh, ok, Pigmen!
-Finally with ladders!
-Scary!
-Play Minecraft, Watch Topgear, Get Pig!
-Twittered about!
+Isprobaj Nether!
+Ne gledaj izravno u kukce!
+Oh, okej, zombi-svinja!
+Napokon ima ljestve!
+Zastrašujući!
+Igraj Minecraft, gledaj Topgear, dobi svinju!
+Twitteriran!
 Jump up, jump up, and get down!
-Joel is neat!
+Joel je fora!
 A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
+Ove papige više nema! Prestala je biti!
 Welcome to your Doom!
-Stay a while, stay forever!
-Stay a while and listen!
-Treatment for your rash!
-"Autological" is!
-Information wants to be free!
-"Almost never" is an interesting concept!
-Lots of truthiness!
-The creeper is a spy!
-Turing complete!
-It's groundbreaking!
-Let our battle's begin!
-The sky is the limit!
-Jeb has amazing hair!
-Ryan also has amazing hair!
-Casual gaming!
-Undefeated!
-Kinda like Lemmings!
-Follow the train, CJ!
-Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
-DungeonQuest is unfair!
+Ostani malo, ostani zauvijek!
+Ostani malo i osluhni!
+Liječenje za tvoj osip!
+"Autologičko" je!
+Informacije žele biti slobodone!
+„Skoro nikad” je zanimljiv koncept!
+Puno istinitosti!
+Creeper je špijun!
+Turing kompletan!
+Revolucionaran je!
+Neka naše borbe započnu!
+Samo nebo je granica!
+Jeb ima nevjerojatnu kosu!
+Ryan također ima nevjerojatnu kosu!
+Ležerno igranje!
+Neporažen!
+Nešto kao Lemmings!
+Prati vlak, CJ!
+Iskorištava sinergiju!
+Ova poruka nikad se neće prikazati na pozdravnom tekstu, nije li to čudno?
+DungeonQuest nije fer!
 90210!
-Check out the far lands!
-Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
+Posjetite far lands!
+Tyrionu bi se svidjelo!
+Probaj VVVVVV!
+Probaj Super Meat Boy!
+Probaj igricu Terraria!
+Probaj Mount And Blade!
+Probaj Project Zomboid!
+Probaj World of Goo!
+Probaj Limbo!
+Probaj Pixeljunk Shooter!
+Probaj Braid!
+To je super!
+Kruh je bol!
+Čitaj više knjiga!
 Khaaaaaaaaan!
-Less addictive than TV Tropes!
-More addictive than lemonade!
-Bigger than a bread box!
-Millions of peaches!
+TV Tropes stvara manje ovisnosti!
+Izaziva veću ovisnost od limunade!
+Veći od kutije za kruh!
+Milijuni bresaka!
 Fnord!
-This is my true form!
+Ovo je moj pravi oblik!
 Don't bother with the clones!
 Pumpkinhead!
 Made by Jeb!
