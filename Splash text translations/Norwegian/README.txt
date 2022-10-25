@@ -8,7 +8,7 @@ Men hvordan legger jeg til denne pakken til Minecraft?
 Men hvordan kommer jeg meg inn i mappen til ressurspakkene?
 -Åpne Minecraft, gå inn i innstillingene, Ressurspakker, og deretter dra og slipp ressurspakken oppå Minecraft-vinduet...
 Men vent! Det fungerer ikke!
--Trykk på knappen kalt "Ressurspakker..."
+-Click on a button called "Open pack folder"
 
 
 
