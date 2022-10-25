@@ -1,4 +1,4 @@
-This project was created by SmajloSlovakian#1077
+Dette oversettings-prosjektet var skapet av SmajloSlovakian#1077
 
 Men hvordan legger jeg til denne pakken til Minecraft?
 --Da må du legge til mappen du nettopp har åpnet til din
@@ -8,7 +8,7 @@ Men hvordan legger jeg til denne pakken til Minecraft?
 Men hvordan kommer jeg meg inn i mappen til ressurspakkene?
 -Åpne Minecraft, gå inn i innstillingene, Ressurspakker, og deretter dra og slipp ressurspakken oppå Minecraft-vinduet...
 Men vent! Det fungerer ikke!
--Click on a button called "Open pack folder"
+-Klikk på en knapp i innstillingene som heter "Åpne mappe"
 
 
 
