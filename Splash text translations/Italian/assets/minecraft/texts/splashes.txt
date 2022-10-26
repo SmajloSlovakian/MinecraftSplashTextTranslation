@@ -156,7 +156,7 @@ Jason! Jason! Jason!
 Più attraente di una calamita!
 Internet attivato!
 Autonomo!
-Engage!
+Fatti coinvolgere!
 Fantasy!
 DRR! DRR! DRR!
 Kick it root down!
@@ -334,7 +334,7 @@ Smettila di essere ragionevole, siamo su Internet!
 Realms ne trae profitto.
 Ogni computer può essere un portatile se sei abbastanza coraggioso!
 Fa' di tutto, fallo tutto!
-Ove carente luce, ivi potente ragno!
+Ove buio, ivi ragno!
 GNU Terry Pratchett
 Più digitale!
 doot doot
@@ -416,7 +416,7 @@ Impegnati per l'eguaglianza all'interno della tua sfera sociale!
 [questo sottotitolo del menù principale è ora disponibile]
 Include capre che campano!
 Fatto in casa!
-C'é <<un gatto sulLa ,mia tastiera!|
+C'é ;;un gatto sulla ,mia tastiera!°
 Il predatore più adorabile che tu abbia mai incontrato!
 Ora stai pensando con i tuoi pistoni!
 Prenderò il ramen!
