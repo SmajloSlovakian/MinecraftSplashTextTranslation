@@ -7,7 +7,7 @@ How do I add this pack to Minecraft?
 Jak dostać się do folderu resourcepacks?
 -Otwórz Minecrafta, otwórz Ustawienia, Paczki zasobów, przeciągnij paczkę zasobów na okno Minecrafta…
 Ale chwileczkę! To nie działa!
--Click on a button called "Open pack folder"
+-Kliknij przycisk nazwany "Otwórz folder paczek zasobów"
 
 
 
