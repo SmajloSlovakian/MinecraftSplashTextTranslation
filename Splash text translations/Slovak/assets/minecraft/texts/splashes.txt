@@ -172,7 +172,7 @@ Now supports åäö!
 Give us Gordon!
 Tip your waiter!
 Veľká zábava!
-12345 is a bad password!
+12345 je zlé heslo!
 Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
@@ -193,7 +193,7 @@ Try the Nether!
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
-Scary!
+Strašideľné!
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
