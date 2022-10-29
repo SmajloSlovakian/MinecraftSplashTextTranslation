@@ -27,7 +27,7 @@
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "Spelregissör",
                 "names": [
                     "Agnes Larsson",
                     "Måns Olson"
@@ -48,7 +48,7 @@
                 ]
             },
             {
-                "title": "Principal Design Manager",
+                "title": "Chef över spelformgivning",
                 "names": [
                     "Michael Harnisch"
                 ]
@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Konstnärlig ledare",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Narrativ formgivare",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "Försöksledare",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -114,13 +114,13 @@
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Chef för teknik",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Ansvarig för dataplattformar",
                 "names": [
                     "Jason Cahill"
                 ]
@@ -435,7 +435,7 @@
         "section": "Ljud",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Estetiskt ansvarig",
                 "names": [
                     "Samuel Åberg"
                 ]
