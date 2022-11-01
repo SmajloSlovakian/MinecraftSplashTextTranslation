@@ -584,25 +584,25 @@
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Глава рынка создателей",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Minecraft Education",
+                "title": "Начальник образования в Minecraft",
                 "names": [
                     "Allison Matthews"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Руководитель по Minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Исполнительный продюсеры",
                 "names": [
                     "Anita Sujarit",
                     "David Nisshagen",
@@ -616,7 +616,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Менеджеры по производству",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -678,7 +678,7 @@
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Организационные наставники",
                 "names": [
                     "Martin Bloomstine",
                     "Rasmus Noah Hansen",
@@ -687,13 +687,13 @@
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Управление выпуском Обращения",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Менеджеры релизов",
                 "names": [
                     "Andrew Pritchard",
                     "Josh Mulanax",
@@ -712,7 +712,7 @@
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "Технические Писатели",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)"
                 ]
@@ -720,7 +720,7 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "Бренд Креатив",
         "titles": [
             {
                 "title": "Творческий руководитель",
@@ -729,13 +729,13 @@
                 ]
             },
             {
-                "title": "Head of Creative Production",
+                "title": "Глава креативного производства",
                 "names": [
                     "Isabella Arningsmark"
                 ]
             },
             {
-                "title": "Lead Producers",
+                "title": "Ведущие производители",
                 "names": [
                     "Christine Platon",
                     "Milo Bengtsson",
@@ -743,7 +743,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Продюсеры",
                 "names": [
                     "Adele Major",
                     "Charlotte Angantyr",
@@ -761,14 +761,14 @@
                 ]
             },
             {
-                "title": "Creative Leads",
+                "title": "Креативные Обращения",
                 "names": [
                     "Martin Johansson",
                     "Antti Meriluoto"
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Арт-директор",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -777,38 +777,38 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Художественный руководитель",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Художники",
                 "names": [
                     "Morten Rasmussen",
                     "Markus Frost"
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "Графический дизайнер",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
             },
             {
-                "title": "3D Artist / Motion Graphic Designer",
+                "title": "3D Художник / Графический дизайнер движения",
                 "names": [
                     "Jesper Hallin"
                 ]
             },
             {
-                "title": "Gameplay Capture Artist",
+                "title": "Художник по игровому процессу",
                 "names": [
                     "Husein Kurbegovic"
                 ]
             },
             {
-                "title": "Product Designers",
+                "title": "Дизайнеры продуктов",
                 "names": [
                     "Adrian Ward",
                     "Débora Martins",
@@ -817,19 +817,19 @@
                 ]
             },
             {
-                "title": "Publishing Editor",
+                "title": "Публикационный редактор",
                 "names": [
                     "Alex Wiltshire"
                 ]
             },
             {
-                "title": "Director of Creative Communications",
+                "title": "Директор по творческим коммуникациям",
                 "names": [
                     "Owen Jones"
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "SMM-менеджеры",
                 "names": [
                     "Julian Tunru",
                     "Ross Keatley"
@@ -847,41 +847,41 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "Связь",
         "titles": [
             {
-                "title": "Chief Storyteller",
+                "title": "Главный рассказчик",
                 "names": [
                     "Lydia Winters"
                 ]
             },
             {
-                "title": "Senior Media Producers",
+                "title": "Старшие медиа-продюсеры",
                 "names": [
                     "Carina Petersson"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Продюсеры",
                 "names": [
                     "Sofia Orrheim"
                 ]
             },
             {
-                "title": "Director of Communications",
+                "title": "Директор по связям",
                 "names": [
                     "Regan O'Leary"
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "SMM-менеджеры",
                 "names": [
                     "Alex Fleck (Adecco)",
                     "David Ramos (Collabera)"
                 ]
             },
             {
-                "title": "Communication Managers",
+                "title": "Менеджеры по коммуникации",
                 "names": [
                     "Holly Amber Smith",
                     "Rebecca Gordius"
@@ -898,7 +898,7 @@
                 ]
             },
             {
-                "title": "Sr. Social Media Lead",
+                "title": "Ср. предв. контакта в социальных сетях",
                 "names": [
                     "Sara Reiner"
                 ]
@@ -1070,7 +1070,7 @@
                 ]
             },
             {
-                "title": "Lead Automation Support",
+                "title": "Поддержка автоматизации предварительных контактов",
                 "names": [
                     "Matthew C. Moreno"
                 ]
@@ -1097,19 +1097,19 @@
                 ]
             },
             {
-                "title": "Data Science Lead",
+                "title": "Руководитель отдела данных",
                 "names": [
                     "Abby Gaddis"
                 ]
             },
             {
-                "title": "Data Engineering Lead",
+                "title": "Ведущий проектор данных",
                 "names": [
                     "Bill Chism"
                 ]
             },
             {
-                "title": "Data and Analytics Lead",
+                "title": "Ведущий список данных и аналитики",
                 "names": [
                     "Natalie Selin"
                 ]
@@ -1156,7 +1156,7 @@
         "section": "User Research",
         "titles": [
             {
-                "title": "User Research Studio Lead",
+                "title": "Руководитель студии исследований пользователя",
                 "names": [
                     "Jerome Hagen"
                 ]
@@ -1311,7 +1311,7 @@
                 ]
             },
             {
-                "title": "Studio Compliance Lead",
+                "title": "Руководитель по соответствию студии",
                 "names": [
                     "Eric Odell-Hein"
                 ]
@@ -1323,7 +1323,7 @@
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Обеспечение соблюдения интеллектуальной собственности руководителем",
                 "names": [
                     "Gaylon Blank"
                 ]
@@ -1373,7 +1373,7 @@
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Обращение в службу поддержки",
                 "names": [
                     "Jen Pedersen",
                     "Justin Putnam (TEKsystems, Inc)"
@@ -1495,7 +1495,7 @@
                 ]
             },
             {
-                "title": "Quality Leads",
+                "title": "Качественные Обращения",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1570,7 +1570,7 @@
                 ]
             },
             {
-                "title": "Software Test Engineering Leads",
+                "title": "Ведущие разработки программного обеспечения",
                 "names": [
                     "Barry Doyle (Insight Global, Inc)",
                     "Maria Berube (Experis)"
@@ -1680,13 +1680,13 @@
                 ]
             },
             {
-                "title": "Test Leads",
+                "title": "Тестовые предварительные контакты",
                 "names": [
                     "Beata Jastrzębska (Lionbridge)"
                 ]
             },
             {
-                "title": "Team Leads",
+                "title": "Разработчики",
                 "names": [
                     "Kamil Kostrzewa (Lionbridge)",
                     "Michał Sławek (Lionbridge)",
@@ -1696,7 +1696,7 @@
                 ]
             },
             {
-                "title": "Compliance Leads",
+                "title": "Ведущие соответствия",
                 "names": [
                     "Łukasz Mikusek (Lionbridge)"
                 ]
@@ -2102,20 +2102,20 @@
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Ведущий менеджер проекта",
                 "names": [
                     "Allie Murdock"
                 ]
             },
             {
-                "title": "Dev Lead",
+                "title": "Предв. контакт",
                 "names": [
                     "Arend Danielek",
                     "Steve Chiavelli"
                 ]
             },
             {
-                "title": "Tech Lead",
+                "title": "Технический руководитель",
                 "names": [
                     "Nathan Carlson",
                     "Ryan Edgemon"
@@ -2267,7 +2267,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Ведущее руководство игры",
                 "names": [
                     "Niklas Börestam",
                     "Piotr Kundu"
@@ -2332,7 +2332,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Ведущие разработчики пользовательского интерфейса",
                 "names": [
                     "Sebasian Hindefeldt"
                 ]
@@ -2375,7 +2375,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Ведущие разработчики программного обеспечения Bedrock",
                 "names": [
                     "Aaron Heysse",
                     "Adrian LaVallee",
@@ -2438,7 +2438,7 @@
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Ведущие системные инженеры",
                 "names": [
                     "Tom Miles"
                 ]
@@ -2504,7 +2504,7 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Художественный руководитель",
                 "names": [
                     "Sarah Kisor"
                 ]
@@ -2525,7 +2525,7 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Ведущий технический художник",
                 "names": [
                     "Lisa Hazen"
                 ]
@@ -2559,7 +2559,7 @@
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Ведущие графические дизайнеры",
                 "names": [
                     "Christine Gutierrez"
                 ]
@@ -2760,7 +2760,7 @@
                 ]
             },
             {
-                "title": "Data Science & Analytics Lead",
+                "title": "Руководитель отдела науки и аналитики данных",
                 "names": [
                     "Warren Durrett"
                 ]
@@ -2877,7 +2877,7 @@
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Обращение в службу поддержки",
                 "names": [
                     "Mattias Victorin"
                 ]
@@ -2946,7 +2946,7 @@
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Обеспечение соблюдения интеллектуальной собственности руководителем",
                 "names": [
                     "Mathias Andersson",
                     "Teresa Lee Rodewald"
@@ -2962,7 +2962,7 @@
                 ]
             },
             {
-                "title": "Lead Producer - Brand Experience",
+                "title": "Команда США - Ведущие разработки программного обеспечения",
                 "names": [
                     "Karim Walldén"
                 ]
@@ -3028,7 +3028,7 @@
                 ]
             },
             {
-                "title": "Support Team Lead",
+                "title": "Руководитель команды поддержки",
                 "names": [
                     "Mattias Jacob Victorin"
                 ]
@@ -3040,7 +3040,7 @@
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Ведущий менеджер проекта",
                 "names": [
                     "Vera Mirchev"
                 ]
@@ -3190,7 +3190,7 @@
         "section": "Studios Quality Alumni",
         "titles": [
             {
-                "title": "Quality Leads",
+                "title": "Качественные Обращения",
                 "names": [
                     "Tony Harlich"
                 ]
@@ -3214,7 +3214,7 @@
                 ]
             },
             {
-                "title": "Poland - Team Leads",
+                "title": "Польша - Командные Ведущие",
                 "names": [
                     "Anna Wróbel (Lionbridge)",
                     "Kamil Bazydło (Lionbridge)",
@@ -3222,7 +3222,7 @@
                 ]
             },
             {
-                "title": "US Team - Software Test Engineering Leads",
+                "title": "Команда США - Ведущие специалисты по программному тестированию",
                 "names": [
                     "Chris James (Insight Global, Inc)"
                 ]
