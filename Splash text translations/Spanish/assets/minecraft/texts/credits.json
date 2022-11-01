@@ -980,21 +980,21 @@
                 ]
             },
             {
-                "title": "HR Directors",
+                "title": "Directores de RRHH",
                 "names": [
                     "David Hill",
                     "Maja Samuelsson"
                 ]
             },
             {
-                "title": "Sr HR Business Partners",
+                "title": "Sr HR Socios Empresarios",
                 "names": [
                     "Maja Samuelsson",
                     "Nia Parker"
                 ]
             },
             {
-                "title": "Human Resources",
+                "title": "Recursos humanos",
                 "names": [
                     "Aleksandra Zajac",
                     "Aron Glauser",
@@ -1011,19 +1011,19 @@
                 ]
             },
             {
-                "title": "Office Manager",
+                "title": "Gestor de oficina",
                 "names": [
                     "Siri Hoel"
                 ]
             },
             {
-                "title": "Office Coordinators",
+                "title": "Coordinadores de oficina",
                 "names": [
                     "Joël Älveroth"
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Administradores ejecutivos",
                 "names": [
                     "Erin Decker",
                     "Lisa Liu",
@@ -1070,13 +1070,13 @@
                 ]
             },
             {
-                "title": "Lead Automation Support",
+                "title": "Soporte de Automatización de Líder",
                 "names": [
                     "Matthew C. Moreno"
                 ]
             },
             {
-                "title": "Automation Support",
+                "title": "Soporte Automático",
                 "names": [
                     "Chris Ilson (Collabera)",
                     "Corey Smith (Insight Global, Inc)",
@@ -1088,28 +1088,28 @@
         ]
     },
     {
-        "section": "Data and Analytics",
+        "section": "Datos y análisis",
         "titles": [
             {
-                "title": "Head of Data Science and Analytics",
+                "title": "Director de Ciencia y Análisis de Datos",
                 "names": [
                     "Francisco Rius"
                 ]
             },
             {
-                "title": "Data Science Lead",
+                "title": "Líder de Ciencia de Datos",
                 "names": [
                     "Abby Gaddis"
                 ]
             },
             {
-                "title": "Data Engineering Lead",
+                "title": "Líder de Ingeniería de Datos",
                 "names": [
                     "Bill Chism"
                 ]
             },
             {
-                "title": "Data and Analytics Lead",
+                "title": "Líder de datos y análisis",
                 "names": [
                     "Natalie Selin"
                 ]
@@ -1156,7 +1156,7 @@
         "section": "User Research",
         "titles": [
             {
-                "title": "User Research Studio Lead",
+                "title": "Lider de Estudio de Investigación de Usuario",
                 "names": [
                     "Jerome Hagen"
                 ]
@@ -1373,7 +1373,7 @@
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Lider de asistencia al cliente",
                 "names": [
                     "Jen Pedersen",
                     "Justin Putnam (TEKsystems, Inc)"
@@ -1680,13 +1680,13 @@
                 ]
             },
             {
-                "title": "Test Leads",
+                "title": "Probar plomos",
                 "names": [
                     "Beata Jastrzębska (Lionbridge)"
                 ]
             },
             {
-                "title": "Team Leads",
+                "title": "Jefe de equipo",
                 "names": [
                     "Kamil Kostrzewa (Lionbridge)",
                     "Michał Sławek (Lionbridge)",
@@ -1696,7 +1696,7 @@
                 ]
             },
             {
-                "title": "Compliance Leads",
+                "title": "Prospectos de cumplimiento",
                 "names": [
                     "Łukasz Mikusek (Lionbridge)"
                 ]
@@ -2102,20 +2102,20 @@
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Jefe del proyecto",
                 "names": [
                     "Allie Murdock"
                 ]
             },
             {
-                "title": "Dev Lead",
+                "title": "Líder Dev",
                 "names": [
                     "Arend Danielek",
                     "Steve Chiavelli"
                 ]
             },
             {
-                "title": "Tech Lead",
+                "title": "Líder técnico",
                 "names": [
                     "Nathan Carlson",
                     "Ryan Edgemon"
@@ -2267,7 +2267,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Principales Desarrolladores del Juego",
                 "names": [
                     "Niklas Börestam",
                     "Piotr Kundu"
@@ -2332,7 +2332,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Desarrolladores de UI principales",
                 "names": [
                     "Sebasian Hindefeldt"
                 ]
@@ -2375,7 +2375,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Desarrolladores líderes de software Bedrock",
                 "names": [
                     "Aaron Heysse",
                     "Adrian LaVallee",
@@ -2760,7 +2760,7 @@
                 ]
             },
             {
-                "title": "Data Science & Analytics Lead",
+                "title": "Lider de Ciencias de Datos y Análisis",
                 "names": [
                     "Warren Durrett"
                 ]
@@ -2877,7 +2877,7 @@
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Lider de asistencia al cliente",
                 "names": [
                     "Mattias Victorin"
                 ]
@@ -2946,7 +2946,7 @@
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Infracción de la propiedad intelectual",
                 "names": [
                     "Mathias Andersson",
                     "Teresa Lee Rodewald"
@@ -2962,7 +2962,7 @@
                 ]
             },
             {
-                "title": "Lead Producer - Brand Experience",
+                "title": "Productor Principal - Experiencia de Marca",
                 "names": [
                     "Karim Walldén"
                 ]
@@ -3028,7 +3028,7 @@
                 ]
             },
             {
-                "title": "Support Team Lead",
+                "title": "Líder de Equipo de Soporte",
                 "names": [
                     "Mattias Jacob Victorin"
                 ]
@@ -3040,7 +3040,7 @@
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Jefe del proyecto",
                 "names": [
                     "Vera Mirchev"
                 ]
@@ -3190,7 +3190,7 @@
         "section": "Studios Quality Alumni",
         "titles": [
             {
-                "title": "Quality Leads",
+                "title": "Potencias de calidad",
                 "names": [
                     "Tony Harlich"
                 ]
@@ -3214,7 +3214,7 @@
                 ]
             },
             {
-                "title": "Poland - Team Leads",
+                "title": "Polonia - Líderes de Equipo",
                 "names": [
                     "Anna Wróbel (Lionbridge)",
                     "Kamil Bazydło (Lionbridge)",
@@ -3222,7 +3222,7 @@
                 ]
             },
             {
-                "title": "US Team - Software Test Engineering Leads",
+                "title": "Equipo de EEUU - Líder de Ingeniería de Prueba de Software",
                 "names": [
                     "Chris James (Insight Global, Inc)"
                 ]
