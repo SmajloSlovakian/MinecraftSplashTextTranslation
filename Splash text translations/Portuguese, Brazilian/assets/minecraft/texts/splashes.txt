@@ -7,41 +7,41 @@ Moderadamente atraente!
 Edição limitada!
 Letras piscantes!
 Está aqui!
-Melhor da classe!
-Concluído!
-Praticamente sem dragões!
+O melhor da turma!
+Acabado!
+Quase sem dragões!
 Excitante!
 Mais de 500 vendas!
-Exclusivo!
+Único de sua espécie!
 Muitos cliques no YouTube!
 Indev!
 Aranhas por toda parte!
-Confira!
+Veja só!
 Macacos me mordam!
 É um jogo!
 Feito na Suécia!
 Utiliza LWJGL!
 Reticulando splines!
 Minecraft!
-Viva!
+Ebaaa!
 Um jogador!
 Compatível com teclado!
 Barras!
 Creepers explosivos!
-Isso não é lua!
+Isso não é a lua!
 l33t!
 Crie!
 Sobreviva!
 Masmorras!
 Exclusivo!
-Os joelhos das abelhas!
+O melhor de todos!
 Código fechado!
-Elegante!
+Sofisticado!
 Uau!
 Não está na Steam!
-Ah cara!
+Ah, mano!
 Comunidade incrível!
-Píxeis!
+Pixels!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Agora com dificuldade!
@@ -49,7 +49,7 @@ Melhorado!
 90% sem erros!
 Bonito!
 12 ervas e especiarias!
-Livre de gorduras!
+Sem gorduras!
 Absolutamente sem memes!
 Odontologia grátis!
 Pergunte ao seu doutor!
@@ -60,7 +60,7 @@ Indescritível!
 Tecnicamente bom!
 Trazendo o bacon para casa!
 Indie!
-O Jogo do Ano!
+Jogo do ano!
 Ceci n'est pas une tela de início!
 Euclidiano!
 Agora em 3D!
@@ -212,7 +212,7 @@ O creeper é um espião!
 Turing completo!
 É inovador!
 Que a nossa batalha comece!
-O céu é o limite!
+O limite está no céu
 Jeb tem um cabelo incrível!
 Ryan também tem um cabelo incrível!
 Jogo casual!
@@ -266,25 +266,25 @@ Déjà-vu!
 Peguei seu nariz!
 Haley ama Elan!
 Cuidado com o morcego grande e preto!
-Não usa a palavra com U!
-Crianças jogam!
-Até a próxima sexta-feira!
+Não use a palavra com U!
+Passeios infantis!
+Até a próxima sexta-feira ou depois!
 Das ruas de Södermalm!
 150 BPM em 400000 minutos!
 Tecnológico!
 Alma do funk, irmão!
 Pumpa kungen!
 日本ハロー！
-한국 안녕하세요!
+한국 안녕하세요!
 Helo Cymru!
-Cześć Polsko!
+Cześć Polsko!
 你好中国!
 Γεια σου Ελλάδα!
 Minha vida para Aiur!
 Lennart lennart = new Lennart();
 Vejo que seu vocabulário melhorou!
-Quem colocou isso lá?
-Vocês não podem explicar isso!
+Quem colocou isso ali?
+Quero explicações!
 if not ok then return end
 §1C§2o§3l§4o§5r§6i§7d§8o§9!
 §kFUNKY LOL
@@ -293,83 +293,83 @@ Bekarton guarda o portão!
 Mmmph, mmph!
 Não alimente papagaios com abacates!
 Espadas para todos!
-Pfv responda meu tweet!
+Pfv responda meu tuíte!
 .party()!
-Pegue o travesseiro dela!
+Leve seu travesseiro!
 Abaixe esse biscoito!
 Muito assustador!
-Eu tenho uma sugestão.
+Tenho uma sugestão.
 Agora com abraços extras!
 Java 16 + 1 = 17!
 Uau.
 HURNERJSGER?
-E aí, doutor?
-Agora contém 32 gatos diários aleatórios!
+Qual é, meu?
+Agora com 32 gatos diários aleatórios!
 Isso é Numberwang!
 pfv rt
-Você quer se juntar ao meu servidor?
-Coloque um pouco de cerca ao redor!
-Jogue um cobertor sobre isso!
-Um dia, em algum lugar no futuro, o meu trabalho será citado!
+Quer se juntar ao meu servidor?
+Coloque uma pequena cerca ao redor!
+Jogue as cobertas!
+Um dia, no futuro, o meu trabalho será lembrado!
 Agora com coisas adicionais!
 Coisas extras!
 Viva, filhotinhos para todos!
 Tão doce, como um bonito bombom!
 Muito influente no seu círculo!
-Agora Com Multiplayer!
+Agora com multijogador!
 Levante-se da cova!
-Aviso! Um enorme navio de batalha "STEVE" está se aproximando rápido!
-Guerreiro azul atirou na comida!
+Aviso! Um enorme navio de batalha "STEVE" se aproxima rapidamente!
+Guerreiro azul atingiu a comida!
 Corra, covarde! Estou com fome!
 Sabor sem especiarias!
-Estranho, mas não um estranho!
-Resistente do que os diamantes, ricos como creme!
+Estranho, mas não um desconhecido!
+Mais resistente que diamantes, ricos como creme!
 Ele balança, dança!
 Ruas cruéis por ouro!
-Pegue uma batida de ovos e bate-a contra um martelo!
+Pegue um bate-ovos e bata contra uma frigideira!
 Faça de mim uma mesa, uma mesa engraçada!
 Deixe fluir!
-Deixe de pensar, essa é a internet!
+Pare de tentar dar sentido às coisas, essa é a internet!
 /give @a abraços 64
 Isso é bom para os Realms.
-Qualquer computador é um notebook se você for corajoso o suficiente!
+Qualquer computador é portátil se você for corajoso o suficiente!
 Faça tudo, tudo!
 Onde não há luz, pode haver aranha!
 GNU Terry Pratchett
-Mais Digital!
+Mais digital!
 doot doot
 Caindo com estilo!
-Trollmaso é imparável
-Jogue-se no chão e perca
-Regra #1: nunca é minha culpa
-Queijo derretido substituído por sangue?
-Coordenadas completamente relativamente quebradas 
-Barcos para a vitória
+There's no stopping the Trollmaso
+Jogue-se no chão e falhe
+1ª regra: nunca é minha culpa
+O queijo derretido foi substituído por sangue?
+Definitivamente corrigido as coordenadas relativamente quebradas
+Barcos para a vitória!
 Edição Javaliciosa
 Não jogue enquanto dirige!
 Está indo muito rápido!
-Não alimente papagaios com chocolates!
+Não alimente papagaios com chocolate!
 O verdadeiro significado de covfefe
 Uma ilusão! O que está escondendo?
-Algo não está certo...
+Algo de errado não está certo...
 Obrigado pelo peixe!
 Todos os rumores são verdadeiros!
-Realmente foi pescar!
+Tá nervoso? Vai pescar!
 Tartaruga arco-íris?
 Algo engraçado!
-Eu preciso de mais contexto.
+Preciso de mais contexto.
 Ahhhhhh!
-Não se preocupe, seja feliz!
-Garrafa d'água!
+Don't worry, be happy!
+Frasco de água!
 Qual é a pergunta?
 Plante uma árvore!
 Vá ao dentista!
 O que você esperava?
-Olhe mamãe, estou na abertura!
+Olha mãe, estou na abertura!
 Veio do espaço.
 Design de jogo incrível!
-Ph1lza resistiu até o fim!
-10 anos de Mine e Craft!
+Ph1lza teve uma boa corrida!
+10 anos minerando e fabricando!
 Chame o humano!
 Se não estiver claro, raposas não são jogadores.
 Abelhas Zumbantes!
@@ -379,7 +379,7 @@ Lave as mãos!
 Apoie negócios locais!
 Fique em casa e jogue jogos!
 Fique seguro!
-Fique forte!
+Continue forte!
 Tosse ou espirre em seu cotovelo!
 Não toque no seu rosto!
 Suporte parentes e amigos mais velhos!
@@ -399,35 +399,35 @@ Música feita por Lena Raine!
 Aww, cara!
 #minecraftfarms
 E minha picareta!
-Imaginar! Crie! Compartilhar!
+Imagine! Crie! Compartilhe!
 Gráficos fabulosos!
 Também experimente Minecraft Dungeons!
 Vanilla!
 Pode conter traços de citrino!
 Zoglin!?
 Vidas negras importam!
-Seja anti-racista!
+Seja antirracista!
 Aprenda sobre alianças!
-Diga NÃO a injustiça e SIM à igualdade!
+Diga NÃO a injustiça e SIM a igualdade!
 Amplifique e escute as vozes étnicas!
-Eduque seus amigos ao anti-racismo!
+Eduque seus amigos ao antirracismo!
 Apoie a comunidade BIPOC e seus criadores!
-Defenda a igualdade em sua comunidade!
+Lute pela igualdade em sua comunidade!
 [este texto de início agora está disponível]
-Há simulação de cabras!
-Feito em casa!
+Contém simulação de cabras!
+Caseiro!
 Tem um <<gato no ,meu teclado!~
 O predador mais fofo que você irá conhecer!
-Você está pensando em pistões!
-Pegue o cobreh!
+Você está pensando com seus pistões!
+Ao helicobretero!
 Versão de tabuleiro também disponível!
 Querida, eu encerei o cobre!
-Plantas alimentadas por luz!
+Fontes de luz vegetais!
 Feito por pessoas "reais"!
 Grite como um emissor de sculk!
 A fuga dos sapos
 RIBBIT!
-Equipe anfíbia!
+Equipe coaxante!
 Nãoooooooooooo!
 Perfume da floresta de flores TM
 Sextas do chapéu!
