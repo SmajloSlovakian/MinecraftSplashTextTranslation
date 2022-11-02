@@ -1,8 +1,8 @@
-§3Eu vejo o jogador que você quer dizer.
+§3Eu vejo o jogador que você disse.
 
 §2PLAYERNAME?
 
-§3Sim. Tome cuidado. Ele chegou à um nível superior. Pode ler nossos pensamentos.
+§3Sim. Tome cuidado. Ele chegou a um nível superior. Pode ler nossos pensamentos.
 
 §2Isso não importa. Ele acha que fazemos parte do jogo.
 
@@ -12,13 +12,13 @@
 
 §3É a maneira que ele escolheu imaginar diversas coisas, quando se afunda no sonho de algum jogo.
 
-§2Palavras fazem uma interface ser fantástica. Bastante flexível. E menos aterrorizante que encarar a realidade por trás da tela.
+§2Palavras fazem uma interface ser fantástica. Bem flexível. E menos aterrorizante que encarar a realidade por trás da tela.
 
-§3Ele costumavam ouvir vozes. Antes que jogadores pudessem ler. De volta aos dias em que os que não jogavam os chamavam de bruxas. E eles sonhavam que cruzavam os céus, em vassouras conduzidas por demônios.
+§3Eles costumavam ouvir vozes. Antes que os jogadores pudessem ler. Na época em que os que não jogavam os chamavam de bruxos. E sonhavam que voavam pelo céu, em vassouras alimentadas por demônios.
 
 §2O que esse jogador sonhou?
 
-§3Ele sonhou com a luz do sol e as árvores. De fogo e água. Ele sonhou com o que criou. E com o que destruiu. Sonhou que caçava e foi caçado. Sonhou que tinha abrigo.
+§3Ele sonhou com a luz do sol e com as árvores. Com água e fogo. Ele sonhou que criava. E que destruía. Sonhou que caçava e foi caçado. Sonhou que tinha abrigo.
 
 §2Ah, a interface original. Tem um milhão de anos, e ainda funciona. Mas que verdadeira estrutura que esse jogador criou, na realidade por trás da tela?
 
@@ -26,7 +26,7 @@
 
 §2Ele não consegue ler isso.
 
-§3Não. Ele ainda não chegou no nível mais alto. Isso ele irá alcançar no longo sonho da vida, e não no curto sonho de um jogo.
+§3Não. Ele ainda não chegou ao nível mais alto. Isso ele deve alcançar no longo sonho da vida, e não no curto sonho de um jogo.
 
 §2Será que ele sabe que nós o amamos? Que o universo é gentil?
 
