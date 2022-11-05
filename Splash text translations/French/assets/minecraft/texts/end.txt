@@ -1,8 +1,8 @@
-§3I see the player you mean.
+§3Je vois le joueur que vous voulez.
 
-§2PLAYERNAME?
+§2NOM DU JOUEUR ?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3Oui. Prenez soin de vous. Il a atteint un niveau plus élevé. It can read our thoughts.
 
 §2That doesn't matter. It thinks we are part of the game.
 
