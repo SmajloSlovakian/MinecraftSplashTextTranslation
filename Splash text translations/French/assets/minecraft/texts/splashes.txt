@@ -221,36 +221,36 @@ Un peu comme Lemmings !
 Suis le train, CJ !
 Tire parti la synergie !
 Ce message n'apparaîtra jamais sur l'écran de démarrage, n'est-ce pas si bizarre ?
-DungeonQuest is unfair!
+La quête de donjon est injuste !
 90210!
-Check out the far lands!
-Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
+Découvrez les terres lointaines !
+Le Tyrion l'aimerait !
+Essayez aussi VVVVVVV!
+Essayez aussi Super Meat Boy!
+Essayez également la Terraria!
+Essayez aussi Mount And Blade!
+Essayez aussi Project Zomboid !
+Essayez aussi World of Goo!
+Essayez aussi le Limbo!
+Essayez aussi le Tireur Pixeljunk !
+Essayez aussi Braid!
+C'est super!
 Lunettes sont spectacles !
-Read more books!
+Lisez plus de livres!
 Khaaaaaaaaan!
-Less addictive than TV Tropes!
-More addictive than lemonade!
-Bigger than a bread box!
-Millions of peaches!
+Moins addictif que les Trops!
+Plus addictif que la limonade!
+Plus grosse qu'une boîte à pain !
+Des millions de pêches!
 Fnord!
-This is my true form!
-Don't bother with the clones!
-Pumpkinhead!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Feature packed!
-Boots with the fur!
+C'est ma vraie forme!
+Ne vous inquiétez pas avec les clones!
+Tête de citrouille!
+Fabriqué par les Juifs!
+A une fin !
+Finalement terminé !
+Fonctionnalités empaquetées !
+Bottes avec la fourrure!
 Stop, hammertime!
 Testificates!
 Conventional!
@@ -261,8 +261,8 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
+Déjà vu!
+Déjà vu!
 Got your nose!
 Haley loves Elan!
 Afraid of the big, black bat!
@@ -274,16 +274,16 @@ From the streets of Södermalm!
 Technologic!
 Funk soul brother!
 Pumpa kungen!
-日本ハロー！
-한국 안녕하세요!
+日本ハロー!
+한국 안녕하세요!
 Helo Cymru!
-Cześć Polsko!
-你好中国！
-Γεια σου Ελλάδα!
-My life for Aiur!
+Cześć Polsko!
+你好中国!
+Γεια σου Ελλάδα!
+Ma vie pour Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
+Je vois que votre vocabulaire s'est amélioré!
+Qui l'a mis là-bas?
 You can't explain that!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
@@ -355,27 +355,27 @@ Something's not quite right...
 Thank you for the fish!
 All rumors are true!
 Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
-Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
-Look mum, I'm in a splash!
-It came from space.
-Awesome game design right there!
-Ph1lza had a good run!
-10 years of Mining and Crafting!
-Ping the human!
-In case it isn't obvious, foxes aren't players.
-Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
+Tortue arc-en-ciel?
+Quelque chose de drôle!
+J'ai besoin de plus de contexte.
+Ahhhhhhhh !
+Ne vous inquiétez pas, soyez heureux!
+Bouteille d'eau !
+Quelle est la question ?
+Plantez un arbre!
+Allez au dentiste!
+À quoi vous attendez-vous?
+Regardez la maman, je suis dans une éclabousse!
+Il venait de l'espace.
+Superbe design de jeu juste là-bas!
+Ph1lza a eu une bonne course!
+10 ans de minage et d'artisanat!
+Ping l'humain!
+Si ce n'est pas évident, les renards ne sont pas des joueurs.
+Des abeilles bruyantes !
+Minecraft Java Edition présente : Bugs dégoûtants
+Lavez-vous les mains!
+Savon et eau!
 Support local businesses!
 Stay home and play games!
 Stay safe!
