@@ -1,16 +1,16 @@
-This project was created by SmajloSlovakian#1077
+Dit project is ontstaan door SmajloSlowaaks #1077
 
-How do I add this pack to Minecraft?
+Hoe voeg ik dit pakket toe aan Minecraft?
 -Voeg de map die je net hebt geopend toe aan
 "\Appdata\Roaming\.minecraft\resourcepacks\" map, ga in Minecraft, instellingen, 
-  Resource Packs and pick the pack which has just appeared.
+  Hulpbronpakketten en het pakket dat zojuist verschenen is.
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Open pack folder"
+Hoe in de map van de resourcepacks?
+-Open Minecraft, ga naar instellingen, bronpakketten, sleep en plaats het bronpakket in het Minecraft-venster...
+Maar wacht! Dat werkt niet!
+-Klik op een knop genaamd "Open pakketmap"
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+Mijn project probeert onvertaalde teksten in Minecraft te vertalen, zoals splash tekstberichten, einde game credits en andere.
+Het is een eenvoudig community project dat niet is verbonden met Mojang AB. noch Minecraft zelf terwijl het wordt bestuurd door een lid van de gemeenschap.
