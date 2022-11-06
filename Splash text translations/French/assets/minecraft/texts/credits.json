@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Directeur Narratif",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Concepteur narratif",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "Chef concepteur",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -98,41 +98,41 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programmation",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Directeur Technique",
                 "names": [
                     "Michael W Weilbacher",
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Ingénierie du Responsable des Services et des Opérations",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Responsable du Génie du Jeu",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Responsable de la Plateforme de Créateur",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Directeur de la Qualité de Franchise",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Directeur technique",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Chef des développeurs de jeux",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Développeurs de jeux",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Développeurs de l'interface utilisateur principaux",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Développeurs d'interface utilisateur",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Développeurs du lanceur",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -248,21 +248,21 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Architectes en plomb",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Architectes",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Chef des développeurs de logiciels Bedrock",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Développeurs de logiciels Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,21 +362,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Développeurs web principaux",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Ingénieurs de logiciels Realms",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Ingénieurs du système de plomb",
                 "names": [
                     "Robert Sjödahl",
                     "Pär Axelsson",
