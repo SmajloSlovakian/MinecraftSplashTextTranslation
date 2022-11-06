@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Ingénieurs de logiciels de service",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Responsables du Génie",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -461,10 +461,10 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Arts visuels",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Directeurs artistiques",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Artistes principaux",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
