@@ -515,7 +515,7 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Artistes graphiques",
                 "names": [
                     "Mattis Grahm"
                 ]
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "Designers de Motion Graphics",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -543,7 +543,7 @@
                 ]
             },
             {
-                "title": "Art Manager",
+                "title": "Gestionnaire d'Art",
                 "names": [
                     "Samir Belarbi"
                 ]
@@ -554,55 +554,55 @@
         "section": "Production",
         "titles": [
             {
-                "title": "Head of Creator Platform",
+                "title": "Responsable de la Plateforme Créateur",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Game Production",
+                "title": "Chef de la Production de Jeu",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Chef de Minecraft Chine",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "Responsable de l'ingénierie commerciale",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Responsable des jeux",
                 "names": [
                     "Sara Jansson Bach"
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Responsable du marché créateur",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Minecraft Education",
+                "title": "Responsable de l'éducation Minecraft",
                 "names": [
                     "Allison Matthews"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Directeur de Minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Producteurs exécutifs",
                 "names": [
                     "Anita Sujarit",
                     "David Nisshagen",
@@ -616,7 +616,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Responsables de la production",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -626,7 +626,7 @@
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Producteurs",
                 "names": [
                     "Aaron Culbreth (Insight Global, Inc)",
                     "Adrian Östergård",
@@ -678,7 +678,7 @@
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Coaches organisationnels",
                 "names": [
                     "Martin Bloomstine",
                     "Rasmus Noah Hansen",
@@ -687,13 +687,13 @@
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Responsable de la gestion des versions",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Gestionnaires de versions",
                 "names": [
                     "Andrew Pritchard",
                     "Josh Mulanax",
@@ -701,7 +701,7 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "Assurance Qualité",
                 "names": [
                     "Kristian Grimberg",
                     "Matthew Dryden",
@@ -712,7 +712,7 @@
                 ]
             },
             {
-                "title": "Technical Writers",
+                "title": "Rédacteurs techniques",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)"
                 ]
@@ -720,16 +720,16 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "Créatif de la marque",
         "titles": [
             {
-                "title": "Creative Director",
+                "title": "Directeur artistique",
                 "names": [
                     "Markus Toivonen"
                 ]
             },
             {
-                "title": "Head of Creative Production",
+                "title": "Responsable de la production créative",
                 "names": [
                     "Isabella Arningsmark"
                 ]
