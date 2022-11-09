@@ -114,13 +114,13 @@
                 ]
             },
             {
-                "title": "Chefe da engenharia do jogo",
+                "title": "Chefe de engenharia de jogo",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Chefe da engenharia da plataforma de criador",
+                "title": "Chefe de engenharia da plataforma de criador",
                 "names": [
                     "Jason Cahill"
                 ]
@@ -464,7 +464,7 @@
         "section": "Artes visuais",
         "titles": [
             {
-                "title": "Diretores artísticos",
+                "title": "Diretores de arte",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Líderes artísticos",
+                "title": "Artistas líderes",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -543,7 +543,7 @@
                 ]
             },
             {
-                "title": "Gerente artístico",
+                "title": "Gerente de arte",
                 "names": [
                     "Samir Belarbi"
                 ]
@@ -768,7 +768,7 @@
                 ]
             },
             {
-                "title": "Diretores artístico",
+                "title": "Diretores de arte",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -777,7 +777,7 @@
                 ]
             },
             {
-                "title": "Líder artístico",
+                "title": "Líder de arte",
                 "names": [
                     "Amanda Ström"
                 ]
@@ -790,7 +790,7 @@
                 ]
             },
             {
-                "title": "Desginer gráfico",
+                "title": "Designer gráfico",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
@@ -1495,7 +1495,7 @@
                 ]
             },
             {
-                "title": "Liderança de qualidade",
+                "title": "Líderes de qualidade",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1680,13 +1680,13 @@
                 ]
             },
             {
-                "title": "Líder de testes",
+                "title": "Líderes de testes",
                 "names": [
                     "Beata Jastrzębska (Lionbridge)"
                 ]
             },
             {
-                "title": "Time de líderes",
+                "title": "Líderes da equipe",
                 "names": [
                     "Kamil Kostrzewa (Lionbridge)",
                     "Michał Sławek (Lionbridge)",
@@ -1965,7 +1965,7 @@
                 ]
             },
             {
-                "title": "CTO",
+                "title": "Diretor técnico",
                 "names": [
                     "Steve Anichini"
                 ]
@@ -2495,7 +2495,7 @@
                 ]
             },
             {
-                "title": "Diretores artísticos",
+                "title": "Diretores de arte",
                 "names": [
                     "Brad Shuber",
                     "Logan Lubera",
@@ -2504,7 +2504,7 @@
                 ]
             },
             {
-                "title": "Líder artístico",
+                "title": "Líder de arte",
                 "names": [
                     "Sarah Kisor"
                 ]
