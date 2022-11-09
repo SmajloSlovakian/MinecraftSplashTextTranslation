@@ -1291,7 +1291,7 @@
                 ]
             },
             {
-                "title": "Program Managers",
+                "title": "Gestionnaires de programme",
                 "names": [
                     "Bryan G. Bonham",
                     "Christopher Dauchot (Insight Global, Inc)",
@@ -1311,25 +1311,25 @@
                 ]
             },
             {
-                "title": "Studio Compliance Lead",
+                "title": "Responsable Conformité Studio",
                 "names": [
                     "Eric Odell-Hein"
                 ]
             },
             {
-                "title": "Studio Compliance Analyst",
+                "title": "Analyste de Conformité Studio",
                 "names": [
                     "Justin Ray (Design Laboratory, Inc)"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Responsable de l'application de la propriété intellectuelle",
                 "names": [
                     "Gaylon Blank"
                 ]
             },
             {
-                "title": "Category Managers",
+                "title": "Gestion des catégories",
                 "names": [
                     "Audrey Searcy",
                     "Emily Clock",
@@ -1340,22 +1340,22 @@
         ]
     },
     {
-        "section": "Player Operations",
+        "section": "Opérations du joueur",
         "titles": [
             {
-                "title": "Director of Player Support",
+                "title": "Directeur du Support du Joueur",
                 "names": [
                     "Anne Quaranta"
                 ]
             },
             {
-                "title": "Director of Community",
+                "title": "Directeur de la communauté",
                 "names": [
                     "Nea Aime Rollan"
                 ]
             },
             {
-                "title": "Community Managers",
+                "title": "Gestionnaires de la communauté",
                 "names": [
                     "Cameron Thomas",
                     "Jay Wells",
@@ -1367,20 +1367,20 @@
                 ]
             },
             {
-                "title": "Customer Support Program Manager",
+                "title": "Responsable du programme de soutien à la clientèle",
                 "names": [
                     "Jon-Eric L. Swigart (Collabera)"
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Responsable du service client",
                 "names": [
                     "Jen Pedersen",
                     "Justin Putnam (TEKsystems, Inc)"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Service clientèle",
                 "names": [
                     "Andrew Lee (Apex Systems, Inc)"
                 ]
@@ -1388,23 +1388,23 @@
         ]
     },
     {
-        "section": "Marketing",
+        "section": "qui_sommes_nous.notre_equipe.marketing",
         "titles": [
             {
-                "title": "Head of Marketing",
+                "title": "Directeur marketing & co-fondateur",
                 "names": [
                     "Jessica Freeman"
                 ]
             },
             {
-                "title": "Marketing Directors",
+                "title": "Directeurs marketing",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
                 ]
             },
             {
-                "title": "Marketing Managers",
+                "title": "Responsables marketing",
                 "names": [
                     "Anton Maslennikov",
                     "Ashley Davidson (Simplicity Consulting, Inc)",
@@ -1424,16 +1424,16 @@
         ]
     },
     {
-        "section": "Legal",
+        "section": "Légal",
         "titles": [
             {
-                "title": "Head of Legal",
+                "title": "Responsable juridique",
                 "names": [
                     "Nick Morgan"
                 ]
             },
             {
-                "title": "Legal Counsel",
+                "title": "Conseiller juridique",
                 "names": [
                     "Kari Annand (Snodgrass Annand)",
                     "Maya Yamazaki (Davis Wright Tremaine)",
@@ -1447,7 +1447,7 @@
         "section": "Finances",
         "titles": [
             {
-                "title": "Finance Director",
+                "title": "Direction financière",
                 "names": [
                     "Marina Kostesic"
                 ]
@@ -1460,19 +1460,19 @@
                 ]
             },
             {
-                "title": "Senior Financial Accountant",
+                "title": "Responsable comptable financier",
                 "names": [
                     "Josefina Axelsson"
                 ]
             },
             {
-                "title": "Financial Accountant",
+                "title": "Comptable Financier",
                 "names": [
                     "Jelena Pejic"
                 ]
             },
             {
-                "title": "Financial Consultant",
+                "title": "Conseiller financier",
                 "names": [
                     "Stefan Lyrmark"
                 ]
@@ -1480,22 +1480,22 @@
         ]
     },
     {
-        "section": "Studios Quality Team - Microsoft",
+        "section": "Équipe de qualité des studios - Microsoft",
         "titles": [
             {
-                "title": "Director of Quality",
+                "title": "Directeur de la Qualité",
                 "names": [
                     "Jimmy Bischoff"
                 ]
             },
             {
-                "title": "Studios Quality Manager",
+                "title": "Gestionnaire de qualité des studios",
                 "names": [
                     "Tyler Moeller"
                 ]
             },
             {
-                "title": "Quality Leads",
+                "title": "Prospects de qualité",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1505,7 +1505,7 @@
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Ingénieurs de qualité",
                 "names": [
                     "Herve Iradukunda",
                     "Joe Whitman",
@@ -1515,7 +1515,7 @@
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Analyse des données de qualité et ingénierie",
                 "names": [
                     "Chelsi Hohnbaum",
                     "Christian Koguchi",
@@ -1523,7 +1523,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Ingénieurs de logiciels",
                 "names": [
                     "Jay Baxter",
                     "Aaron Amlag",
@@ -1532,7 +1532,7 @@
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Analystes de qualité",
                 "names": [
                     "Agata Marciniak",
                     "Aidan Bower",
@@ -1545,7 +1545,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Remerciements",
                 "names": [
                     "Alex Luschen – Executive Business Administrator",
                     "Allen Horton – Technology and Infrastructure",
@@ -1561,23 +1561,23 @@
         ]
     },
     {
-        "section": "Studios Quality Team - US Teams",
+        "section": "Équipe de qualité Studios - Équipes US",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Gestionnaire de test",
                 "names": [
                     "Tom Dieterich (Experis) - Test Manager, Tempe"
                 ]
             },
             {
-                "title": "Software Test Engineering Leads",
+                "title": "Prospects d'ingénierie de test logiciel",
                 "names": [
                     "Barry Doyle (Insight Global, Inc)",
                     "Maria Berube (Experis)"
                 ]
             },
             {
-                "title": "Software Test Engineers",
+                "title": "Ingénieurs de test de logiciel",
                 "names": [
                     "Antoine Brown (Experis)",
                     "Adam DuBois (Experis)",
@@ -1597,7 +1597,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Tester les associés",
                 "names": [
                     "Austin Keeling (Experis)",
                     "Chris Youngs (Experis)",
@@ -1613,7 +1613,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Remerciements",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -1637,7 +1637,7 @@
         ]
     },
     {
-        "section": "Special Thanks",
+        "section": "Remerciements",
         "titles": [
             {
                 "title": "",
@@ -1659,34 +1659,34 @@
         ]
     },
     {
-        "section": "Development Partner: Lionbridge Quality - Poland Team",
+        "section": "Partenaire de Développement : Qualité Lionbridge - Équipe Pologne",
         "titles": [
             {
-                "title": "Test Director",
+                "title": "Directeur du test",
                 "names": [
                     "Michał Błoński (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Global Test Manager",
+                "title": "Responsable des tests mondiaux senior",
                 "names": [
                     "Grzegorz Kohorewicz (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Test Manager",
+                "title": "Responsable des tests senior",
                 "names": [
                     "Mateusz Kałuża (Lionbridge)"
                 ]
             },
             {
-                "title": "Test Leads",
+                "title": "Prospects de test",
                 "names": [
                     "Beata Jastrzębska (Lionbridge)"
                 ]
             },
             {
-                "title": "Team Leads",
+                "title": "Chefs d'équipe",
                 "names": [
                     "Kamil Kostrzewa (Lionbridge)",
                     "Michał Sławek (Lionbridge)",
@@ -1696,13 +1696,13 @@
                 ]
             },
             {
-                "title": "Compliance Leads",
+                "title": "Prospects de conformité",
                 "names": [
                     "Łukasz Mikusek (Lionbridge)"
                 ]
             },
             {
-                "title": "Software Test Engineers",
+                "title": "Ingénieurs de test de logiciel",
                 "names": [
                     "Adam Rączkowski (Lionbridge)",
                     "Iwona Cieśla (Lionbridge)",
@@ -1727,7 +1727,7 @@
                 ]
             },
             {
-                "title": "Compliance Software Test Engineers",
+                "title": "Ingénieurs de test de conformité",
                 "names": [
                     "Adam Ronowski (Lionbridge)",
                     "Maciej Rodak (Lionbridge)",
@@ -1737,7 +1737,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Tester les associés",
                 "names": [
                     "Adam Krasieńko (Lionbridge)",
                     "Adam Sołtanowski (Lionbridge)",
@@ -2359,7 +2359,7 @@
                 ]
             },
             {
-                "title": "Launcher",
+                "title": "Lancer",
                 "names": [
                     "Anders Rosén",
                     "Carl Westin",
@@ -2367,7 +2367,7 @@
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Architectes",
                 "names": [
                     "Michael Seydl",
                     "Mike Frost",
@@ -2375,7 +2375,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Chef des développeurs de logiciels Bedrock",
                 "names": [
                     "Aaron Heysse",
                     "Adrian LaVallee",
@@ -2384,7 +2384,7 @@
                 ]
             },
             {
-                "title": "Software Developers",
+                "title": "Développeurs de logiciels",
                 "names": [
                     "Alex Wouters (Insight Global, Inc)",
                     "Arend Danielek (TEKsystems, Inc)",
@@ -2412,7 +2412,7 @@
                 ]
             },
             {
-                "title": "Realms Developers",
+                "title": "Développeurs de Realms",
                 "names": [
                     "Alexander Johansson",
                     "Amir Moulavi",
@@ -2427,7 +2427,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Développeurs du lanceur",
                 "names": [
                     "Andrew Hewitson",
                     "Linus Cumselius",
@@ -2438,13 +2438,13 @@
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Ingénieurs du système de plomb",
                 "names": [
                     "Tom Miles"
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Ingénieurs du système",
                 "names": [
                     "Hazen Miller (Insight Global, Inc)",
                     "Louis A Castaneda (Insight Global, Inc)",
@@ -2452,7 +2452,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Ingénieurs de logiciels de service",
                 "names": [
                     "Anders Martini",
                     "Don S Frazier II",
@@ -2466,7 +2466,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Ingénieurs de logiciels",
                 "names": [
                     "Evelyn Collier (Insight Global)",
                     "Michael Andersson",
@@ -2474,19 +2474,19 @@
                 ]
             },
             {
-                "title": "Engineering Manager",
+                "title": "Responsable de l’ingénierie",
                 "names": [
                     "Wenlan Yang"
                 ]
             },
             {
-                "title": "System Engineers",
+                "title": "Ingénieurs du système",
                 "names": [
                     "Robert Thresher (Collabera)"
                 ]
             },
             {
-                "title": "System Developers",
+                "title": "Développeurs de système",
                 "names": [
                     "Christoffer Hammarström",
                     "Dodge Lafnitzegger (Insight Global, Inc)",
@@ -2495,7 +2495,7 @@
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Directeurs artistiques",
                 "names": [
                     "Brad Shuber",
                     "Logan Lubera",
@@ -2504,13 +2504,13 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Direction Artistique",
                 "names": [
                     "Sarah Kisor"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artistes",
                 "names": [
                     "Erin Caswell (eXcell, a division of CompuCom)",
                     "Lilei Yu (Collabera)"
@@ -2525,19 +2525,19 @@
                 ]
             },
             {
-                "title": "Lead Technical Artist",
+                "title": "Artiste technique principal",
                 "names": [
                     "Lisa Hazen"
                 ]
             },
             {
-                "title": "Technical Artist",
+                "title": "Artiste technique",
                 "names": [
                     "Dylan Piepenbrok"
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Artistes",
                 "names": [
                     "Amanda Cook (Harvey Nash)",
                     "Bart Kaufman (Randstad)",
@@ -2551,7 +2551,7 @@
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Artistes graphiques",
                 "names": [
                     "Jerica Harada (TEKsystems, Inc)",
                     "Kristoffer Zetterstrand",
@@ -2559,39 +2559,39 @@
                 ]
             },
             {
-                "title": "Lead Graphic Designers",
+                "title": "Designers Graphiques Principaux",
                 "names": [
                     "Christine Gutierrez"
                 ]
             },
             {
-                "title": "Additional Graphics",
+                "title": "Graphiques supplémentaires",
                 "names": [
                     "Jonatan Pöljö",
                     "Mariana Graham Ramirez"
                 ]
             },
             {
-                "title": "Motion Graphics Designer",
+                "title": "Concepteur de Motion Graphics",
                 "names": [
                     "Gabe Philbin (Randstad)"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Designer sonore",
                 "names": [
                     "Kevin Martinez",
                     "Shauny Jang (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Executive Producer",
+                "title": "Producteur exécutif",
                 "names": [
                     "Erin Krell"
                 ]
             },
             {
-                "title": "Producers",
+                "title": "Producteurs",
                 "names": [
                     "Alen Voljevica",
                     "Anna Holdosi-Simon",
@@ -2629,19 +2629,19 @@
                 ]
             },
             {
-                "title": "Crganizational Coaches",
+                "title": "Coaches de Crganiisation",
                 "names": [
                     "Marie Stålkrantz"
                 ]
             },
             {
-                "title": "Assistant Producer",
+                "title": "Producteur Assistant",
                 "names": [
                     "Warren Loo"
                 ]
             },
             {
-                "title": "Release Manager",
+                "title": "Responsable de publication",
                 "names": [
                     "Brogan Irwin (Virtuosity)",
                     "Dustin Wood (Design Laboratory, Inc)",
@@ -2649,51 +2649,51 @@
                 ]
             },
             {
-                "title": "Merchandise Art Director",
+                "title": "Directeur artistique de la marchandise",
                 "names": [
                     "Alexis Holmqvist"
                 ]
             },
             {
-                "title": "Technical Writer",
+                "title": "Écrivain technique",
                 "names": [
                     "Jeff Kim (Insight Global, Inc)",
                     "Nate Mackie (TEKsystems, Inc)"
                 ]
             },
             {
-                "title": "Product Designer",
+                "title": "Designer de produit",
                 "names": [
                     "Jennifer Hammervald"
                 ]
             },
             {
-                "title": "Head of Creative Communications",
+                "title": "Responsable des communications créatives",
                 "names": [
                     "Thomas Wiborgh"
                 ]
             },
             {
-                "title": "Director of Brand",
+                "title": "Directeur de la Marque",
                 "names": [
                     "Jonathan Symington"
                 ]
             },
             {
-                "title": "Head of Creative Production",
+                "title": "Responsable de la production créative",
                 "names": [
                     "Katharina Hautz"
                 ]
             },
             {
-                "title": "User Experience Design Director",
+                "title": "Directeur du design de l'expérience utilisateur",
                 "names": [
                     "Stephen Whetstine",
                     "Tobias Ahlin"
                 ]
             },
             {
-                "title": "User Experience Designer",
+                "title": "Concepteur d’expérience utilisateur",
                 "names": [
                     "Connor Tompsett (CompuCom Systems, Inc)",
                     "Lily Ekman",
@@ -2701,7 +2701,7 @@
                 ]
             },
             {
-                "title": "Automation Support",
+                "title": "Support de l'automatisation",
                 "names": [
                     "Sean Connolly (Insight Global, Inc)",
                     "Matthew Gustaff (Digital Intelligence Systems, LLC)"
@@ -2717,19 +2717,19 @@
                 ]
             },
             {
-                "title": "Directors of Business Management",
+                "title": "Directeurs de la gestion des affaires",
                 "names": [
                     "Stephen McHugh"
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Garde",
                 "names": [
                     "Andrew J. Adamyk"
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Administrateurs des affaires exécutives",
                 "names": [
                     "Cathy Wickersham",
                     "Darla J Barrett",
@@ -2738,13 +2738,13 @@
                 ]
             },
             {
-                "title": "Business Administrators",
+                "title": "Administrateurs professionnels",
                 "names": [
                     "Shae M. Flanigan (C2S Technologies, Inc)"
                 ]
             },
             {
-                "title": "Office Managers",
+                "title": "Responsables de bureau",
                 "names": [
                     "Alex Andersson",
                     "Charlotte Wredesjö",
@@ -2754,19 +2754,19 @@
                 ]
             },
             {
-                "title": "Reception",
+                "title": "ACCUEIL",
                 "names": [
                     "Chaimae Truving"
                 ]
             },
             {
-                "title": "Data Science & Analytics Lead",
+                "title": "Responsable de la science des données et de l'analyse",
                 "names": [
                     "Warren Durrett"
                 ]
             },
             {
-                "title": "Data Science & Analytics",
+                "title": "Science et analyse des données",
                 "names": [
                     "Abby Jaloway (National Business Innovations)",
                     "Brynjólfur Erlingsson",
@@ -2784,25 +2784,25 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Ingénierie des données",
                 "names": [
                     "Sachin Dekate (Design Laboratory, Inc)"
                 ]
             },
             {
-                "title": "Directors of Business Development",
+                "title": "Directeurs du développement des affaires",
                 "names": [
                     "Cherie D Lutz"
                 ]
             },
             {
-                "title": "Directors of Business Planning",
+                "title": "Directeurs de la planification des affaires",
                 "names": [
                     "Adam Tratt"
                 ]
             },
             {
-                "title": "Business Managers",
+                "title": "Responsables d'entreprise",
                 "names": [
                     "Bill Wu",
                     "Claudine Ursino (Simplicity Consulting Inc)",
@@ -2811,14 +2811,14 @@
                 ]
             },
             {
-                "title": "Business Analysts",
+                "title": "Analystes d'affaires",
                 "names": [
                     "Alvin M Chin (Populus Group, LLC)",
                     "Zheng Wang (Populus Group, LLC)"
                 ]
             },
             {
-                "title": "Minecraft Content Coordinators",
+                "title": "Coordonnateurs de contenu Minecraft",
                 "names": [
                     "Adam Martinsson",
                     "Andreas Thomasson",
@@ -2838,19 +2838,19 @@
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Directeur artistique",
                 "names": [
                     "John Hendricks"
                 ]
             },
             {
-                "title": "Media Director",
+                "title": "Directeur des médias",
                 "names": [
                     "Hans Abrahamsson"
                 ]
             },
             {
-                "title": "Creative Communications Assistant",
+                "title": "Assistant de communication créative",
                 "names": [
                     "Emily Richardson"
                 ]
@@ -2863,13 +2863,13 @@
                 ]
             },
             {
-                "title": "Head of Player Operations",
+                "title": "Opérations du chef du joueur",
                 "names": [
                     "Aubrey Norris"
                 ]
             },
             {
-                "title": "Community Manager",
+                "title": "Directeur de la communauté",
                 "names": [
                     "Glory Robinson (Experis)",
                     "Helen Zbihlyj",
@@ -2877,13 +2877,13 @@
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Responsable du service client",
                 "names": [
                     "Mattias Victorin"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Service clientèle",
                 "names": [
                     "Amelia Lindroth Henriksson",
                     "Ana Barata Martins",
@@ -2930,7 +2930,7 @@
                 ]
             },
             {
-                "title": "Marketing Manager",
+                "title": "Responsable marketing",
                 "names": [
                     "Bianca Ciotti",
                     "Delilah Liu",
@@ -2940,20 +2940,20 @@
                 ]
             },
             {
-                "title": "Legal",
+                "title": "Légal",
                 "names": [
                     "Christi Davisson"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Responsable de l'application de la propriété intellectuelle",
                 "names": [
                     "Mathias Andersson",
                     "Teresa Lee Rodewald"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Agents",
+                "title": "Agents de mise en application de la propriété intellectuelle",
                 "names": [
                     "Johan Hedlund",
                     "Marcus Forss",
@@ -2962,19 +2962,19 @@
                 ]
             },
             {
-                "title": "Lead Producer - Brand Experience",
+                "title": "Producteur principal - Expérience de la marque",
                 "names": [
                     "Karim Walldén"
                 ]
             },
             {
-                "title": "Communication Manager",
+                "title": "Responsable Communication",
                 "names": [
                     "John Schork"
                 ]
             },
             {
-                "title": "Assembly Media Inc.",
+                "title": "Média d'assemblage Inc.",
                 "names": [
                     "Alli Cohen",
                     "Christian Delgado",
@@ -2990,7 +2990,7 @@
                 ]
             },
             {
-                "title": "HR Advisor",
+                "title": "Conseiller RH",
                 "names": [
                     "Viktoria Petersson"
                 ]
@@ -3002,63 +3002,63 @@
                 ]
             },
             {
-                "title": "Senior Recruiter",
+                "title": "Chef du recrutement",
                 "names": [
                     "Tove Oldebäck"
                 ]
             },
             {
-                "title": "Recruiters",
+                "title": "Recruteurs",
                 "names": [
                     "Aimée Narfström",
                     "Ida Utterström"
                 ]
             },
             {
-                "title": "Creative Communications Editor",
+                "title": "Éditeur de communications créatives",
                 "names": [
                     "Marsh Davies",
                     "Tom Stone"
                 ]
             },
             {
-                "title": "Cloud Computing Engineer",
+                "title": "Ingénieur Informatique du Cloud",
                 "names": [
                     "Dolly Mackwan"
                 ]
             },
             {
-                "title": "Support Team Lead",
+                "title": "Responsable de l'équipe de support",
                 "names": [
                     "Mattias Jacob Victorin"
                 ]
             },
             {
-                "title": "Consumer Products Designer",
+                "title": "Concepteur de produits de consommation",
                 "names": [
                     "Kelsey Ranallo"
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Responsable du projet",
                 "names": [
                     "Vera Mirchev"
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Conception Web",
                 "names": [
                     "Taylor Kasony (eXcell, a division of CompuCom)"
                 ]
             },
             {
-                "title": "Quality Manager",
+                "title": "Responsable qualité",
                 "names": [
                     "Rob Straavaldson"
                 ]
             },
             {
-                "title": "Development Partner: Skybox",
+                "title": "Partenaire de Développement : Skybox",
                 "names": [
                     "Ace Cheung",
                     "Alex MacKay",
@@ -3111,7 +3111,7 @@
                 ]
             },
             {
-                "title": "Development Partner: BBI",
+                "title": "Partenaire de Développement : BBI",
                 "names": [
                     "Alex Sharp - Assistant Producer",
                     "Andrew Yuennan - Programmer",
@@ -3141,7 +3141,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Red Lens",
+                "title": "Partenaire de développement: lentille rouge",
                 "names": [
                     "Christopher Kohnert",
                     "Joshua Claeys",
@@ -3149,37 +3149,37 @@
                 ]
             },
             {
-                "title": "Development Partner: Virtuosity",
+                "title": "Partenaire de développement: Virtuosité",
                 "names": [
                     "Shanthi Kanchibhotla (Virtuosity)"
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Devant de la Maison",
                 "names": [
                     "Adam Blänning"
                 ]
             },
             {
-                "title": "Product Owner",
+                "title": "Propriétaire du produit",
                 "names": [
                     "Johannes Söderberg"
                 ]
             },
             {
-                "title": "Technical Audio Developer",
+                "title": "Développeur Audio Technique",
                 "names": [
                     "Jonatan Crafoord"
                 ]
             },
             {
-                "title": "Senior Financial Accountant",
+                "title": "Responsable comptable financier",
                 "names": [
                     "Natalie Levinsson"
                 ]
             },
             {
-                "title": "Social Media Manager",
+                "title": "Gestionnaire des médias sociaux",
                 "names": [
                     "Natascha Cox"
                 ]
@@ -3187,34 +3187,34 @@
         ]
     },
     {
-        "section": "Studios Quality Alumni",
+        "section": "Anciens de la qualité des studios",
         "titles": [
             {
-                "title": "Quality Leads",
+                "title": "Prospects de qualité",
                 "names": [
                     "Tony Harlich"
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Ingénieurs de qualité",
                 "names": [
                     "Akshata Trivedi"
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Analyse des données de qualité et ingénierie",
                 "names": [
                     "Jeff MacDermot"
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Analystes de qualité",
                 "names": [
                     "Yi Zhao (Kforce)"
                 ]
             },
             {
-                "title": "Poland - Team Leads",
+                "title": "Pologne - Responsables d'équipe",
                 "names": [
                     "Anna Wróbel (Lionbridge)",
                     "Kamil Bazydło (Lionbridge)",
@@ -3228,7 +3228,7 @@
                 ]
             },
             {
-                "title": "US Team - Software Test Engineers",
+                "title": "Équipe US - Ingénieurs de test logiciel",
                 "names": [
                     "Brendan McElroy (Insight Global, Inc)",
                     "Crystal Edwards (Insight Global, Inc)",
@@ -3239,7 +3239,7 @@
                 ]
             },
             {
-                "title": "US Team - Test Associates",
+                "title": "Équipe US - Associés de test",
                 "names": [
                     "Brian Sears (Experis)"
                 ]
