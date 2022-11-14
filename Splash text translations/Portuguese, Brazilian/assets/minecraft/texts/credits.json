@@ -829,7 +829,7 @@
                 ]
             },
             {
-                "title": "Gerentes de redes sociais",
+                "title": "Administradores de redes sociais",
                 "names": [
                     "Julian Tunru",
                     "Ross Keatley"
@@ -898,7 +898,7 @@
                 ]
             },
             {
-                "title": "Líder de mídias sociais sênior",
+                "title": "Líder de redes sociais sênior",
                 "names": [
                     "Sara Reiner"
                 ]
@@ -910,7 +910,7 @@
                 ]
             },
             {
-                "title": "Gestor de conteúdo da web",
+                "title": "Gerente de conteúdo da web",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
@@ -987,7 +987,7 @@
                 ]
             },
             {
-                "title": "Parceiros de negócios sênior de RH",
+                "title": "Parceiros de negócios de RH sênior",
                 "names": [
                     "Maja Samuelsson",
                     "Nia Parker"
@@ -1070,13 +1070,13 @@
                 ]
             },
             {
-                "title": "Líder de suporte de automação",
+                "title": "Líder de auxílio de automação",
                 "names": [
                     "Matthew C. Moreno"
                 ]
             },
             {
-                "title": "Suporte de automação",
+                "title": "Auxílio de automação",
                 "names": [
                     "Chris Ilson (Collabera)",
                     "Corey Smith (Insight Global, Inc)",
@@ -1162,7 +1162,7 @@
                 ]
             },
             {
-                "title": "Pesquisador de usuário",
+                "title": "Pesquisador do usuário",
                 "names": [
                     "Melissa Boone",
                     "Olga Zielinska",
@@ -1566,7 +1566,7 @@
             {
                 "title": "Gerente de testes",
                 "names": [
-                    "Tom Dieterich (Experis) - Test Manager, Tempe"
+                    "Tom Dieterich (Experis) – Gerente de testes, Tempe"
                 ]
             },
             {
@@ -1617,21 +1617,21 @@
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
-                    "Ben Farley (Experis) – Test Manager, Tempe",
-                    "Brian Canning (Experis) – Test Manager, Tempe",
+                    "Ben Farley (Experis) – Gerente de testes, Tempe",
+                    "Ben Farley (Experis) – Gerente de testes, Tempe",
                     "Carol Stearns (Experis)",
                     "Erica Davis (Experis)",
                     "Frank Criscione (Experis)",
                     "Gavin Kennedy (Experis)",
-                    "Jay Piette (Experis) – Test Manager, Tempe",
-                    "Jeffrey Guyton (Insight Global, Inc) – Account Manager",
+                    "Jay Piette (Experis) – Gerente de testes, Tempe",
+                    "Jeffrey Guyton (Insight Global, Inc) – Gerente de contas",
                     "Julie Loucks (Experis)",
                     "Lucas Rathburn (Experis)",
                     "Mark Medlock (Experis)",
                     "Paul Gradwohl (Experis)",
                     "Theresa Pudenz (Experis)",
                     "Thomas Hanson (Experis)",
-                    "Zachary Bohnenkamp (Experis) – Program Manager"
+                    "Zachary Bohnenkamp (Experis) – Gerente do programa"
                 ]
             }
         ]
@@ -1643,14 +1643,14 @@
                 "title": "",
                 "names": [
                     "4J Studios",
-                    "Albert Pastore - Director of Business Development, Music and Talent",
-                    "Dan Roque – Creature Developer",
+                    "Albert Pastore - Diretor do desenvolvimento de negócios, música e talento",
+                    "Dan Roque – Desenvolvedor de criaturas",
                     "Gideon Driver (Zen3 Infosolutions America, Inc)",
-                    "John 'DrZhark' Olarte - Creature Developer",
-                    "Julian Gough - Writer",
-                    "Kent Christian Jensen – Creature Developer",
-                    "Reza Elghazi - Developer Account Manager",
-                    "Stephanie Golden (Insight Global, Inc) – Account Manager",
+                    "João 'DrZhark' Olarte - Desenvolvedor de criaturas",
+                    "Julian Gough - Escritor",
+                    "Kent Christian Jensen – Desenvolvedor de criaturas",
+                    "Reza Elghazi - Gerente de contas de desenvolvedores",
+                    "Stephanie Golden (Insight Global, Inc) – Gerente de contas",
                     "The PlayFab Team",
                     "The Xbox Live Team",
                     "Vishnu Nalagangula (Zen3 Infosolutions America, Inc)"
@@ -2512,7 +2512,7 @@
             {
                 "title": "Artistas",
                 "names": [
-                    "Erin Caswell (eXcell, a division of CompuCom)",
+                    "Erin Caswell (eXcell, uma divisão de CompuCom)",
                     "Lilei Yu (Collabera)"
                 ]
             },
@@ -2615,7 +2615,7 @@
                     "Justine Loong",
                     "Loudon St Hill (Insight Global, Inc)",
                     "Marcus Rundström",
-                    "Matt Rodgers (eXcell, a division of CompuCom)",
+                    "Matt Rodgers (eXcell, uma divisão de CompuCom)",
                     "Michael Welch (Insight Global, Inc)",
                     "Moira Ingeltun",
                     "Nick Severson",
@@ -3113,31 +3113,31 @@
             {
                 "title": "Parceiro de desenvolvimento: BBI",
                 "names": [
-                    "Alex Sharp - Assistant Producer",
-                    "Andrew Yuennan - Programmer",
-                    "Anish Shenwai - Co-Op Programmer",
-                    "Bhavesh Gupta - Associate Programmer",
-                    "Branko Bajcetic - Co-Op Programmer",
-                    "Christina Oh - Co-Op Programmer",
-                    "Christopher Whitman - Programmer",
-                    "David McKay - Associate Producer",
-                    "Duarte Maia - Programmer",
-                    "Elizabeth Pieters - Co-Op Programmer",
-                    "Eric Dahl - Co-Op Programmer",
-                    "Erick Tavares  - Programmer",
+                    "Alex Sharp - Produtor assistente",
+                    "Andrew Yuennan - Programador",
+                    "Anish Shenwai - Programador cooperativo",
+                    "Bhavesh Gupta - Programador associado",
+                    "Branko Bajcetic - Programador cooperativo",
+                    "Christina Oh - Programadora cooperativa",
+                    "Christopher Whitman - Programador",
+                    "David McKay - Produtor associado",
+                    "Duarte Maia - Programador",
+                    "Elizabeth Pieters - Programadora cooperativa",
+                    "Eric Dahl - Programador cooperativo",
+                    "Erick Tavares - Programador",
                     "Gupta Bhavesh",
-                    "Hugo Burd - Co-Op Programmer",
+                    "Hugo Burd - Programador cooperativo",
                     "James Fairweather",
-                    "Kelsey Primar - Producer",
-                    "Kevin Yu - Co-Op Programmer",
-                    "Koki Pan - Co-Op Programmer",
-                    "Riley Godard - Associate Programmer",
-                    "Ryan LeMesurier - Lead QA Analyst",
-                    "Thomas Paterson - Programmer",
+                    "Kelsey Primar - Produtor",
+                    "Kevin Yu - Programador cooperativo",
+                    "Koki Pan - Programador cooperativo",
+                    "Riley Godard - Programador associado",
+                    "Ryan LeMesurier - Analista líder de GQ",
+                    "Thomas Paterson - Programador",
                     "Tyler Nilsson",
                     "Vidhi Shah - Designer",
-                    "Wes Trevor - Senior QA",
-                    "Youhan Guan - Programmer"
+                    "Wes Trevor - Sênior de GQ",
+                    "Youhan Guan - Programador"
                 ]
             },
             {
