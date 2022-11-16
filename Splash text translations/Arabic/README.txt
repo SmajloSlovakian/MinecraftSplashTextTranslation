@@ -7,7 +7,7 @@ How do I add this pack to Minecraft?
 How to get into the resourcepacks folder?
 -Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
 لكن انتظر! هذا لا يعمل!
--Click on a button called "Resource packs folder..."
+-Click on a button called "Open pack folder"
 
 
 

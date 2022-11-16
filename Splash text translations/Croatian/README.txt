@@ -1,4 +1,4 @@
-This project was created by SmajloSlovakian#1077
+Projekt izradio SmajloSlovakian#1077
 
 How do I add this pack to Minecraft?
 -Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
@@ -7,7 +7,7 @@ How do I add this pack to Minecraft?
 How to get into the resourcepacks folder?
 -Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
 But wait! that doesn't work!
--Click on a button called "Resource packs folder..."
+-Stisnite tipku "Otvori mapu paketa"
 
 
 

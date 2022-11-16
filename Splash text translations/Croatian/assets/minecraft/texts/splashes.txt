@@ -1,26 +1,26 @@
 As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
+Predobro!
+100% čist!
+Može sadržavati orašaste plodove!
 More polygons!
 Moderately attractive!
-Limited edition!
+Ograničeno izdanje!
 Flashing letters!
-It's here!
-Best in class!
+Evo ga!
+Najbolji u klasi!
 It's finished!
 Kind of dragon free!
 Excitement!
 More than 500 sold!
-One of a kind!
+Jedinstven!
 Heaps of hits on YouTube!
 Indev!
-Spiders everywhere!
+Pauci posvuda!
 Check it out!
 Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
+To je igra!
+Našravljeno u Švedskoj!
+Koristi LWJGL!
 Reticulating splines!
 Minecraft!
 Jeeej!
@@ -30,27 +30,27 @@ Poluge!
 Exploding creepers!
 That's no moon!
 l33t!
-Create!
-Survive!
-Dungeon!
-Exclusive!
+Stvori!
+Preživi!
+Tamnica!
+Ekskluzivno!
 The bee's knees!
-Closed source!
-Classy!
+Zatvorenog izvora!
+Otmjeno!
 Vau!
-Not on steam!
+Nije na parnom pogonu!
 Oh čovječe!
 Fenomenalna zajednica!
 Pikseli!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
+Od sada sa težinom!
 Poboljšan!
-90% bug free!
+90% bez grešaka!
 Lijep!
-12 herbs and spices!
+12 biljaka i začina!
 Bez masnoće!
-Absolutely no memes!
+Apsolutno bez memeova!
 Besplatna njega za zube!
 Pitajte svog liječnika!
 Maloljetnici dobrodošli!
@@ -65,8 +65,8 @@ Ceci n'est pas une title screen!
 Euklidski!
 Sada u 3D-u!
 Inspirativan!
-Herregud!
-Complex cellular automata!
+Omajgad!
+Složeni stanični automati!
 Da, gospodine!
 Igraju kauboji!
 Sada koristi OpenGL 3.2 profil jezgre!
@@ -76,17 +76,17 @@ Age of Wonders je bolji!
 Probaj gulaš od gljiva!
 Senzacionalan!
 Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
+Odigraj ga, mačko za tipkovnicom!
 Garantirano!
 Makroskopski!
 Samo daj!
 Nasumični pozdravni tekst!
 Nazovi svoju mamu!
-Monster infighting!
+Konflikt čudovišta!
 Obožavaju milijuni!
 Ultimativno izdanje!
 Čudno!
-You've got a brand new key!
+Imaš sasvim novi ključ!
 Vodootporan!
 Nezapaljiv!
 Vau, stari!
@@ -150,7 +150,7 @@ Supercalifragilisticexpialidocious!
 Consummate V's!
 Kravlji alati!
 Koristi dvostruki međuspremnik!
-Fan fiction!
+Obožavateljska fikcija!
 Flaxkikare!
 Jason! Jason! Jason!
 Topliji od sunca!
@@ -160,20 +160,20 @@ Napad!
 Fantazija!
 DDR! DDR! DDR!
 Kick it root down!
-Regional resources!
-Woo, facepunch!
-Woo, somethingawful!
-Woo, tigsource!
-Woo, worldofminecraft!
-Woo, reddit!
-Woo, 2pp!
+Regionalni resursi!
+Jeej, facepunch!
+Jeej, somethingawful!
+Jeej, tigsource!
+Jeej, worldofminecraft!
+Jeej, reddit!
+Jeej, 2pp!
 Google analitikzirano!
 Sada podržava čćž!
 Dajne nam Gordona!
 Dajte napojnicu svom konobaru!
 Vrlo zabavan!
 12345 je loša zaporka!
-Vote for net neutrality!
+Glasajte za neutralnost interneta!
 Pod morem on živi voli svoj dom!
 MAP11 ima dva imena!
 Svemoguć!
@@ -183,96 +183,96 @@ Pčele, pčele, pčele, pčele!
 Jag känner en bot!
 Ovaj tekst je teško pročitati ako igraš igru na zadanoj rezoluciji, ali na 1080p je sasvim u redu!
 Haha, LOL!
-Hampsterdance!
+Hampsterples!
 Menger sponge!
 idspispopd!
-Eple (original edit)!
-So fresh, so clean!
-Slow acting portals!
-Try the Nether!
-Don't look directly at the bugs!
-Oh, ok, Pigmen!
-Finally with ladders!
-Scary!
-Play Minecraft, Watch Topgear, Get Pig!
-Twittered about!
-Jump up, jump up, and get down!
-Joel is neat!
-A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
-Welcome to your Doom!
-Stay a while, stay forever!
-Stay a while and listen!
-Treatment for your rash!
-"Autological" is!
-Information wants to be free!
-"Almost never" is an interesting concept!
-Lots of truthiness!
-The creeper is a spy!
-Turing complete!
-It's groundbreaking!
-Let our battle's begin!
-The sky is the limit!
-Jeb has amazing hair!
-Ryan also has amazing hair!
-Casual gaming!
-Undefeated!
-Kinda like Lemmings!
-Follow the train, CJ!
-Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
-DungeonQuest is unfair!
+Eple (izvorno izdanje)!
+Tako friško, tako čisto!
+Sporo djelujući portali!
+Isprobaj Nether!
+Ne gledaj izravno u kukce!
+Oh, okej, zombi-svinja!
+Napokon ima ljestve!
+Zastrašujući!
+Igraj Minecraft, gledaj Topgear, dobi svinju!
+Twitteriran!
+Skoči, skoči gore, al' se vrati dolje!
+Joel je fora!
+Zagonetka, obavijena misterijom!
+Ove papige više nema! Prestala je biti!
+Dobrodošao u svoju propast!
+Ostani malo, ostani zauvijek!
+Ostani malo i osluhni!
+Liječenje za tvoj osip!
+"Autologičko" je!
+Informacije žele biti slobodone!
+„Skoro nikad” je zanimljiv koncept!
+Puno istinitosti!
+Creeper je špijun!
+Turing kompletan!
+Revolucionaran je!
+Neka naše borbe započnu!
+Samo nebo je granica!
+Jeb ima nevjerojatnu kosu!
+Ryan također ima nevjerojatnu kosu!
+Ležerno igranje!
+Neporažen!
+Nešto kao Lemmings!
+Prati vlak, CJ!
+Iskorištava sinergiju!
+Ova poruka nikad se neće prikazati na pozdravnom tekstu, nije li to čudno?
+DungeonQuest nije fer!
 90210!
-Check out the far lands!
-Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
+Posjetite far lands!
+Tyrionu bi se svidjelo!
+Probaj VVVVVV!
+Probaj Super Meat Boy!
+Probaj igricu Terraria!
+Probaj Mount And Blade!
+Probaj Project Zomboid!
+Probaj World of Goo!
+Probaj Limbo!
+Probaj Pixeljunk Shooter!
+Probaj Braid!
+To je super!
+Kruh je bol!
+Čitaj više knjiga!
 Khaaaaaaaaan!
-Less addictive than TV Tropes!
-More addictive than lemonade!
-Bigger than a bread box!
-Millions of peaches!
+TV Tropes stvara manje ovisnosti!
+Izaziva veću ovisnost od limunade!
+Veći od kutije za kruh!
+Milijuni bresaka!
 Fnord!
-This is my true form!
-Don't bother with the clones!
-Pumpkinhead!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Feature packed!
-Boots with the fur!
-Stop, hammertime!
-Testificates!
-Conventional!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
-Place ALL the blocks!
-Does barrel rolls!
-Meeting expectations!
-PC gaming since 1873!
+Ovo je moj pravi oblik!
+Ne zamaraj se klonovima!
+Bundevoglavi!
+Napravio Jeb!
+Ima kraj!
+Napokon dovršen!
+Pun mogućnosti!
+Čizme s krznom!
+Stani, hammer-vrijeme!
+Testifikati!
+Konvencionalan!
+Homeomorfan do 3-sfere!
+Ne izbjegava dvostruke negative!
+Postavi SVE blokove!
+Vrti se kao bačva!
+Ispunjava očekivanja!
+Igranje računalnih igara od 1873!
 Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
-Got your nose!
-Haley loves Elan!
-Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
-Technologic!
-Funk soul brother!
+Imam tvoj nos!
+Haley voli Elana!
+Boji se velikog, crnog šišmiša!
+Ne koristi riječ koja počinje na ‘U!’
+Dječja igra!
+Vidimo se idućeg petka, ili tako nekako!
+S ulica Södermalma!
+150 bpm koji traju 400000 minuta!
+Tehnologično!
+Funk soul brate!
 Pumpa kungen!
 日本ハロー！
 한국 안녕하세요!
@@ -280,43 +280,43 @@ Helo Cymru!
 Cześć Polsko!
 你好中国！
 Γεια σου Ελλάδα!
-My life for Aiur!
+Moj život za Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Vidim da ti se vokabular poboljšao!
+Tko je to tamo stavio?
+Ovo ne možeš objasniti!
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+§1R§2a§3z§4n§5o§6b§7o§8j§9a§an
 §kFUNKY LOL
-Big Pointy Teeth!
-Bekarton guards the gate!
-Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
-.party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
-Now with extra hugs!
+Veliki šiljasti zubi!
+Bekarton čuva vrata!
+Mmmm, mmm!
+Ne hrani papige avokadom!
+Mačevi za sve!
+Pliz odgovori na moj twit!
+.tulimari()!
+Uzmi njen jastuk!
+Spusti taj keks!
+Prilično zastrašujući!
+Imam prijedlog.
+Sada sa dodatnim zagrljajima!
 Java 16 + 1 = 17!
 Vau.
 HURNERJSGER?
-What's up, Doc?
-Now contains 32 random daily cats!
-That's Numberwang!
+Kaj te muči, njofra?
+Od sada ima 32 nasumične dnevne mačke!
+To je Numberwang!
 pliz rt
-Do you want to join my server?
-Put a little fence around it!
-Throw a blanket over it!
+Želiš li se pridružiti mom serveru?
+Stavi malu ogradu oko toga!
+Baci deku preko toga!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
 Extra things!
 Yay, puppies for everyone!
 So sweet, like a nice bon bon!
 Very influential in its circle!
-Now With Multiplayer!
+Od sada možeš igrati s drugima!
 Rise from your grave!
 Warning! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
@@ -330,9 +330,9 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
-This is good for Realms.
-Any computer is a laptop if you're brave enough!
+/give @a zagrljaj 64
+Ovo bi dobro pasalo u Realms.
+Svako računalo je prijenosno ako si dovoljno hrabar!
 Do it all, everything!
 Where there is not light, there can spider!
 GNU Terry Pratchett
@@ -344,7 +344,7 @@ Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
-Boats FTW
+Brodovi FTW!
 Javalicious edition
 Should not be played while driving
 You're going too fast!
@@ -355,33 +355,33 @@ Something's not quite right...
 Thank you for the fish!
 All rumors are true!
 Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
-Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
+Dugina kornjača?
+Nešto smiješno!
+Treba mi više konteksta.
+Aaaaaaa!
+Ne brini, budi sretan!
+Boca vode!
+Što je pitanje?
+Posadi drvo!
+Odi kod zubara!
+A što si očekivao?
 Look mum, I'm in a splash!
-It came from space.
-Awesome game design right there!
+Došlao je iz svemira.
+E, ovo je baš dobar dizajn igre!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+10 godina kopanja i izrade!
 Ping the human!
-In case it isn't obvious, foxes aren't players.
-Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
-Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
+U slučaju da nije očito, lisice nisu igrači.
+Pčele zuje!
+Minecraft Java Edition predstavlja: odvratni kukci
+Perite ruke!
+Sapun i voda!
+Podržite lokalna poduzeća!
+Ostani doma i igraj igrice!
+Ostanimo odgovorni!
+Ostani snažan!
 Cough or sneeze into your elbow!
-Don’t touch your face!
+Ne diraj svoje lice!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
@@ -390,20 +390,20 @@ Shop for your elders!
 Hang out with your friends online!
 Honey, I grew the bees!
 Find your claw!
-Everybody do the Leif!
-<3 Max & 99 & Ducky!
-Bushy eyebrows!
-Edit is a name!
-From free range developers!
-Music by Lena Raine!
+Svi radite Leif!
+<3 Max i 99 i Ducky!
+Guste obrve!
+„Edit” je ime!
+Napravili razvojni inženjeri iz slobodnog uzgoja!
+Glazbu napravila Lena Raine!
 Aww man!
 #minecraftfarms
-And my pickaxe!
-Envision! Create! Share!
-Fabulous graphics!
-Also try Minecraft Dungeons!
-Vanilla!
-May contain traces of citrus!
+I moj kramp!
+Zamisli! Stvori! Podijeli!
+Fantastična grafika!
+Probaj Minecraft Dungeons!
+Vanilija!
+Može sadržavati tragove agruma!
 Zoglin!?
 Black lives matter!
 Be anti-racist!
@@ -414,21 +414,21 @@ Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
 [this splash text is now available]
-Contains simulated goats!
-Home-made!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+Sadrži simulirane koze
+Domaća izrada!
+Na mojoj <<tipkovnici ,je mačka!~
+Najslađi predator kojeg ćeš ikad sresti!
+Sada razmišljaš s pokretnim klipovima!
 Get to the coppah!
-Board game version also available!
+Dostupan kao društvena igra!
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
-Shriek like a Sculk Shrieker!
-Who let the frogs out?
-RIBBIT!
-Croak team!
-Nooooooooooooo!
-Flower forest TM perfume
-Hat Fridays!
-Technoblade never dies!
+Napravile "stvarne" osobe!
+Vrišti kao Sculkov vrištač!
+Pusti vodu da žabe odu!
+KREKET!
+Žaboglavci!
+Neeeeeeeeeeeee!
+Parfem Šumsko cvijeće TM
+Svaki petak izuzetak!
+Technoblade nikad ne umire!
