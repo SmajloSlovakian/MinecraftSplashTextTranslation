@@ -464,7 +464,7 @@
         "section": "Görsel Sanatlar",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Sanat Yönetmenleri",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Baş Sanatçılar",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "Hareketli Grafik Tasarımcıları",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -543,7 +543,7 @@
                 ]
             },
             {
-                "title": "Art Manager",
+                "title": "Sanat Yönetmeni",
                 "names": [
                     "Samir Belarbi"
                 ]
@@ -554,55 +554,55 @@
         "section": "Üretim",
         "titles": [
             {
-                "title": "Head of Creator Platform",
+                "title": "Oluşturcu Platformu Başkanı",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Game Production",
+                "title": "Oyun Üretim Başkanı",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Head of Minecraft China",
+                "title": "Minecraft China Başkanı",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Head of Business Engineering",
+                "title": "İşletme Mühendisliği Başkanı",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Oyun Başkanı",
                 "names": [
                     "Sara Jansson Bach"
                 ]
             },
             {
-                "title": "Head of Creator Marketplace",
+                "title": "Oluşturucu Pazarı Başkanı",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Head of Minecraft Education",
+                "title": "Minecraft Education Başkanı",
                 "names": [
                     "Allison Matthews"
                 ]
             },
             {
-                "title": "Director of Minecraft.net",
+                "title": "Minecraft.net Yönetmeni",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Executive Producers",
+                "title": "Yönetici Yapımcılar",
                 "names": [
                     "Anita Sujarit",
                     "David Nisshagen",
@@ -616,7 +616,7 @@
                 ]
             },
             {
-                "title": "Production Managers",
+                "title": "Üretim Yöneticileri",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -678,7 +678,7 @@
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Organizasyon Koçları",
                 "names": [
                     "Martin Bloomstine",
                     "Rasmus Noah Hansen",
@@ -687,13 +687,13 @@
                 ]
             },
             {
-                "title": "Release Management Lead",
+                "title": "Yayın Yönetimi Şefi",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Managers",
+                "title": "Yayın Yöneticileri",
                 "names": [
                     "Andrew Pritchard",
                     "Josh Mulanax",
@@ -701,7 +701,7 @@
                 ]
             },
             {
-                "title": "Quality Assurance",
+                "title": "Kalite Güvencesi",
                 "names": [
                     "Kristian Grimberg",
                     "Matthew Dryden",
@@ -720,16 +720,16 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "Marka Yaratıcı",
         "titles": [
             {
-                "title": "Creative Director",
+                "title": "Yaratıcı Yönetmen",
                 "names": [
                     "Markus Toivonen"
                 ]
             },
             {
-                "title": "Head of Creative Production",
+                "title": "Yaratıcı Üretim Başkanı",
                 "names": [
                     "Isabella Arningsmark"
                 ]
@@ -761,14 +761,14 @@
                 ]
             },
             {
-                "title": "Creative Leads",
+                "title": "Yaratıcı Şefleri",
                 "names": [
                     "Martin Johansson",
                     "Antti Meriluoto"
                 ]
             },
             {
-                "title": "Art Directors",
+                "title": "Sanat Yönetmenleri",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -777,7 +777,7 @@
                 ]
             },
             {
-                "title": "Art Lead",
+                "title": "Sanat Şefi",
                 "names": [
                     "Amanda Ström"
                 ]
@@ -790,19 +790,19 @@
                 ]
             },
             {
-                "title": "Graphic Designer",
+                "title": "Grafik Tasarımcısı",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
             },
             {
-                "title": "3D Artist / Motion Graphic Designer",
+                "title": "3D Sanatçısı / Hareketli Grafik Tasarımcısı",
                 "names": [
                     "Jesper Hallin"
                 ]
             },
             {
-                "title": "Gameplay Capture Artist",
+                "title": "Oyun Yakalama Sanatçısı",
                 "names": [
                     "Husein Kurbegovic"
                 ]
@@ -817,26 +817,26 @@
                 ]
             },
             {
-                "title": "Publishing Editor",
+                "title": "Yayın Yönetmeni",
                 "names": [
                     "Alex Wiltshire"
                 ]
             },
             {
-                "title": "Director of Creative Communications",
+                "title": "Yaratıcı İletişim Yönetmeni",
                 "names": [
                     "Owen Jones"
                 ]
             },
             {
-                "title": "Social Media Managers",
+                "title": "Sosyal Medya Yöneticileri",
                 "names": [
                     "Julian Tunru",
                     "Ross Keatley"
                 ]
             },
             {
-                "title": "Creative Writers",
+                "title": "Yaratıcı Yazarlar",
                 "names": [
                     "Cristina Anderca",
                     "Per Landin",
@@ -847,16 +847,16 @@
         ]
     },
     {
-        "section": "Communications",
+        "section": "İletişim",
         "titles": [
             {
-                "title": "Chief Storyteller",
+                "title": "Baş Hikaye Anlatıcısı",
                 "names": [
                     "Lydia Winters"
                 ]
             },
             {
-                "title": "Senior Media Producers",
+                "title": "Kıdemli Medya Yapımcısı",
                 "names": [
                     "Carina Petersson"
                 ]
@@ -868,7 +868,7 @@
                 ]
             },
             {
-                "title": "Director of Communications",
+                "title": "İletişim Yönetmeni",
                 "names": [
                     "Regan O'Leary"
                 ]
@@ -921,13 +921,13 @@
         "section": "Kullanıcı Deneyimi",
         "titles": [
             {
-                "title": "User Experience Design Director",
+                "title": "Kullanıcı Deneyimi Tasarımı Yönetmeni",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "User Experience Designers",
+                "title": "Kullanıcı Deneyimi Tasarımcıları",
                 "names": [
                     "Jin Shin",
                     "Jonathan Paton Gallina",
@@ -939,7 +939,7 @@
                 ]
             },
             {
-                "title": "User Experience Writer",
+                "title": "Kullanıcı Deneyimi Yazarı",
                 "names": [
                     "Juan Buis"
                 ]
@@ -947,47 +947,47 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Operasyonlar",
         "titles": [
             {
-                "title": "Franchise Chief Operations Officer",
+                "title": "Baş Franchise Operasyon Sorumlusu",
                 "names": [
                     "Annie Chenn"
                 ]
             },
             {
-                "title": "Head of Stockholm Operations",
+                "title": "Stokholm Operasyonları Başkanı",
                 "names": [
                     "Sheila Ho"
                 ]
             },
             {
-                "title": "Executive Strategic Advisor",
+                "title": "Yönetici Stratejik Danışman",
                 "names": [
                     "Jonas Mårtensson"
                 ]
             },
             {
-                "title": "Head of Franchise Operations",
+                "title": "Franchise Operasyonları Müdürü",
                 "names": [
                     "Josh Bliggenstorffer"
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Personel Şefi",
                 "names": [
                     "Amy Stillion"
                 ]
             },
             {
-                "title": "HR Directors",
+                "title": "İnsan Kaynakları Yönetmenleri",
                 "names": [
                     "David Hill",
                     "Maja Samuelsson"
                 ]
             },
             {
-                "title": "Sr HR Business Partners",
+                "title": "Kıdemli İnsan Kaynakları İş Partnerleri",
                 "names": [
                     "Maja Samuelsson",
                     "Nia Parker"
@@ -1011,19 +1011,19 @@
                 ]
             },
             {
-                "title": "Office Manager",
+                "title": "Ofis Yöneticisi",
                 "names": [
                     "Siri Hoel"
                 ]
             },
             {
-                "title": "Office Coordinators",
+                "title": "Ofis Koordinatörleri",
                 "names": [
                     "Joël Älveroth"
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Yönetici İş Yöneticileri",
                 "names": [
                     "Erin Decker",
                     "Lisa Liu",
@@ -1447,32 +1447,32 @@
         "section": "Finans",
         "titles": [
             {
-                "title": "Finance Director",
+                "title": "Finans Yönetmeni",
                 "names": [
                     "Marina Kostesic"
                 ]
             },
             {
-                "title": "Finance Manager",
+                "title": "Finans Yöneticisi",
                 "names": [
                     "Evan Dowdell",
                     "Katarina Norlander"
                 ]
             },
             {
-                "title": "Senior Financial Accountant",
+                "title": "Kıdemli Finansal Muhasebeci",
                 "names": [
                     "Josefina Axelsson"
                 ]
             },
             {
-                "title": "Financial Accountant",
+                "title": "Finansal Muhasebeci",
                 "names": [
                     "Jelena Pejic"
                 ]
             },
             {
-                "title": "Financial Consultant",
+                "title": "Finansal Danışman",
                 "names": [
                     "Stefan Lyrmark"
                 ]
@@ -1480,22 +1480,22 @@
         ]
     },
     {
-        "section": "Studios Quality Team - Microsoft",
+        "section": "Stüdyo Kalite Ekibi - Microsoft",
         "titles": [
             {
-                "title": "Director of Quality",
+                "title": "Kalite Yönetmeni",
                 "names": [
                     "Jimmy Bischoff"
                 ]
             },
             {
-                "title": "Studios Quality Manager",
+                "title": "Stüdyo Kalite Yöneticisi",
                 "names": [
                     "Tyler Moeller"
                 ]
             },
             {
-                "title": "Quality Leads",
+                "title": "Kalite Şefleri",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1505,7 +1505,7 @@
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Kalite Mühendisleri",
                 "names": [
                     "Herve Iradukunda",
                     "Joe Whitman",
@@ -1515,7 +1515,7 @@
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Kaliteli Veri Analizi ve Mühendisliği",
                 "names": [
                     "Chelsi Hohnbaum",
                     "Christian Koguchi",
@@ -1523,7 +1523,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Yazılım Mühendisleri",
                 "names": [
                     "Jay Baxter",
                     "Aaron Amlag",
@@ -1532,7 +1532,7 @@
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Kalite Analistleri",
                 "names": [
                     "Agata Marciniak",
                     "Aidan Bower",
@@ -1545,7 +1545,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Özel Teşekkürler",
                 "names": [
                     "Alex Luschen – Executive Business Administrator",
                     "Allen Horton – Technology and Infrastructure",
@@ -1561,23 +1561,23 @@
         ]
     },
     {
-        "section": "Studios Quality Team - US Teams",
+        "section": "Stüdyo Kalite Ekibi - Birleşik Devletler Ekibi",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Test Yöneticisi",
                 "names": [
                     "Tom Dieterich (Experis) - Test Manager, Tempe"
                 ]
             },
             {
-                "title": "Software Test Engineering Leads",
+                "title": "Yazılım Test Mühendisliği Şefleri",
                 "names": [
                     "Barry Doyle (Insight Global, Inc)",
                     "Maria Berube (Experis)"
                 ]
             },
             {
-                "title": "Software Test Engineers",
+                "title": "Yazılım Test Mühendisleri",
                 "names": [
                     "Antoine Brown (Experis)",
                     "Adam DuBois (Experis)",
@@ -1597,7 +1597,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Test Ortakları",
                 "names": [
                     "Austin Keeling (Experis)",
                     "Chris Youngs (Experis)",
@@ -1613,7 +1613,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Özel Teşekkürler",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -1637,7 +1637,7 @@
         ]
     },
     {
-        "section": "Special Thanks",
+        "section": "Özel Teşekkürler",
         "titles": [
             {
                 "title": "",
@@ -1659,34 +1659,34 @@
         ]
     },
     {
-        "section": "Development Partner: Lionbridge Quality - Poland Team",
+        "section": "Geliştirme Partneri: Lionbridge Quality - Polonya Ekibi",
         "titles": [
             {
-                "title": "Test Director",
+                "title": "Test Yönetmeni",
                 "names": [
                     "Michał Błoński (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Global Test Manager",
+                "title": "Kıdemli Global Test Yöneticisi",
                 "names": [
                     "Grzegorz Kohorewicz (Lionbridge)"
                 ]
             },
             {
-                "title": "Senior Test Manager",
+                "title": "Kıdemli Test Yöneticisi",
                 "names": [
                     "Mateusz Kałuża (Lionbridge)"
                 ]
             },
             {
-                "title": "Test Leads",
+                "title": "Test Şefleri",
                 "names": [
                     "Beata Jastrzębska (Lionbridge)"
                 ]
             },
             {
-                "title": "Team Leads",
+                "title": "Ekip Şefleri",
                 "names": [
                     "Kamil Kostrzewa (Lionbridge)",
                     "Michał Sławek (Lionbridge)",
@@ -1696,13 +1696,13 @@
                 ]
             },
             {
-                "title": "Compliance Leads",
+                "title": "Uyum Şefleri",
                 "names": [
                     "Łukasz Mikusek (Lionbridge)"
                 ]
             },
             {
-                "title": "Software Test Engineers",
+                "title": "Yazılım Test Mühendisleri",
                 "names": [
                     "Adam Rączkowski (Lionbridge)",
                     "Iwona Cieśla (Lionbridge)",
@@ -1727,7 +1727,7 @@
                 ]
             },
             {
-                "title": "Compliance Software Test Engineers",
+                "title": "Uyumluluk Yazılım Test Mühendisleri",
                 "names": [
                     "Adam Ronowski (Lionbridge)",
                     "Maciej Rodak (Lionbridge)",
@@ -1737,7 +1737,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Test Ortakları",
                 "names": [
                     "Adam Krasieńko (Lionbridge)",
                     "Adam Sołtanowski (Lionbridge)",
@@ -1860,7 +1860,7 @@
                 ]
             },
             {
-                "title": "Compliance Test Associates",
+                "title": "Uyumluluk Test Ortakları",
                 "names": [
                     "Adam Czajkowski (Lionbridge)",
                     "Arkadiusz Grzesiński (Lionbridge)",
@@ -1879,7 +1879,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Özel Teşekkürler",
                 "names": [
                     "Dariusz Sokołowski (Lionbridge)",
                     "Evan Wright (Lionbridge)",
@@ -1893,23 +1893,23 @@
         ]
     },
     {
-        "section": "Quality - UK Team",
+        "section": "Kalite - Birleşik Krallık Ekibi",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Test Yöneticisi",
                 "names": [
                     "Richard H. Jones (Lionbridge)"
                 ]
             },
             {
-                "title": "Compliance Test Engineer",
+                "title": "Uyumluluk Test Mühendisi",
                 "names": [
                     "Lee-Roy Dunn (Lionbridge)",
                     "Nick Dorsett (Lionbridge)"
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Veri Mühendisliği",
                 "names": [
                     "Patrick Fraioli"
                 ]
@@ -1917,10 +1917,10 @@
         ]
     },
     {
-        "section": "Development Partner: BBI",
+        "section": "Geliştirme Ortağı: BBI",
         "titles": [
             {
-                "title": "Programmer",
+                "title": "Programcı",
                 "names": [
                     "Curtis Hodgins",
                     "Devon Plourde",
@@ -1929,25 +1929,25 @@
                 ]
             },
             {
-                "title": "Associate Programmer",
+                "title": "Ortak Programcı",
                 "names": [
                     "Jacky Cai"
                 ]
             },
             {
-                "title": "UI Artist",
+                "title": "Kullanıcı Arayüzü Sanatçısı",
                 "names": [
                     "Richelle Brunt"
                 ]
             },
             {
-                "title": "UX Designer",
+                "title": "Kullanıcı Deneyimi Tasarımcısı",
                 "names": [
                     "Sam Flores"
                 ]
             },
             {
-                "title": "QA Analyst",
+                "title": "Kalite Güvence Analisti",
                 "names": [
                     "Jamie Cheung",
                     "Paul Pera"
@@ -1956,10 +1956,10 @@
         ]
     },
     {
-        "section": "Development Partner: Disbelief",
+        "section": "Geliştirme Ortağı: Şüphe",
         "titles": [
             {
-                "title": "President",
+                "title": "Başkan",
                 "names": [
                     "Steve Ellmore"
                 ]
@@ -1971,7 +1971,7 @@
                 ]
             },
             {
-                "title": "Senior Programmer",
+                "title": "Kıdemli Programcı",
                 "names": [
                     "Tim Hagberg"
                 ]
