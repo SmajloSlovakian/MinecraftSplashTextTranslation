@@ -898,19 +898,19 @@
                 ]
             },
             {
-                "title": "Sr. Social Media Lead",
+                "title": "Sr. Sociala medier Bly",
                 "names": [
                     "Sara Reiner"
                 ]
             },
             {
-                "title": "Web Design",
+                "title": "Programvara för webbdesign",
                 "names": [
                     "Paul Madlon (Ten Gun Design, Inc)"
                 ]
             },
             {
-                "title": "Web Content Manager",
+                "title": "Webbinnehållsansvarig",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
@@ -918,16 +918,16 @@
         ]
     },
     {
-        "section": "User Experience",
+        "section": "Användarupplevelse",
         "titles": [
             {
-                "title": "User Experience Design Director",
+                "title": "Ansvarig formgivare av användarupplevelsen",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "User Experience Designers",
+                "title": "Formgivare av användarupplevelsen",
                 "names": [
                     "Jin Shin",
                     "Jonathan Paton Gallina",
@@ -939,7 +939,7 @@
                 ]
             },
             {
-                "title": "User Experience Writer",
+                "title": "Författare för användarupplevelse",
                 "names": [
                     "Juan Buis"
                 ]
@@ -947,54 +947,54 @@
         ]
     },
     {
-        "section": "Operations",
+        "section": "Verksamhet",
         "titles": [
             {
-                "title": "Franchise Chief Operations Officer",
+                "title": "Franchisens verksamhetschef",
                 "names": [
                     "Annie Chenn"
                 ]
             },
             {
-                "title": "Head of Stockholm Operations",
+                "title": "Verksamhetsansvarig i Stockholm",
                 "names": [
                     "Sheila Ho"
                 ]
             },
             {
-                "title": "Executive Strategic Advisor",
+                "title": "Executive Strategisk Rådgivare",
                 "names": [
                     "Jonas Mårtensson"
                 ]
             },
             {
-                "title": "Head of Franchise Operations",
+                "title": "Ansvarig för franchiseverksamheten",
                 "names": [
                     "Josh Bliggenstorffer"
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Personalchef",
                 "names": [
                     "Amy Stillion"
                 ]
             },
             {
-                "title": "HR Directors",
+                "title": "HR styrelseledamöter",
                 "names": [
                     "David Hill",
                     "Maja Samuelsson"
                 ]
             },
             {
-                "title": "Sr HR Business Partners",
+                "title": "Sr HR affärspartners",
                 "names": [
                     "Maja Samuelsson",
                     "Nia Parker"
                 ]
             },
             {
-                "title": "Human Resources",
+                "title": "Personalansvariga",
                 "names": [
                     "Aleksandra Zajac",
                     "Aron Glauser",
@@ -1011,19 +1011,19 @@
                 ]
             },
             {
-                "title": "Office Manager",
+                "title": "Kontorschef",
                 "names": [
                     "Siri Hoel"
                 ]
             },
             {
-                "title": "Office Coordinators",
+                "title": "Kontorskoordinatorer",
                 "names": [
                     "Joël Älveroth"
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Verkställande verksamhetsadministratörer",
                 "names": [
                     "Erin Decker",
                     "Lisa Liu",
@@ -1032,14 +1032,14 @@
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Främre delen av huset",
                 "names": [
                     "Eliza Lancelot",
                     "Felicia Björn Nordling"
                 ]
             },
             {
-                "title": "IT Managers",
+                "title": "IT-chefer",
                 "names": [
                     "Cesar Sima Falck",
                     "Jason Perry Minard"
@@ -1058,25 +1058,25 @@
                 ]
             },
             {
-                "title": "Operations Manager",
+                "title": "Verksamhetschef",
                 "names": [
                     "Kaya Hatcher"
                 ]
             },
             {
-                "title": "Internal Communications Manager",
+                "title": "Intern kommunikationschef",
                 "names": [
                     "Matt Martin"
                 ]
             },
             {
-                "title": "Lead Automation Support",
+                "title": "Ledande automatiseringsstöd",
                 "names": [
                     "Matthew C. Moreno"
                 ]
             },
             {
-                "title": "Automation Support",
+                "title": "Automatiseringsstöd",
                 "names": [
                     "Chris Ilson (Collabera)",
                     "Corey Smith (Insight Global, Inc)",
@@ -1088,40 +1088,40 @@
         ]
     },
     {
-        "section": "Data and Analytics",
+        "section": "Datahantering och analys",
         "titles": [
             {
-                "title": "Head of Data Science and Analytics",
+                "title": "Ansvarig för dataanalyser",
                 "names": [
                     "Francisco Rius"
                 ]
             },
             {
-                "title": "Data Science Lead",
+                "title": "Ledande dataanalytiker",
                 "names": [
                     "Abby Gaddis"
                 ]
             },
             {
-                "title": "Data Engineering Lead",
+                "title": "Ledande datalogistiker",
                 "names": [
                     "Bill Chism"
                 ]
             },
             {
-                "title": "Data and Analytics Lead",
+                "title": "Data och Analys Lead",
                 "names": [
                     "Natalie Selin"
                 ]
             },
             {
-                "title": "Analytics Environment Manager",
+                "title": "Analys miljöchef",
                 "names": [
                     "Troy Henke"
                 ]
             },
             {
-                "title": "Data Science",
+                "title": "Dataanalytiker",
                 "names": [
                     "Aaron Johnson",
                     "Bhrigu Shree",
@@ -1139,7 +1139,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datalogistiker",
                 "names": [
                     "Addy Deodikar (Design Laboratory, Inc)",
                     "Bill Klees",
@@ -1153,16 +1153,16 @@
         ]
     },
     {
-        "section": "User Research",
+        "section": "Användarforskning",
         "titles": [
             {
-                "title": "User Research Studio Lead",
+                "title": "Ledande användaranalytiker",
                 "names": [
                     "Jerome Hagen"
                 ]
             },
             {
-                "title": "User Researcher",
+                "title": "Användaranalytiker",
                 "names": [
                     "Melissa Boone",
                     "Olga Zielinska",
@@ -1172,34 +1172,34 @@
         ]
     },
     {
-        "section": "Business & Licensing",
+        "section": "Affärer och licensiering",
         "titles": [
             {
-                "title": "Head of Franchise Business & Growth",
+                "title": "Chef för Franchise Business & tillväxt",
                 "names": [
                     "Scott Dell'Osso"
                 ]
             },
             {
-                "title": "Head of Franchise Development",
+                "title": "Chef för Franchise Utveckling",
                 "names": [
                     "Kayleen Walters"
                 ]
             },
             {
-                "title": "Head of Social Impact & Partnerships",
+                "title": "Chef för social påverkan och partnerskap",
                 "names": [
                     "Ada Duan"
                 ]
             },
             {
-                "title": "Chief Media Officer",
+                "title": "Kommunikationschef",
                 "names": [
                     "Vu Bui"
                 ]
             },
             {
-                "title": "Directors of Business Development",
+                "title": "Affärsutvecklingschefer",
                 "names": [
                     "Bob Brennecke",
                     "Federico San Martin",
@@ -1209,14 +1209,14 @@
                 ]
             },
             {
-                "title": "Directors of Business Management",
+                "title": "Affärschefer",
                 "names": [
                     "Amy Zou",
                     "Michelle Hua"
                 ]
             },
             {
-                "title": "Business Managers",
+                "title": "Affärsansvariga",
                 "names": [
                     "Adam Lemcio",
                     "Alina Skripnik",
@@ -1242,7 +1242,7 @@
                 ]
             },
             {
-                "title": "Business Development Managers",
+                "title": "Affärsutvecklingsledare",
                 "names": [
                     "Christy Weckner",
                     "Eileen Lee",
@@ -1251,7 +1251,7 @@
                 ]
             },
             {
-                "title": "Brand Assurance Managers",
+                "title": "Varumärkesförsäkring Chefer",
                 "names": [
                     "Celene Tolentino (Harvey Nash)",
                     "Dana Mack (Harvey Nash)",
@@ -1259,39 +1259,39 @@
                 ]
             },
             {
-                "title": "Business Analyst",
+                "title": "Affärsanalytiker",
                 "names": [
                     "Keiko Ramer (Apex Systems, Inc)",
                     "Kristin Grein"
                 ]
             },
             {
-                "title": "Japan Country Manager",
+                "title": "Etableringssamordnare i Japan",
                 "names": [
                     "Yutaka Noma"
                 ]
             },
             {
-                "title": "Director of Partner Management",
+                "title": "Chef över externa samarbeten",
                 "names": [
                     "Todd Stevens"
                 ]
             },
             {
-                "title": "Partner Program Manager",
+                "title": "Ansvarig för externa samarbeten",
                 "names": [
                     "Quinn Richter"
                 ]
             },
             {
-                "title": "Content Coordinator",
+                "title": "Innehållets koordinator",
                 "names": [
                     "Oskar Thysell",
                     "Niclas Fredriksson"
                 ]
             },
             {
-                "title": "Program Managers",
+                "title": "Projektkoordinatorer",
                 "names": [
                     "Bryan G. Bonham",
                     "Christopher Dauchot (Insight Global, Inc)",
@@ -1311,25 +1311,25 @@
                 ]
             },
             {
-                "title": "Studio Compliance Lead",
+                "title": "Efterlevnadsansvarig",
                 "names": [
                     "Eric Odell-Hein"
                 ]
             },
             {
-                "title": "Studio Compliance Analyst",
+                "title": "Efterlevnadsbevakare",
                 "names": [
                     "Justin Ray (Design Laboratory, Inc)"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Ansvarig för skydd av immateriella tillgångar",
                 "names": [
                     "Gaylon Blank"
                 ]
             },
             {
-                "title": "Category Managers",
+                "title": "Kategorichefer",
                 "names": [
                     "Audrey Searcy",
                     "Emily Clock",
@@ -1340,22 +1340,22 @@
         ]
     },
     {
-        "section": "Player Operations",
+        "section": "Kundbemötande",
         "titles": [
             {
-                "title": "Director of Player Support",
+                "title": "Chef över kundbemötande",
                 "names": [
                     "Anne Quaranta"
                 ]
             },
             {
-                "title": "Director of Community",
+                "title": "Gemenskapschef",
                 "names": [
                     "Nea Aime Rollan"
                 ]
             },
             {
-                "title": "Community Managers",
+                "title": "Gemenskapsförvaltare",
                 "names": [
                     "Cameron Thomas",
                     "Jay Wells",
@@ -1367,20 +1367,20 @@
                 ]
             },
             {
-                "title": "Customer Support Program Manager",
+                "title": "Kundtjänstkoordinator",
                 "names": [
                     "Jon-Eric L. Swigart (Collabera)"
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Ansvarig för kundtjänst",
                 "names": [
                     "Jen Pedersen",
                     "Justin Putnam (TEKsystems, Inc)"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Kundtjänst",
                 "names": [
                     "Andrew Lee (Apex Systems, Inc)"
                 ]
@@ -1388,23 +1388,23 @@
         ]
     },
     {
-        "section": "Marketing",
+        "section": "Marknadsföring",
         "titles": [
             {
-                "title": "Head of Marketing",
+                "title": "Marknadschef",
                 "names": [
                     "Jessica Freeman"
                 ]
             },
             {
-                "title": "Marketing Directors",
+                "title": "Chef över marknadsföring",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
                 ]
             },
             {
-                "title": "Marketing Managers",
+                "title": "Ansvariga för marknadsföring",
                 "names": [
                     "Anton Maslennikov",
                     "Ashley Davidson (Simplicity Consulting, Inc)",
@@ -1424,16 +1424,16 @@
         ]
     },
     {
-        "section": "Legal",
+        "section": "Rättsavdelning",
         "titles": [
             {
-                "title": "Head of Legal",
+                "title": "Chefsjurist",
                 "names": [
                     "Nick Morgan"
                 ]
             },
             {
-                "title": "Legal Counsel",
+                "title": "Bolagsjurister",
                 "names": [
                     "Kari Annand (Snodgrass Annand)",
                     "Maya Yamazaki (Davis Wright Tremaine)",
@@ -1447,32 +1447,32 @@
         "section": "Ekonomi",
         "titles": [
             {
-                "title": "Finance Director",
+                "title": "Finansdirektör",
                 "names": [
                     "Marina Kostesic"
                 ]
             },
             {
-                "title": "Finance Manager",
+                "title": "Ekonomiansvarig",
                 "names": [
                     "Evan Dowdell",
                     "Katarina Norlander"
                 ]
             },
             {
-                "title": "Senior Financial Accountant",
+                "title": "Redovisad revisor",
                 "names": [
                     "Josefina Axelsson"
                 ]
             },
             {
-                "title": "Financial Accountant",
+                "title": "Ekonomisk revisor",
                 "names": [
                     "Jelena Pejic"
                 ]
             },
             {
-                "title": "Financial Consultant",
+                "title": "Finansiell konsult",
                 "names": [
                     "Stefan Lyrmark"
                 ]
@@ -1727,7 +1727,7 @@
                 ]
             },
             {
-                "title": "Compliance Software Test Engineers",
+                "title": "Testtekniker för efterlevnad av programvara",
                 "names": [
                     "Adam Ronowski (Lionbridge)",
                     "Maciej Rodak (Lionbridge)",
@@ -1959,7 +1959,7 @@
         "section": "Utvecklingspartner: Disbelief",
         "titles": [
             {
-                "title": "President",
+                "title": "Chef",
                 "names": [
                     "Steve Ellmore"
                 ]
@@ -1971,19 +1971,19 @@
                 ]
             },
             {
-                "title": "Senior Programmer",
+                "title": "Senior programmerare",
                 "names": [
                     "Tim Hagberg"
                 ]
             },
             {
-                "title": "Programmer",
+                "title": "Programmerare",
                 "names": [
                     "Eric Nguyen"
                 ]
             },
             {
-                "title": "Producer",
+                "title": "Producent",
                 "names": [
                     "Grue Robinson"
                 ]
@@ -2096,13 +2096,13 @@
                 ]
             },
             {
-                "title": "Engineering Director",
+                "title": "Teknisk chef",
                 "names": [
                     "Kyle Walsh"
                 ]
             },
             {
-                "title": "Lead Project Manager",
+                "title": "Projektsamordnare",
                 "names": [
                     "Allie Murdock"
                 ]
@@ -2115,14 +2115,14 @@
                 ]
             },
             {
-                "title": "Tech Lead",
+                "title": "Teknisk ledning",
                 "names": [
                     "Nathan Carlson",
                     "Ryan Edgemon"
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Programvaruingenjörer",
                 "names": [
                     "Alan Nelson",
                     "Alex Green",
@@ -2223,38 +2223,38 @@
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Chef för spel",
                 "names": [
                     "Patrick Liu"
                 ]
             },
             {
-                "title": "Game Director",
+                "title": "Spelets ledare",
                 "names": [
                     "Henrik Pettersson"
                 ]
             },
             {
-                "title": "Narrative Design",
+                "title": "Berättande design",
                 "names": [
                     "Max Herngren"
                 ]
             },
             {
-                "title": "Chief Technology Officer",
+                "title": "Utvecklingsansvarig",
                 "names": [
                     "Rikard Herlitz"
                 ]
             },
             {
-                "title": "Technical Director Games",
+                "title": "Teknisk direktör Spel",
                 "names": [
                     "Jason Major",
                     "Kristoffer Jelbring"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Spelformgivare",
                 "names": [
                     "Miko Charbonneau",
                     "Brandon Franklin (Insigt Global, Inc)",
@@ -2267,7 +2267,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Ledande spelutvecklare",
                 "names": [
                     "Niklas Börestam",
                     "Piotr Kundu"
@@ -2635,13 +2635,13 @@
                 ]
             },
             {
-                "title": "Assistant Producer",
+                "title": "Biträdande producent",
                 "names": [
                     "Warren Loo"
                 ]
             },
             {
-                "title": "Release Manager",
+                "title": "Leveransversionssamordnare",
                 "names": [
                     "Brogan Irwin (Virtuosity)",
                     "Dustin Wood (Design Laboratory, Inc)",
@@ -2649,32 +2649,32 @@
                 ]
             },
             {
-                "title": "Merchandise Art Director",
+                "title": "Estetiskt ansvarig för kringprodukter",
                 "names": [
                     "Alexis Holmqvist"
                 ]
             },
             {
-                "title": "Technical Writer",
+                "title": "Teknisk skrivare",
                 "names": [
                     "Jeff Kim (Insight Global, Inc)",
                     "Nate Mackie (TEKsystems, Inc)"
                 ]
             },
             {
-                "title": "Product Designer",
+                "title": "Produktformgivare",
                 "names": [
                     "Jennifer Hammervald"
                 ]
             },
             {
-                "title": "Head of Creative Communications",
+                "title": "Ansvarig för kreativ kommunikation",
                 "names": [
                     "Thomas Wiborgh"
                 ]
             },
             {
-                "title": "Director of Brand",
+                "title": "Direktör för Varumärke",
                 "names": [
                     "Jonathan Symington"
                 ]
@@ -2844,32 +2844,32 @@
                 ]
             },
             {
-                "title": "Media Director",
+                "title": "Direktör för media",
                 "names": [
                     "Hans Abrahamsson"
                 ]
             },
             {
-                "title": "Creative Communications Assistant",
+                "title": "Assistent vid kreativ kommunikation",
                 "names": [
                     "Emily Richardson"
                 ]
             },
             {
-                "title": "Head of Social Media",
+                "title": "Ansvarig för sociala medier",
                 "names": [
                     "Amelia Dale",
                     "Alice Löfgren"
                 ]
             },
             {
-                "title": "Head of Player Operations",
+                "title": "Ansvarig för kundbemötande",
                 "names": [
                     "Aubrey Norris"
                 ]
             },
             {
-                "title": "Community Manager",
+                "title": "Gemenskapsförvaltare",
                 "names": [
                     "Glory Robinson (Experis)",
                     "Helen Zbihlyj",
@@ -2877,13 +2877,13 @@
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Ansvarig för kundtjänst",
                 "names": [
                     "Mattias Victorin"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Kundtjänst",
                 "names": [
                     "Amelia Lindroth Henriksson",
                     "Ana Barata Martins",
@@ -2930,7 +2930,7 @@
                 ]
             },
             {
-                "title": "Marketing Manager",
+                "title": "Ansvarig för marknadsföring",
                 "names": [
                     "Bianca Ciotti",
                     "Delilah Liu",
@@ -2940,20 +2940,20 @@
                 ]
             },
             {
-                "title": "Legal",
+                "title": "Rättsavdelning",
                 "names": [
                     "Christi Davisson"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Ansvarig för skydd av immateriella tillgångar",
                 "names": [
                     "Mathias Andersson",
                     "Teresa Lee Rodewald"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Agents",
+                "title": "Ombud för skydd av immateriella tillgångar",
                 "names": [
                     "Johan Hedlund",
                     "Marcus Forss",
@@ -2962,19 +2962,19 @@
                 ]
             },
             {
-                "title": "Lead Producer - Brand Experience",
+                "title": "Ansvarig för god kundmottagning",
                 "names": [
                     "Karim Walldén"
                 ]
             },
             {
-                "title": "Communication Manager",
+                "title": "Kommunikation Manager",
                 "names": [
                     "John Schork"
                 ]
             },
             {
-                "title": "Assembly Media Inc.",
+                "title": "Montering Media Inc.",
                 "names": [
                     "Alli Cohen",
                     "Christian Delgado",
@@ -3058,7 +3058,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Skybox",
+                "title": "Utvecklingspartner: Skybox",
                 "names": [
                     "Ace Cheung",
                     "Alex MacKay",
@@ -3111,7 +3111,7 @@
                 ]
             },
             {
-                "title": "Development Partner: BBI",
+                "title": "Utvecklingspartner: BBI",
                 "names": [
                     "Alex Sharp - Assistant Producer",
                     "Andrew Yuennan - Programmer",
@@ -3141,7 +3141,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Red Lens",
+                "title": "Utvecklingspartner: Red Lens",
                 "names": [
                     "Christopher Kohnert",
                     "Joshua Claeys",
