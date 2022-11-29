@@ -1,15 +1,15 @@
 [
     {
-        "section": "Minecraft",
+        "section": "Minecraftul",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "Șeful Minecraftului",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Head of Stockholm Studio",
+                "title": "Șeful Studio-ului de Stockholm",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -17,24 +17,24 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "Proiectează",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "Responsabilii principali ai creației",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "Directorii de jocuri",
                 "names": [
                     "Agnes Larsson",
                     "Måns Olson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Director de creație",
                 "names": [
                     "Jesse Merriam",
                     "Magnus Nedfors",
@@ -42,26 +42,26 @@
                 ]
             },
             {
-                "title": "Principal Design Director",
+                "title": "Directorul principal al proiectării",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Principal Design Manager",
+                "title": "Manager de design principal",
                 "names": [
                     "Michael Harnisch"
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Designeri de jocuri de plumb",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Game Designers",
+                "title": "Designeri de jocuri",
                 "names": [
                     "Art Usher",
                     "Brandon Pearce",
@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Director narativ",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Designer narativ",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "Manager de design",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -98,10 +98,10 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programare",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Responsabilul şef cu tehnologia",
                 "names": [
                     "Michael W Weilbacher",
                     "Mike Carlson"
