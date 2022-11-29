@@ -968,33 +968,33 @@
                 ]
             },
             {
-                "title": "Head of Franchise Operations",
+                "title": "Leiter der Franchise-Operationen",
                 "names": [
                     "Josh Bliggenstorffer"
                 ]
             },
             {
-                "title": "Chief of Staff",
+                "title": "Wache",
                 "names": [
                     "Amy Stillion"
                 ]
             },
             {
-                "title": "HR Directors",
+                "title": "Personalverantwortliche",
                 "names": [
                     "David Hill",
                     "Maja Samuelsson"
                 ]
             },
             {
-                "title": "Sr HR Business Partners",
+                "title": "Sr HR Geschäftspartner",
                 "names": [
                     "Maja Samuelsson",
                     "Nia Parker"
                 ]
             },
             {
-                "title": "Human Resources",
+                "title": "Personalabteilung (HR)",
                 "names": [
                     "Aleksandra Zajac",
                     "Aron Glauser",
@@ -1011,19 +1011,19 @@
                 ]
             },
             {
-                "title": "Office Manager",
+                "title": "Office-Manager",
                 "names": [
                     "Siri Hoel"
                 ]
             },
             {
-                "title": "Office Coordinators",
+                "title": "Office-Koordinatoren",
                 "names": [
                     "Joël Älveroth"
                 ]
             },
             {
-                "title": "Executive Business Administrators",
+                "title": "Geschäftsführende Unternehmensadministratoren",
                 "names": [
                     "Erin Decker",
                     "Lisa Liu",
@@ -1032,21 +1032,21 @@
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Vorderseite des Hauses",
                 "names": [
                     "Eliza Lancelot",
                     "Felicia Björn Nordling"
                 ]
             },
             {
-                "title": "IT Managers",
+                "title": "IT-Verwalter",
                 "names": [
                     "Cesar Sima Falck",
                     "Jason Perry Minard"
                 ]
             },
             {
-                "title": "IT",
+                "title": "Informatik",
                 "names": [
                     "Adam MacDowall",
                     "Anton \"Mr\" Wu",
@@ -1058,25 +1058,25 @@
                 ]
             },
             {
-                "title": "Operations Manager",
+                "title": "Betriebsleiter",
                 "names": [
                     "Kaya Hatcher"
                 ]
             },
             {
-                "title": "Internal Communications Manager",
+                "title": "Interner Kommunikationsmanager",
                 "names": [
                     "Matt Martin"
                 ]
             },
             {
-                "title": "Lead Automation Support",
+                "title": "Lead-Automatisierungs-Unterstützung",
                 "names": [
                     "Matthew C. Moreno"
                 ]
             },
             {
-                "title": "Automation Support",
+                "title": "Automatisierungsunterstützung",
                 "names": [
                     "Chris Ilson (Collabera)",
                     "Corey Smith (Insight Global, Inc)",
@@ -1088,40 +1088,40 @@
         ]
     },
     {
-        "section": "Data and Analytics",
+        "section": "Daten und Analytik",
         "titles": [
             {
-                "title": "Head of Data Science and Analytics",
+                "title": "Leiter der Datenwissenschaft und -analyse",
                 "names": [
                     "Francisco Rius"
                 ]
             },
             {
-                "title": "Data Science Lead",
+                "title": "Datenwissenschaftsleiter",
                 "names": [
                     "Abby Gaddis"
                 ]
             },
             {
-                "title": "Data Engineering Lead",
+                "title": "Datenentwicklungsleiter",
                 "names": [
                     "Bill Chism"
                 ]
             },
             {
-                "title": "Data and Analytics Lead",
+                "title": "Daten- und Analyseleitung",
                 "names": [
                     "Natalie Selin"
                 ]
             },
             {
-                "title": "Analytics Environment Manager",
+                "title": "Analytics-Umgebungs-Manager",
                 "names": [
                     "Troy Henke"
                 ]
             },
             {
-                "title": "Data Science",
+                "title": "Datenwissenschaft",
                 "names": [
                     "Aaron Johnson",
                     "Bhrigu Shree",
@@ -1139,7 +1139,7 @@
                 ]
             },
             {
-                "title": "Data Engineering",
+                "title": "Datentechnik",
                 "names": [
                     "Addy Deodikar (Design Laboratory, Inc)",
                     "Bill Klees",
@@ -1153,16 +1153,16 @@
         ]
     },
     {
-        "section": "User Research",
+        "section": "Nutzerforschung",
         "titles": [
             {
-                "title": "User Research Studio Lead",
+                "title": "Benutzerforschungs-Studio-Leiter",
                 "names": [
                     "Jerome Hagen"
                 ]
             },
             {
-                "title": "User Researcher",
+                "title": "Benutzerforscher",
                 "names": [
                     "Melissa Boone",
                     "Olga Zielinska",
@@ -1172,34 +1172,34 @@
         ]
     },
     {
-        "section": "Business & Licensing",
+        "section": "Geschäft & Lizenzierung",
         "titles": [
             {
-                "title": "Head of Franchise Business & Growth",
+                "title": "Leiter Franchise Business & Growth",
                 "names": [
                     "Scott Dell'Osso"
                 ]
             },
             {
-                "title": "Head of Franchise Development",
+                "title": "Leiter der Franchise-Entwicklung",
                 "names": [
                     "Kayleen Walters"
                 ]
             },
             {
-                "title": "Head of Social Impact & Partnerships",
+                "title": "Leiter der sozialen Auswirkungen & Partnerschaften",
                 "names": [
                     "Ada Duan"
                 ]
             },
             {
-                "title": "Chief Media Officer",
+                "title": "Medienleiter",
                 "names": [
                     "Vu Bui"
                 ]
             },
             {
-                "title": "Directors of Business Development",
+                "title": "Direktoren der Geschäftsentwicklung",
                 "names": [
                     "Bob Brennecke",
                     "Federico San Martin",
@@ -1209,14 +1209,14 @@
                 ]
             },
             {
-                "title": "Directors of Business Management",
+                "title": "Direktoren des Geschäftsmanagements",
                 "names": [
                     "Amy Zou",
                     "Michelle Hua"
                 ]
             },
             {
-                "title": "Business Managers",
+                "title": "Unternehmensmanager",
                 "names": [
                     "Adam Lemcio",
                     "Alina Skripnik",
@@ -1242,7 +1242,7 @@
                 ]
             },
             {
-                "title": "Business Development Managers",
+                "title": "Manager der Geschäftsentwicklung",
                 "names": [
                     "Christy Weckner",
                     "Eileen Lee",
@@ -1251,7 +1251,7 @@
                 ]
             },
             {
-                "title": "Brand Assurance Managers",
+                "title": "Brand Assurance Manager",
                 "names": [
                     "Celene Tolentino (Harvey Nash)",
                     "Dana Mack (Harvey Nash)",
@@ -1259,39 +1259,39 @@
                 ]
             },
             {
-                "title": "Business Analyst",
+                "title": "Business-Analyst",
                 "names": [
                     "Keiko Ramer (Apex Systems, Inc)",
                     "Kristin Grein"
                 ]
             },
             {
-                "title": "Japan Country Manager",
+                "title": "Japanische Länderverwaltung",
                 "names": [
                     "Yutaka Noma"
                 ]
             },
             {
-                "title": "Director of Partner Management",
+                "title": "Direktor des Partnermanagements",
                 "names": [
                     "Todd Stevens"
                 ]
             },
             {
-                "title": "Partner Program Manager",
+                "title": "Partner Programm-Manager",
                 "names": [
                     "Quinn Richter"
                 ]
             },
             {
-                "title": "Content Coordinator",
+                "title": "Inhaltskoordinator",
                 "names": [
                     "Oskar Thysell",
                     "Niclas Fredriksson"
                 ]
             },
             {
-                "title": "Program Managers",
+                "title": "Programmmanager",
                 "names": [
                     "Bryan G. Bonham",
                     "Christopher Dauchot (Insight Global, Inc)",
@@ -1311,25 +1311,25 @@
                 ]
             },
             {
-                "title": "Studio Compliance Lead",
+                "title": "Studio-Compliance Lead",
                 "names": [
                     "Eric Odell-Hein"
                 ]
             },
             {
-                "title": "Studio Compliance Analyst",
+                "title": "Studio Compliance-Analyst",
                 "names": [
                     "Justin Ray (Design Laboratory, Inc)"
                 ]
             },
             {
-                "title": "Intellectual Property Enforcement Lead",
+                "title": "Rechtsdurchsetzungsleiter für geistiges Eigentum",
                 "names": [
                     "Gaylon Blank"
                 ]
             },
             {
-                "title": "Category Managers",
+                "title": "Kategorien-Manager",
                 "names": [
                     "Audrey Searcy",
                     "Emily Clock",
@@ -1340,22 +1340,22 @@
         ]
     },
     {
-        "section": "Player Operations",
+        "section": "Player-Operationen",
         "titles": [
             {
-                "title": "Director of Player Support",
+                "title": "Leiter der Spielerunterstützung",
                 "names": [
                     "Anne Quaranta"
                 ]
             },
             {
-                "title": "Director of Community",
+                "title": "Direktor der Gemeinschaft",
                 "names": [
                     "Nea Aime Rollan"
                 ]
             },
             {
-                "title": "Community Managers",
+                "title": "Community-Manager",
                 "names": [
                     "Cameron Thomas",
                     "Jay Wells",
@@ -1367,20 +1367,20 @@
                 ]
             },
             {
-                "title": "Customer Support Program Manager",
+                "title": "Kunden-Support-Programmmanager",
                 "names": [
                     "Jon-Eric L. Swigart (Collabera)"
                 ]
             },
             {
-                "title": "Customer Support Lead",
+                "title": "Kundendienstleiter",
                 "names": [
                     "Jen Pedersen",
                     "Justin Putnam (TEKsystems, Inc)"
                 ]
             },
             {
-                "title": "Customer Support",
+                "title": "Kundenservice",
                 "names": [
                     "Andrew Lee (Apex Systems, Inc)"
                 ]
@@ -1388,23 +1388,23 @@
         ]
     },
     {
-        "section": "Marketing",
+        "section": "Vermarktung",
         "titles": [
             {
-                "title": "Head of Marketing",
+                "title": "Marketingleiter",
                 "names": [
                     "Jessica Freeman"
                 ]
             },
             {
-                "title": "Marketing Directors",
+                "title": "Marketingdirektoren",
                 "names": [
                     "Fergus Lynch",
                     "Jeanie DuMont"
                 ]
             },
             {
-                "title": "Marketing Managers",
+                "title": "Marketing-Manager",
                 "names": [
                     "Anton Maslennikov",
                     "Ashley Davidson (Simplicity Consulting, Inc)",
@@ -1424,16 +1424,16 @@
         ]
     },
     {
-        "section": "Legal",
+        "section": "Impressum",
         "titles": [
             {
-                "title": "Head of Legal",
+                "title": "Leiter der Rechtsordnung",
                 "names": [
                     "Nick Morgan"
                 ]
             },
             {
-                "title": "Legal Counsel",
+                "title": "Juristische Beratung",
                 "names": [
                     "Kari Annand (Snodgrass Annand)",
                     "Maya Yamazaki (Davis Wright Tremaine)",
@@ -1444,35 +1444,35 @@
         ]
     },
     {
-        "section": "Finance",
+        "section": "Finanzwirtschaft",
         "titles": [
             {
-                "title": "Finance Director",
+                "title": "Finanzchef",
                 "names": [
                     "Marina Kostesic"
                 ]
             },
             {
-                "title": "Finance Manager",
+                "title": "Finanzverwaltung",
                 "names": [
                     "Evan Dowdell",
                     "Katarina Norlander"
                 ]
             },
             {
-                "title": "Senior Financial Accountant",
+                "title": "Senioren Finanzbuchhalter",
                 "names": [
                     "Josefina Axelsson"
                 ]
             },
             {
-                "title": "Financial Accountant",
+                "title": "Finanzbuchhaltung",
                 "names": [
                     "Jelena Pejic"
                 ]
             },
             {
-                "title": "Financial Consultant",
+                "title": "Finanz-Berater",
                 "names": [
                     "Stefan Lyrmark"
                 ]
@@ -1480,22 +1480,22 @@
         ]
     },
     {
-        "section": "Studios Quality Team - Microsoft",
+        "section": "Studios Qualitätsteam - Microsoft",
         "titles": [
             {
-                "title": "Director of Quality",
+                "title": "Leiter der Qualität",
                 "names": [
                     "Jimmy Bischoff"
                 ]
             },
             {
-                "title": "Studios Quality Manager",
+                "title": "Qualitätsmanagement der Studios",
                 "names": [
                     "Tyler Moeller"
                 ]
             },
             {
-                "title": "Quality Leads",
+                "title": "Hochwertige Leitungen",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1505,7 +1505,7 @@
                 ]
             },
             {
-                "title": "Quality Engineers",
+                "title": "Hochwertige Ingenieure",
                 "names": [
                     "Herve Iradukunda",
                     "Joe Whitman",
@@ -1515,7 +1515,7 @@
                 ]
             },
             {
-                "title": "Quality Data Analysis & Engineering",
+                "title": "Qualitätsdatenanalyse & -technik",
                 "names": [
                     "Chelsi Hohnbaum",
                     "Christian Koguchi",
@@ -1523,7 +1523,7 @@
                 ]
             },
             {
-                "title": "Software Engineers",
+                "title": "Software-Ingenieure",
                 "names": [
                     "Jay Baxter",
                     "Aaron Amlag",
@@ -1532,7 +1532,7 @@
                 ]
             },
             {
-                "title": "Quality Analysts",
+                "title": "Qualitätsanalysten",
                 "names": [
                     "Agata Marciniak",
                     "Aidan Bower",
@@ -1545,7 +1545,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Speziellen Dank",
                 "names": [
                     "Alex Luschen – Executive Business Administrator",
                     "Allen Horton – Technology and Infrastructure",
@@ -1561,7 +1561,7 @@
         ]
     },
     {
-        "section": "Studios Quality Team - US Teams",
+        "section": "Studios Qualitätsteam - US Teams",
         "titles": [
             {
                 "title": "Test Manager",
@@ -3141,7 +3141,7 @@
                 ]
             },
             {
-                "title": "Development Partner: Red Lens",
+                "title": "Entwicklungspartner: Rote Linse",
                 "names": [
                     "Christopher Kohnert",
                     "Joshua Claeys",
@@ -3149,19 +3149,19 @@
                 ]
             },
             {
-                "title": "Development Partner: Virtuosity",
+                "title": "Entwicklungspartner: Virtuosität",
                 "names": [
                     "Shanthi Kanchibhotla (Virtuosity)"
                 ]
             },
             {
-                "title": "Front of House",
+                "title": "Front des Hauses",
                 "names": [
                     "Adam Blänning"
                 ]
             },
             {
-                "title": "Product Owner",
+                "title": "Produktverantwortlicher",
                 "names": [
                     "Johannes Söderberg"
                 ]
