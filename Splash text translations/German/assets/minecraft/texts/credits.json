@@ -3,13 +3,13 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Head of Minecraft",
+                "title": "Leiter von Minecraft",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Head of Stockholm Studio",
+                "title": "Leiter des Stockholmer Studios",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -17,24 +17,24 @@
         ]
     },
     {
-        "section": "Design",
+        "section": "Gestaltung",
         "titles": [
             {
-                "title": "Chief Creative Officers",
+                "title": "Chefkreative Offiziere",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Game Directors",
+                "title": "Spielregisseure",
                 "names": [
                     "Agnes Larsson",
                     "Måns Olson"
                 ]
             },
             {
-                "title": "Creative Director",
+                "title": "Künstlerische Leitung",
                 "names": [
                     "Jesse Merriam",
                     "Magnus Nedfors",
@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "title": "Lead Game Designers",
+                "title": "Lead Game Designer",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Narrative Director",
+                "title": "Erzählender Direktor",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Narrative Designer",
+                "title": "Narratives Design",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Design Manager",
+                "title": "Design-Manager",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -98,41 +98,41 @@
         ]
     },
     {
-        "section": "Programming",
+        "section": "Programmieren",
         "titles": [
             {
-                "title": "Chief Technology Officer",
+                "title": "Technischer Direktor",
                 "names": [
                     "Michael W Weilbacher",
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Head of Services and Ops Engineering",
+                "title": "Leiter Dienstleistungen und Ops Engineering",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Leiter des Spiele-Engineering",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Leiter der Erstellungsplattform",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Leiter der Franchise-Qualität",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Technische Leitung",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Lead Game Entwickler",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Spiele-Entwickler",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Benutzeroberflächenentwickler",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "UI Entwickler",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Launcher-Entwickler",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -248,21 +248,21 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Lead-Architekten",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Architekten",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Führende Softwareentwickler",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Bedrock Softwareentwickler",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,21 +362,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Lead-Webentwickler",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Realms-Software-Ingenieure",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Lead-System-Ingenieure",
                 "names": [
                     "Robert Sjödahl",
                     "Pär Axelsson",
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Service Software Ingenieure",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Ingenieurmanager",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -435,13 +435,13 @@
         "section": "Audio",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Audiodirektor",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Sound Designers",
+                "title": "Sound-Designer",
                 "names": [
                     "Daniel Rosenfeld",
                     "Johan Pettersson",
@@ -451,7 +451,7 @@
                 ]
             },
             {
-                "title": "Music composed by",
+                "title": "Musik komponiert von",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kumi Tanioka",
@@ -461,10 +461,10 @@
         ]
     },
     {
-        "section": "Visual Arts",
+        "section": "Bildende Kunst",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Künstlerischer Leiter",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Lead-Künstler",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -484,7 +484,7 @@
                 ]
             },
             {
-                "title": "Artists",
+                "title": "Künstler",
                 "names": [
                     "Aleesa Tana (Randstad)",
                     "Andrea Sanchez Sepulveda (Randstad)",
@@ -508,20 +508,20 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "3D-Künstler",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafikkünstler",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Grafikdesigner",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "Motion-Grafik Designer",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -554,7 +554,7 @@
         "section": "Produktion",
         "titles": [
             {
-                "title": "Head of Creator Platform",
+                "title": "Leiter der Erstellerplattform",
                 "names": [
                     "Deanna Hearns"
                 ]
@@ -678,7 +678,7 @@
                 ]
             },
             {
-                "title": "Organizational Coaches",
+                "title": "Organisatorische Coaches",
                 "names": [
                     "Martin Bloomstine",
                     "Rasmus Noah Hansen",
@@ -720,7 +720,7 @@
         ]
     },
     {
-        "section": "Brand Creative",
+        "section": "Marke Kreativ",
         "titles": [
             {
                 "title": "Künstlerische Leitung",
@@ -735,7 +735,7 @@
                 ]
             },
             {
-                "title": "Lead Producers",
+                "title": "Lead-Erzeuger",
                 "names": [
                     "Christine Platon",
                     "Milo Bengtsson",
@@ -796,13 +796,13 @@
                 ]
             },
             {
-                "title": "3D Artist / Motion Graphic Designer",
+                "title": "3D-Künstler / Grafikdesigner",
                 "names": [
                     "Jesper Hallin"
                 ]
             },
             {
-                "title": "Gameplay Capture Artist",
+                "title": "Gameplay Capture Künstler",
                 "names": [
                     "Husein Kurbegovic"
                 ]
@@ -817,13 +817,13 @@
                 ]
             },
             {
-                "title": "Publishing Editor",
+                "title": "Herausgeber",
                 "names": [
                     "Alex Wiltshire"
                 ]
             },
             {
-                "title": "Director of Creative Communications",
+                "title": "Regisseur für kreative Kommunikation",
                 "names": [
                     "Owen Jones"
                 ]
@@ -836,7 +836,7 @@
                 ]
             },
             {
-                "title": "Creative Writers",
+                "title": "Kreative Autoren",
                 "names": [
                     "Cristina Anderca",
                     "Per Landin",
@@ -850,13 +850,13 @@
         "section": "Kommunikationen",
         "titles": [
             {
-                "title": "Chief Storyteller",
+                "title": "Stamm-Geschichtenerzähler",
                 "names": [
                     "Lydia Winters"
                 ]
             },
             {
-                "title": "Senior Media Producers",
+                "title": "Senioren Medienproduzenten",
                 "names": [
                     "Carina Petersson"
                 ]
@@ -868,7 +868,7 @@
                 ]
             },
             {
-                "title": "Director of Communications",
+                "title": "Leiter der Kommunikation",
                 "names": [
                     "Regan O'Leary"
                 ]
@@ -888,7 +888,7 @@
                 ]
             },
             {
-                "title": "Assembly Media, Inc",
+                "title": "Schwärmermedien, Inc",
                 "names": [
                     "Adam Pannel",
                     "Erin Dwyer",
@@ -898,7 +898,7 @@
                 ]
             },
             {
-                "title": "Sr. Social Media Lead",
+                "title": "Sr. Social Media Leiter",
                 "names": [
                     "Sara Reiner"
                 ]
@@ -910,7 +910,7 @@
                 ]
             },
             {
-                "title": "Web Content Manager",
+                "title": "Webcontent-Manager",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
@@ -927,7 +927,7 @@
                 ]
             },
             {
-                "title": "User Experience Designers",
+                "title": "Benutzer Erfahrung Designer",
                 "names": [
                     "Jin Shin",
                     "Jonathan Paton Gallina",
@@ -939,7 +939,7 @@
                 ]
             },
             {
-                "title": "User Experience Writer",
+                "title": "Benutzer Erfahrungsschreiber",
                 "names": [
                     "Juan Buis"
                 ]
@@ -950,19 +950,19 @@
         "section": "Betrieb",
         "titles": [
             {
-                "title": "Franchise Chief Operations Officer",
+                "title": "Franchise-Chief Operations Officer",
                 "names": [
                     "Annie Chenn"
                 ]
             },
             {
-                "title": "Head of Stockholm Operations",
+                "title": "Leiter von Stockholm-Operationen",
                 "names": [
                     "Sheila Ho"
                 ]
             },
             {
-                "title": "Executive Strategic Advisor",
+                "title": "Strategischer Berater für Führungskräfte",
                 "names": [
                     "Jonas Mårtensson"
                 ]
