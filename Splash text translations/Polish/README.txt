@@ -1,6 +1,6 @@
-This project was created by SmajloSlovakian#1077
+Ten projekt został stworzony przez SmajloSlovakian#1077
 
-How do I add this pack to Minecraft?
+Jak dodać ten pakiet do Minecraft?
 -Dodaj właśnie otwarty folder do folderu "\Appdata\Roaming\.minecraft\resourcepacks\", przejdź do Minecrafta, ustawień, 
   paczek zasobów, i wybierz paczkę, która się właśnie pojawiła.
 

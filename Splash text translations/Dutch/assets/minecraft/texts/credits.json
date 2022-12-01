@@ -114,25 +114,25 @@
                 ]
             },
             {
-                "title": "Head of Game Engineering",
+                "title": "Hoofd van de Game Engineering",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Head of Creator Platform Engineering",
+                "title": "Hoofd van Creator Platform Ontwikkeling",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Director of Franchise Quality",
+                "title": "Hoofd van franchisekwaliteit",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technical Director",
+                "title": "Technisch directeur",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Lead Game Developers",
+                "title": "Hoofdspelontwikkelaar",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Game Developers",
+                "title": "Spelontwikkelaars",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Lead UI Developers",
+                "title": "Hoofdinterfaceontwikkelaars",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "UI Developers",
+                "title": "Interfaceontwikkelaars",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "Launcherontwikkelaars",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -248,21 +248,21 @@
                 ]
             },
             {
-                "title": "Lead Architects",
+                "title": "Hoofdarchitecten",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architects",
+                "title": "Architecten",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "Hoofd-Bedrock-softwareontwikkelaars",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "Bedrock-softwareontwikkelaars",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,21 +362,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "Hoofdwebontwikkelaars",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "Webontwikkelaars",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "Hoofdsysteemingenieurs",
                 "names": [
                     "Robert Sjödahl",
                     "Pär Axelsson",
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "Dienstensoftwareingenieurs",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Beheerders Techniek",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -435,7 +435,7 @@
         "section": "Geluid",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Audio-directeur",
                 "names": [
                     "Samuel Åberg"
                 ]
@@ -464,7 +464,7 @@
         "section": "Visuele kunst",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Kunstdirecteur",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Lead artiesten",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -508,20 +508,20 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "3D Artiesten",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafische artiesten",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Grafische ontwerpers",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "Beweging grafische ontwerpers",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -537,13 +537,13 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animateur",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
             },
             {
-                "title": "Art Manager",
+                "title": "Kunst manager",
                 "names": [
                     "Samir Belarbi"
                 ]
@@ -554,13 +554,13 @@
         "section": "Productie",
         "titles": [
             {
-                "title": "Head of Creator Platform",
+                "title": "Hoofd van Schepperplatform",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Game Production",
+                "title": "Hoofd van Spelproductie",
                 "names": [
                     "John Thornton"
                 ]
@@ -578,7 +578,7 @@
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Hoofd van Spellen",
                 "names": [
                     "Sara Jansson Bach"
                 ]
