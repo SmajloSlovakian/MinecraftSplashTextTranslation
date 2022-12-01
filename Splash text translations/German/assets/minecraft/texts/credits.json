@@ -1564,20 +1564,20 @@
         "section": "Studios Qualitätsteam - US Teams",
         "titles": [
             {
-                "title": "Test Manager",
+                "title": "Testmanager",
                 "names": [
                     "Tom Dieterich (Experis) - Test Manager, Tempe"
                 ]
             },
             {
-                "title": "Software Test Engineering Leads",
+                "title": "Software Test Engineering Leiter",
                 "names": [
                     "Barry Doyle (Insight Global, Inc)",
                     "Maria Berube (Experis)"
                 ]
             },
             {
-                "title": "Software Test Engineers",
+                "title": "Software-Test-Ingenieure",
                 "names": [
                     "Antoine Brown (Experis)",
                     "Adam DuBois (Experis)",
@@ -1597,7 +1597,7 @@
                 ]
             },
             {
-                "title": "Test Associates",
+                "title": "Test-Assoziationen",
                 "names": [
                     "Austin Keeling (Experis)",
                     "Chris Youngs (Experis)",
@@ -1613,7 +1613,7 @@
                 ]
             },
             {
-                "title": "Special Thanks",
+                "title": "Speziellen Dank",
                 "names": [
                     "Aaron Brindell (Experis)",
                     "Aaron Ingram (Experis)",
@@ -1637,7 +1637,7 @@
         ]
     },
     {
-        "section": "Special Thanks",
+        "section": "Speziellen Dank",
         "titles": [
             {
                 "title": "",
@@ -1659,10 +1659,10 @@
         ]
     },
     {
-        "section": "Development Partner: Lionbridge Quality - Poland Team",
+        "section": "Entwicklungspartner: Lionbridge Qualität - Polen Team",
         "titles": [
             {
-                "title": "Test Director",
+                "title": "Testleiter",
                 "names": [
                     "Michał Błoński (Lionbridge)"
                 ]
