@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "Beheerders Techniek",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -435,7 +435,7 @@
         "section": "Geluid",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "Audio-directeur",
                 "names": [
                     "Samuel Åberg"
                 ]
@@ -464,7 +464,7 @@
         "section": "Visuele kunst",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "Kunstdirecteur",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "Lead artiesten",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -508,20 +508,20 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "3D Artiesten",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Graphic Artists",
+                "title": "Grafische artiesten",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Graphic Designers",
+                "title": "Grafische ontwerpers",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Motion Graphics Designers",
+                "title": "Beweging grafische ontwerpers",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -537,13 +537,13 @@
                 ]
             },
             {
-                "title": "Animator",
+                "title": "Animateur",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
             },
             {
-                "title": "Art Manager",
+                "title": "Kunst manager",
                 "names": [
                     "Samir Belarbi"
                 ]
@@ -554,13 +554,13 @@
         "section": "Productie",
         "titles": [
             {
-                "title": "Head of Creator Platform",
+                "title": "Hoofd van Schepperplatform",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Head of Game Production",
+                "title": "Hoofd van Spelproductie",
                 "names": [
                     "John Thornton"
                 ]
@@ -578,7 +578,7 @@
                 ]
             },
             {
-                "title": "Head of Games",
+                "title": "Hoofd van Spellen",
                 "names": [
                     "Sara Jansson Bach"
                 ]
