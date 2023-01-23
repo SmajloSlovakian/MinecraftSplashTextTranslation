@@ -3,13 +3,13 @@
         "section": "Minecraft",
         "titles": [
             {
-                "title": "Hoofd van Minecraft",
+                "title": "Head of Minecraft",
                 "names": [
                     "Helen Chiang"
                 ]
             },
             {
-                "title": "Hoofd van Stockholm Studie",
+                "title": "Head of Stockholm Studio",
                 "names": [
                     "Ulrika Höjgård"
                 ]
@@ -17,24 +17,24 @@
         ]
     },
     {
-        "section": "Ontwerp",
+        "section": "Design",
         "titles": [
             {
-                "title": "Hoofden van creativiteit",
+                "title": "Chief Creative Officers",
                 "names": [
                     "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
-                "title": "Spel regisseurs",
+                "title": "Game Directors",
                 "names": [
                     "Agnes Larsson",
                     "Måns Olson"
                 ]
             },
             {
-                "title": "Creatief directeur",
+                "title": "Creative Director",
                 "names": [
                     "Jesse Merriam",
                     "Magnus Nedfors",
@@ -42,26 +42,26 @@
                 ]
             },
             {
-                "title": "Hoofd van ontwerp",
+                "title": "Principal Design Director",
                 "names": [
                     "Craig Leigh"
                 ]
             },
             {
-                "title": "Principële Design Manager",
+                "title": "Principal Design Manager",
                 "names": [
                     "Michael Harnisch"
                 ]
             },
             {
-                "title": "Hoofdspelontwerper",
+                "title": "Lead Game Designers",
                 "names": [
                     "Rob Poerschke",
                     "Robin V Vincent"
                 ]
             },
             {
-                "title": "Spelontwerper",
+                "title": "Game Designers",
                 "names": [
                     "Art Usher",
                     "Brandon Pearce",
@@ -78,19 +78,19 @@
                 ]
             },
             {
-                "title": "Oorspronkelijke directeur",
+                "title": "Narrative Director",
                 "names": [
                     "Kevin Grace"
                 ]
             },
             {
-                "title": "Oorspronkelijke ontwerper",
+                "title": "Narrative Designer",
                 "names": [
                     "Kelsey Howard"
                 ]
             },
             {
-                "title": "Ontwerpmanager",
+                "title": "Design Manager",
                 "names": [
                     "Rabi Afram"
                 ]
@@ -98,41 +98,41 @@
         ]
     },
     {
-        "section": "Programmatuur",
+        "section": "Programming",
         "titles": [
             {
-                "title": "Hoofd van technologie",
+                "title": "Chief Technology Officer",
                 "names": [
                     "Michael W Weilbacher",
                     "Mike Carlson"
                 ]
             },
             {
-                "title": "Hoofd van diensten en ops-techniek",
+                "title": "Head of Services and Ops Engineering",
                 "names": [
                     "Vince Curley"
                 ]
             },
             {
-                "title": "Hoofd van de Game Engineering",
+                "title": "Head of Game Engineering",
                 "names": [
                     "Åsa Bredin"
                 ]
             },
             {
-                "title": "Hoofd van Creator Platform Ontwikkeling",
+                "title": "Head of Creator Platform Engineering",
                 "names": [
                     "Jason Cahill"
                 ]
             },
             {
-                "title": "Hoofd van franchisekwaliteit",
+                "title": "Director of Franchise Quality",
                 "names": [
                     "Matthew Ng"
                 ]
             },
             {
-                "title": "Technisch directeur",
+                "title": "Technical Director",
                 "names": [
                     "Christopher Östlund",
                     "Daniel Johansson",
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "title": "Hoofdspelontwikkelaar",
+                "title": "Lead Game Developers",
                 "names": [
                     "Andrew Maher",
                     "Gary McLaughlin",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "title": "Spelontwikkelaars",
+                "title": "Game Developers",
                 "names": [
                     "Alex Couch (Insight Global, Inc)",
                     "Adrian Toncean",
@@ -218,7 +218,7 @@
                 ]
             },
             {
-                "title": "Hoofdinterfaceontwikkelaars",
+                "title": "Lead UI Developers",
                 "names": [
                     "Eric Grimsborn",
                     "Oleg Kozitsyn",
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title": "Interfaceontwikkelaars",
+                "title": "UI Developers",
                 "names": [
                     "Danila Dergachev",
                     "Fernando Vía Canel",
@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcherontwikkelaars",
+                "title": "Launcher Developers",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -248,21 +248,21 @@
                 ]
             },
             {
-                "title": "Hoofdarchitecten",
+                "title": "Lead Architects",
                 "names": [
                     "Greg Snook",
                     "Peter M. Wiest"
                 ]
             },
             {
-                "title": "Architecten",
+                "title": "Architects",
                 "names": [
                     "Dom Humphrey",
                     "Robert Sanchez"
                 ]
             },
             {
-                "title": "Hoofd-Bedrock-softwareontwikkelaars",
+                "title": "Lead Bedrock Software Developers",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock-softwareontwikkelaars",
+                "title": "Bedrock Software Developers",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,21 +362,21 @@
                 ]
             },
             {
-                "title": "Hoofdwebontwikkelaars",
+                "title": "Lead Web Developers",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Webontwikkelaars",
+                "title": "Realms Software Engineers",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Hoofdsysteemingenieurs",
+                "title": "Lead System Engineers",
                 "names": [
                     "Robert Sjödahl",
                     "Pär Axelsson",
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Dienstensoftwareingenieurs",
+                "title": "Service Software Engineers",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Beheerders Techniek",
+                "title": "Engineering Managers",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -432,16 +432,16 @@
         ]
     },
     {
-        "section": "Geluid",
+        "section": "Audio",
         "titles": [
             {
-                "title": "Audio-directeur",
+                "title": "Audio Director",
                 "names": [
                     "Samuel Åberg"
                 ]
             },
             {
-                "title": "Geluidsontwerper",
+                "title": "Sound Designers",
                 "names": [
                     "Daniel Rosenfeld",
                     "Johan Pettersson",
@@ -451,7 +451,7 @@
                 ]
             },
             {
-                "title": "Muziek door",
+                "title": "Music composed by",
                 "names": [
                     "Daniel Rosenfeld",
                     "Kumi Tanioka",
@@ -461,10 +461,10 @@
         ]
     },
     {
-        "section": "Visuele kunst",
+        "section": "Visual Arts",
         "titles": [
             {
-                "title": "Kunstdirecteur",
+                "title": "Art Directors",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead artiesten",
+                "title": "Lead Artists",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -484,7 +484,7 @@
                 ]
             },
             {
-                "title": "Artiesten",
+                "title": "Artists",
                 "names": [
                     "Aleesa Tana (Randstad)",
                     "Andrea Sanchez Sepulveda (Randstad)",
@@ -508,20 +508,20 @@
                 ]
             },
             {
-                "title": "3D Artiesten",
+                "title": "3D Artists",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
                 ]
             },
             {
-                "title": "Grafische artiesten",
+                "title": "Graphic Artists",
                 "names": [
                     "Mattis Grahm"
                 ]
             },
             {
-                "title": "Grafische ontwerpers",
+                "title": "Graphic Designers",
                 "names": [
                     "Adrian Leon (TEKsystems, Inc)",
                     "Dalila Copeland (Randstad)",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "title": "Beweging grafische ontwerpers",
+                "title": "Motion Graphics Designers",
                 "names": [
                     "Brandon Korvas (Ten Gun Design, Inc)",
                     "Lauren Kohler (TEKsystems, Inc)",
@@ -537,13 +537,13 @@
                 ]
             },
             {
-                "title": "Animateur",
+                "title": "Animator",
                 "names": [
                     "Patrick Rodes (Randstad)"
                 ]
             },
             {
-                "title": "Kunst manager",
+                "title": "Art Manager",
                 "names": [
                     "Samir Belarbi"
                 ]
@@ -551,58 +551,58 @@
         ]
     },
     {
-        "section": "Productie",
+        "section": "Production",
         "titles": [
             {
-                "title": "Hoofd van Schepperplatform",
+                "title": "Head of Creator Platform",
                 "names": [
                     "Deanna Hearns"
                 ]
             },
             {
-                "title": "Hoofd van Spelproductie",
+                "title": "Head of Game Production",
                 "names": [
                     "John Thornton"
                 ]
             },
             {
-                "title": "Hoofd van Minecraft China",
+                "title": "Head of Minecraft China",
                 "names": [
                     "Travis Howland"
                 ]
             },
             {
-                "title": "Hoofd bedrijfsontwikkeling",
+                "title": "Head of Business Engineering",
                 "names": [
                     "Ryan B Cooper"
                 ]
             },
             {
-                "title": "Hoofd van Spellen",
+                "title": "Head of Games",
                 "names": [
                     "Sara Jansson Bach"
                 ]
             },
             {
-                "title": "Hoofd Creator Marketplace",
+                "title": "Head of Creator Marketplace",
                 "names": [
                     "Aaron J Buckley"
                 ]
             },
             {
-                "title": "Hoofd van Minecraft Opleiding",
+                "title": "Head of Minecraft Education",
                 "names": [
                     "Allison Matthews"
                 ]
             },
             {
-                "title": "Directeur van Minecraft.net",
+                "title": "Director of Minecraft.net",
                 "names": [
                     "Saher M Hirji"
                 ]
             },
             {
-                "title": "Uitvoerende Producenten",
+                "title": "Executive Producers",
                 "names": [
                     "Anita Sujarit",
                     "David Nisshagen",
@@ -616,7 +616,7 @@
                 ]
             },
             {
-                "title": "Productie Beheerders",
+                "title": "Production Managers",
                 "names": [
                     "Gama Aguilar-Gamez",
                     "Klas Hammarström",
@@ -626,7 +626,7 @@
                 ]
             },
             {
-                "title": "Producenten",
+                "title": "Producers",
                 "names": [
                     "Aaron Culbreth (Insight Global, Inc)",
                     "Adrian Östergård",
@@ -678,7 +678,7 @@
                 ]
             },
             {
-                "title": "Organiserende trainers",
+                "title": "Organizational Coaches",
                 "names": [
                     "Martin Bloomstine",
                     "Rasmus Noah Hansen",
@@ -687,13 +687,13 @@
                 ]
             },
             {
-                "title": "Release beheer Lead",
+                "title": "Release Management Lead",
                 "names": [
                     "David Fries"
                 ]
             },
             {
-                "title": "Release Beheerders",
+                "title": "Release Managers",
                 "names": [
                     "Andrew Pritchard",
                     "Josh Mulanax",
@@ -701,7 +701,7 @@
                 ]
             },
             {
-                "title": "Kwaliteitscontrole",
+                "title": "Quality Assurance",
                 "names": [
                     "Kristian Grimberg",
                     "Matthew Dryden",
@@ -712,7 +712,7 @@
                 ]
             },
             {
-                "title": "Technische schrijvers",
+                "title": "Technical Writers",
                 "names": [
                     "Joshua Jones (Insight Global, Inc)"
                 ]
@@ -720,22 +720,22 @@
         ]
     },
     {
-        "section": "Merk creatief",
+        "section": "Brand Creative",
         "titles": [
             {
-                "title": "Creatieve directeur",
+                "title": "Creative Director",
                 "names": [
                     "Markus Toivonen"
                 ]
             },
             {
-                "title": "Hoofd van Creative Productie",
+                "title": "Head of Creative Production",
                 "names": [
                     "Isabella Arningsmark"
                 ]
             },
             {
-                "title": "Lood Producenten",
+                "title": "Lead Producers",
                 "names": [
                     "Christine Platon",
                     "Milo Bengtsson",
@@ -743,7 +743,7 @@
                 ]
             },
             {
-                "title": "Producenten",
+                "title": "Producers",
                 "names": [
                     "Adele Major",
                     "Charlotte Angantyr",
@@ -761,14 +761,14 @@
                 ]
             },
             {
-                "title": "Creatieve lood",
+                "title": "Creative Leads",
                 "names": [
                     "Martin Johansson",
                     "Antti Meriluoto"
                 ]
             },
             {
-                "title": "Kunstdirecteur",
+                "title": "Art Directors",
                 "names": [
                     "Johan Aronsson",
                     "Julian Kerr",
@@ -777,38 +777,38 @@
                 ]
             },
             {
-                "title": "Kunst Lead",
+                "title": "Art Lead",
                 "names": [
                     "Amanda Ström"
                 ]
             },
             {
-                "title": "Kunstenaars",
+                "title": "Artists",
                 "names": [
                     "Morten Rasmussen",
                     "Markus Frost"
                 ]
             },
             {
-                "title": "Grafische ontwerper",
+                "title": "Graphic Designer",
                 "names": [
                     "Afshin 'Affe' Piran"
                 ]
             },
             {
-                "title": "3D Kunstenaar / Beweging Grafische Ontwerper",
+                "title": "3D Artist / Motion Graphic Designer",
                 "names": [
                     "Jesper Hallin"
                 ]
             },
             {
-                "title": "Gameplay Capture Kunstenaar",
+                "title": "Gameplay Capture Artist",
                 "names": [
                     "Husein Kurbegovic"
                 ]
             },
             {
-                "title": "Productontwerpers",
+                "title": "Product Designers",
                 "names": [
                     "Adrian Ward",
                     "Débora Martins",
@@ -817,13 +817,13 @@
                 ]
             },
             {
-                "title": "Editor publiceren",
+                "title": "Publishing Editor",
                 "names": [
                     "Alex Wiltshire"
                 ]
             },
             {
-                "title": "Directeur van Creatieve Communicaties",
+                "title": "Director of Creative Communications",
                 "names": [
                     "Owen Jones"
                 ]
@@ -836,7 +836,7 @@
                 ]
             },
             {
-                "title": "Creatieve schrijvers",
+                "title": "Creative Writers",
                 "names": [
                     "Cristina Anderca",
                     "Per Landin",
@@ -847,48 +847,48 @@
         ]
     },
     {
-        "section": "Communicaties",
+        "section": "Communications",
         "titles": [
             {
-                "title": "Opperhoofd Verzamelaar",
+                "title": "Chief Storyteller",
                 "names": [
                     "Lydia Winters"
                 ]
             },
             {
-                "title": "Senior Media Producenten",
+                "title": "Senior Media Producers",
                 "names": [
                     "Carina Petersson"
                 ]
             },
             {
-                "title": "Producenten",
+                "title": "Producers",
                 "names": [
                     "Sofia Orrheim"
                 ]
             },
             {
-                "title": "Directeur Communicatie",
+                "title": "Director of Communications",
                 "names": [
                     "Regan O'Leary"
                 ]
             },
             {
-                "title": "Sociale media-beheerders",
+                "title": "Social Media Managers",
                 "names": [
                     "Alex Fleck (Adecco)",
                     "David Ramos (Collabera)"
                 ]
             },
             {
-                "title": "Communicatie beheerders",
+                "title": "Communication Managers",
                 "names": [
                     "Holly Amber Smith",
                     "Rebecca Gordius"
                 ]
             },
             {
-                "title": "Assemblage Media, Gec",
+                "title": "Assembly Media, Inc",
                 "names": [
                     "Adam Pannel",
                     "Erin Dwyer",
@@ -904,13 +904,13 @@
                 ]
             },
             {
-                "title": "Web Ontwerp",
+                "title": "Web Design",
                 "names": [
                     "Paul Madlon (Ten Gun Design, Inc)"
                 ]
             },
             {
-                "title": "Beheer van webinhoud",
+                "title": "Web Content Manager",
                 "names": [
                     "Joe Corrigan (Ten Gun Design, Inc)"
                 ]
@@ -918,16 +918,16 @@
         ]
     },
     {
-        "section": "Gebruiker Ervaring",
+        "section": "User Experience",
         "titles": [
             {
-                "title": "Gebruikerservaring Design directeur",
+                "title": "User Experience Design Director",
                 "names": [
                     "Anna Wendelin"
                 ]
             },
             {
-                "title": "Gebruikerservaring ontwerpen",
+                "title": "User Experience Designers",
                 "names": [
                     "Jin Shin",
                     "Jonathan Paton Gallina",
@@ -939,7 +939,7 @@
                 ]
             },
             {
-                "title": "Gebruikerservaring schrijver",
+                "title": "User Experience Writer",
                 "names": [
                     "Juan Buis"
                 ]
@@ -947,40 +947,40 @@
         ]
     },
     {
-        "section": "Activiteiten",
+        "section": "Operations",
         "titles": [
             {
-                "title": "Franchise Hoofd Operations Officier",
+                "title": "Franchise Chief Operations Officer",
                 "names": [
                     "Annie Chenn"
                 ]
             },
             {
-                "title": "Hoofd van Stockholmoperaties",
+                "title": "Head of Stockholm Operations",
                 "names": [
                     "Sheila Ho"
                 ]
             },
             {
-                "title": "Uitvoerend strategisch adviseur",
+                "title": "Executive Strategic Advisor",
                 "names": [
                     "Jonas Mårtensson"
                 ]
             },
             {
-                "title": "Hoofd van Franchise operaties",
+                "title": "Head of Franchise Operations",
                 "names": [
                     "Josh Bliggenstorffer"
                 ]
             },
             {
-                "title": "Hoofd van Personeel",
+                "title": "Chief of Staff",
                 "names": [
                     "Amy Stillion"
                 ]
             },
             {
-                "title": "HR regisseurs",
+                "title": "HR Directors",
                 "names": [
                     "David Hill",
                     "Maja Samuelsson"
@@ -1175,7 +1175,7 @@
         "section": "Business & Licensing",
         "titles": [
             {
-                "title": "Hoofd van Franchise Business & Growth",
+                "title": "Head of Franchise Business & Growth",
                 "names": [
                     "Scott Dell'Osso"
                 ]
@@ -1480,22 +1480,22 @@
         ]
     },
     {
-        "section": "Studios Kwaliteit Team - Microsoft",
+        "section": "Studios Quality Team - Microsoft",
         "titles": [
             {
-                "title": "Directeur van kwaliteit",
+                "title": "Director of Quality",
                 "names": [
                     "Jimmy Bischoff"
                 ]
             },
             {
-                "title": "Studios Kwaliteitsbeheerder",
+                "title": "Studios Quality Manager",
                 "names": [
                     "Tyler Moeller"
                 ]
             },
             {
-                "title": "Kwaliteit leads",
+                "title": "Quality Leads",
                 "names": [
                     "Craig Marshall",
                     "Dan Pipinich",
@@ -1505,7 +1505,7 @@
                 ]
             },
             {
-                "title": "Kwaliteit ingenieurs",
+                "title": "Quality Engineers",
                 "names": [
                     "Herve Iradukunda",
                     "Joe Whitman",
@@ -1515,7 +1515,7 @@
                 ]
             },
             {
-                "title": "Kwaliteitsdata-analyse & -ontwikkeling",
+                "title": "Quality Data Analysis & Engineering",
                 "names": [
                     "Chelsi Hohnbaum",
                     "Christian Koguchi",
@@ -1523,7 +1523,7 @@
                 ]
             },
             {
-                "title": "Software technici",
+                "title": "Software Engineers",
                 "names": [
                     "Jay Baxter",
                     "Aaron Amlag",
@@ -1532,7 +1532,7 @@
                 ]
             },
             {
-                "title": "Kwaliteit analisten",
+                "title": "Quality Analysts",
                 "names": [
                     "Agata Marciniak",
                     "Aidan Bower",
@@ -1561,7 +1561,7 @@
         ]
     },
     {
-        "section": "Studios Kwaliteit Team - Amerikaanse teams",
+        "section": "Studios Quality Team - US Teams",
         "titles": [
             {
                 "title": "Test Manager",
@@ -1570,14 +1570,14 @@
                 ]
             },
             {
-                "title": "Techeering Leads van software testen",
+                "title": "Software Test Engineering Leads",
                 "names": [
                     "Barry Doyle (Insight Global, Inc)",
                     "Maria Berube (Experis)"
                 ]
             },
             {
-                "title": "Technieken voor software",
+                "title": "Software Test Engineers",
                 "names": [
                     "Antoine Brown (Experis)",
                     "Adam DuBois (Experis)",
@@ -1659,7 +1659,7 @@
         ]
     },
     {
-        "section": "Ontwikkelingspart: Lionbridge kwaliteit - Pools team",
+        "section": "Development Partner: Lionbridge Quality - Poland Team",
         "titles": [
             {
                 "title": "Test Director",
@@ -1702,7 +1702,7 @@
                 ]
             },
             {
-                "title": "Technieken voor software",
+                "title": "Software Test Engineers",
                 "names": [
                     "Adam Rączkowski (Lionbridge)",
                     "Iwona Cieśla (Lionbridge)",
@@ -1727,7 +1727,7 @@
                 ]
             },
             {
-                "title": "Compliance Software Test Ontwikkelaars",
+                "title": "Compliance Software Test Engineers",
                 "names": [
                     "Adam Ronowski (Lionbridge)",
                     "Maciej Rodak (Lionbridge)",
@@ -1893,7 +1893,7 @@
         ]
     },
     {
-        "section": "Kwaliteit - UK Team",
+        "section": "Quality - UK Team",
         "titles": [
             {
                 "title": "Test Manager",
@@ -1947,7 +1947,7 @@
                 ]
             },
             {
-                "title": "QA Analist",
+                "title": "QA Analyst",
                 "names": [
                     "Jamie Cheung",
                     "Paul Pera"
@@ -2122,7 +2122,7 @@
                 ]
             },
             {
-                "title": "Software ontwikkelaars",
+                "title": "Software Engineers",
                 "names": [
                     "Alan Nelson",
                     "Alex Green",
@@ -2375,7 +2375,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software ontwikkelaars",
+                "title": "Lead Bedrock Software Developers",
                 "names": [
                     "Aaron Heysse",
                     "Adrian LaVallee",
@@ -2384,7 +2384,7 @@
                 ]
             },
             {
-                "title": "Softwareontwikkelaars",
+                "title": "Software Developers",
                 "names": [
                     "Alex Wouters (Insight Global, Inc)",
                     "Arend Danielek (TEKsystems, Inc)",
@@ -2452,7 +2452,7 @@
                 ]
             },
             {
-                "title": "Service Software Ontwikkelaars",
+                "title": "Service Software Engineers",
                 "names": [
                     "Anders Martini",
                     "Don S Frazier II",
@@ -2466,7 +2466,7 @@
                 ]
             },
             {
-                "title": "Software ingenieurs",
+                "title": "Software Engineers",
                 "names": [
                     "Evelyn Collier (Insight Global)",
                     "Michael Andersson",
@@ -2629,7 +2629,7 @@
                 ]
             },
             {
-                "title": "Crganizationele Coaches",
+                "title": "Crganizational Coaches",
                 "names": [
                     "Marie Stålkrantz"
                 ]
@@ -2655,7 +2655,7 @@
                 ]
             },
             {
-                "title": "Technisch schrijver",
+                "title": "Technical Writer",
                 "names": [
                     "Jeff Kim (Insight Global, Inc)",
                     "Nate Mackie (TEKsystems, Inc)"
@@ -3046,13 +3046,13 @@
                 ]
             },
             {
-                "title": "Webontwerp",
+                "title": "Web Design",
                 "names": [
                     "Taylor Kasony (eXcell, a division of CompuCom)"
                 ]
             },
             {
-                "title": "Kwaliteit manager",
+                "title": "Quality Manager",
                 "names": [
                     "Rob Straavaldson"
                 ]
@@ -3161,7 +3161,7 @@
                 ]
             },
             {
-                "title": "Product eigenaar",
+                "title": "Product Owner",
                 "names": [
                     "Johannes Söderberg"
                 ]
@@ -3187,28 +3187,28 @@
         ]
     },
     {
-        "section": "Studios Kwaliteitskwaliteit Alumni",
+        "section": "Studios Quality Alumni",
         "titles": [
             {
-                "title": "Kwaliteit leads",
+                "title": "Quality Leads",
                 "names": [
                     "Tony Harlich"
                 ]
             },
             {
-                "title": "Kwaliteit ingenieurs",
+                "title": "Quality Engineers",
                 "names": [
                     "Akshata Trivedi"
                 ]
             },
             {
-                "title": "Kwaliteitsdata-analyse & -ontwikkeling",
+                "title": "Quality Data Analysis & Engineering",
                 "names": [
                     "Jeff MacDermot"
                 ]
             },
             {
-                "title": "Kwaliteit analisten",
+                "title": "Quality Analysts",
                 "names": [
                     "Yi Zhao (Kforce)"
                 ]
@@ -3222,13 +3222,13 @@
                 ]
             },
             {
-                "title": "Amerikaanse Team - Software Test Engineering Leads",
+                "title": "US Team - Software Test Engineering Leads",
                 "names": [
                     "Chris James (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Team VS - Software Test Engineers",
+                "title": "US Team - Software Test Engineers",
                 "names": [
                     "Brendan McElroy (Insight Global, Inc)",
                     "Crystal Edwards (Insight Global, Inc)",
