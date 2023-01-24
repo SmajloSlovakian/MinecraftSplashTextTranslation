@@ -26,7 +26,7 @@ Minecraft!
 יאאאי!
 שחקן יחיד!
 תומך במקלדת!
-Ingots!
+מטילים!
 קריפרים מתפוצצים!
 That's no moon!
 l33t!
@@ -38,15 +38,15 @@ Exclusive!
 The bee's knees!
 Closed source!
 Classy!
-Wow!
+וואו!
 לא בsteam!
 Oh man!
 קהילה מדהימה!
 פיקסלים!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
+עכשיו עם רמת קושי!
+משופר!
 90% bug free!
 יפה!
 12 herbs and spices!
@@ -126,8 +126,8 @@ Reference implementation!
 Kiss the sky!
 20 GOTO 10!
 Verlet intregration!
-Peter Griffin!
-Do not distribute!
+פיטר גריפין!
+אל תפיצו!
 Cogito ergo sum!
 4815162342 שורות של קוד!
 A skeleton popped out!
@@ -155,7 +155,7 @@ Double buffered!
 Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Hotter than the sun!
+יותר חם מהשמש!
 Internet enabled!
 Autonomous!
 Engage!
@@ -238,7 +238,7 @@ Also try Pixeljunk Shooter!
 Also try Braid!
 That's super!
 לחם זה כאב!
-Read more books!
+תקראו יותר ספרים!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
@@ -266,7 +266,7 @@ PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
-Got your nose!
+לקחתי לך את האף!
 Haley loves Elan!
 Afraid of the big, black bat!
 Doesn't use the U-word!
@@ -285,9 +285,9 @@ Cześć Polsko!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+אני רואה שאוצר המילים שלך השתפר!
+מי שם את זה פה?
+אתה לא יכול להסביר את זה!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
@@ -339,7 +339,7 @@ This is good for Realms.
 Do it all, everything!
 Where there is not light, there can spider!
 GNU Terry Pratchett
-More Digital!
+יותר דיגיטלי!
 doot doot
 Falling with style!
 There's no stopping the Trollmaso
@@ -355,8 +355,8 @@ Don't feed chocolate to parrots!
 The true meaning of covfefe
 An illusion! What are you hiding?
 Something's not quite right...
-Thank you for the fish!
-All rumors are true!
+תודה לך על הדג!
+כל השמועות נכונות!
 Truly gone fishing!
 Rainbow turtle?
 Something funny!
@@ -364,15 +364,15 @@ I need more context.
 אהההההה!
 אל תדאג, תהיה שמח!
 בקבוק מים!
-What's the question?
+מה השאלה?
 Plant a tree!
-Go to the dentist!
+לכו לרופא השיניים!
 מה אתה מצפה?
 Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+10 שנים של חציבה ויצירה!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
@@ -381,14 +381,14 @@ Wash your hands!
 Soap and water!
 Support local businesses!
 Stay home and play games!
-Stay safe!
-Stay strong!
+תשארו בטוחים!
+תשארו חזקים!
 Cough or sneeze into your elbow!
 אל תיגע בפרצוף שלך!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
-Save the world – stay inside!
+תשמרו על העולם - תשארו בפנים!
 Shop for your elders!
 Hang out with your friends online!
 Honey, I grew the bees!
@@ -401,7 +401,7 @@ From free range developers!
 Music by Lena Raine!
 Aww man!
 #חוותמיינקראפט
-And my pickaxe!
+והמכוש שלי!
 Envision! צור! Share!
 Fabulous graphics!
 Also try Minecraft Dungeons!
@@ -431,7 +431,7 @@ Shriek like a Sculk Shrieker!
 Who let the frogs out?
 RIBBIT!
 Croak team!
-Nooooooooooooo!
+לאאאאאאאאאאאאא!
 Flower forest TM perfume
 Hat Fridays!
 Technoblade never dies!
