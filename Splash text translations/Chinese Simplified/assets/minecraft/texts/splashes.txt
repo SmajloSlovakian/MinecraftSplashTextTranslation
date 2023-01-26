@@ -2,11 +2,11 @@
 帅呆了！
 100%纯真
 致敏源信息：该生产线可能含有坚果
-多点多边形！
+更多多边形！
 适龄提示：8+
-限 量 款
+限量款
 没错，我是一条闪烁标语
-终于发布了
+它在这儿！
 同类之最
 我滴任务，完成啦！
 没有龙（大雾
@@ -15,10 +15,10 @@
 独一无二
 在YouTube上无数的点击
 Indev!
-小心蜘蛛
+这儿到处都是蜘蛛！
 切克闹
 不会吧，老兄
-这 是 个 游 戏
+这只是个游戏！
 瑞典制造
 已使用LWJGL
 抗锯齿：开
@@ -35,10 +35,10 @@ l33t!
 地牢！
 过了这个村，没有这个店
 The bee's knees!
-Closed source!
+闭源！
 优雅！
-哇！
-steam上找不到的
+哇哦！
+我们不在steam上架！
 Oh man!
 我们有很棒的社区！
 全是像素
@@ -51,7 +51,7 @@ Kaaneeeedaaaa!
 有12种香草和调味料！
 零脂肪！
 此处无梗
-免费的账号！
+免费账号！
 详情请遵医嘱
 我们欢迎未成年人！
 云计算！
@@ -98,20 +98,20 @@ NP is not in P!
 闹鬼
 多项式
 Terrestrial!
-All is full of love!
+所有人的心里都充满了爱！
 Full of stars!
-充 满 科 学 （才怪
+这里到处充满科学！
 Not as cool as Spock!
 Collaborate and listen!
 永远不要垂直向下挖
 别贪玩，注意休息
 Not linear!
 Han shot first!
-Nice to meet you!
+初次见面，请多指教！
 岩浆桶
 猪骑士（无颜色
 比地球大！
-√-1 love you
+sqrt(-1) love you!
 Phobos anomaly!
 要想富，先撸树
 Falling off cliffs!
@@ -119,7 +119,7 @@ Falling off cliffs!
 150% hyperbole!
 Synecdoche!
 让我们眺午吧
-秘——密周五更新
+禾必 密 周 五 更 新 ！
 Reference implementation!
 亲吻天空吧
 20 GOTO 10!
@@ -164,7 +164,7 @@ Regional resources!
 Woo, facepunch!
 Woo, somethingawful!
 Woo, tigsource!
-Woo, worldofminecraft!
+哇哦，是我的世界诶！
 Woo, reddit!
 Woo, 2pp!
 Google anlyticsed!
@@ -227,14 +227,14 @@ Check out the far lands!
 Tyrion would love it!
 也去试一试VVVVVV！
 Also try Super Meat Boy!
-也去试一试泰拉瑞亚！
+试试《泰拉瑞亚》吧！
 Also try Mount And Blade!
 Also try Project Zomboid!
 Also try World of Goo!
 Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
-That's super!
+超赞的！
 Bread is pain!
 多读书！
 可汗————————！！
@@ -244,7 +244,7 @@ Bread is pain!
 数百万个桃子！
 Fnord!
 这才是我的原型！
-Don't bother with the clones!
+别纠结谁抄谁的了！
 戴南瓜头！
 是Jeb制作的！
 Has an ending!
@@ -268,14 +268,14 @@ Haley loves Elan!
 Afraid of the big, black bat!
 Doesn't use the U-word!
 Child's play!
-See you next Friday or so!
+周五见！
 From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
 Pumpa kungen!
-日本ハロー！
-한국 안녕하세요!
+日本ハロー!
+한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
@@ -290,11 +290,11 @@ if not ok then return end
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
-Mmmph, mmph!
+呜唔，呜唔！
 Don't feed avocados to parrots!
 Swords for everyone!
 Plz reply to my tweet!
-.party()!
+.party()！
 Take her pillow!
 Put that cookie down!
 非常吓人！
@@ -318,7 +318,7 @@ So sweet, like a nice bon bon!
 Very influential in its circle!
 Now With Multiplayer!
 Rise from your grave!
-警告！ A huge battleship "STEVE" is approaching fast!
+警告！ 警告！“STEVE”战船正快速接近！
 Blue warrior shot the food!
 Run, coward! 我饿啦！
 Flavor with no seasoning!
@@ -330,7 +330,7 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a 拥抱 64
+/give @a hugs 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
@@ -358,14 +358,14 @@ Truly gone fishing!
 彩虹海龟？
 一些有趣的东西！
 I need more context.
-啊啊啊啊啊！
-别着急了，开心一点！
+啊啊啊——！
+别担心，乐观点！
 水瓶！
-What's the question?
+什么问题？
 种棵树吧！
 去看看牙医！
 你在期待什么？
-Look mum, I'm in a splash!
+妈，我变成闪烁标语了！
 它来自太空。
 Awesome game design right there!
 Ph1lza had a good run!
@@ -374,7 +374,7 @@ Ping the human!
 In case it isn't obvious, foxes aren't players.
 嗡嗡蜂群！
 Minecraft Java 版显示：正在清空Bug！
-请洗手！
+勤洗手！
 肥皂和水！
 支持本地产业！
 在家里玩游戏！
@@ -385,8 +385,8 @@ Cough or sneeze into your elbow!
 帮助老年亲属和朋友！
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
-拯救世界——待在家里！
-替家中的老人购物！
+居家隔离就是拯救世界！
+为家中的老人购物！
 与你的好友在线上闲逛！
 Honey, I grew the bees!
 Find your claw!
@@ -426,9 +426,9 @@ Plant-based light sources!
 Made by "real" people!
 Shriek like a Sculk Shrieker!
 Who let the frogs out?
-RIBBIT!
+呱！
 Croak team!
-Nooooooooooooo!
+不要啊！！！！！！！！
 Flower forest TM perfume
 Hat Fridays!
 Technoblade never dies!
