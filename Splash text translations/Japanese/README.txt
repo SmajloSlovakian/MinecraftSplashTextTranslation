@@ -1,15 +1,15 @@
-This project was created by SmajloSlovakian#1077
+このプロジェクトは、SmajloSlovakian#1077 によって作成されました。
 
-How do I add this pack to Minecraft?
--Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
-  Resource Packs and pick the pack which has just appeared.
+このパックをMinecraftに追加するにはどうしたらいいですか？
+・今開いたフォルダを、あなたの "\Appdata\Roaming\.minecraft\resourcepacks\" フォルダに追加して、Minecraftを起動 → 設定… →  
+  リソースパック… から、先ほど追加したパックを選択します。
 
-How to get into the resourcepacks folder?
--Open Minecraft, go into settings, Resource packs, drag and drop the resourcepack into Minecraft window...
-But wait! that doesn't work!
--Click on a button called "Open pack folder"
+resourcepacksフォルダを開くにはどうしたらいいですか？
+・Minecraftを起動 → 設定… → リソースパック… から、パックをMinecraftのウィンドウにドラッグアンドドロップします。
+待ってください、 それでは動作しないのですが…。
+・その場合は、「パックフォルダーを開く」というボタンをクリックしてください。
 
 
 
-My project attempts to translate the untranslated texts in Minecraft such as splash text messages, end game credits and others.
-It's a simple community project not affiliated with Mojang AB. nor Minecraft itself as it is run by a member of the community.
+私のプロジェクトは、スプラッシュテキストメッセージやエンドゲームクレジットなど、Minecraftの翻訳されていないテキストを翻訳することを試みています。
+Mojang ABとは関係のない、シンプルなコミュニティプロジェクトです。 Minecraftのコミュニティメンバーによって運営されています。
