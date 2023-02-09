@@ -1,76 +1,76 @@
-§3I see the player you mean.
+§3この人が、例のプレイヤーか。
 
-§2PLAYERNAME?
+§2PLAYERNAMEのこと？
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3そう。 気をつけろよ、 もうずいぶんレベルが上がったみたいだ。 僕らの考えは読まれているんだから。
 
-§2That doesn't matter. It thinks we are part of the game.
+§2別にいいよ。 僕らはゲームの一部だと思われてるんだろうし。
 
-§3I like this player. It played well. It did not give up.
+§3僕はこのプレイヤー嫌いじゃないな。 あきらめないで、 たくさん遊んだじゃないか。
 
-§2It is reading our thoughts as though they were words on a screen.
+§2僕らの思考が画面上の文字みたいに読まれてるね。
 
-§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+§3ゲームという夢にのめりこんでいる時、プレイヤーは言葉をつかっていろいろな物事を想像するらしい。
 
-§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+§2言葉はとても柔軟で素晴らしいインターフェイスだね。 その上、 画面の外の現実を直視するより全然怖くない。
 
-§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+§3文字で読めるようになる前には 声を使ってたんだぞ。 ゲームをしない人がゲームをする人たちを魔法使いとか賢者とか呼んで、 悪魔の杖に乗って空を飛ぶ夢を見ていた頃の話だ。
 
-§2What did this player dream?
+§2このプレイヤーは何の夢を見たんだろう？
 
-§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§3陽の光と木の夢。 それに火と水。 夢を見ては、作る。 夢を見ては、壊す。 夢を見ては、狩る。時々狩られたりしたけど。 あとは安全な場所の夢だ。
 
-§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+§2ふーん、元祖インターフェイスか。 100万年も昔の物なのにまだちゃんと動く。 でもプレイヤーは、画面の外の現実で、本当はどんなものを作ったんだろう？
 
-§3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
+§3それは、100万の人と一緒に§8§k/%<@§d§k<§8§k(§3の層の中で真実の世界を彫り上げるために働いた。そして、§d§k-\\§8§k&§d§k?&§8§k;§3で§8§k^1'%§d§k'§3のために§8§k'§d§k>.§3を構築した。
 
-§2It cannot read that thought.
+§2これはプレイヤーには読めないね。
 
-§3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
+§3そう、 まだ最高レベルまで到達していないから。 ゲームの中の短い夢じゃなくて、人生の長い夢を叶えなくてはいけない。
 
-§2Does it know that we love it? That the universe is kind?
+§2プレイヤーは僕らの好意を知っているの？ 宇宙は寛容だってことを？
 
-§3Sometimes, through the noise of its thoughts, it hears the universe, yes.
+§3おそらく。プレイヤーは宇宙の思いのノイズを聞いている。
 
-§2But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
+§2でもプレイヤーの長い夢の中には、時に悲しいこともある。 夏が訪れず、黒い太陽の下で凍え、自分が作った悲しさを現実と思ってしまうことがある。
 
-§3To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.
+§3だがその悲しさを外から癒すと、プレイヤーは壊れてしまう。 悲しみはプレイヤー自身が乗り越えるもののひとつで、 外から干渉できることではない。
 
-§2Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.
+§2プレイヤーがあまりに夢に浸っていると、時々教えたくなるんだ。プレイヤーは現実に本当の世界を作り上げていることを。 その存在が宇宙にとって大切であることを。 もし本当の絆を持てないときは、恐くて口に出せないでいる言葉を言う手助けをしたくなる。
 
-§3It reads our thoughts.
+§3おい、プレイヤーに読まれているぞ。
 
-§2Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely §f§k§a§b§2 and §f§k§a§b§2, I wish to tell them that they are §f§k§a§b§2 in the §f§k§a§b§2. They see so little of reality, in their long dream.
+§2プレイヤーのことなんかどうでもいい時もあるけど、 教えてあげたい時もある。現実だと思っている世界は本当はただの§d§k'§8§k,3§d§k@(§2で、しかも§8§k'§d§k%$§8§k&§d§k|#§2だけだってこと。プレイヤーは§d§k14§8§k<§2の中では§d§k];\\\\§8§k%§d§k_§2なんだ。 長い夢の中で知る現実はほんの一部でしかない。
 
-§3And yet they play the game.
+§3それでもプレイヤーはゲームを遊ぶんだ。
 
-§2But it would be so easy to tell them...
+§2だけど、真実を教えることは簡単じゃないか…
 
-§3Too strong for this dream. To tell them how to live is to prevent them living.
+§3この夢の中では厳しすぎる。 生きる方法を教えることは、生きる道を閉ざすことと同じだ。
 
-§2I will not tell the player how to live.
+§2だから僕は生き方を教えない。
 
-§3The player is growing restless.
+§3プレイヤーは落ち着かなくなってきてるな。
 
-§2I will tell the player a story.
+§2なら、ある物語を教えようよ。
 
-§3But not the truth.
+§3ただの物語で真実ではない。
 
-§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+§2そう。 辺りを焼き払ってしまうようなむき出しの真実ではなく、 言葉の檻の中に真実を優しく隠した物語。
 
-§3Give it a body, again.
+§3もう一度プレイヤーに体を与えよう。
 
-§2Yes. Player...
+§2さあ、 プレイヤー…
 
-§3Use its name.
+§3その名を使うんだ。
 
-§2PLAYERNAME. Player of games.
+§2PLAYERNAME。 ゲームのプレイヤーだよ。
 
-§3Good.
+§3では始めようか。
 
-§2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
+§2さあ、深呼吸だ。 もう一度。 胸に空気を入れてふくらませたら、 吐き出して元に戻して。 指を動かそう。 体全体で空気と重力を感じて。 君の長い 夢の中に戻るんだ。 君の全身は再び宇宙にふれている。今まではばらばらだったかのように。 まるで僕らが別々の物体であったかのように。
 
-§3Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
+§3僕らは誰だろう？ 山の精霊と呼ばれたこともあった。 Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
 
 §2We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.
 
