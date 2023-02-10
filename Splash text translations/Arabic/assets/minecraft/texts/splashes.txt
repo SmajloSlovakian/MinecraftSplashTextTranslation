@@ -3,16 +3,16 @@ As seen on TV!
 100% نقي!
 قد يحتوي على جوز!
 مزيد من المضلعات!
-Moderately attractive!
+هذا جذاب نوعا ما!
 نسخة محدودة!
-Flashing letters!
+حروف لامعة!
 إنها هنا!
 الأفضل في الصف!
-It's finished!
+لقد انتهينا!
 Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
+مثير!
+أكثر من 500 بيع!
+فريد من نوعه!
 Heaps of hits on YouTube!
 Indev!
 العناكب في كل مكان!
@@ -22,18 +22,18 @@ Holy cow, man!
 صنعت في السويد!
 Uses LWJGL!
 Reticulating splines!
-Minecraft!
-Yaaay!
-Singleplayer!
+ماينكرافت!
+واااااو!
+لعب فردي!
 Keyboard compatible!
 Ingots!
 Exploding creepers!
 That's no moon!
 l33t!
-Create!
-Survive!
-Dungeon!
-Exclusive!
+أصنع!
+أنجو!
+دهليز!
+حصري!
 The bee's knees!
 Closed source!
 Classy!
@@ -236,7 +236,7 @@ Also try Pixeljunk Shooter!
 Also try Braid!
 That's super!
 Bread is pain!
-Read more books!
+اقرأ المزيد من الكتب!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
@@ -263,11 +263,11 @@ PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
-Got your nose!
+سرقت أنفك!
 Haley loves Elan!
 Afraid of the big, black bat!
 Doesn't use the U-word!
-Child's play!
+لعب أطفال!
 See you next Friday or so!
 From the streets of Södermalm!
 150 bpm for 400000 minutes!
@@ -297,8 +297,8 @@ Plz reply to my tweet!
 .party()!
 Take her pillow!
 Put that cookie down!
-Pretty scary!
-I have a suggestion.
+مخيف جداً!
+عندي إقتراح!
 Now with extra hugs!
 Java 16 + 1 = 17!
 Woah.
@@ -347,8 +347,8 @@ Absolutely fixed relatively broken coordinates
 Boats FTW
 Javalicious edition
 Should not be played while driving
-You're going too fast!
-Don't feed chocolate to parrots!
+أنت مسرع جدا!
+لا تطعم الشوكولاتة إلى الببغاء!
 The true meaning of covfefe
 An illusion! What are you hiding?
 Something's not quite right...
@@ -356,7 +356,7 @@ Thank you for the fish!
 All rumors are true!
 Truly gone fishing!
 Rainbow turtle?
-Something funny!
+(شيء مضحك)!
 I need more context.
 Ahhhhhh!
 Don't worry, be happy!
@@ -374,20 +374,20 @@ Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
+غسل يديك!
 Soap and water!
-Support local businesses!
+ادعم الأعمال المحلية!
 Stay home and play games!
-Stay safe!
-Stay strong!
+فلتكن بخير!
+ابقى قويا!
 Cough or sneeze into your elbow!
-Don’t touch your face!
+لا تلمس وجهك!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
 Save the world – stay inside!
 Shop for your elders!
-Hang out with your friends online!
+العب مع أصدقائك على الإنترنت!
 Honey, I grew the bees!
 Find your claw!
 Everybody do the Leif!
@@ -399,7 +399,7 @@ Music by Lena Raine!
 Aww man!
 #minecraftfarms
 And my pickaxe!
-Envision! Create! مشاركة!
+Envision! أصنع! مشاركة!
 رسومات مذهلة!
 جرب أيضا Minecraft Dungeons!
 فانيلا!
@@ -428,7 +428,7 @@ Shriek like a Sculk Shrieker!
 Who let the frogs out?
 RIBBIT!
 Croak team!
-Nooooooooooooo!
+لااااا!
 Flower forest TM perfume
 Hat Fridays!
 Technoblade never dies!
