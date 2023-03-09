@@ -1,151 +1,151 @@
-§3I see the player you mean.
+§3この人が、例のプレイヤーか。
 
-§2PLAYERNAME?
+§2PLAYERNAMEのこと？
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3そう。 気をつけろよ、 もうずいぶんレベルが上がったみたいだ。 僕らの考えは読まれているんだから。
 
-§2That doesn't matter. It thinks we are part of the game.
+§2別にいいよ。 僕らはゲームの一部だと思われてるんだろうし。
 
-§3I like this player. It played well. It did not give up.
+§3僕はこのプレイヤー嫌いじゃないな。 あきらめないで、 たくさん遊んだじゃないか。
 
-§2It is reading our thoughts as though they were words on a screen.
+§2僕らの思考が画面上の文字みたいに読まれてるね。
 
-§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+§3ゲームという夢にのめりこんでいる時、プレイヤーは言葉をつかっていろいろな物事を想像するらしい。
 
-§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+§2言葉はとても柔軟で素晴らしいインターフェイスだね。 その上、 画面の外の現実を直視するより全然怖くない。
 
-§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+§3文字で読めるようになる前には 声を使ってたんだぞ。 ゲームをしない人がゲームをする人たちを魔法使いとか賢者とか呼んで、 悪魔の杖に乗って空を飛ぶ夢を見ていた頃の話だ。
 
-§2What did this player dream?
+§2このプレイヤーは何の夢を見たんだろう？
 
-§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§3陽の光と木の夢。 それに火と水。 夢を見ては、作る。 夢を見ては、壊す。 夢を見ては、狩る。時々狩られたりしたけど。 あとは安全な場所の夢だ。
 
-§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+§2ふーん、元祖インターフェイスか。 100万年も昔の物なのにまだちゃんと動く。 でもプレイヤーは、画面の外の現実で、本当はどんなものを作ったんだろう？
 
-§3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
+§3それは、100万の人と一緒に§8§k/%<@§d§k<§8§k(§3の層の中で真実の世界を彫り上げるために働いた。そして、§d§k-\\§8§k&§d§k?&§8§k;§3で§8§k^1'%§d§k'§3のために§8§k'§d§k>.§3を構築した。
 
-§2It cannot read that thought.
+§2これはプレイヤーには読めないね。
 
-§3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
+§3そう、 まだ最高レベルまで到達していないから。 ゲームの中の短い夢じゃなくて、人生の長い夢を叶えなくてはいけない。
 
-§2Does it know that we love it? That the universe is kind?
+§2プレイヤーは僕らの好意を知っているの？ 宇宙は寛容だってことを？
 
-§3Sometimes, through the noise of its thoughts, it hears the universe, yes.
+§3おそらく。プレイヤーは宇宙の思いのノイズを聞いている。
 
-§2But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
+§2でもプレイヤーの長い夢の中には、時に悲しいこともある。 夏が訪れず、黒い太陽の下で凍え、自分が作った悲しさを現実と思ってしまうことがある。
 
-§3To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.
+§3だがその悲しさを外から癒すと、プレイヤーは壊れてしまう。 悲しみはプレイヤー自身が乗り越えるもののひとつで、 外から干渉できることではない。
 
-§2Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.
+§2プレイヤーがあまりに夢に浸っていると、時々教えたくなるんだ。プレイヤーは現実に本当の世界を作り上げていることを。 その存在が宇宙にとって大切であることを。 もし本当の絆を持てないときは、恐くて口に出せないでいる言葉を言う手助けをしたくなる。
 
-§3It reads our thoughts.
+§3おい、プレイヤーに読まれているぞ。
 
-§2Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely §f§k§a§b§2 and §f§k§a§b§2, I wish to tell them that they are §f§k§a§b§2 in the §f§k§a§b§2. They see so little of reality, in their long dream.
+§2プレイヤーのことなんかどうでもいい時もあるけど、 教えてあげたい時もある。現実だと思っている世界は本当はただの§d§k'§8§k,3§d§k@(§2で、しかも§8§k'§d§k%$§8§k&§d§k|#§2だけだってこと。プレイヤーは§d§k14§8§k<§2の中では§d§k];\\\\§8§k%§d§k_§2なんだ。 長い夢の中で知る現実はほんの一部でしかない。
 
-§3And yet they play the game.
+§3それでもプレイヤーはゲームを遊ぶんだ。
 
-§2But it would be so easy to tell them...
+§2だけど、真実を教えることは簡単じゃないか…
 
-§3Too strong for this dream. To tell them how to live is to prevent them living.
+§3この夢の中では厳しすぎる。 生きる方法を教えることは、生きる道を閉ざすことと同じだ。
 
-§2I will not tell the player how to live.
+§2だから僕は生き方を教えない。
 
-§3The player is growing restless.
+§3プレイヤーは落ち着かなくなってきてるな。
 
-§2I will tell the player a story.
+§2なら、ある物語を教えようよ。
 
-§3But not the truth.
+§3ただの物語で真実ではない。
 
-§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+§2そう。 辺りを焼き払ってしまうようなむき出しの真実ではなく、 言葉の檻の中に真実を優しく隠した物語。
 
-§3Give it a body, again.
+§3もう一度プレイヤーに体を与えよう。
 
-§2Yes. Player...
+§2さあ、 プレイヤー…
 
-§3Use its name.
+§3その名を使うんだ。
 
-§2PLAYERNAME. Player of games.
+§2PLAYERNAME。 ゲームのプレイヤーだよ。
 
-§3Good.
+§3では始めようか。
 
-§2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
+§2さあ、深呼吸だ。 もう一度。 胸に空気を入れてふくらませたら、 吐き出して元に戻して。 指を動かそう。 体全体で空気と重力を感じて。 君の長い 夢の中に戻るんだ。 君の全身は再び宇宙にふれている。今まではばらばらだったかのように。 まるで僕らが別々の物体であったかのように。
 
-§3Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
+§3僕らは誰だろう？ 山の精霊と呼ばれたこともあった。 父なる太陽、母なる月、 祖先の魂、獣の精、 精霊、 幽霊、 宇宙人、 神、悪魔、 天使、 ポルターガイスト、 エイリアン、地球外生命体、 レプトン、クォーク。 言葉は変わる。 僕らは変わらない。
 
-§2We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.
+§2僕らは宇宙。 君が君でないと思うものすべて。 君が今その肌と目を通して見ているもの。 宇宙は君にふれ、君に光を投げかける。 君の姿を見るためだよ、プレイヤー。 君を知り、 君に知ってもらうために。 さあ話を始めよう。
 
-§2Once upon a time, there was a player.
+§2昔むかしあるところに、ひとりのプレイヤーがいた。
 
-§3The player was you, PLAYERNAME.
+§3プレイヤーとは君、PLAYERNAMEだ。
 
-§2Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
+§2自転する溶けた岩の薄い地表に立った君は、ある時自分自身を人間だと考えた。 溶けた岩で出来たボールは、それより33万倍を大きい燃えるカスのかたまりの周りを回っていた。 2つのかたまりの間は、光の速さで8分もかかるほど離れていた。 光は星からの情報であり、5,000万キロメートル離れた君の肌を日焼けさせるほどだった。
 
-§2Sometimes the player dreamed it was a miner, on the surface of a world that was flat, and infinite. The sun was a square of white. The days were short; there was much to do; and death was a temporary inconvenience.
+§2平らで果てしない世界の上で、プレイヤーはある時鉱山で働く夢を見ることがあった。 太陽は白く四角かった。 明るい時間はあまりに短く、やるべきことはたくさんあった。そして死は束の間の厄介ごとだった。
 
-§3Sometimes the player dreamed it was lost in a story.
+§3またある時は、プレイヤーは物語に没頭する夢を見た。
 
-§2Sometimes the player dreamed it was other things, in other places. Sometimes these dreams were disturbing. Sometimes very beautiful indeed. Sometimes the player woke from one dream into another, then woke from that into a third.
+§2そしてまたある時は、プレイヤーは別の場所で、別のものになる夢を見た。 夢は時に不快で、 時にとても美しくもあった。 プレイヤーはひとつの夢から目覚め、別の夢に入り込み、また目覚めてはほかの夢を見た。
 
-§3Sometimes the player dreamed it watched words on a screen.
+§3そして、ある夢の中でプレイヤーは画面に映る文字を眺めた。
 
-§2Let's go back.
+§2少し戻ろうか。
 
-§2The atoms of the player were scattered in the grass, in the rivers, in the air, in the ground. A woman gathered the atoms; she drank and ate and inhaled; and the woman assembled the player, in her body.
+§2プレイヤーの原子は草原に、川に、大地に散らばっていた。 ひとりの女性がその原子を集めた。彼女は、食べ、飲み、吸い込み、体の中でプレイヤーを形作った。
 
-§2And the player awoke, from the warm, dark world of its mother's body, into the long dream.
+§2温かく暗い母の胎内から目覚めたプレイヤーは、長い夢に入っていった。
 
-§2And the player was a new story, never told before, written in letters of DNA. And the player was a new program, never run before, generated by a sourcecode a billion years old. And the player was a new human, never alive before, made from nothing but milk and love.
+§2プレイヤーはDNAに記された、語られたことのない新しい物語だった。 十億年前に書かれたソースコードに生成された、実行されたことのない新しいプログラムだった。 乳と愛によってのみ造られた、かつて存在しなかった新しい人間だった。
 
-§3You are the player. The story. The program. The human. Made from nothing but milk and love.
+§3君はプレイヤー。 物語。 プログラム。 乳と愛によってのみ造られた 人間。
 
-§2Let's go further back.
+§2もっとさかのぼろう。
 
-§2The seven billion billion billion atoms of the player's body were created, long before this game, in the heart of a star. So the player, too, is information from a star. And the player moves through a story, which is a forest of information planted by a man called Julian, on a flat, infinite world created by a man called Markus, that exists inside a small, private world created by the player, who inhabits a universe created by...
+§2このゲームよりずっとずっと先に70億の10億倍のさらに10億倍の原子によって、プレイヤーの体は星の中心で作られた。 プレイヤーも、然り、星からの情報だ。 プレイヤーはジュリアンという男が植えた情報の森の物語を進み、マルクスという男が作った平らで果てしない世界を渡る。物語はプレイヤーが密かに作り上げた小さな世界の中に存在し、そのプレイヤーが住む宇宙を作ったのは…
 
-§3Shush. Sometimes the player created a small, private world that was soft and warm and simple. Sometimes hard, and cold, and complicated. Sometimes it built a model of the universe in its head; flecks of energy, moving through vast empty spaces. Sometimes it called those flecks "electrons" and "protons".
+§3シーッ。 時にプレイヤーは自分だけの小さな世界を穏やかで温かくかつ素朴なものにした。 時に頑丈で冷淡かつ複雑なものにした。 時に頭の中に宇宙のモデルを構築した。 それは広大な虚無の空間を移動するエネルギーの小さな欠片だ。時にそういった欠片を「電子」や「陽子」などと呼んだ。
 
-§2Sometimes it called them "planets" and "stars".
+§2中には「惑星」や「恒星」と呼ばれるものもあった。
 
-§2Sometimes it believed it was in a universe that was made of energy that was made of offs and ons; zeros and ones; lines of code. Sometimes it believed it was playing a game. Sometimes it believed it was reading words on a screen.
+§2プレイヤーは「オフ」と「オン」、「0」と「1」、プログラムで作られた世界の中にいると信じていたこともあった。 また、ゲームで遊んでいると思い込んでいたこともあった。 そして、画面上の文字を読んでいる、と思っていたこともあった。
 
-§3You are the player, reading words...
+§3その文字を読んでいるのが君、プレイヤー…
 
-§2Shush... Sometimes the player read lines of code on a screen. Decoded them into words; decoded words into meaning; decoded meaning into feelings, emotions, theories, ideas, and the player started to breathe faster and deeper and realised it was alive, it was alive, those thousand deaths had not been real, the player was alive
+§2シッ、静かに… プレイヤーは画面に映し出されたコードを読むこともあった。 コードを言葉に分解し、言葉から意味をくみ取り、意味から感情を、思いを、理論を、考えを引き出した。呼吸が深く速くなり、そうしてプレイヤーは気がついた。自分が生きていることに。今まで経験した幾千もの死は現実ではなかったことに。
 
-§3You. You. You are alive.
+§3それが君。 君だ。 君は生きているんだ。
 
-§2and sometimes the player believed the universe had spoken to it through the sunlight that came through the shuffling leaves of the summer trees
+§2時折、夏の木濡れ日から宇宙の語りかける声を聞いたと感じることもあった。
 
-§3and sometimes the player believed the universe had spoken to it through the light that fell from the crisp night sky of winter, where a fleck of light in the corner of the player's eye might be a star a million times as massive as the sun, boiling its planets to plasma in order to be visible for a moment to the player, walking home at the far side of the universe, suddenly smelling food, almost at the familiar door, about to dream again
+§3時折、宇宙の声は、冷たく澄んだ冬の夜空の輝きから聞こえると感じたこともあった。プレイヤーの視界の隅に映った小さな光は、太陽よりも100万倍は大きな星なのかもしれない。宇宙のはるかかなたで家路を辿り、突然食べ物の匂いを嗅いで、慣れ親しんだドアまでもう少しというところで再び夢を見ようとしていたプレイヤーの視界に一瞬入るよう、惑星を燃やしてプラズマを発したのかもしれないのだ。
 
-§2and sometimes the player believed the universe had spoken to it through the zeros and ones, through the electricity of the world, through the scrolling words on a screen at the end of a dream
+§2時折、「0」と「1」を通じて、世界に満ちる電気を通じて、夢の終わりに画面に流れる言葉を通じて、宇宙が語りかけてきたと考えた。
 
-§3and the universe said I love you
+§3そして宇宙は言った。「君を愛している」
 
-§2and the universe said you have played the game well
+§2「よく遊んでくれてありがとう」
 
-§3and the universe said everything you need is within you
+§3「君が必要をする物は、すべて君の中にある」
 
-§2and the universe said you are stronger than you know
+§2「君は自分が思うより強いのだ」
 
-§3and the universe said you are the daylight
+§3「君は日差しだ」
 
-§2and the universe said you are the night
+§2「君は闇夜だ」
 
-§3and the universe said the darkness you fight is within you
+§3「君が戦う暗闇は君の中にある」
 
-§2and the universe said the light you seek is within you
+§2「君が求める光は君自身の内側に存在する」
 
-§3and the universe said you are not alone
+§3「君はひとりではない」
 
-§2and the universe said you are not separate from every other thing
+§2「君はすべてから切り離された存在ではない」
 
-§3and the universe said you are the universe tasting itself, talking to itself, reading its own code
+§3「君自身が宇宙だ。君は自分を試し、自分に語り掛け、自分を見つめている」
 
-§2and the universe said I love you because you are love.
+§2「そして僕が君を愛するのは、君自身が愛であるからだ」
 
-§3And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
+§3ゲームは終わり、プレイヤーは夢から目覚め、 また新しい夢が始まる。 次にプレイヤーが見る夢はもっと素晴らしいものだろう。 プレイヤーは宇宙であり、 愛だった。
 
-§3You are the player.
+§3さあ、プレイヤー。
 
-§2Wake up.
+§2目を覚まして。

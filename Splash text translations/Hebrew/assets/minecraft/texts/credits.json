@@ -240,7 +240,7 @@
                 ]
             },
             {
-                "title": "Launcher Developers",
+                "title": "מפתחי המפעיל",
                 "names": [
                     "Matthew Phair",
                     "Patrick Tobin",
@@ -262,7 +262,7 @@
                 ]
             },
             {
-                "title": "Lead Bedrock Software Developers",
+                "title": "מפתחי תוכנת Bedrock ראשיים",
                 "names": [
                     "Bill Carlson",
                     "Bryan Yeo",
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "title": "Bedrock Software Developers",
+                "title": "מפתחי תוכנת Bedrock",
                 "names": [
                     "A.J. Fairfield",
                     "Aaron Woodward",
@@ -362,21 +362,21 @@
                 ]
             },
             {
-                "title": "Lead Web Developers",
+                "title": "מפתחי אתר ראשיים",
                 "names": [
                     "Joel Bergman",
                     "Mark Jawad"
                 ]
             },
             {
-                "title": "Realms Software Engineers",
+                "title": "מהנדסי תוכנת Realms",
                 "names": [
                     "Nicholas John Curtis",
                     "Roman Timurson (Insight Global, Inc)"
                 ]
             },
             {
-                "title": "Lead System Engineers",
+                "title": "מהנדסי מערכת ראשיים",
                 "names": [
                     "Robert Sjödahl",
                     "Pär Axelsson",
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "title": "Service Software Engineers",
+                "title": "מהנדסי שירות",
                 "names": [
                     "Alexandre Pretto Nunes",
                     "Anders Gärdenäs",
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "title": "Engineering Managers",
+                "title": "מנהלי הנדסה",
                 "names": [
                     "Erik Rahm",
                     "Erika Renlund",
@@ -435,7 +435,7 @@
         "section": "שמע",
         "titles": [
             {
-                "title": "Audio Director",
+                "title": "מפיק הצלילים",
                 "names": [
                     "Samuel Åberg"
                 ]
@@ -464,7 +464,7 @@
         "section": "אומנות חזותית",
         "titles": [
             {
-                "title": "Art Directors",
+                "title": "מפיקים אומנותיים",
                 "names": [
                     "Andy Zibits",
                     "Daniel Björkefors",
@@ -474,7 +474,7 @@
                 ]
             },
             {
-                "title": "Lead Artists",
+                "title": "ציירים ראשיים",
                 "names": [
                     "Jasper Boerstra",
                     "Joel Garvin",
@@ -508,7 +508,7 @@
                 ]
             },
             {
-                "title": "3D Artists",
+                "title": "אמני 3D",
                 "names": [
                     "Brendan Sullivan",
                     "Christian Nordgren"
@@ -543,7 +543,7 @@
                 ]
             },
             {
-                "title": "Art Manager",
+                "title": "מנהל האומנות",
                 "names": [
                     "Samir Belarbi"
                 ]
