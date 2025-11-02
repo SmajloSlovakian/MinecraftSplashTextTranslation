@@ -1,6 +1,6 @@
-Bekannt aus dem Fernsehen!
+Wie im Fernsehen zu sehen!
 Großartig!
-100% rein!
+100%ig rein!
 Kann Spuren von Nüssen enthalten!
 Mehr Polygone!
 Mäßig attraktiv!
@@ -9,14 +9,14 @@ Blinkende Buchstaben!
 Es ist hier!
 Bestes in der Klasse!
 Es ist vollbracht!
-Quasi Drachen frei!
+Quasi frei von Drachen!
 Aufregung!
 Mehr als 500 verkauft!
-Einer von jeder Art!
-Haufen von Treffern auf YouTube!
+Einzigartig!
+Haufenweise Treffer auf YouTube!
 In Entwicklung!
-Spinnen überall!
-Probier es aus!
+Überall Spinnen!
+Probier' es aus!
 Heilige Kuh, Mann!
 Es ist ein Spiel!
 Hergestellt in Schweden!
@@ -25,7 +25,7 @@ Vernetzt splines!
 Minecraft!
 Yaaay!
 Einzelspieler!
-Tastatur kompatibel!
+Tastatur-kompatibel!
 Barren!
 Explodierende Creeper!
 Das ist kein Mond!
@@ -34,96 +34,95 @@ Kreiere!
 Überlebe!
 Verlies!
 Exklusiv!
-The bee's knees!
-Closed source!
+Die Bienen Knie!
+Quelle!
 Classy!
 Wow!
 Nicht bei Steam!
 Oh man!
-Awesome community!
+Großartige Community!
 Pixels!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Jetzt mit Schwierigkeit!
-Enhanced!
+Verbessert!
 90% fehlerfrei!
-Pretty!
-12 herbs and spices!
-Fat free!
-Absolutely no memes!
-Free dental!
-Ask your doctor!
-Minors welcome!
+Schön!
+12 Kräuter und Gewürze!
+Fettfrei!
+Absolut keine Memes!
+Kostenlose Zahnbehandlung!
+Fragen Sie Ihren Arzt!
 Cloud computing!
-Legal in Finland!
+In Finnland legal!
 Hard to label!
 Technically good!
-Bringing home the bacon!
+Bring den Speck nach Hause!
 Indie!
 GOTY!
 Ceci n'est pas une title screen!
 Euclidian!
 Jetzt in 3D!
-Inspirational!
+Inspirierend!
 Herregud!
 Complex cellular automata!
-Yes, sir!
-Played by cowboys!
-Now on OpenGL 3.2 core profile!
+Ja, Sir!
+Gespielt von Cowboys!
+Now on OpenGL 3.3 core profile!
 Tausende von Farben!
 Versuche es!
 Age of Wonders is better!
-Try the mushroom stew!
-Sensational!
+Probier die Pilzsuppe!
+Sensationell!
 Heiße Tamale, heiße heiße Tamale!
 Play him off, keyboard cat!
-Guaranteed!
-Macroscopic!
-Bring it on!
-Random splash!
-Call your mother!
-Monster infighting!
+Garantiert!
+Makroskopisch!
+Bring es an!
+Zufällig Spritzer!
+Ruf deine Mutter an!
+Monster Nahkampf!
 Geliebt von Millionen!
-Ultimate edition!
-Freaky!
+Ultimative Edition!
+Verrückt!
 You've got a brand new key!
 Water proof!
-Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
-NP is not in P!
-Music by C418!
-Livestreamed!
-Haunted!
+Unbrennbar!
+Whoa, junge!
+Alles inklusive!
+Erzähl deinen Freunden davon!
+NP ist nicht in P!
+Musik von C418!
+Live gestreamt!
+Heimgesucht!
 Polynomial!
 Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
+Alles ist voll mit Liebe!
+Voll mit Sternen!
+Wissenschaftlich!
+Nicht so cool wie Spock!
 Collaborate and listen!
-Never dig down!
-Take frequent breaks!
-Not linear!
+Grabe nie nach unten!
+Mache regelmäßige pausen!
+Nicht linear!
 Han shot first!
-Nice to meet you!
-Buckets of lava!
-Ride the pig!
+Schön dich kennenzulernen!
+Lava Eimer!
+Reite das Schwein!
 Larger than Earth!
 sqrt(-1) love you!
 Phobos anomaly!
-Punching wood!
-Falling off cliffs!
-1% sugar!
+Holz schlagen!
+Von Klippen fallen!
+1 % Zucker!
 150% hyperbole!
 Synecdoche!
 Let's danec!
-Seecret Friday update!
+Geheeimes Freitags Update
 Reference implementation!
-Kiss the sky!
-20 GOTO 10!
-Verlet intregration!
+Küsse den Himmel!
+20 WERDE 10!
+Verlet integration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -153,15 +152,15 @@ Double buffered!
 Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Hotter than the sun!
-Internet enabled!
-Autonomous!
-Engage!
-Fantasy!
-DRR! DRR! DRR!
-Kick it root down!
-Regional resources!
-Woo, facepunch!
+Heißer als die sonne!
+Internet aktiviert!
+Autonom!
+Engagieren!
+Fantasie!
+DDR! DDR! DRR!
+Treten Sie es mit der Wurzel aus!
+Regionale Ressourcen!
+Ah, Gesichtsschlag!
 Woo, somethingawful!
 Woo, tigsource!
 Woo, worldofminecraft!
@@ -273,7 +272,7 @@ From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -330,7 +329,7 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
+/give @a Umarmungen 64
 Das ist gut für Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
@@ -369,7 +368,7 @@ Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+15 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
@@ -399,7 +398,7 @@ Music by Lena Raine!
 Aww man!
 #minecraftfarms
 And my pickaxe!
-Envision! Kreiere! Share!
+Envision! Create! Share!
 Fabulous graphics!
 Also try Minecraft Dungeons!
 Vanilla!
@@ -420,15 +419,32 @@ There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
-Plant-based light sources!
-Made by "real" people!
+Brettspiel Version ist auch verfügbar!
+Schatz, Ich habe Kupfer reingewachst!
+Pflanzen basierte licht quellen!
+Gemacht von "Echten" Menschen!
 Shriek like a Sculk Shrieker!
-Who let the frogs out?
-RIBBIT!
+Wer hat die Frösche herausgelassen!
+QUACK!
 Croak team!
-Nooooooooooooo!
-Flower forest TM perfume
-Hat Fridays!
-Technoblade never dies!
+Neeeeeeeein!
+Blumen Wald TM Parfüm
+Hüte Freitag!
+Technoblade stirbt nie!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
