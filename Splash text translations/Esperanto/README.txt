@@ -1,13 +1,13 @@
-This project was created by SmajloSlovakian#1077
+Ĉi tiun projekton kreis SmajloSlovakian#1077
 
-How do I add this pack to Minecraft?
+Kiel aldoni la pakaĵon al Minecraft?
 -Aldonu la ĵus malfermitan dosierujon al via dosierujo "\Appdata\Roaming\.minecraft\resourcepacks\", iru al Minecraft, agordoj, 
   resurspakaĵoj, kaj elektu la aperintan pakaĵon.
 
 Kiel trovi la resurspakaĵan dosierujon?
 -Startigu Minecraft, iru al agordoj, resurspakaĵoj, ŝovmetu la pakaĵon en la fenestron de Minecraft...
 Ho, atendu! tio ne funkcias!
--Click on a button called "Open pack folder"
+-Alklaku la butonon "Malfermi la pakaĵujon"
 
 
 
