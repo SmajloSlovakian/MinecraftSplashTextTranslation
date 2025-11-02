@@ -53,7 +53,6 @@ Bez masnoće!
 Apsolutno bez memeova!
 Besplatna njega za zube!
 Pitajte svog liječnika!
-Maloljetnici dobrodošli!
 Računalstvo u oblaku!
 Legalan u Finskoj!
 Teško ga je opisati oznakom!
@@ -69,7 +68,7 @@ Omajgad!
 Složeni stanični automati!
 Da, gospodine!
 Igraju kauboji!
-Sada koristi OpenGL 3.2 profil jezgre!
+Now on OpenGL 3.3 core profile!
 Tisuće boja!
 Isprobaj ga!
 Age of Wonders je bolji!
@@ -123,7 +122,7 @@ Tajno ažuriranje petkom!
 Referentna implementacija
 Poljubi nebo!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
 Nije dopuštena distribucija!
 Cogito ergo sum!
@@ -158,7 +157,7 @@ Spaja se na internet!
 Autonoman!
 Napad!
 Fantazija!
-DDR! DDR! DDR!
+DDR! DDR! DRR!
 Kick it root down!
 Regionalni resursi!
 Jeej, facepunch!
@@ -273,7 +272,7 @@ S ulica Södermalma!
 150 bpm koji traju 400000 minuta!
 Tehnologično!
 Funk soul brate!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Spusti taj keks!
 Prilično zastrašujući!
 Imam prijedlog.
 Sada sa dodatnim zagrljajima!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Vau.
 HURNERJSGER?
 Kaj te muči, njofra?
@@ -369,7 +368,7 @@ Look mum, I'm in a splash!
 Došlao je iz svemira.
 E, ovo je baš dobar dizajn igre!
 Ph1lza had a good run!
-10 godina kopanja i izrade!
+15 years of Mining and Crafting!
 Ping the human!
 U slučaju da nije očito, lisice nisu igrači.
 Pčele zuje!
@@ -399,7 +398,7 @@ Glazbu napravila Lena Raine!
 Aww man!
 #minecraftfarms
 I moj kramp!
-Zamisli! Stvori! Podijeli!
+Zamisli! Create! Podijeli!
 Fantastična grafika!
 Probaj Minecraft Dungeons!
 Vanilija!
@@ -432,3 +431,20 @@ Neeeeeeeeeeeee!
 Parfem Šumsko cvijeće TM
 Svaki petak izuzetak!
 Technoblade nikad ne umire!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
