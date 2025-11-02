@@ -53,7 +53,6 @@ Tanpa lemak!
 tiada meme sama sekali!
 Pergigian percuma!
 Tanyalah doktor anda!
-Kanak-kanak dipersilakan!
 Pengkomputeran awanan!
 Sah di sisi undang-undang di Finland!
 Sukar untuk dilabel!
@@ -69,7 +68,7 @@ Herregud!
 Automaton selular kompleks!
 Ya, Tuan!
 Dimain oleh koboi!
-Kini pada profil teras OpenGL 3.2!
+Now on OpenGL 3.3 core profile!
 Beribu warna!
 Cubalah!
 Age of Wonders lebih baik!
@@ -123,7 +122,7 @@ Kemas kini Jumaat raahsia!
 Pengimplementasi rujukan!
 Ciumlah langit!
 20 GOTO 10!
-Integrasi Verlet!
+Verlet integration!
 Peter Griffin!
 Jangan edarkan!
 Cogito ergo sum!
@@ -262,7 +261,7 @@ Mencapai jangkaan!
 Bermain PC sejak 1873!
 Ubi benggala dihiris secara nipis dan rapi sebelum diperasa dan dicelup dalam minyak masak bersuhu tinggi!
 Deja vu!
-Deja vu!
+Déjà vu!
 Saya dapat hidung anda!
 Haley cintakan Elan!
 Takut akan kelawar besar lagi hitam!
@@ -273,7 +272,7 @@ Dari jalanan Södermalm!
 150 bsm untuk 400000 minit!
 Teknologik!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Letak biskut itu!
 Agak seram!
 Saya ada cadangan.
 Sekarang dengan pelukan lebihan!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 YINRAZUZIURNQ?
 Apa khabar, Doc?
@@ -369,18 +368,18 @@ Mak tengok! Saya dalam paparan tampilan!
 Ia datang dari angkasa.
 Reka bentuk permainan yang hebat di situ!
 Ph1lza mempunyai larian yang bagus!
-10 tahun Melombong dan Menukang!
-Ping Manusia Itu!
-Sekiranya ia tidak jelas, musang bukanlah pemain.
+15 years of Mining and Crafting!
+Ping manusia Itu!
+Sekiranya ia tidak jelas, rubah bukanlah pemain.
 Lebah Berdegung!
 Minecraft Edisi Java mempersembahkan: Pepijat Menjijikkan
 Basuh tangan anda!
 Sabun dan air!
 Sokong perniagaan tempatan!
 Duduk di rumah dan main permainan!
-Kekal Selamat!
+Kekal selamat!
 Kekal tabah!
-Batuk atau bersin kearah siku anda!
+Batuk atau bersin ke arah siku anda!
 Jangan sentuh muka anda!
 Sokong saudara-mara dan rakan-rakan yang sudah tua!
 Siap siaga, tapi jangan mengumpul!
@@ -399,18 +398,18 @@ Muzik oleh Lena Raine!
 Aww man!
 #minecraftfarms
 Dan beliungku!
-Bayangkan! Cipta! Kongsi!
+Bayangkan! Create! Kongsi!
 Grafik menawan!
 Cuba juga Minecraft Dungeons!
 Vanila!
 Mungkin mengandungi kesan-kesan sitrus
 Zoglin!?
 Black lives matter!
-Jadi anti-perkauman!
+Jadi anti perkauman!
 Belajar tentang Kebersekutuan!
 Bersuara menentang ketidakadilan dan berkenaan kesaksamaan
 Menguatkan dan mendengar suara-suara BIPOC
-Didik kawan-kawan anda tentang anti-perkauman!
+Didik kawan-kawan anda tentang anti perkauman!
 Sokong komuniti dan pencipta BIPOC!
 Berdiri untuk kesaksamaan dalam komuniti anda!
 [teks tampilan ini sekarang tersedia]
@@ -427,8 +426,25 @@ Dihasilkan oleh orang-orang "sebenar"!
 Teriak seperti Peneriak Sculk!
 Siapa yang membiarkan katak keluar?
 RIBIT!
-Pasukan Croak!
+Pasukan Kuakan!
 Tidaaaaaaaaaak!
-Minyak wangi TM hutan bunga
+Minyak wangi hutan bunga  TM
 Hat Fridays!
 Technoblade tidak akan mati!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
