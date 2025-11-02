@@ -53,7 +53,6 @@ Yağsız!
 Kesinlikle meme yok!
 Bedava diş!
 Doktoruna sor!
-Küçükler davetlidir!
 Bulut bilimi!
 Finlandiya'da yasal!
 Etiketlenmesi zor!
@@ -69,7 +68,7 @@ Aman Tanrım!
 Karmaşık hücresel otomatlar!
 Emredersiniz, efendim!
 Kovboylar da beğendi!
-Artık OpenGL 3.2 profilinde!
+Now on OpenGL 3.3 core profile!
 Binlerce renk!
 Bir deneyin!
 Age of Wonders daha iyi!
@@ -123,7 +122,7 @@ Giizli Cuma güncellemesi!
 Referans uyarlama!
 Gökyüzünü öp!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
 Rahatsız etmeyin!
 Ben gerçekten var mıyım?
@@ -150,12 +149,11 @@ Süperharikainanılmaz!
 V'leri tamamlayın!
 İnek Eşyaları!
 Çift tamponlu!
-Hayran hikayeleri!
+Hayran hikâyeleri!
 Flaxkikare!
 Jason!
  Jason!
  Jason!
-
 Güneşten daha sıcak!
 İnternetli!
 Bağımsız!
@@ -270,7 +268,6 @@ Ghoughpteighbteau tchoghs!
 Déjà vu!
 
 Déjà vu!
-
 Burnunu kaptım!
 Haley, Elan'ı seviyor!
 Büyük siyah kedilerden kork!
@@ -281,7 +278,7 @@ Södermalm'ın sokaklarından!
 400000 dakika başına 150 bpm!
 Teknolojik!
 Funk benim ruh ikizim!
-Pumpa kongen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -308,7 +305,7 @@ Bırak o kurabiyeyi!
 Oldukça korkutucu!
 Bir önerim var.
 Artık ekstra sarılma ile!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 Naber, Doktor?
@@ -377,7 +374,7 @@ Bak anne, bir splashdeyim!
 Uzaydan gelmiş.
 Şu mükemmel oyun tasarımına da bak!
 Ph1lza güzel bir run'a sahip!
-Kazma ve yapmada 10 yıl!
+15 years of Mining and Crafting!
 İnsana vur!
 Besbelli ortada, tilkiler oyuncu değil.
 Vızıldayan Arılar!
@@ -407,7 +404,7 @@ Müzikler Lena Raine'den!
 Ah be adamım!
 #minecraftfarms
 O benim kazmam!
-Düşün! Oluştur! Paylaş!
+Düşün! Create! Paylaş!
 Olağanüstü grafikler!
 Minecraft Dungeons'ı da dene!
 Vanilla!
@@ -440,3 +437,20 @@ Hayıııııııııııııır!
 Çiçek ormanı TM parfümü
 Şapka Cumaları!
 Technoblade asla ölmez!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
