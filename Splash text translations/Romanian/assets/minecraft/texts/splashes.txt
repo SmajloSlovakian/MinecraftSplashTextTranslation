@@ -1,116 +1,115 @@
-As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
-More polygons!
-Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
-Heaps of hits on YouTube!
+După cum s-a văzut la TV!
+Minunat!
+100% pur!
+Poate conține nuci!
+Mai mulți poligoni!
+Moderat de atractiv!
+Ediție limitată!
+Litere intermitente!
+E aici!
+Cel mai bun din clasă!
+E terminat!
+Un fel de fără dragon!
+Entuziasm!
+Mai mult de 500 vândute!
+O creație unicat!
+O grămadă de hituri pe YouTube!
 Indev!
-Spiders everywhere!
-Check it out!
-Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
+Păianjeni peste tot!
+Încearcă-l!
+Măiculiță, omule!
+E un joc!
+Creat în Suedia!
+Folosește LWJGL!
 Reticulating splines!
 Minecraft!
-Yaaay!
-Singleplayer!
-Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
+Uau!
+Unsingurjucător!
+Compatibil cu tastatura!
+Lingouri!
+Creepări explozivi!
+Asta nu e lună!
 l33t!
-Create!
-Survive!
-Dungeon!
-Exclusive!
+Creează!
+Supraviețuiește!
+Temniță!
+Exclusiv!
 The bee's knees!
-Closed source!
-Classy!
+Cod sursă privat!
+Elegant!
 Wow!
-Not on steam!
+Nu pe Steam!
 Oh man!
-Awesome community!
-Pixels!
+Comunitate extraordinară!
+Pixeli!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
-90% bug free!
-Pretty!
-12 herbs and spices!
-Fat free!
-Absolutely no memes!
+Acum cu dificultate!
+Îmbunătățit!
+90% fără probleme!
+Drăguț!
+12 ierburi și condimente!
+Fără grăsime!
+Absolut fără meme-uri!
 Free dental!
-Ask your doctor!
-Minors welcome!
+Întrebaţi-vă medicul!
 Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
+Legal în Finlanda!
+Destul de greu de etichetat!
+Tehnic bun!
 Bringing home the bacon!
 Indie!
 GOTY!
 Ceci n'est pas une title screen!
 Euclidian!
-Now in 3D!
-Inspirational!
+Acum în 3D!
+Inspiraţional!
 Herregud!
 Complex cellular automata!
-Yes, sir!
-Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
-Age of Wonders is better!
+Da, domnule!
+Jucat de cowboy!
+Now on OpenGL 3.3 core profile!
+Mii de culori!
+Încercați-l!
+Age of Wonders e mai bun!
 Try the mushroom stew!
-Sensational!
+Senzațional!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Guaranteed!
+Garantat!
 Macroscopic!
 Bring it on!
-Random splash!
-Call your mother!
+Splash aleator!
+Sună-ți mama!
 Monster infighting!
-Loved by millions!
+Iubit de milioane!
 Ultimate edition!
-Freaky!
+Ciudat!
 You've got a brand new key!
-Water proof!
+Rezistent la apă!
 Uninflammable!
-Whoa, dude!
+Uau, tipule!
 All inclusive!
-Tell your friends!
-NP is not in P!
-Music by C418!
+Spune-le prietenilor!
+NP nu este în P!
+Muzică de C418!
 Livestreamed!
-Haunted!
-Polynomial!
-Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
-Collaborate and listen!
+Bântuit!
+Polinomial!
+Terestrial!
+Totul este plin de dragoste!
+Plin de stele!
+Științific!
+Nu la fel de tare ca Spock!
+Colaborați și ascultați!
 Never dig down!
-Take frequent breaks!
-Not linear!
+Fă pauze frecvente!
+Nu este liniar!
 Han shot first!
-Nice to meet you!
-Buckets of lava!
+Mă bucur să te cunosc!
+Găleți cu lavă
 Ride the pig!
-Larger than Earth!
+Mai mare decât Pământul!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
@@ -123,7 +122,7 @@ Seecret Friday update!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -273,7 +272,7 @@ From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -369,7 +368,7 @@ Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+15 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
@@ -432,3 +431,20 @@ Nooooooooooooo!
 Flower forest TM perfume
 Hat Fridays!
 Technoblade never dies!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
