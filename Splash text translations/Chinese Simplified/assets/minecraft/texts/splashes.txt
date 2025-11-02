@@ -30,11 +30,11 @@ Indev!
 别，别炸，兄弟
 那不是个月亮
 l33t!
-游戏模式：创造
+创造！
 游戏模式：生存
 地牢！
 过了这个村，没有这个店
-The bee's knees!
+蜜蜂的膝盖！
 闭源！
 优雅！
 哇哦！
@@ -53,13 +53,12 @@ Kaaneeeedaaaa!
 此处无梗
 免费账号！
 详情请遵医嘱
-我们欢迎未成年人！
 云计算！
-Legal in Finland!
+在芬兰合法！
 Hard to label!
 Technically good!
 确定不在你家里放个信标吗？
-Indie!
+独立游戏!
 GOTY!
 Ceci n'est pas une title screen!
 Euclidian!
@@ -69,9 +68,9 @@ Herregud!
 Complex cellular automata!
 Yes, sir!
 Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-来逝逝吧
+Now on OpenGL 3.3 core profile!
+成千上万的颜色！
+试试吧！
 Age of Wonders is better!
 试试蘑菇汤！
 Sensational!
@@ -79,10 +78,10 @@ Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
 Guaranteed!
 Macroscopic!
-Bring it on!
+带上它！
 <随机的闪烁标语>
-Call your mother!
-Monster infighting!
+叫你妈妈来！
+怪物内讧！
 100w+ 点赞
 限 量 款
 Freaky!
@@ -122,8 +121,8 @@ Synecdoche!
 禾必 密 周 五 更 新 ！
 Reference implementation!
 亲吻天空吧
-20 GOTO 10!
-Verlet intregration!
+20 GOTO 10！
+Verlet integration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -131,7 +130,7 @@ Cogito ergo sum!
 A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
-I miss ADOM!
+我想ADOM了！
 了过来反话句这
 OICU812!
 Bring me Ray Cokes!
@@ -150,9 +149,9 @@ Supercalifragilisticexpialidocious!
 Consummate V's!
 Cow Tools!
 Double buffered!
-Fan fiction!
-Flaxkikare!
-Jason！ Jason！ Jason!
+同人小说！
+幸运望远镜！
+Jason！ Jason! Jason!
 比太阳更热！
 已联网！
 Autonomous!
@@ -166,7 +165,7 @@ Woo, somethingawful!
 Woo, tigsource!
 哇哦，是我的世界诶！
 哇哦，reddit论坛！
-Woo, 2pp!
+哇哦，2pp!
 Google anlyticsed!
 我们现在赞助瑞典的åäö！
 Give us Gordon!
@@ -180,14 +179,14 @@ MAP11有两个名字！
 *喘气*
 ...!
 蜜蜂，蜜蜂，蜜蜂，还是蜜蜂！
-Jag känner en bot!
+Jag känner en bot!
 如果在默认分辨率上玩游戏，你很难阅读这个文本，但是在1080p上它很好阅读！
 哈哈，LOL！
 仓鼠舞！
 Menger sponge!
 idspispopd!
 Eple (original edit)!
-So fresh, so clean!
+干净又卫生！
 Slow acting portals!
 试试去下界！
 不要总盯着 bug 不放！
@@ -212,18 +211,18 @@ Joel真优雅！
 图灵完备！
 It's groundbreaking!
 Let our battle's begin!
-The sky is the limit!
+天空即为极限！
 Jeb has amazing hair!
 Ryan also has amazing hair!
-Casual gaming!
-Undefeated!
+休闲游戏！
+无懈可击！
 Kinda like Lemmings!
-Follow the train, CJ!
+跟上那火车,CJ!
 Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
+这消息永不出现在标题界面上，这不很怪吗？
 DungeonQuest is unfair!
 90210！
-Check out the far lands!
+还是看看远处的边境之地吧！
 Tyrion would love it!
 也试试《弹弹跳跳闪避人》吧！
 也试试《超级食肉男孩》吧！
@@ -235,7 +234,7 @@ Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
 超赞的！
-Bread is pain!
+面包即为痛苦！
 多读书！
 可汗————————！！
 比电视机更难上瘾！
@@ -247,33 +246,33 @@ Fnord!
 别纠结谁抄谁的了！
 戴南瓜头！
 是Jeb制作的！
-Has an ending!
+有尾！
 Finally complete!
-Feature packed!
+亮点无数！
 毛皮靴子！
-Stop, hammertime!
+停一下，现在是Hammer时间
 Testificates!
 Conventional!
 Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
+从不避免双重否定！
 放置所有方块！
-Does barrel rolls!
-Meeting expectations!
-PC gaming since 1873!
-Ghoughpteighbteau tchoghs!
+来个桶滚吧！
+达到预期！
+专注计算机游戏，自1873！
+Ghoughpteighbteau tchoghs！
 逮虾户！
-逮虾户！
-Got your nose!
+Déjà vu!
+摸到你鼻子啦！
 Haley loves Elan!
 Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
+不用U单词！
+儿戏！
 周五见！
 From the streets of Södermalm!
-150 bpm for 400000 minutes!
-Technologic!
+400000分钟的150 bpm！
+技术性！
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー!
 한국 안녕하세요!
 Helo Cymru!
@@ -288,24 +287,24 @@ I see your vocabulary has improved!
 if not ok then return end
 §1五§2颜§3六§4色§5的§6缤§7纷§8大§9世§a界！
 §kFUNKY LOL
-Big Pointy Teeth!
+大尖牙！
 Bekarton guards the gate!
 呜唔，呜唔！
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
+别给鹦鹉喂巧克力！
+大家都有剑！
+求回复我的推文！
 .party()！
-Take her pillow!
-Put that cookie down!
+抢她枕头！
+放下那块饼干！
 非常吓人！
 我有个主意！
 我们现在有更多的抱抱！
-Java 16 + 1 = Java17!
+Java 16 + 1 + 4 = 21!
 哇~
-HURNERJSGER?
-What's up, Doc?
+HURNERJSGER？
+出什么事了，Doc？
 Now contains 32 random daily cats!
-That's Numberwang!
+那是 Numberwang！
 请转发！
 您想加入我的服务器吗？
 Put a little fence around it!
@@ -314,7 +313,7 @@ One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
 更多物品！
 每个人都有狗狗，好耶!
-So sweet, like a nice bon bon!
+就像好糖果那样甜！
 Very influential in its circle!
 Now With Multiplayer!
 Rise from your grave!
@@ -331,7 +330,7 @@ Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
 /give @a hugs 64
-This is good for Realms.
+对Realms有好处。
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
@@ -348,12 +347,12 @@ Boats FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
-Don't feed chocolate to parrots!
-The true meaning of covfefe
+别给鹦鹉喂巧克力！
+covfefe的真正含义
 这是个错觉！ 你在掩饰什么？
 有些东西不对劲...
 谢谢你的鱼！
-所有的谣言都是真实的！
+所有谣言皆为真！
 Truly gone fishing!
 彩虹海龟？
 一些有趣的东西！
@@ -369,21 +368,21 @@ I need more context.
 它来自太空。
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+15 years of Mining and Crafting!
 Ping the human!
-In case it isn't obvious, foxes aren't players.
+这可能不是很明显，但狐狸不是玩家。
 嗡嗡蜂群！
 Minecraft Java 版显示：正在清空Bug！
 勤洗手！
 肥皂和水！
 支持本地产业！
-在家里玩游戏！
-保持安全 ！
+在家开黑，别乱跑了！
+安全至上！
 保持强壮！
-Cough or sneeze into your elbow!
+对着肘部咳嗽或打喷嚏!
 别碰你的脸！
 帮助老年亲属和朋友！
-Prepare, but don’t hoard!
+做好准备，但别囤货！
 Gamers unite – separately in your own homes!
 居家隔离就是拯救世界！
 为家中的老人购物！
@@ -399,14 +398,14 @@ Lena Raine制作的音乐！
 Aww man!
 #minecraftfarms
 再带上我的镐子！
-Envision! 游戏模式：创造 分享！
+想象 Create! 分享！
 极佳画质！
-Also try Minecraft Dungeons!
-Vanilla!
+也试试《我的世界：地下城》吧！
+原版！
 May contain traces of citrus!
-Zoglin!?
-Black lives matter!
-Be anti-racist!
+僵尸疣猪兽！？
+黑人的命也是命！
+成为反种族主义者！
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
 Amplify and listen to BIPOC voices!
@@ -415,20 +414,37 @@ Support the BIPOC community and creators!
 Stand up for equality in your community!
 [此闪烁标语现在可用]
 Contains simulated goats!
-Home-made!
-There's <<a cat on ,my keyboard!~
+自制！
+我的<<键盘上面 ，有只猫！～
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
-Board game version also available!
+还提供桌游版！
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
-Shriek like a Sculk Shrieker!
-Who let the frogs out?
+由“真”人制作！
+像幽匿尖啸体一样尖啸！
+谁放青蛙出来的？
 呱！
-Croak team!
+呱呱队！
 不要啊！！！！！！！！
-Flower forest TM perfume
-Hat Fridays!
+花林™牌香水
+周五帽之日！
 Technoblade never dies!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
