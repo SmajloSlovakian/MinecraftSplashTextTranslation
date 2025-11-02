@@ -12,7 +12,7 @@ Finito!
 Quasi senza draghi!
 Che eccitazione!
 Ha venduto più di 500 copie!
-Unici nel suo genere!
+Unico nel suo genere!
 Un sacco di successi su YouTube!
 In via di sviluppo!
 Ragni dappertutto!
@@ -53,7 +53,6 @@ Senza grassi!
 Completamente privo di meme!
 Spese mediche garantite!
 Leggere attentamente il foglietto illustrativo!
-Aperto ai minori!
 Nuvola informatica!
 È legale in Finlandia!
 Difficile da etichettare!
@@ -69,14 +68,14 @@ Herregud!
 Un complesso automa cellulare!
 Sissignore!
 Ci giocano anche i cowboy!
-Ora su OpenGL 3.2 core profile!
+Now on OpenGL 3.3 core profile!
 Migliaia di colori!
 Provalo!
 Age of Wonders è meglio!
 Prova la zuppa di funghi!
 Sensazionale!
 Tamale caldo, tamale caldo caldo!
-Keyboard Cat, suonalo via!
+Keyboard Cat, suonagliele!
 Garantito!
 Macroscopico!
 Fatevi sotto!
@@ -123,7 +122,7 @@ Aggiornamento secreto del venerdì!
 Implementazione di riferimento!
 Bacia il cielo!
 20 GOTO 10!
-Algloritmo di Verlet!
+Verlet integration!
 Peter Griffin!
 Non distribuire nulla!
 Cogito ergo sum!
@@ -197,7 +196,7 @@ Spaventoso!
 Gioca Minecraft, Guarda Topgear, Get Pig!
 Se ne twitta molto!
 Fai un salto! Fanne un altro!
-Joel è ordinato!
+Joel è una brava persona!
 Un indovinello, avvolto in un mistero!
 Questo bel pappagallo non è più! È schiattato!
 Benvenuto nel tuo Doom!
@@ -262,7 +261,7 @@ Va incontro alle aspettative!
 Gaming su PC dal 1873!
 Tubero affettato e cotto in olio bollente!
 Déjà-vu!
-Déjà-vu!
+Déjà vu!
 Ti ho preso il naso!
 Haley ama Elan!
 Ha paura del bel pipistrello!
@@ -273,13 +272,13 @@ Dalle strade di Södermalm!
 150 bpm per 400000 minuti!
 Tecnologico!
 Fratello animo funk!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Χαῖρε, ὦ Ἑλλάς;
+Χαῖρε, ὦ Ἑλλάς.
 La mia vita per Aiur!
 Lennart lennart = new Lennart();
 Vedo che il tuo vocabolario è migliorato!
@@ -300,7 +299,7 @@ Metti giù quel biscotto!
 Bello spaventoso!
 Ho un'idea.
 Ora con abbracci extra!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HNJSHGNAH?
 Che succede, amico?
@@ -341,7 +340,7 @@ doot doot
 Cadere con stile!
 Trollmaso è inarrestabile
 Buttati giù dall'alto evitando di colpire il terreno
-Regola №1: non è mai colpa mia
+Regola numero uno: non è mai colpa mia
 Il formaggio fuso è stato sostituito con il sangue?
 Coordinate relativamente malfunzionanti assolutamente corrette
 Viva le barche!
@@ -358,7 +357,7 @@ Matto da legare!
 Tartaruga arcobaleno?
 Qualcosa di divertente!
 Ho bisogno di maggiore contesto.
-Ahhhhhh!
+Aaaaaah!
 Non ti preoccupare, sii felice!
 Ampolla d'acqua!
 Qual è la domanda?
@@ -369,7 +368,7 @@ Guarda mamma, sono in un sottotitolo!
 È venuto dallo spazio.
 Piuccheperfetto!
 Ph1lza ha resistito finché ha potuto!
-10 anni di Min e Craft!
+15 years of Mining and Crafting!
 Notifica quell'umano!
 Nel caso in cui non sia ovvio, le volpi non sono giocatori.
 Api ronzanti!
@@ -399,7 +398,7 @@ Musiche di Lena Raine!
 Aww man!
 #minecraftfarms
 E il mio piccone!
-Immagina! Crea! Condividi!
+Immagina! Create! Condividi!
 Grafica favolosa!
 Prova anche Minecraft Dungeons!
 Vanilla!
@@ -430,5 +429,22 @@ CRA CRA!
 La cricca del cra!
 Nooooooooooooo!
 Gargné™ alle foglie™!
-Cappello Venerdì!
+Smart working all'italiana!
 Technoblade vivrà per sempre!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
