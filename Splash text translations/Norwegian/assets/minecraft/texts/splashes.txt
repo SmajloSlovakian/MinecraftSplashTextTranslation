@@ -53,7 +53,6 @@ Fri for fett!
 Absolutt ingen memes!
 Gratis tannlege!
 Spør din fastlege!
-Mindreårige velkomne!
 Sky prosessering!
 Tilatt i Finland!
 Vanskelig å navngi!
@@ -69,7 +68,7 @@ Herregud!
 Komplekse cellulære automater!
 Skal bli!
 Spilt av kugjetere!
-Bruker nå OpenGL 3.2  kjerneprofil!
+Now on OpenGL 3.3 core profile!
 Tusenvis av fargere!
 Prøv det!
 Age of Wonders er bedre!
@@ -123,7 +122,7 @@ Hemmelig fredagsoppdatering!
 Referanseimplementering!
 Fly blant skyene!
 20 GOTO 10!
-Verlet integrasjon!
+Verlet integration!
 Peter Griffin!
 Ikke forstyrr!
 Cogito ergo sum!
@@ -274,7 +273,7 @@ Fra gatene i Södermalm!
 150 slag per minut i 400 000 minuter!
 Teknologisk!
 Funk soul brother!
-Pumpa kongen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -301,7 +300,7 @@ Legg i fra deg den kjeksen!
 Ganske skummelt!
 Jeg har et forslag!
 Nå med ekstra mange klemmer!
-Java 16 + 1 =  Java 17!
+Java 16 + 1 + 4 = 21!
 Våh!
 HURNERJSGER?
 Hva skjer, Doktor?
@@ -370,7 +369,7 @@ Se mamma, jeg en utkaststekst!
 Det kom fra rommet!
 Fantastisk spilldesign her!
 Ph1lza klarte seg bra!
-10 år med bygging og graving!
+15 years of Mining and Crafting!
 Varsle mennesket!
 I tilfelle det ikker er tydelig, så er ikke rever spillere!
 Summende bier!
@@ -400,7 +399,7 @@ Med musikk fra Lena Raine!
 åååh nei!
 #minecraftfarms!
 Og hakken min!
-Drøm! Skap! Del!
+Drøm! Create! Del!
 Fantastisk grafikk!
 Prøv også Minecraft Dungeons!
 Vanilla!
@@ -433,3 +432,20 @@ Neeeeeeeeeeeei!
 Blomsterskog TM parfyme
 Hattefredag!
 Technoblade lever evig!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
