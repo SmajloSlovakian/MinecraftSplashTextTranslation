@@ -9,7 +9,7 @@
 זה כאן!
 הטוב בכיתה!
 זה גמור!
-Kind of dragon free!
+כאילו בלי דרקון!
 התרגשות!
 יותר מ500 נמכרו!
 אחד מסוגו!
@@ -33,11 +33,11 @@ l33t!
 
 צור!
 תשרוד!
-Dungeon!
-Exclusive!
+מקדש!
+בלעדי!
 The bee's knees!
 Closed source!
-Classy!
+קלאסי!
 וואו!
 לא בsteam!
 Oh man!
@@ -50,15 +50,14 @@ Kaaneeeedaaaa!
 90% bug free!
 יפה!
 12 herbs and spices!
-Fat free!
+נטול שומן!
 Absolutely no memes!
 Free dental!
 תשאל את הרופא שלך!
-Minors welcome!
 Cloud computing!
 חוקי בפינלנד!
 Hard to label!
-Technically good!
+טכנית טוב!
 Bringing home the bacon!
 Indie!
 משחק השנה!
@@ -71,7 +70,7 @@ Herregud!
 Complex cellular automata!
 כן, המפקד!
 Played by cowboys!
-Now on OpenGL 3.2 core profile!
+Now on OpenGL 3.3 core profile!
 אלפי צבעים!
 נסו זאת!
 Age of Wonders יותר טוב!
@@ -86,29 +85,29 @@ Random splash!
 תקרא לאמא!
 Monster infighting!
 אהוב על ידי מיליונים!
-Ultimate edition!
+גרסה אולטימטיבית!
 Freaky!
 You've got a brand new key!
-Water proof!
+חסין למים!
 Uninflammable!
 Whoa, dude!
 All inclusive!
-Tell your friends!
+ספרו לחבריכם!
 NP is not in P!
-Music by C418!
+מוזיקה על ידי C418!
 Livestreamed!
 רדוף!
 Polynomial!
 Terrestrial!
 All is full of love!
-Full of stars!
-Scientific!
+מלא בכוכבים!
+מדעי!
 Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
 Take frequent breaks!
 Not linear!
-Han shot first!
+האן ירה קודם!
 נעים להכיר אותך!
 דליי לבה!
 רכוב על החזיר!
@@ -125,13 +124,13 @@ Synecdoche!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 פיטר גריפין!
 אל תפיצו!
 Cogito ergo sum!
 4815162342 שורות של קוד!
 A skeleton popped out!
-The sum of its parts!
+סכום חלקיו!
 BTAF used to be good!
 I miss ADOM!
 umop-apisdn!
@@ -154,7 +153,7 @@ Cow Tools!
 Double buffered!
 Fan fiction!
 Flaxkikare!
-Jason! Jason! Jason!
+Jason! ג'ייסון! Jason!
 יותר חם מהשמש!
 Internet enabled!
 Autonomous!
@@ -171,7 +170,7 @@ Woo, reddit!
 Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
-Give us Gordon!
+תנו לנו את גורדון!
 תן תשר למלצר שלך!
 מאוד כיף!
 12345 זאת סיסמה רעה!
@@ -229,21 +228,21 @@ Check out the far lands!
 Tyrion would love it!
 Also try VVVVVV!
 Also try Super Meat Boy!
-Also try Terraria!
+נסו גם טראריה!
 Also try Mount And Blade!
 Also try Project Zomboid!
 Also try World of Goo!
 Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
-That's super!
+זה סופר!
 לחם זה כאב!
 תקראו יותר ספרים!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
 Bigger than a bread box!
-Millions of peaches!
+מיליוני אפרסקים!
 Fnord!
 This is my true form!
 Don't bother with the clones!
@@ -276,7 +275,7 @@ From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -303,10 +302,10 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
-What's up, Doc?
+מה קורה, דוק?
 Now contains 32 random daily cats!
 That's Numberwang!
 pls rt
@@ -365,20 +364,20 @@ I need more context.
 אל תדאג, תהיה שמח!
 בקבוק מים!
 מה השאלה?
-Plant a tree!
+תשתול עץ!
 לכו לרופא השיניים!
 מה אתה מצפה?
 Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 שנים של חציבה ויצירה!
+15 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
 Wash your hands!
-Soap and water!
+סבון ומים!
 Support local businesses!
 Stay home and play games!
 תשארו בטוחים!
@@ -402,7 +401,7 @@ Music by Lena Raine!
 Aww man!
 #חוותמיינקראפט
 והמכוש שלי!
-Envision! צור! Share!
+Envision! Create! Share!
 Fabulous graphics!
 Also try Minecraft Dungeons!
 Vanilla!
@@ -435,3 +434,20 @@ Croak team!
 Flower forest TM perfume
 Hat Fridays!
 Technoblade never dies!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
