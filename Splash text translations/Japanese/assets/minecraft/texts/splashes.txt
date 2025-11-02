@@ -1,4 +1,4 @@
-テレビで見られるように！
+テレビでおなじみ！
 すごい！
 純度100%！
 ナッツ類が含まれている可能性があります！
@@ -53,7 +53,6 @@ steamにはない！
 絶対にミームはない！
 無料歯科！
 主治医に聞いてみよう！
-未成年者歓迎！
 クラウドコンピューティング！
 フィンランドでは合法！
 包装は難しい！
@@ -70,7 +69,7 @@ GOTY！
 複雑なセル・オートマトン！
 承知しました！
 カウボーイもプレイ！
-OpenGL 3.2コアプロファイルに対応！
+Now on OpenGL 3.3 core profile!
 何千色もの色！
 やってみて！
 Age of Wondersの方が良い！
@@ -124,7 +123,7 @@ sqrt(-1) ラブユー！
 参考実装！
 空にキスを！
 20 GOTO 10！
-ベレの方法！
+Verlet integration!
 ピーター・グリフィン！
 配布しないで！
 我思うが故に我あり！
@@ -153,13 +152,13 @@ OICU812！
 ダブルバッファリング！
 同人小説！
 亜麻双眼鏡！
-ジェイソン！ ジェイソン！ ジェイソン！
+ジェイソン！ ジェイソン！ Jason!
 太陽より熱い！
 インターネット対応！
 自律的！
 関わる！
 ファンタジー！
-DRR！ DRR！ DRR！
+DRR！ DRR！ DRR!
 根こそぎ蹴り落とす！
 地域資源！
 うー、facepunch！
@@ -263,7 +262,7 @@ Jebが作った！
 パソコンゲームは1873年から！
 Ghoughpteighbteau tchoghs！
 デジャヴ！
-デジャヴ！
+Déjà vu!
 お前の鼻を掴んだぞ！
 ヘイリーはエランを愛している！
 大きな黒いコウモリが怖い！
@@ -274,7 +273,7 @@ Uワードを使わない！
 150bpmで400000分！
 技術的！
 ファンクソウル兄貴！
-カボチャの王様！
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -301,7 +300,7 @@ okでない場合は繰り返しを終了
 とても怖い！
 提案があります。
 今度はハグを追加！
-Java 16 + 1 = 17！
+Java 16 + 1 + 4 = 21!
 うわ。
 HURNERJSGER？
 どうした、Doc？
@@ -370,7 +369,7 @@ covfefeの本当の意味
 宇宙から来た。
 驚くべきゲームデザインがここにある！
 Ph1lzaはいい走りをしていた！
-採掘とクラフトを10年間！
+15 years of Mining and Crafting!
 人間にピンを！
 念のために言っておくと、キツネはプレイヤーではない。
 バジー・ビー！
@@ -400,7 +399,7 @@ Lena Raineによる音楽！
 しまった！
 #minecraftfarms
 ツルハシも！
-想像！ 作成！ 共有！
+想像！ Create! 共有！
 最高のグラフィック！
 Minecraft Dungeonsもやってみて！
 バニラ！
@@ -417,7 +416,7 @@ BIPOCコミュニティとクリエイターを応援！
 [このスプラッシュテキストが利用可能になりました]
 シュミレートされたヤギを収録！
 自家製！
-キーボードの<<上に猫,がいる！~
+キーボードの＜＜上に猫、がいる！～
 今まで出会った中でいちばんカワイイ捕食者！
 今、ピストンのこと考えてるでしょ！
 コッパーのところへ行け！
@@ -430,6 +429,23 @@ BIPOCコミュニティとクリエイターを応援！
 グヮグヮッ！
 ケロケロチーム！
 ノオオオオオオオオオオ！
-フラワーフォレストTMの香水
+フラワーフォレスト™の香水
 ハットフライデー！
 Technobladeは不滅！
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
