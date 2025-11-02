@@ -53,7 +53,6 @@ Sem gorduras!
 Absolutamente sem memes!
 Odontologia grátis!
 Pergunte ao seu doutor!
-Boas-vindas aos menores!
 Computação na nuvem!
 Legal na Finlândia!
 Indescritível!
@@ -69,7 +68,7 @@ Meu Deus!
 Autômato celular complexo!
 Sim, senhor!
 Jogado por cowboys!
-Agora no perfil de núcleo OpenGL 3.2!
+Now on OpenGL 3.3 core profile!
 Milhares de cores!
 Experimente!
 Age of Wonders é melhor!
@@ -123,7 +122,7 @@ Atualização seecreta da sexta-feira!
 Implementação de referências
 Beije o céu!
 20 GOTO 10!
-Método de Verlet!
+Verlet integration!
 Peter Griffin!
 Não distribua!
 Cogito ergo sum!
@@ -262,7 +261,7 @@ Atende às expectativas!
 Jogando no PC desde 1873!
 Ghoughpteighbteau tchoghs!
 Déjà-vu!
-Déjà-vu!
+Déjà vu!
 Peguei seu nariz!
 Haley ama Elan!
 Medo do grande morcego preto!
@@ -273,7 +272,7 @@ Das ruas de Södermalm!
 150 BPM em 400000 minutos!
 Tecnológico!
 Alma do funk, irmão!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Abaixe esse biscoito!
 Muito assustador!
 Tenho uma sugestão.
 Agora com abraços extras!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Uau.
 HURNERJSGER?
 Qual é, meu?
@@ -369,7 +368,7 @@ Olha mãe, estou na abertura!
 Veio do espaço.
 Design de jogo incrível!
 Ph1lza fez uma boa jogada!
-10 anos minerando e fabricando!
+15 years of Mining and Crafting!
 Mencione o humano!
 Se não estiver claro, raposas não são jogadores.
 Abelhas zumbidoras!
@@ -386,7 +385,7 @@ Apoie seus parentes mais velhos e seus amigos!
 Prepare-se, mas não acumule!
 Jogadores unidos – cada um em sua casa!
 Salve o mundo - fique em casa!
-Faça compras para seus mais velhos!
+Faça compras para os mais velhos!
 Converse com seus amigos online!
 Querida, cresci as abelhas!
 Encontre sua garra!
@@ -399,7 +398,7 @@ Música feita por Lena Raine!
 Aww, cara!
 #minecraftfarms
 E minha picareta!
-Imagine! Crie! Compartilhe!
+Imagine! Create! Compartilhe!
 Gráficos fabulosos!
 Também experimente Minecraft Dungeons!
 Vanilla!
@@ -413,11 +412,11 @@ Amplifique e escute as vozes étnicas!
 Eduque seus amigos ao antirracismo!
 Apoie a comunidade BIPOC e seus criadores!
 Lute pela igualdade em sua comunidade!
-[este texto de início agora está disponível]
+[este splash agora está disponível]
 Contém simulação de cabras!
 Caseiro!
 Tem um <<gato no ,meu teclado!~
-O predador mais fofo que você irá conhecer!
+O predador mais fofo que você conhecerá!
 Você está pensando com seus pistões!
 Pegue o cobreh!
 Versão de tabuleiro também disponível!
@@ -432,3 +431,20 @@ Nãoooooooooooo!
 Perfume da floresta de flores TM
 Sextas do chapéu!
 Technoblade nunca morre!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
