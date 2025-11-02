@@ -15,18 +15,18 @@ Pli ol 500 aĉetoj!
 En la mondon venis nova sento!
 Amaso da populareco ĉe Jutubo!
 Sen peranto!
-Spiders everywhere!
+Araneoj ĉie!
 Check it out!
 Unu bovino muĝas mu!
-It's a game!
+Ĉi tio estas ludo!
 Farite en Svedio!
 Uses LWJGL!
 Reticulating splines!
 Minu kaj kraftu!
-Yaaay!
+Hu ra!
 Singleplayer!
 Keyboard compatible!
-Ingots!
+Ingotoj!
 Eroj de kripoj!
 That's no moon!
 3L1T4!
@@ -53,7 +53,6 @@ Fat free!
 Absolutely no memes!
 Free dental!
 Ask your doctor!
-Minors welcome!
 Cloud computing!
 Legal in Finland!
 Hard to label!
@@ -65,11 +64,11 @@ GOTY!
 Արմենա էսպերանտո!
 !آرآبآ اَسپاَرآنتاُ
 !האֶּבראֶּאַ אֶּספּאֶּראַנתאוֹ
-한구라 엣뻬란토!
+코레아 에스페란토!
 カタカナ　エㇲペラ゙ント！
 Γκρεκα Εσπεραντο!
 Played by cowboys!
-Now on OpenGL 3.2 core profile!
+Now on OpenGL 3.3 core profile!
 Thousands of colors!
 Try it!
 Age of Wonders is better!
@@ -111,19 +110,19 @@ Nice to meet you!
 Buckets of lava!
 Ride the pig!
 Larger than Earth!
-sqrt(-1) love you!
+1.609km amas vin! 
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
 1% sugar!
 150% hyperbole!
 Synecdoche!
-Let's danec!
+Ni dacnu!
 Seecret Friday update!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -153,7 +152,7 @@ Double buffered!
 Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
-Hotter than the sun!
+Pli varma ol la sun’!
 Internet enabled!
 Autonomous!
 Engage!
@@ -199,7 +198,7 @@ Twittered about!
 Jump up, jump up, and get down!
 Joel is neat!
 A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
+Tiu papago ne estas plu! It has ceased to be!
 Welcome to your Doom!
 Stay a while, stay forever!
 Stay a while and listen!
@@ -260,8 +259,8 @@ Place ALL the blocks!
 Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
-Ghoughpteighbteau tchoghs!
-Déjà vu!
+In Mondod wenit nowam Sentom!
+Deĵavu’!
 Déjà vu!
 Got your nose!
 Haley loves Elan!
@@ -273,7 +272,7 @@ From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -293,20 +292,20 @@ Bekarton guards the gate!
 Mmmph, mmph!
 Don't feed avocados to parrots!
 Swords for everyone!
-Plz reply to my tweet!
+Bv respondi!
 .party()!
 Take her pillow!
 Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 What's up, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
-pls rt
+rt bv
 Do you want to join my server?
 Put a little fence around it!
 Throw a blanket over it!
@@ -369,7 +368,7 @@ Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 jaroj de minado kaj kraftado!
+15 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
@@ -399,7 +398,7 @@ Muziko de Leno Rejn!
 Aww man!
 #minecraftfarms
 And my pickaxe!
-Envision! Kreu! Share!
+Envision! Create! Share!
 Fabulous graphics!
 Also try Minecraft Dungeons!
 Vanilla!
@@ -431,4 +430,21 @@ Croak team!
 Nooooooooooooo!
 Flower forest TM perfume
 Hat Fridays!
-Technoblade never dies!
+Technoblade neniam mortas!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
