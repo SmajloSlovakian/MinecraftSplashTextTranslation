@@ -1,85 +1,84 @@
 Vu à la télé !
-Incroyable !
+Génial !
 100% pur !
 Peut contenir des noix !
 Plus de polygones !
 Modérément attractif !
 Édition limitée !
 Lettres clignotantes !
-C'est ici !
-Crème de la crème !
-C'est fait !
-À peu près sans dragon !
+C'est arrivé !
+Meilleur en classe !
+C'est fini !
+À peu près sans dragons !
 Excitation !
 Plus de 500 vendues !
-Un d'un genre !
-Tas de succès sur YouTube !
+Unique en son genre !
+Des tas de succès sur YouTube !
 Indev !
-Araignées partout !
-Jetez-y un coup d'œil !
+Des araignées partout !
+Regarde ça !
 La vache, mec !
 C'est un jeu !
 Fabriqué en Suède !
 Utilise LWJGL !
 Réticulation des splines !
 Minecraft !
-Youpiii !
+Ouaaais !
 Solo !
-Compatibilité des claviers !
+Compatible avec clavier !
 Lingots !
-Explosions de Creepers !
-Ce n'est pas la lune !
+Explosions de creepers !
+Ce n'est pas une lune !
 l33t !
 Créer !
-Survivez !
-Cachot !
+Survivre !
+Donjon !
 Exclusif !
 C'est le must !
-Logiciel à source fermée !
+Source fermée !
 Chic !
 Waouh !
 Pas sur steam !
 Oh mec !
-Communauté géniale !
+Superbe communauté !
 Pixels !
 Teetsuuuuoooo !
 Kaaneeeedaaaa !
-Maintenant avec difficulté !
-Amélioré !
-90% sans bug !
+Maintenant avec des difficultés !
+Enrichi !
+90% sans bugs !
 Joli !
 12 herbes et épices !
 Sans gras !
 Absolument aucuns mèmes !
-Soins dentaires gratuits !
-Demandez à votre médecin généraliste !
-Bienvenue aux mineurs !
-Infonuagique !
+Des soins dentaires gratuits !
+Demandez à votre médecin !
+Informatique en nuage !
 Légal en Finlande !
-Difficile d'étiqueter !
-Techniquement bon !
-Apporte l'argent !
+Difficile à étiqueter !
+Techniquement bien !
+Fais bouillir la marmite !
 Indie !
-GOTY !
-Ceci n'est pas un écran-titre !
+GOTY!
+Ceci n'est pas un texte d'accueil !
 Euclidien !
 Maintenant en 3D !
 Inspirant !
 Herregud !
 Automates cellulaires complexes !
-Oui, monsieur !
+Oui, chef !
 Joué par des cow-boys !
-Maintenant sur profil central d'OpenGL 3.2 !
+Now on OpenGL 3.3 core profile!
 Milliers de couleurs !
 Essayez-le !
-Age of Wonders est meilleur !
-Essayez le ragoût de champignons !
+Age of Wonders, c'est meilleur !
+Essayez la soupe de champignons !
 Sensationnel !
-Hot tamale, hot hot tamale !
-Joue-le, chat au clavier !
+Hot tamale, hot hot tamale!
+Play him off, keyboard cat!
 Garanti !
 Macroscopique !
-Vas-y !
+Allez-y !
 Texte aléatoire d'accueil !
 Appelez votre mère !
 Combats internes de monstres !
@@ -103,17 +102,17 @@ Plein d'étoiles !
 Scientifique !
 Pas aussi cool que Spock !
 Collaborez et écoutez !
-Ne creusez jamais en bas !
+Ne creusez jamais vers le bas !
 Faites des pauses fréquentes !
 Pas linéaire !
-Han a tiré d'abord !
-Enchanté(e) !
+Han a tiré en premier !
+Enchanté·e !
 Seaux de lave !
 Montez le cochon !
 Plus grand que la Terre !
 sqrt(-1)2.71 t'aime !
 Phobos anomaly !
-Frapper du bois !
+Frappant du bois !
 Tomber des falaises !
 1% de sucre !
 150% d'hyperbole !
@@ -123,7 +122,7 @@ Mise à jour de vendredi seecret !
 Implémentation de référence !
 Kiss the sky !
 20 GOTO 10 !
-Intrégration de Verlet !
+Verlet integration!
 Peter Griffin !
 Ne distribuez pas !
 Cogito ergo sum !
@@ -152,13 +151,13 @@ Outils de vache !
 À double tampon !
 Fanfiction !
 Flaxkikare !
-Jason ! Jason ! Jason !
+Jason ! Jason ! Jason!
 Plus chaud que le soleil !
 À accès Internet !
 Autonome !
 Jouez !
 Fantasy !
-DRR ! DRR ! DRR !
+DRR ! DRR ! DRR!
 Donnez-le un coup de pied à la racine !
 Ressources régionales !
 Ouais, facepunch !
@@ -222,59 +221,59 @@ Suis le train, CJ !
 Tire parti la synergie !
 Ce message n'apparaîtra jamais sur l'écran de démarrage, n'est-ce pas si bizarre ?
 La quête de donjon est injuste !
-90210!
+90210 !
 Découvrez les terres lointaines !
 Le Tyrion l'aimerait !
-Essayez aussi VVVVVVV!
-Essayez aussi Super Meat Boy!
-Essayez également la Terraria!
-Essayez aussi Mount And Blade!
+Essayez aussi VVVVVVV !
+Essayez aussi Super Meat Boy !
+Essayez également la Terraria !
+Essayez aussi Mount And Blade !
 Essayez aussi Project Zomboid !
-Essayez aussi World of Goo!
-Essayez aussi le Limbo!
+Essayez aussi World of Goo !
+Essayez aussi le Limbo !
 Essayez aussi le Tireur Pixeljunk !
-Essayez aussi Braid!
-C'est super!
+Essayez aussi Braid !
+C'est super !
 Lunettes sont spectacles !
-Lisez plus de livres!
-Khaaaaaaaaan!
-Moins addictif que les Trops!
-Plus addictif que la limonade!
+Lisez plus de livres !
+Khaaaaaaaaan !
+Moins addictif que les tropes télé !
+Plus addictif que la limonade !
 Plus grosse qu'une boîte à pain !
-Des millions de pêches!
-Fnord!
-C'est ma vraie forme!
-Ne vous inquiétez pas avec les clones!
-Tête de citrouille!
-Fabriqué par les Juifs!
+Des millions de pêches !
+Fnord !
+Voici ma vraie forme !
+Ne vous inquiétez pas avec les clones !
+Tête de citrouille !
+Fait par Jeb !
 A une fin !
-Finalement terminé !
+Enfin terminé !
 Fonctionnalités empaquetées !
-Bottes avec la fourrure!
+Boots with the fur!
 Stop, hammertime!
-Témoignages !
-Conventionnel!
-Homeomorphique à 3 sphères!
-N'évite pas les doubles négatifs!
-Placez TOUS les blocs!
-Est-ce que le canon de tonneau!
+Testificates!
+Conventionnel !
+Homéomorphique à 3 sphères !
+N'évite pas les doubles négatifs !
+Placez TOUS les blocs !
+Fait des tonneaux !
 Répondre aux attentes !
-Jouer sur PC depuis 1873!
+PC gaming depuis 1873 !
 Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
+Déjà vu !
+Déjà vu!
 Vous avez le nez!
 Haley aime Elan!
 Fraid de la grosse chauve-souris noire !
-N'utilise pas le mot U!
+N'utilise pas le U-word !
 Jeu d'enfant !
-Rendez-vous vendredi prochain ou alors!
-Des rues de So<unk> dermalm!
-150 bpm pour 400000 minutes!
+Rendez-vous vendredi prochain ou plus tard !
+Venant des rues de Södermalm !
+150 bpm pour 400000 minutes !
 Technologie !
-Funk soul frère!
-Pumpa kungen!
-日本ハロー!
+Funk soul frère !
+Pumpakungen!
+日本ハロー !
 한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
@@ -282,153 +281,170 @@ Cześć Polsko!
 Γεια σου Ελλάδα!
 Ma vie pour Aiur!
 Lennart lennart = new Lennart();
-Je vois que votre vocabulaire s'est amélioré!
-Qui l'a mis là-bas?
+Je vois que votre vocabulaire s'est amélioré !
+Qui l'a mis là-bas ?
 Vous ne pouvez pas expliquer cela !
-si pas ok puis retourner la fin
-§1C§2o§4o§5r§6m§7a§8t§9i§ac
+si pas ok puis retourner fin
+§1C§2o§4u§5l§6e§7u§8r§9m§aa§1t§2i§4q§5u§6e
 §kFUNKY LOL
-Grandes dents de poine!
-« Bekarton garde la porte! »
-Mmmph, mmph!
-Ne nourrissez pas l'avocat aux perroquets !
-Épées pour tout le monde!
-Merci de répondre à mon tweet!
+Big Pointy Teeth!
+Bekarton garde la porte !
+Mmmf, mmf !
+Ne nourrissez pas les perroquets avec des avocats !
+Épées pour tout le monde !
+Stp répond à mon tweet !
 .party()!
 Prenez son oreiller !
-Mettez ce cookie en panne !
-Plutôt effrayant!
+Baissez ce cookie !
+Assez effrayant !
 J'ai une suggestion.
-Maintenant avec des câlins supplémentaires!
-Java 16 + 1 = 17!
+Maintenant avec des câlins supplémentaires !
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER ?
-Qu'est ce qu'il y a de mieux, Doc?
-Contient maintenant 32 chats quotidiens aléatoires!
+Quoi d'neuf, docteur ?
+Contient maintenant 32 chats quotidiens aléatoires !
 C'est Numberwang !
-rt pls
-Voulez-vous rejoindre mon serveur ?
-Mettez un peu de clôture autour de lui!
+rt stp
+Veux-tu rejoindre mon serveur ?
+Mettez une petite de barrière autour de lui !
 Jetez une couverture dessus !
 Un jour, quelque part dans le futur, mon travail sera cité !
-Maintenant, avec des choses supplémentaires!
-Des choses supplémentaires!
-Ouais, des chiots pour tout le monde!
-Tellement doux, comme un bon bon bon!
-Très influent dans son cercle!
-Maintenant avec multijoueur !
+Maintenant, avec des choses supplémentaires !
+Des choses supplémentaires !
+Ouais, des chiots pour tout le monde !
+So sweet, like a nice bon bon !
+Très influent dans son cercle !
+Maintenant avec du Multijoueur !
 Levez-vous de votre tombe !
-Attention ! Un énorme chemise de bataille "STEVE" approche rapidement!
-Le guerrier bleu a tiré sur la nourriture!
-« Courez, lâche! » I hunger!
-Saveur sans assaisonnement !
-Étrange, mais pas un étranger!
-Plus robuste que les diamants, riche en crème !
-Il se balance, il fou!
-Croisières pour l'or !
-Prenez un batteur d'œuf et battez le contre une filette!
-Fais de moi une table, une table funky !
-Prenez l'ascenseur jusqu'à la mezzanine!
-Arrêtez d'être raisonnable, c'est l'Internet!
-/give @a hugs 64
-C'est une bonne chose pour les royaumes.
-N'importe quel ordinateur est un ordinateur portable si vous êtes assez courageux !
-Tout faire !
-Là où il n'y a pas de lumière, il peut araignée!
+Attention ! Un énorme navire de guerre "STEVE" approche rapidement !
+Le guerrier bleu a tiré sur la nourriture !
+Run, coward! I hunger!
+Flavor with no seasoning !
+Strange, but not a stranger !
+Tougher than diamonds, rich like cream !
+It swings, it jives !
+Cruising streets for gold !
+Take an eggbeater and beat it against a skillet !
+Make me a table, a funky table !
+Take the elevator to the mezzanine !
+Arrêtez d'être raisonnable, c'est l'Internet !
+/give @a câlins 64
+Ça c'est bien pour les Realms.
+N'importe quel ordinateur est un portable si vous êtes assez courageux !
+Faites tout, tout !
+Là où il n'y a pas de lumière, il peut araigner !
 GNU Terry Pratchett
-Plus de chiffres !
-doot doot
-Chute avec style!
-Il n'y a pas d'arrêter le trollmaso
+Plus Digital !
+tu-lut
+Tomber avec panache !
+Personne n'arrêtera le Trollmaso
 Lancez-vous au sol et ratez
 Règle #1 : ce n'est jamais ma faute
-Remplacé le fromage fondu par du sang?
-Coordonnées relativement cassées complètement fixées
-FTW des bateaux
-Édition Javalicienne
-Ne devrait pas être joué en conduisant
-¡Vas demasiado rápido!
-Ne nourrissez pas le chocolat aux perroquets !
+Remplacé le fromage fondu par du sang ?
+Complètement réparé les coordonnées relativement cassées
+Bateau FTW
+Javalesque édition
+Ne dois pas être joué en conduisant
+Tu vas trop vite !
+Ne nourrissez pas les perroquets du chocolat !
 La vraie signification de la covfefe
-Une illusion! « Que cachez-vous? »
+Une illusion! Que cachez-vous ?
 Quelque chose n'est pas tout à fait juste...
-Merci pour le poisson!
-Toutes les rumeurs sont vraies!
-Vraiment perdu la pêche!
-Tortue arc-en-ciel?
-Quelque chose de drôle!
+Merci pour le poisson !
+Toutes les rumeurs sont vraies !
+Truly gone fishing !
+Tortue arc-en-ciel ?
+Quelque chose de drôle !
 J'ai besoin de plus de contexte.
-Ahhhhhhhh !
-Ne vous inquiétez pas, soyez heureux!
+Ahhhhhh !
+Don't worry, be happy !
 Bouteille d'eau !
 Quelle est la question ?
-Plantez un arbre!
-Allez au dentiste!
-À quoi vous attendez-vous?
-Regardez la maman, je suis dans une éclabousse!
+Plante un arbre !
+Allez chez le dentiste !
+À quoi tu t'attendais ?
+Regarde maman, je suis dans un texte d'accueil !
 Il venait de l'espace.
-Superbe design de jeu juste là-bas!
-Ph1lza a eu une bonne course!
-10 ans de minage et d'artisanat!
-Ping l'humain!
-Si ce n'est pas évident, les renards ne sont pas des joueurs.
-Des abeilles bruyantes !
-Minecraft Java Edition présente : Bugs dégoûtants
-Lavez-vous les mains!
-Savon et eau!
-Soutiens les commerces de la région !
-Restez à la maison et jouez aux jeux!
-Restez en sécurité!
-Restez fort!
-Toucher ou éternuer dans votre coude!
-Ne vous touchez pas à votre visage!
+Superbe design de jeu juste ici !
+Dommage pour Ph1lza !
+15 years of Mining and Crafting!
+Ping l'humain !
+Si ce n'était pas évident, les renards ne sont pas des joueurs.
+Abeilles Bourdonnantes !
+Minecraft Java Edition présente : des bugs dégoûtants
+Lavez-vous les mains !
+Savon et eau !
+Soutennez les commerces locaux !
+Restez à la maison et jouez aux jeux !
+Restez en sécurité !
+Restez fort !
+Toussez ou éternuez dans votre coude !
+Ne vous touchez pas votre visage !
 Soutenir des parents et des amis âgés!
-Préparez-vous, mais ne montez pas!
-Les joueurs s'unissent – séparément dans vos propres foyers!
-Sauvez le monde – restez à l'intérieur!
-Achetez pour vos doyens!
-Raccrochez avec vos amis en ligne!
-Honey, j'ai fait pousser les abeilles !
+Préparez-vous, mais ne montez pas !
+Les gamers unissez-vous – séparément dans vos propres maisons !
+Sauvez le monde – restez à l'intérieur !
+Faites les courses pour vos aînés !
+Trainez avec vos amis en ligne !
+Chérie, j'ai agrandi les abeilles !
 Trouvez votre griffe !
-Tout le monde fait le Leif!
+Tout le monde fait le Leif !
 <3 Max & 99 & Canard !
-Des sourcils brouillés !
-Editer est un nom!
-Des développeurs à portée libre !
-Musique de Lena Raine!
-Dommaaage!
-#minecraftfarm
-Et ma pioche!
-Envision! Créer ! Partager!
+Des sourcils touffus !
+Edit est un nom !
+Par des développeurs à portée libre !
+Musique par Lena Raine !
+Aww man!
+#minecraftfarms
+Et ma pioche !
+Imaginer ! Create! Partager !
 Des graphismes fabuleux !
-Essayez aussi les Donjons Minecraft !
-Vanilla!
+Essaye aussi Minecraft Dungeons !
+Vanilla !
 Peut contenir des traces d'agrumes !
-Zoglin!?
-La vie noire compte !
+Zoglin !?
+Black lives matter !
 Soyez antiraciste !
-En savoir plus sur l'alliance!
-Parlez contre l’injustice et vers le haut pour l’égalité!
-Amplifiez et écoutez les voix du BIPOC !
-Éduquez vos amis sur l'antiracisme!
-Soutenez la communauté et les créateurs du BIPOC !
-Tenez-vous debout pour l’égalité dans votre communauté!
-[ce texte de démarrage est maintenant disponible]
+Renseignez-vous sur le fait d'être un allié !
+Parlez CONTRE l’injustice et POUR l'égalité !
+Amplifiez et écoutez les voix des BIPOC !
+Éduquez vos amis sur l'antiracisme !
+Soutenez la communauté et les créateurs BIPOC !
+Défendez l'égalité dans votre communauté !
+[ce texte d'accueil est maintenant disponible]
 Contient des chèvres simulées !
 Fait maison !
-Il y a <<un chat sur le clavier!~
-Le plus mignon prédateur que vous rencontrerez !
-Maintenant tu penses avec des pistons!
-Atteins le coppah!
-La version du jeu de plateau est également disponible!
-Honey, j'ai ciré le cuivre !
+Il y a èèun chat sur ùmon clavier !ç
+Le plus mignon des prédateurs que tu ne verras jamais !
+Maintenant tu penses avec des pistons !
+Va à l'hélicopper !
+Version jeu de plateau également disponible !
+Chérie, j'ai ciré le cuivre !
 Des sources de lumière à base végétale !
-Fabriqué par des personnes "réelles" !
-Shriek comme un Shrieker Sculk !
-« Qui a laissé les grenouilles? »
-RIBBIT!
+Fait par de "vraies" personnes !
+Hurle comme un Hurleur sculk !
+Who let the frogs out?
+COÂ !
 Équipe Croak !
-Nooooooooooooo !
-Parfum de la forêt de fleurs TM
+Nooooooooooooon !
+Parfum Forêt fleurie™
 Chapeau vendredi !
-Technoblade ne meurt jamais!
+Technoblade ne meurt jamais !
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
