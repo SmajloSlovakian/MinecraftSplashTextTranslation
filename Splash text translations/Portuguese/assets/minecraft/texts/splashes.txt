@@ -21,306 +21,305 @@ Macacos me mordam!
 É um jogo!
 Fabricado na Suécia!
 Utiliza LWJGL!
-Reticulating splines!
+Reticulando splines!
 Minecraft!
 Viva!
 Jogador único!
 Compatível com teclado!
-Ingots!
-Creepers explosivos!
-That's no moon!
+Lingotes!
+Creepers explodindo!
+Isso não é uma lua!
 l33t!
-Crie!
-Survive!
-Dungeon!
-Exclusive!
+Cria!
+Sobrevive!
+Masmorra!
+Exclusivo!
 The bee's knees!
-Closed source!
-Classy!
+Código fechado!
+Fino!
 Uau!
 Não está na Steam!
-Oh man!
+Oh meu!
 Comunidade altamente!
 Píxeis!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
+Agora, com dificuldade!
+Aprimorado!
 90% livre de erros!
-Pretty!
-12 herbs and spices!
+Bonito!
+12 ervas e especiarias!
 Sem gordura!
-Absolutely no memes!
-Free dental!
-Ask your doctor!
-Minors welcome!
-Cloud computing!
+Absolutamente nenhuns memes!
+Dentário grátis!
+Pergunta ao teu médico!
+Computação cloud!
 Legal na Finlândia!
 Difícil de descrever!
 Tecnicamente bom!
-Bringing home the bacon!
-Indie!
+A trazer para casa o bacon!
+Independente!
 Jogo do Ano!
-Ceci n'est pas une title screen!
+Ceci n'est pas une ecrã de título!
 Euclidiano!
 Agora em 3D!
 Inspirador!
 Herregud!
-Complex cellular automata!
+Autómato celular complexo!
 Sim, senhor!
 Jogado por cowboys!
-Now on OpenGL 3.2 core profile!
+Now on OpenGL 3.3 core profile!
 Milhares de cores!
 Experimenta!
-Age of Wonders is better!
+Age of Wonders é melhor!
 Prova o estufado de cogumelos!
 Sensacional!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Guaranteed!
+Garantido!
 Macroscópico!
 Bring it on!
-Random splash!
-Call your mother!
-Monster infighting!
-Loved by millions!
-Ultimate edition!
+Texto aleatório!
+Liga à tua mãe!
+Monstros lutando entre si!
+Amado por milhões!
+Edição suprema!
 Bizarro!
 Você tem uma chave nova!
 À prova de água!
 Não inflamavél!
 Uau, cara!
-All inclusive!
-Tell your friends!
+Todo inclusivo!
+Diz aos teus amigos!
 NP não está contido em P!
 Música por C418!
 Transmitido em direto!
 Assombrado!
-Polynomial!
+Polinomial!
 Terrestrial!
 All is full of love!
 Cheio de estrelas!
 Científico!
-Not as cool as Spock!
+Não tão fixe como o Spock!
 Collaborate and listen!
-Never dig down!
-Take frequent breaks!
+Nunca escaves para baixo!
+Faz pausas frequentes!
 Nada linear!
-Han shot first!
-Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
+O Han disparou primeiro!
+Prazer em conhecer-te!
+Baldes de lava!
+Monta o porco!
+Maior que a terra!
 sqrt(-1) love you!
 Phobos anomaly!
-Punching wood!
-Falling off cliffs!
-1% sugar!
-150% hyperbole!
+Bater em madeira!
+Caindo fora de penhascos!
+1% de açúcar!
+150% hipérbole!
 Synecdoche!
-Let's danec!
-Seecret Friday update!
-Reference implementation!
+Vamos dançra!
+Atualização da sexta-feira “Seecret”!
+Implementação de referência!
 Kiss the sky!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
-Do not distribute!
+Não distribuir!
 Cogito ergo sum!
 4815162342 linhas de código!
-A skeleton popped out!
-The sum of its parts!
-BTAF used to be good!
-I miss ADOM!
-umop-apisdn!
+Um esqueleto apareceu!
+A soma das suas partes!
+BTAF costumava ser bom!
+Tenho saudades do ADOM!
+¡opᴉʇɹǝʌuI
 OICU812!
-Bring me Ray Cokes!
-Finger-licking!
+Traz-me o Ray Cokes!
+De lamber os dedos!
 Temático!
 Pneumático!
 Sublime!
 Octogonal!
 Une baguette!
-Gargamel plays it!
-Rita is the new top dog!
-SWM forever!
-Representing Edsbyn!
+Gargamel joga-o!
+Rita é o melhor!
+HSB para sempre!
+Representando Edsbyn!
 Matt Damon!
-Supercalifragilisticexpialidocious!
-Consummate V's!
+Supercalifragilisticexpialidoce!
+Aperfeiçoa os Vs!
 Cow Tools!
-Double buffered!
-Fan fiction!
+Duplo buffered!
+Fanfic!
 Flaxkikare!
 Jason! Jason! Jason!
-Hotter than the sun!
-Internet enabled!
-Autonomous!
+Mais quente que o sol!
+Ativado pela Internet!
+Autónomo!
 Engage!
 Fantasia!
 DRR! DRR! DRR!
 Kick it root down!
-Regional resources!
+Recursos regionais.
 Woohoo, facepunch!
 Woohoo, somethingawful!
 Woohoo, tigsource!
 Woohoo, worldofminecraft!
 Woohoo, reddit!
 Woohoo, 2pp!
-Google anlyticsed!
-Now supports åäö!
-Dê-nos Gordon!
-Tip your waiter!
-Very fun!
-12345 is a bad password!
-Vote for net neutrality!
-Lives in a pineapple under the sea!
-MAP11 has two names!
-Omnipotent!
-Gasp!
+Google anliticsado!
+Agora suporta åäö!
+Da-nos Gordon!
+Dá uma gorjeta ao teu garçom!
+Muito divertido!
+12345 é uma má senha!
+Vota pela neutralidade da internet!
+Num ananás, vive debaixo do mar!
+MAP11 tem dois nomes!
+Omnipotente!
+Ufa!
 ...!
-Bees, bees, bees, bees!
+Abelhas, abelhas, abelhas, abelhas!
 Jag känner en bot!
-This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
+Este texto é difícil de ler se tu jogas o jogo com a resolução padrão, mas a 1080p está bem!
 Haha, LOL!
 Hampsterdance!
-Menger sponge!
+Esponja de Menger
 idspispopd!
 Eple (original edit)!
 So fresh, so clean!
-Slow acting portals!
-Try the Nether!
-Don't look directly at the bugs!
-Oh, ok, Pigmen!
-Finally with ladders!
-Scary!
-Play Minecraft, Watch Topgear, Get Pig!
-Twittered about!
+Portais ação lenta!
+Tenta o Nether!
+Não olhes diretamente para os bugs!
+Oh, ok, Homem-Porco!
+Finalmente com escadas!
+Assustador!
+Joga Minecraft, Vê Topgear, Pega Porco!
+Twitterado sobre!
 Jump up, jump up, and get down!
-Joel is neat!
-A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
+Joel é bacano!
+Uma adivinha, embrulhada em mistério!
+Este papagaio já não está mais! Deixou de existir!
 Welcome to your Doom!
 Stay a while, stay forever!
-Stay a while and listen!
-Treatment for your rash!
-"Autological" is!
-Information wants to be free!
-"Almost never" is an interesting concept!
-Lots of truthiness!
-The creeper is a spy!
-Turing complete!
-It's groundbreaking!
+Fica durante um pouco e ouve!
+Tratamento para a tua irritação na pele!
+“Autológico!” é!
+Informação quer ser livre!
+“Quase nunca” é um conceito interessante!
+Muita verdade aparente!
+O creeper é um espião!
+Completo com Turing!
+É inovador!
 Let our battle's begin!
-The sky is the limit!
-Jeb has amazing hair!
-Ryan also has amazing hair!
-Casual gaming!
-Undefeated!
+O céu é o limite!
+Jeb tem um cabelo incrível!
+O Ryan também tem cabelo incrível!
+Gaming Casual!
+Nunca derrotado!
 Um pouco como os Lemmings!
-Follow the train, CJ!
-Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
-DungeonQuest is unfair!
+Segue o comboio, CJ!
+Aproveitando sinergia!
+Esta mensagem nunca aparece na tela inicial, não é estranho?
+DungeonQuest não é justo!
 90210!
-Check out the far lands!
-Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
-Bread is pain!
-Read more books!
+Dá uma olhada às terras distantes!
+Tyrion iria amá-lo!
+Tenta também o VVVVVV!
+Tenta também o Super Meat Boy!
+Tenta também Terraria!
+Tenta também o Mount And Blade!
+Tenta também o Project Zomboid!
+Tenta também o World of Goo!
+Tenta também o Limbo!
+Tenta também o Pixeljunk Shooter!
+Tenta também o Braid!
+Isso é super!
+“Pain” é pão!
+Lê mais livros!
 Khaaaaaaaaan!
-Less addictive than TV Tropes!
-More addictive than lemonade!
-Bigger than a bread box!
-Millions of peaches!
+Menos viciante que TV Tropes!
+Mais viciante que limonada!
+Maior que uma caixa de pão!
+Milhões de pêssegos!
 Fnord!
-This is my true form!
-Don't bother with the clones!
+Esta é a minha forma verdadeira!
+Nem te incomodes com os clones!
 Cabeça de abóbora!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Recheado de funcionalidades!
+Feito pelo Jeb!
+Tem um final!
+Finalmente completo!
+Cheio de funcionalidades!
 Boots with the fur!
 Stop, hammertime!
-Testificates!
-Conventional!
-Homeomorphic to a 3-sphere!
-Doesn't avoid double negatives!
-Place ALL the blocks!
-Does barrel rolls!
-Meeting expectations!
-PC gaming since 1873!
+Testemunhos!
+Convencional!
+Homeomorfismo a uma esfera tridimensional!
+Não evita negativos duplos!
+Coloca TODOS os blocos!
+Faz um rolamento de barril!
+Preenche as expectativas!
+PC gaming desde 1873!
 Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
-Got your nose!
-Haley loves Elan!
-Afraid of the big, black bat!
-Doesn't use the U-word!
+Tenho o teu nariz!
+Haley ama o Elan!
+Com medo do morcego grande e preto!
+Não usa a palavra-U!
 Child's play!
-See you next Friday or so!
-From the streets of Södermalm!
-150 bpm for 400000 minutes!
-Technologic!
+Até a próxima sexta-feira ou por volta dai!
+Das ruas de Södermalm!
+150 bpm por 400000 minutos!
+Tecnológico!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
 Γεια σου Ελλάδα!
-My life for Aiur!
+A minha vida para Aiur!
 Lennart lennart = new Lennart();
-I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Eu vejo que o teu vocabulário melhorou!
+Quem o pôs ali?
+Não consigo explicar isso!
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+&1C&ao&3l&4o&5r&6m&7á&8t&1i&ac&bo
 §kFUNKY LOL
 Big Pointy Teeth!
-Bekarton guards the gate!
+Bekarton guarda o portão!
 Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
+Não alimentes abacates a papagaios!
+Espadas para toda gente!
+Pfvr responde ao meu tweet!
 .party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
-Now with extra hugs!
-Java 16 + 1 = 17!
-Woah.
+Pega na almofada dela!
+Larga esse biscoito!
+Bem assustador!
+Eu tenho uma sugestão.
+Agora com abraços extra!
+Java 16 + 1 + 4 = 21!
+Uau.
 HURNERJSGER?
 Qual é, meu?
-Now contains 32 random daily cats!
-That's Numberwang!
-pls rt
-Do you want to join my server?
-Put a little fence around it!
-Throw a blanket over it!
-One day, somewhere in the future, my work will be quoted!
-Now with additional stuff!
+Agora contém 32 gatos aleatórios diários!
+Isso é Numberwang!
+pfv rt
+Queres entrar no meu servidor?
+Põe uma pequena cerca a volva!
+Atira um cobertor sobre isso!
+Um dia, algures no futuro, o meu trabalho será citado!
+Agora com coisas adicionais!
 Coisas extra!
-Yay, puppies for everyone!
-So sweet, like a nice bon bon!
-Very influential in its circle!
-Now With Multiplayer!
-Rise from your grave!
-Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
-Run, coward! I hunger!
+Yay, cachorrinhos para todos!
+Tão doce, como um bom bonbon!
+Muito influente no seu círculo!
+Agora com Multiplayer!
+Levanta-te da tua sepultura!
+Aviso! Um enorme navio de guerra “STEVE” aproximando-se rápido!
+Guerreiro azul disparou na comida!
+Foge, covarde! Eu faminto!
 Flavor with no seasoning!
 Strange, but not a stranger!
 Tougher than diamonds, rich like cream!
@@ -329,106 +328,123 @@ Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
-/give @a hugs 64
-This is good for Realms.
-Any computer is a laptop if you're brave enough!
-Do it all, everything!
-Where there is not light, there can spider!
+Para de ser razoável, isto é a internet!
+/give @a abraços 64
+Isto é bom para Realms.
+Qualquer computador é um portátil, se fores bravo o suficiente!
+Faz tudo, mesmo tudo!
+Onde não há luz, pode aranha!
 GNU Terry Pratchett
 Mais Digital!
 doot doot
-Falling with style!
-There's no stopping the Trollmaso
-Throw yourself at the ground and miss
-Rule #1: it's never my fault
-Replaced molten cheese with blood?
-Absolutely fixed relatively broken coordinates
-Boats FTW
-Javalicious edition
-Should not be played while driving
-You're going too fast!
-Don't feed chocolate to parrots!
-The true meaning of covfefe
-An illusion! What are you hiding?
-Something's not quite right...
-Thank you for the fish!
-All rumors are true!
+Caindo com estilo!
+Não há que parar o Trollmaso
+Atira-te ao chão e falha
+Regra #1: a culpa nunca é minha
+Substituí queijo derretido com sangue?
+Arranjei absolutamente as coordenadas relativamente "broken"
+Barcos FTW
+Edição Javaliciosa
+Não deve ser jogado enquanto conduz
+Estás a ir rápido demais!
+Não alimentes chocolate a papagaios!
+O verdadeiro significado de covfefe
+Uma ilusão! O que estás a esconder?
+Algo não está muito certo...
+Obrigado pelo peixe!
+Todos os rumores são verdadeiros!
 Truly gone fishing!
 Tartaruga arco-íris?
 Algo engraçado!
 Preciso de mais contexto.
 Ahhhhhh!
 Don't worry, be happy!
-Water bottle!
-What's the question?
+Garrafa de Água!
+Qual é a pergunta?
 Planta uma árvore!
 Vai ao dentista!
-What do you expect?
-Look mum, I'm in a splash!
+Do que estavas à espera?
+Olha mãe, estou num título inicial!
 Veio do espaço.
-Awesome game design right there!
-Ph1lza had a good run!
-10 years of Mining and Crafting!
-Ping the human!
-In case it isn't obvious, foxes aren't players.
+Design de jogo altamente aqui mesmo!
+Ph1lza teve uma boa corrida!
+15 years of Mining and Crafting!
+Ping o Humano!
+Caso não seja óbvio, raposas não são jogadores.
 Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
+Minecraft Edição Java apresenta: Bugs Nojentos
 Lava as mãos!
 Água e sabão!
-Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
-Cough or sneeze into your elbow!
-Não toques na cara!
-Support elderly relatives and friends!
-Prepare, but don’t hoard!
-Gamers unite – separately in your own homes!
-Save the world – stay inside!
-Shop for your elders!
-Hang out with your friends online!
-Honey, I grew the bees!
-Find your claw!
-Everybody do the Leif!
-<3 Max & 99 & Ducky!
-Bushy eyebrows!
-Edit is a name!
-From free range developers!
-Music by Lena Raine!
+Apoia negócios locais!
+Fica em casa e joga!
+Fica seguro!
+Sê forte!
+Tosse ou espirra no teu cotovelo!
+Não toques na tua cara!
+Apoia familiares, idosos e amigos!
+Prepara-te, mas não acumules!
+Games unem-se — separadamente, nas nossas próprias casas!
+Salva o mundo – fica em casa!
+Compra pelos teus familiares idosos!
+Passa tempo junto com os teus amigos online!
+Querida, Eu cresci as abelhas!
+Encontra a tua garra!
+Todos façam o Leif!
+<3 Max e 99 e Ducky!
+Sobrancelhas espessas!
+Edit é um nome!
+De desenvolvedores livres!
+Música por Lena Raine!
 Aww man!
 #minecraftfarms
-And my pickaxe!
-Envision! Crie! Share!
+E a minha picareta!
+Visiona! Create! Partilha!
 Gráficos fabulosos!
-Also try Minecraft Dungeons!
+Também tenta o Minecraft Dungeons!
 Vanilla!
-May contain traces of citrus!
+Pode conter vestígios de citrinos!
 Zoglin!?
 Black lives matter!
-Be anti-racist!
-Learn about allyship!
-Speak OUT against injustice and UP for equality!
-Amplify and listen to BIPOC voices!
-Educate your friends on anti-racism!
-Support the BIPOC community and creators!
-Stand up for equality in your community!
-[this splash text is now available]
-Contains simulated goats!
+Sê antirracista!
+Aprende sobre ser um aliado!
+Fala contra a injustiça e sobre a igualdade!
+Amplia e ouve as vozes de pessoas de cor!
+Educa os teus amigos sobre antiracismo!
+Apoia a comunidade de pessoas de cor e criadores!
+Defende a igualdade na tua comunidade!
+[este texto inicial está disponível agora]
+Contém cabras simuladas!
 Caseiro!
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+A u<<m gato no ,meu teclado!~
+O predador mais fofo que jamais irás encontrar!
+Agora estás a pensar com pistões!
 Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
-Plant-based light sources!
-Feito por pessoas "a sério"!
-Shriek like a Sculk Shrieker!
+Versão jogo de tabuleiro disponível!
+Querida, eu encerei o cobre!
+Fontes de luz baseadas de plantas!
+Feito por pessoas “reais”!
+Berra como um alarme de Sculk!
 Who let the frogs out?
-RIBBIT!
-Croak team!
-Nooooooooooooo!
-Flower forest TM perfume
-Hat Fridays!
-Technoblade never dies!
+Ribbit!
+Equipa croac!
+Nãoooooooooooooo!
+Perfume Floresta de flores TM
+Sextas-feira de chapéus!
+Technoblade nunca morre!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
