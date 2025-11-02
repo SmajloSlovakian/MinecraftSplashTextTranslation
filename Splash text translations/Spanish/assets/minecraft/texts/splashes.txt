@@ -53,7 +53,6 @@
 ¡NADA de memes!
 ¡Dental gratis!
 ¡Consúltalo con tu médico!
-¡Menores bienvenidos!
 ¡Computación en la nube!
 ¡Legal en Finlandia!
 ¡Difícil de etiquetar!
@@ -69,7 +68,7 @@
 ¡Autómata celular complejo!
 ¡Si, señor!
 ¡Jugado por cowboys!
-¡Ahora en OpenGL 3.2 core profile!
+Now on OpenGL 3.3 core profile!
 ¡Miles de colores!
 ¡Pruébalo!
 ¡Age of Wonders es mejor!
@@ -123,7 +122,7 @@
 ¡Implementación de referencias!
 ¡Besa el cielo!
 ¡20 GOTO 10!
-¡Integración de Verlet!
+Verlet integration!
 ¡Peter Griffin!
 ¡No distribuir!
 ¡Cogito ergo sum!
@@ -152,13 +151,13 @@
 ¡Búfer doble!
 ¡Fanfic!
 ¡Flaxkikare!
-¡Jason! ¡Jason! ¡Jason!
+¡Jason! ¡Jason! Jason!
 ¡Más caliente qué el sol!
 ¡Internet activado!
 ¡Autónomo!
 ¡Participa!
 ¡Fantasía!
-¡DRR! ¡DRR! ¡DRR!
+¡DRR! ¡DRR! DRR!
 ¡Echa raíces!
 ¡Recursos regionales!
 ¡Woo, facepunch!
@@ -262,7 +261,7 @@ Stop, hammertime!
 ¡PC gaming desde 1873!
 Ghoughpteighbteau tchoghs!
 ¡Déjà-vu!
-¡Déjà-vu!
+Déjà vu!
 ¡Tengo tu nariz!
 ¡Haley ama a Elan!
 ¡Teme al gran murciélago negro!
@@ -273,7 +272,7 @@ Ghoughpteighbteau tchoghs!
 ¡A 150 ppm durante 400000 minutos!
 ¡Tecnológico!
 ¡Alma funk, hermano!
-¡Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ if not ok then return end
 ¡Bastante temible!
 Tengo una sugerencia.
 ¡Ahora con abrazos extra!
-¡Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Guau.
 ¿HURNERJSGER?
 ¿Qué pasa, doc?
@@ -369,7 +368,7 @@ Don't worry, be happy!
 Vino del espacio.
 ¡Increíble diseño de juego!
 ¡Ph1lza tuvo una buena partida!
-¡10 años minando y fabricando!
+15 years of Mining and Crafting!
 ¡Hazle ping al humano!
 En caso de que no sea obvio, los zorros no son jugadores.
 ¡Abejas zumbadoras!
@@ -399,7 +398,7 @@ Everybody do the Leif!
 Aww man!
 #minecraftfarms
 ¡Y mi pico!
-¡Visualiza! ¡Crea! ¡Comparte!
+¡Visualiza! Create! ¡Comparte!
 ¡Gráficos fabulosos!
 ¡Prueba Minecraft Dungeons también!
 ¡Vanilla!
@@ -432,3 +431,20 @@ Who let the frogs out?
 Perfume de bosque forestal TM
 ¡Viernes de sombreros!
 ¡Technoblade nunca muere!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
