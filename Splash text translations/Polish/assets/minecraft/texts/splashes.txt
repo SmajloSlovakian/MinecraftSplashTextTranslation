@@ -53,7 +53,6 @@ Piękny!
 Żadnych memów!
 Darmowy stomatolog!
 Zapytaj swojego lekarza!
-Nieletni mile widziani!
 Obliczenia w chmurze!
 Legalny w Finlandii!
 Trudny do opisania!
@@ -69,7 +68,7 @@ Herregud!
 Skomplikowane automaty komórkowe!
 Tak jest!
 Grają w niego kowboje!
-Teraz na profilu rdzenia OpenGL 3.2!
+Now on OpenGL 3.3 core profile!
 Tysiące kolorów!
 Wypróbuj!
 Age of Wonders jest lepsza!
@@ -123,7 +122,7 @@ Seekretna piątkowa aktualizacja!
 Z zaimplementowanymi nawiązaniami!
 Ucałuj niebo!
 20 GOTO 10!
-Algotrytm Verleta!
+Verlet integration!
 Peter Griffin!
 Nie rozpowszechniać!
 Cogito ergo sum!
@@ -262,7 +261,7 @@ Spełnia oczekiwania!
 PC gaming od 1873 r.!
 Grzegorz Brzęczyszczykiewicz!
 Déjà vu!
-Déjà vu!
+Déjà vu!
 Mam twój nos!
 Haley kocha Elana!
 Boi się wielkiego, czarnego nietoperza!
@@ -273,7 +272,7 @@ Z ulic Södermalmu!
 150 bpm przez 400000 minut!
 Technologiczny!
 Nieznany na Wyspach Bergamutach!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Odłóż to ciastko!
 Całkiem straszny!
 Mam propozycję.
 Teraz jeszcze więcej uścisków!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Łoo.
 HURNERJSGER?
 Co jest, doktorku?
@@ -369,7 +368,7 @@ Spójrz, mamo, jestem wiadomością powitalną!
 Przybył z kosmosu.
 I to się nazywa design gry!
 Ph1lzie nieźle poszło!
-Dziesięć lat kopania i wytwarzania!
+15 years of Mining and Crafting!
 Pinguj człowieka!
 Jeśli to nie oczywiste, lisy to nie gracze.
 Brzęczące pszczoły!
@@ -399,7 +398,7 @@ Muzyka autorstwa Leny Raine!
 Aww man!
 #minecraftfarms
 I mój kilof!
-Projektuj! Twórz! Dziel się!
+Projektuj! Create! Dziel się!
 Bajeczna grafika!
 Zagraj również w Minecraft Dungeons!
 Vanilla!
@@ -427,8 +426,25 @@ Stworzony przez „prawdziwych” ludzi!
 Wrzeszcz jak sculkowe wrzeszczydło!
 Kto wypuścił te żaby?
 RIBBIT!
-Croak team!
+Drużyna Kumkania!
 Nieeeeeeeeeeeee!
 Perfumy kwiecistego lasu™
 Czapkowe piątki!
 Technoblade nigdy nie ginie!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
