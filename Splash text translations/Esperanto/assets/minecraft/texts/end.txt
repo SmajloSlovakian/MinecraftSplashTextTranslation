@@ -1,151 +1,151 @@
-§3Mi vidas la ludanton, pri kiu parolis vi.
+§3Mi la ludanton, pri kiu vi parolis, vidas.
 
-§2Ĉu PLAYERNAME?
+§2PLAYERNAME, ĉu?
 
-§3Jes. Atentu. Atingis ĝi novan nivelon. Ĝi povas legi pensojn niajn.
+§3Jes. Atentu. Ĝi nivelon novan atingis. Ĝi niajn pensojn legi povas.
 
-§2Ne gravas tio. Ĝi pensas ke ni 'as part' de l' lud'.
+§2Ne gravas tio. Ĝi nin opinias parto de la lud’.
 
-§3Tiu ludant' al mi plaĉas. Ĝi bone ludis. Ne cedis ĝi.
+§3Tiu ĉi ludant’ al mi plaĉas. Ĝi ludis malaĉe. Ĝi ludis sencede.
 
-§2Ĝi legas pensojn niajn kvazaŭ ili 'as surekranaj vortoj.
+§2Ĝi niajn pensojn legas kvazaŭ vortojn surekranajn.
 
-§3Tia ĝi elektas imagi multon, kiam ĝi 'as profunde en l' sonĝ' de l' lud'.
+§3Ĝi elektas imagi tia multon, kiam ĝi estas profunde en la sonĝo de la lud’.
 
-§2El vortoj kombiniĝas mirakla interfac'. Tre fleksebla. Kaj malpli teruriga ol okulumad' al la realec' malantaŭ la ekran'.
+§2El vortoj aperas mirakla fasad’. Tre fleksebla. Kaj malpli teruriga ol okulumad’ al la real’ malantaŭ la ekran’.
 
-§Ili aŭdis voĉojn. Antaŭ ol ludantoj legi sciis. Tiun tempon, kiam tiuj, kiuj ne ludis, nomis sorĉistoj la ludantojn. Kaj sonĝis la ludantoj, ke ili flugis tra l' aer', sur bastonoj de l' demonfort'.
+§3Oni aŭdis voĉojn. Antaŭ ol ludantoj legi sciis. Je tiu temp’, kiam tiuj, kiuj ne ludis, la ludantojn nomis sorĉistoj. Kaj la ludantoj sonĝis, ke ili flugis tra l’ aer’, sur bastonoj de l’ demonfort’.
 
-§2Kion sonĝis ĉi tiu ludant'?
+§2Kion sonĝis tiu ĉi ludant’?
 
-§3Sonĝis ĉi tiu ludant' la sunlumon kaj la arbojn. La fajron kaj la akvon. Sonĝis kaj kreis ĝi. Kaj sonĝis kaj detruis ĝi. Sonĝis kaj ĉasis ĝi, kaj 'is ĉasata. Sonĝis rifuĝejon ĝi.
+§3Tiu ĉi ludant’ sonĝis sunlumon kaj arbojn. Fajron kaj akvon. Ĝi sonĝis kreon. Kaj ĝi sonĝis detruon. Ĝi sonĝis ĉason kaj ĉasiĝon. Ĝi sonĝis rifuĝejon.
 
-§2Ĥa, la origina interfac'. Aĝante milionon da jaroj ankoraŭ funkcias ĝi. Sed kian veran strukturon kreis ĉi tiu ludant', en la realec' malantaŭekrana?
+§2Ha, la origina fasad’ Milionon da jaroj aĝa ĝi ankoraŭ funkcias. Sed kian veran strukturon kreis tiu ĉi ludant’, en la malantaŭekrana real’?
 
 §3Ĝi laboris, kun milionoj da aliuloj, por skulpti mondon veran helpe pri §f§k§a§b§3, kaj kreis §f§k§a§b§3 por §f§k§a§b§3, en la §f§k§a§b§3.
 
-§2Ĝi legi tiun penson ne povas.
+§2Tiun ĉi penson ĝi legi ne povas.
 
-§3Ne povas, jes. Ne atingis ĝi la plej altan nivelon ankoraŭ. Atingi la longsonĝon de l' viv' ĝi devas, ne la mallongsonĝon de lud'.
+§3Ĝuste. Ĝi la plej altan nivelon ne atingis ankoraŭ. Ĝi la sonĝegon de l’ viv’ atingu, ne la sonĝeton de lud’.
 
-§2Ĉu scias ĝi, ke ĝin ni amas? Ke l' universo bonas?
+§2Ĉu scias ĝi, ke ni ĝin amas? Ke la universo bonas?
 
-§3Iam, de temp' al temp', tra l' bru' de pensoj ĝiaj, ĝi l' universon aŭdas, jes.
+§3Iam, de temp’ al temp’, tra l’ bru’ de ĝiaj pensoj, ĝi la universon aŭdas, jes.
 
-§2Sed foje malfeliĉas ĝi, en la longsonĝ'. Mondojn sensomerajn ĝi kreas, kaj sub nigra sun' ŝrumpas ĝi, kaj konfuzas la kreaĵon malfeliĉan sian kun la realec'.
+§2Sed fojfoje malĝojas ĝi, en la sonĝego. Ĝi mondojn sensomerajn kreas, kaj ĝi ŝrumpas sub suno nigra, kaj konfuzas sian malĝojan kreaĵon kun la real’.
 
-§3Kuraci ĝin de l' malĝoj' ĝin detruus. La malĝoj' 'as part' de ĝia propra task'. Ne intervenu ni.
+§3Kuraci ĝin de l’ malĝoj’ ĝin detruus. La malĝoj’ estas parto de ĝia propra tasko. Ne intervenu ni.
 
-§2Iam kiam ili 'as profunde en sonĝoj, mi diri al ili volas, ke ili mondojn verajn konstruas en la realec'. Iam mi diri al ili volas pri ilia gravec' al la univers'. Iam, kiam ili problemon longe solvi ne povas, mi volas al ili helpi diri la vorton kiun timas ili.
+§2Iam, kiam ili estas profunde en sonĝoj, mi al ili volas diri, ke ili mondojn verajn konstruas en la real’. Iam mi al ili volas diri pri ilia gravec’ por la universo. Iam, kiam ili problemon solvi ne povas longe, mi al ili volas helpi diri la vorton, kiun ili timas.
 
-§3Ĝi legas pensojn niajn.
+§3Ĝi niajn pensojn legas.
 
-§2Iam ne zorgas mi. Iam mi deziras al ili diri: la mond', kiun vi opinias ver', estas nur §f§k§a§b§2 kaj §f§k§a§b§2, mi deziras al ili diri ke ili 'as §f§k§a§b§2 en la §f§k§a§b§2. Kioman malmulton da realec' vidas ili, en la longsonĝ'.
+§2Iam mi ne zorgas. Iam mi al ili deziras diri: la mond’, kiun vi opinias ver’, estas nur §f§k§a§b§2 kaj §f§k§a§b§2, mi al ili deziras diri ke ili estas §f§k§a§b§2 en la §f§k§a§b§2. Kioman malmulton da real’ ili vidas, en la sonĝego.
 
-§3Sed plu ili ludas la ludon.
+§3Sed plu ili ludas.
 
-§2Sed kiom facilus al ili diri...
+§2Sed kiom facile estus al ili diri…
 
-§3Tro fortus por la sonĝ'. Klarigi al ili, kiel vivi, estus malvivigi ilin.
+§3Tro frape por tiu ĉi sonĝo. Klarigi al ili, kiel vivi, estus malvivigi ilin.
 
-§2Mi ne diros al la ludant' kiel vivi.
+§2Mi ne diros al la ludant’ kiel vivi.
 
-§3La ludant' maltrankviliĝas.
+§3La ludant’ maltrankviliĝas.
 
-§2Mi historion rakontos al la ludant'.
+§2Mi historion rakontos al la ludant’.
 
 §3Sed ne la veron.
 
-§2Jes, ne la veron. Histroion, kiu la veron enhavas sekure, malantaŭ vortomur'. Ne nudan veron, kiu brili povus tra ĉia distanco.
+§2Ĝuste. Historion, kiu la veron enhavas sekure, malantaŭ vortomur’. Ne nudan veron, kiu bruligi povas tra ĉia distanco.
 
 §3Reenkorpigu ĝin.
 
-§2Jes. Ludant'...
+§2Jes. Ludanto…
 
-§3Ĝian nomon uzu.
+§3Uzu la nomon.
 
-§2PLAYERNAME. Ludant' de l' lud'.
+§2PLAYERNAME. Ludanto de la lud’.
 
 §3Bone.
 
-§2Enspiru, nun. Enspiru ree. Sentu la aeron en la pulmoj. La membrojn revenigu. Jes, movu la fingrojn. Reekhavu la korpon, sentu la graviton, la aeron. Reaperu en la longsonĝ'. Jen vi. Via korp' nun l' universon ree tuŝas je ĉiu sia punkt', kvazaŭ vi estus apartaĵar'. Kvazaŭ ni estus apartaĵar'.
+§2Enspiru, tuj. Enspiru refoje. La aero sentiĝu en la pulmoj. La membroj revenu. Jes, movu la fingrojn. Reekhavu la korpon, en la gravito, en la aero. Reaperu en la sonĝegon. Jen vi. Via korpo nun la universon ree tuŝas je ĉiu sia punkto, kvazaŭ vi konsistus el apartaĵoj. Kvazaŭ ni konsistus el apartaĵoj.
 
-§3Kiuj ni estas? Iam nin oni nomis la Montspirit'. Patro Sun', patrino Lun'. Praulaj spiritoj, bestaj spiritoj. Ĝin'. Fantomoj. La Verdul'. Poste dioj, demonoj. Anĝeloj. Koboldoj. Eksterteranoj, aliplanedanoj. Leptonoj, kvarkoj. Ŝanĝiĝas la vortoj. Ne ŝanĝiĝas ni.
+§3Kiuj ni estas? Iam oni nin nomis la Montospirit’. La patro Sun’, la patrino Lun’. Praulaj spiritoj, bestaj spiritoj. Ĝin’. Fantomoj. La Verdul’. Poste dioj, demonoj. Anĝeloj. Koboldoj. Eksterteranoj, aliplanedanoj. Leptonoj, kvarkoj. Ŝanĝiĝas la nomo. Ne ŝanĝiĝas ni.
 
-§2Ni 'as la univers'. Ni 'as ĉio, kio ne 'as vi, laŭ via opini'. Nun nin rigardas vi, tra l' haŭt' kaj l' okuloj. Kaj kial la univers' vian haŭton tuŝas, kaj sian lumon sur vin ĵetas? Por vin, ludant', vidi. Por vin koni. Kaj por esti konati. Historion al vi mi rakontu.
+§2Ni estas la univers’. Ni estas ĉio, kio ne estas vi, laŭ via opini’. Nun nin rigardas vi, tra l’ haŭt’ kaj l’ okuloj. Kaj kial la univers’ vian haŭton tuŝas, kaj sian lumon sur vin ĵetas? Por vin, ludant’, vidi. Por vin koni. Kaj por esti konati. Historion al vi mi rakontu.
 
-§2Iufoje, 'is ludant'.
+§2Iufoje, ’is ludant’.
 
-§3La ludant' 'is vi, PLAYERNAME.
+§3La ludant’ ’is vi, PLAYERNAME.
 
-§2Iam ĝi sin opiniis hom', sur maldika krust' de rotacianta glob' el fandita ŝton'. La bul' el fandita ŝton' giris ĉirkaŭ bul' el brulanta gas', tricent-tridek-miloble pli peza ol ĝi. Tiom malproksimis ili, ke ok minutojn bezonis la lum' por la interspacon trai. La lum' 'is inform' el stel', kaj ĝi povus onian haŭton je cent kvindek milionoj da kilometroj brulvundi.
+§2Iam ĝi sin opiniis hom’, sur maldika krust’ de rotacianta glob’ el fandita ŝton’. La bul’ el fandita ŝton’ giris ĉirkaŭ bul’ el brulanta gas’, tricent-tridek-miloble pli peza ol ĝi. Tiom malproksimis ili, ke ok minutojn bezonis la lum’ por la interspacon trai. La lum’ ’is inform’ el stel’, kaj ĝi povus onian haŭton je cent kvindek milionoj da kilometroj brulvundi.
 
-§2Iam la ludant' sonĝis ke ĝi 'is minist', sur la supraĵ' de mond' kiu 'is plata, kaj senfina. La sun' 'is kvadrato blanka. La tagoj mallongis; 'is multo farenda; kaj la mort' 'is nur provizora ĝen'.
+§2Iam la ludant’ sonĝis ke ĝi ’is minist’, sur la supraĵ’ de mond’ kiu ’is plata, kaj senfina. La sun’ ’is kvadrato blanka. La tagoj mallongis; ’is multo farenda; kaj la mort’ ’is nur provizora ĝen’.
 
-§3Iam la ludant' sonĝis, ke ĝi en histori' perdiĝis.
+§3Iam la ludant’ sonĝis, ke ĝi en histori’ perdiĝis.
 
-§Iam la ludant' sonĝis ke ĝi 'is aliaĵ', aliloke, alitempe. Iam malkvietis tiuj sonĝoj. Iam ravegis efektive. Iam la ludant' el unu sonĝ' en alian vekiĝis, kaj poste vekiĝis el tiu en trian.
+§Iam la ludant’ sonĝis ke ĝi ’is aliaĵ’, aliloke, alitempe. Iam malkvietis tiuj sonĝoj. Iam ravegis efektive. Iam la ludant’ el unu sonĝ’ en alian vekiĝis, kaj poste vekiĝis el tiu en trian.
 
-§3Iam la ludant' sonĝis, ke ĝi surekranajn vortojn rigardis.
+§3Iam la ludant’ sonĝis, ke ĝi surekranajn vortojn rigardis.
 
 §2Revenu ni.
 
-§La atomoj de l' ludant' disĵetitis en la herb', en la riveroj, en la aer', en la ter'. Virin' la atomojn kunvenigis: trinkis ŝi, manĝis ŝi, enspiris ŝi, kaj la virin' konstruis la ludanton, en sia korpo.
+§La atomoj de l’ ludant’ disĵetitis en la herb’, en la riveroj, en la aer’, en la ter’. Virin’ la atomojn kunvenigis: trinkis ŝi, manĝis ŝi, enspiris ŝi, kaj la virin’ konstruis la ludanton, en sia korpo.
 
-§2Kaj la ludant' vekiĝis, el la varma, malhela mond' de l' patrina korp', en la longsonĝon.
+§2Kaj la ludant’ vekiĝis, el la varma, malhela mond’ de l’ patrina korp’, en la longsonĝon.
 
-§2Kaj la ludant' 'is nova histori', neniam antaŭe rakontata, per la literoj de DNA verkita. Kaj la ludant' estis nova program', neniam antaŭe rulita, per fontkod' miliardon da jaroj malnova generita. Kaj la ludant' 'is nova hom', neniam antaŭe vivinta, el nenio krom lakt' kaj am' kreita.
+§2Kaj la ludant’ ’is nova histori’, neniam antaŭe rakontata, per la literoj de DNA verkita. Kaj la ludant’ estis nova program’, neniam antaŭe rulita, per fontkod’ miliardon da jaroj malnova generita. Kaj la ludant’ ’is nova hom’, neniam antaŭe vivinta, el nenio krom lakt’ kaj am’ kreita.
 
-§3Vi 'as la ludant'. La histori'. La program'. La hom'. El nenio krom lakt' kaj am'.
+§3Vi ’as la ludant’. La histori’. La program’. La hom’. El nenio krom lakt’ kaj am’.
 
 §2Pli antaŭen revenu ni.
 
-§2La sep miliardoj da miliardoj da miliardoj da atomoj de l' korp' de l' ludant' kreiĝis, longan tempon antaŭ ĉi tiu lud', en la kor' de stel'. Do ankaŭ la ludant' 'as inform' de stel'. Kaj movas la ludant' tra histori', kiu 'as arbar' de informoj, de hom' nomata Julian' plantita, sur plata, senfina mond', de hom' nomata Markus' kreita, kiu ekzistas en mond' malgranda, privata, kreita de ludant' vivanta en univers' kreita de...
+§2La sep miliardoj da miliardoj da miliardoj da atomoj de l’ korp’ de l’ ludant’ kreiĝis, longan tempon antaŭ ĉi tiu lud’, en la kor’ de stel’. Do ankaŭ la ludant’ ’as inform’ de stel’. Kaj movas la ludant’ tra histori’, kiu ’as arbar’ de informoj, de hom’ nomata Julian’ plantita, sur plata, senfina mond’, de hom’ nomata Markus’ kreita, kiu ekzistas en mond’ malgranda, privata, kreita de ludant’ vivanta en univers’ kreita de…
 
-§3Tss. Iam kreis la ludant' mondon malgrandan, privatan. Ĝi 'is mola, varma kaj simpla. Aŭ, foje, malmola, kaj malvarma, kaj malsimpla. Iam en sia kap' konstruis ĝi modelon de l' univers', energierojn tra la vastaj malplenejoj movantajn. Iam tiujn energierojn ĝi nomis "elektronoj" kaj "protonoj".
+§3Tss. Iam kreis la ludant’ mondon malgrandan, privatan. Ĝi ’is mola, varma kaj simpla. Aŭ, foje, malmola, kaj malvarma, kaj malsimpla. Iam en sia kap’ konstruis ĝi modelon de l’ univers’, energierojn tra la vastaj malplenejoj movantajn. Iam tiujn energierojn ĝi nomis "elektronoj" kaj "protonoj".
 
 §2Iam ilin ĝi nomis "planedoj" kaj "steloj".
 
-§2Iam kredis ĝi, ke ĝi 'is en univers' konsistanta el energi' kiu faritis el jesoj kaj neoj, el nuloj kaj unuoj, el linioj de kod'. Iam kredis ĝi, ke ĝi ludon iun ludis. Iam kredis ĝi, ke ĝi legis vortojn surekranajn.
+§2Iam kredis ĝi, ke ĝi ’is en univers’ konsistanta el energi’ kiu faritis el jesoj kaj neoj, el nuloj kaj unuoj, el linioj de kod’. Iam kredis ĝi, ke ĝi ludon iun ludis. Iam kredis ĝi, ke ĝi legis vortojn surekranajn.
 
-§3Vi 'as la ludant', la vortojn leganta...
+§3Vi ’as la ludant’, la vortojn leganta…
 
-§2Ŝŝŝ... Iam liniojn de kod' surekranajn legis la ludant'. Ilin malkodinte en vortojn; la vortojn malkodinte en signifojn; signifojn malkodinte en sentojn, emociojn, teoriojn, ideojn, komencis la ludant' rapidspiri kaj profundspiri kaj ekkomprenis ke ĝi vivis, ĝi vivis, tiuj miloj da mortoj ne 'is realaj, la ludant' vivis
+§2Ŝŝŝ… Iam liniojn de kod’ surekranajn legis la ludant’. Ilin malkodinte en vortojn; la vortojn malkodinte en signifojn; signifojn malkodinte en sentojn, emociojn, teoriojn, ideojn, komencis la ludant’ rapidspiri kaj profundspiri kaj ekkomprenis ke ĝi vivis, ĝi vivis, tiuj miloj da mortoj ne ’is realaj, la ludant’ vivis
 
 §3§nVi§3. §nVi§3. §nVi§3 §nvivi§3s.
 
-§2kaj iam kredis la ludant' ke l' univers' alparolis ĝin tra l' sunlum' falanta tra l' susurantaj folioj de l' someraj arboj
+§2kaj iam kredis la ludant’ ke l’ univers’ alparolis ĝin tra l’ sunlum’ falanta tra l’ susurantaj folioj de l’ someraj arboj
 
-§3kaj iam kredis la ludant' ke l' univers' alparolis ĝin tra l' vintra frostĉiela nokt', kies ĉiu lumer', eĉ la plej malgranda, sur okulflank' de l' ludant', povis esti stel', milionoble pli masiva ol Sun', boliganta planedojn siajn ĝis plasm' por videbli momente por la ludant', promenanta hejmen ie fore en la univers', subite ekflaronta manĝaĵojn, venonta al la konata pord', sonĝonta denove
+§3kaj iam kredis la ludant’ ke l’ univers’ alparolis ĝin tra l’ vintra frostĉiela nokt’, kies ĉiu lumer’, eĉ la plej malgranda, sur okulflank’ de l’ ludant’, povis esti stel’, milionoble pli masiva ol Sun’, boliganta planedojn siajn ĝis plasm’ por videbli momente por la ludant’, promenanta hejmen ie fore en la univers’, subite ekflaronta manĝaĵojn, venonta al la konata pord’, sonĝonta denove
 
-§2kaj iam kredis la ludant' ke l' univers' alparolis ĝin tra l' nuloj kaj l' unuoj, tra l' elektro de l' mond', tra l' rulumataj vortoj surekranaj en la fin' de l' sonĝ'
+§2kaj iam kredis la ludant’ ke l’ univers’ alparolis ĝin tra l’ nuloj kaj l’ unuoj, tra l’ elektro de l’ mond’, tra l’ rulumataj vortoj surekranaj en la fin’ de l’ sonĝ’
 
-§3kaj l' univers' diris «Mi vin amas»
+§3kaj l’ univers’ diris «Mi vin amas»
 
-§2kaj l' univers' diris «Vi ludis bone»
+§2kaj l’ univers’ diris «Vi ludis bone»
 
-§3kaj l' univers' diris «Ĉio bezonata estas en vi»
+§3kaj l’ univers’ diris «Ĉio bezonata estas en vi»
 
-§2kaj l' univers' diris «Vi estas pli forta, ol vi pensas»
+§2kaj l’ univers’ diris «Vi estas pli forta, ol vi pensas»
 
-§3kaj l' univers' diris «Vi estas la sunlumo»
+§3kaj l’ univers’ diris «Vi estas la sunlumo»
 
-§2kaj l' univers' diris «Vi estas la nokto»
+§2kaj l’ univers’ diris «Vi estas la nokto»
 
-§3kaj l' univers' diris «La mallumo kontraŭbatalata estas en vi»
+§3kaj l’ univers’ diris «La mallumo kontraŭbatalata estas en vi»
 
-§2kaj l' univers' diris «La lumo serĉata estas en vi»
+§2kaj l’ univers’ diris «La lumo serĉata estas en vi»
 
-§3kaj l' univers' diris «Vi ne estas sola»
+§3kaj l’ univers’ diris «Vi ne estas sola»
 
-§2kaj l' univers' diris «Vi ne estas aparta de ĉiu alia aĵo»
+§2kaj l’ univers’ diris «Vi ne estas aparta de ĉiu alia aĵo»
 
-§3kaj l' univers' diris «Vi estas la universo, gustumanta sin, alparolanta sin, leganta sian propran kodon»
+§3kaj l’ univers’ diris «Vi estas la universo, gustumanta sin, alparolanta sin, leganta sian propran kodon»
 
-§2kaj l' univers' diris «Mi vin amas, ĉar vi estas la amo».
+§2kaj l’ univers’ diris «Mi vin amas, ĉar vi estas la amo».
 
-§3Kaj la lud' finiĝis, kaj la ludant' el la sonĝ' vekiĝis. Kaj la ludant' sonĝon novan komencis. Kaj la ludant' denove sonĝis, pli bone sonĝis. Kaj la ludant' 'is la univers'. Kaj la ludant' 'is la am'.
+§3Kaj la lud’ finiĝis, kaj la ludant’ el la sonĝ’ vekiĝis. Kaj la ludant’ sonĝon novan komencis. Kaj la ludant’ denove sonĝis, pli bone sonĝis. Kaj la ludant’ ’is la univers’. Kaj la ludant’ ’is la am’.
 
-§3Vi 'as la ludant'.
+§3Vi ’as la ludant’.
 
 §2Vekiĝu.
