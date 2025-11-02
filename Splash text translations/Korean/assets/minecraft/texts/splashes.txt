@@ -1,18 +1,18 @@
 TV에 나왔음!
-멋짐!
+쩐다!
 100% 순수!
-견과류 포함 가능!
+견과류 포함되었을 수 있음!
 폴리곤이 늘어남!
 Moderately attractive!
 한정판!
-반짝이는 글자!
-여기 있어요!
-우리 반 최고!
+글자가 반짝여요!
+드디어 등장!
+이 동네 맛집!
 끝났어요!
 Kind of dragon free!
 Excitement!
 More than 500 sold!
-One of a kind!
+이거 물건일세!
 Heaps of hits on YouTube!
 Indev!
 Spiders everywhere!
@@ -49,11 +49,10 @@ Enhanced!
 90% bug free!
 Pretty!
 12 herbs and spices!
-Fat free!
+무지방!
 Absolutely no memes!
 Free dental!
 Ask your doctor!
-Minors welcome!
 Cloud computing!
 Legal in Finland!
 Hard to label!
@@ -69,7 +68,7 @@ Herregud!
 Complex cellular automata!
 Yes, sir!
 Played by cowboys!
-Now on OpenGL 3.2 core profile!
+Now on OpenGL 3.3 core profile!
 Thousands of colors!
 Try it!
 Age of Wonders is better!
@@ -83,7 +82,7 @@ Bring it on!
 Random splash!
 Call your mother!
 Monster infighting!
-Loved by millions!
+네더가 놀라고 엔드가 벌벌 떠는 명작!
 Ultimate edition!
 Freaky!
 You've got a brand new key!
@@ -111,19 +110,19 @@ Nice to meet you!
 Buckets of lava!
 Ride the pig!
 Larger than Earth!
-sqrt(-1) love you!
+ㅅr랑ㅎH!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
 1% sugar!
 150% hyperbole!
 Synecdoche!
-Let's danec!
+다 같이 춤을 처ㅜ요!
 Seecret Friday update!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -273,7 +272,7 @@ From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,13 +299,13 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 What's up, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
-pls rt
+알티 좀
 Do you want to join my server?
 Put a little fence around it!
 Throw a blanket over it!
@@ -369,7 +368,7 @@ Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+15 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
@@ -432,3 +431,20 @@ Nooooooooooooo!
 Flower forest TM perfume
 Hat Fridays!
 Technoblade never dies!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
