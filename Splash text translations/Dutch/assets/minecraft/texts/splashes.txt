@@ -53,7 +53,6 @@ Bevat geen vet!
 Absoluut geen memes!
 Gratis tandheelkunde!
 Vraag het je dokter!
-Minderjarigen welkom!
 Computergebruik in de cloud!
 Legaal in Finland!
 Moeilijk te bestempelen!
@@ -69,7 +68,7 @@ Herregud!
 Complexe mobiele automatisering!
 Ja, meneer!
 Gespeeld door cowboys!
-Nu op OpenGL 3.2 core profiel!
+Now on OpenGL 3.3 core profile!
 Duizenden kleuren!
 Probeer het uit!
 Age of Wonders is beter!
@@ -123,7 +122,7 @@ Geheeime vrijdag update!
 Referentie implementatie!
 Kus de wolken!
 20 GOTO 10!
-Verlet intergratie!
+Verlet integration!
 Peter Griffin!
 Niet distribueren!
 Ik denk, en daarom ben ik!
@@ -273,7 +272,7 @@ Vanuit de straten van Södermalm!
 150 bpm voor 400000 minuten!
 Technologie!
 Funk ziel broer!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー!
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Leg het koekje neer!
 Best eng!
 Ik heb een suggestie.
 Nu met extra knuffels!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 Wat is er, Doc?
@@ -369,7 +368,7 @@ Kijk maum, ik ben in splinter!
 Het kwam van de ruimte.
 Geweldig spel ontwerp direct daar!
 Ph1lza had een goede run!
-10 jaar bouwen en delven!
+15 years of Mining and Crafting!
 Ping de mens!
 In het geval dat het niet vanzelfsprekend is, zijn voxen geen spelers.
 Buzzy bijen!
@@ -399,7 +398,7 @@ Muziek door Lena Raine!
 Aww man!
 #minecraftboerderijen
 En mijn houweel!
-Vergelijk! Creëer! Delen!
+Vergelijk! Create! Delen!
 Geweldige afbeeldingen!
 Probeer ook eens Minecraft Dungeons!
 Vanilla!
@@ -432,3 +431,20 @@ Noooooooooooooooo!
 Bloemen bos TM parfum
 Hoed Vrijdagen!
 Technoblade gaat nooit dood!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
