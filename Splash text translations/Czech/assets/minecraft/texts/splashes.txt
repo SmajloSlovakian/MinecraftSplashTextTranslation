@@ -1,79 +1,78 @@
 As seen on TV!
-Awesome!
-100% pure!
-May contain nuts!
+Úžasný!
+100% ryzí!
+Může obsahovat ořechy!
 More polygons!
 Moderately attractive!
-Limited edition!
-Flashing letters!
-It's here!
-Best in class!
-It's finished!
-Kind of dragon free!
-Excitement!
-More than 500 sold!
-One of a kind!
+Limitovaná edice!
+Blikající písmenka!
+Je to tu!
+Nejlepší v kategorii!
+Je to hotové!
+Tak nějak bez draků!
+Nadšení!
+Více než 500 prodáno!
+Jediný svého druhu!
 Heaps of hits on YouTube!
 Indev!
-Spiders everywhere!
-Check it out!
-Holy cow, man!
-It's a game!
-Made in Sweden!
-Uses LWJGL!
+Pavouci, všude!
+Koukni na to!
+Ty kráso, chlape!
+Je to hra!
+Vyrobeno ve Švédsku!
+Používá LWJGL!
 Reticulating splines!
 Minecraft!
 Yaaay!
-Singleplayer!
-Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
-l33t!
-Create!
-Survive!
-Dungeon!
-Exclusive!
+Hra jednoho hráče!
+Kompatibilní s klávesnicí!
+Ingoty!
+Vybuchující creepeři!
+To není žádný měsíc!
+I33t!
+Vytvářej!
+Přežij!
+Kobka!
+Exkluzivní!
 The bee's knees!
 Closed source!
-Classy!
+Nóbl!
 Wow!
-Not on steam!
-Oh man!
-Awesome community!
-Pixels!
+Ne na steamu!
+Ale notak!
+Úžasná komunita!
+Pixely!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
-Now with difficulty!
-Enhanced!
-90% bug free!
-Pretty!
-12 herbs and spices!
-Fat free!
-Absolutely no memes!
+Teď s obtížnostmi!
+Vylepšené!
+Na 90% bez chyb!
+Hezké!
+12 bylinek a koření! 
+Bez tuku!
+Naprosto bez memes!
 Free dental!
-Ask your doctor!
-Minors welcome!
+Zeptej se svého doktora!
 Cloud computing!
-Legal in Finland!
-Hard to label!
-Technically good!
-Bringing home the bacon!
-Indie!
-GOTY!
+Legalní ve Finsku!
+Těžko zaškatulkovatelné!
+Technicky dobré!
+Bez majáku ani ránu!
+Nezávislý!
+Hra roku!
 Ceci n'est pas une title screen!
 Euclidian!
-Now in 3D!
-Inspirational!
+Nyní ve 3D!
+Inspirativní!
 Herregud!
 Complex cellular automata!
-Yes, sir!
-Played by cowboys!
-Now on OpenGL 3.2 core profile!
-Thousands of colors!
-Try it!
+Ano, pane!
+Hráno kovboji!
+Now on OpenGL 3.3 core profile!
+Tisíce barev!
+Zkus to!
 Age of Wonders is better!
-Try the mushroom stew!
+Zkus houbovou polévku!
 Sensational!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
@@ -81,36 +80,36 @@ Guaranteed!
 Macroscopic!
 Bring it on!
 Random splash!
-Call your mother!
+Zavolejte své matce!
 Monster infighting!
-Loved by millions!
-Ultimate edition!
-Freaky!
-You've got a brand new key!
-Water proof!
+Milováno miliony!
+Ultimátní edice!
+Podivné!
+Máš úplně nový klíč!
+Voděodolné!
 Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
+Whoa, kámo!
+Vše zahrnuto!
+Řekni svým kamarádům!
 NP is not in P!
-Music by C418!
-Livestreamed!
+Muzika od C418!
+Livestreamováno!
 Haunted!
 Polynomial!
 Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
+Vše je plné lásky!
+Plné hvězd!
+Vědecké!
+Není tak cool jako Spock!
 Collaborate and listen!
-Never dig down!
-Take frequent breaks!
+Nikdy nekopej pod sebe!
+Dávej si pravidelné pauzy!
 Not linear!
-Han shot first!
-Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
+Han střelil první!
+Rád tě poznávám!
+Kbelíky lávy!
+Jezdi na praseti!
+Větší než Země!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
@@ -123,7 +122,7 @@ Seecret Friday update!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -261,19 +260,19 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
+Déjà vu!
 Déjà vu!
-Déjà vu!
-Got your nose!
+Mám tvůj nos!
 Haley loves Elan!
 Afraid of the big, black bat!
 Doesn't use the U-word!
-Child's play!
-See you next Friday or so!
+Dětská hra!
+Uvidíme se příští pátek nebo tak nějak!
 From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -283,152 +282,169 @@ Cześć Polsko!
 My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
-Who put it there?
-You can't explain that!
+Kdo to tam dal?
+To nemůžeš vysvětlit!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
-Big Pointy Teeth!
+Velké špičaté zuby!
 Bekarton guards the gate!
 Mmmph, mmph!
-Don't feed avocados to parrots!
-Swords for everyone!
-Plz reply to my tweet!
+Nedávejte avokáda papouškům!
+Meče pro všechny!
+Pls odpověz mi na tweet!
 .party()!
-Take her pillow!
-Put that cookie down!
-Pretty scary!
-I have a suggestion.
-Now with extra hugs!
-Java 16 + 1 = 17!
+Vem si její polštář!
+Odlož tu sušenku!
+Docela strašidelné!
+Mám návrh.
+Teď s extra objetími!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 What's up, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
 pls rt
-Do you want to join my server?
-Put a little fence around it!
-Throw a blanket over it!
-One day, somewhere in the future, my work will be quoted!
+Chceš se připojit na můj server?
+Postav kolem toho malý plot!
+Hoď přes to deku!
+Jednoho dne, někde v budoucnosti, bude má práce citována!
 Now with additional stuff!
-Extra things!
-Yay, puppies for everyone!
-So sweet, like a nice bon bon!
+Extra věci!
+Yay, štěňátka pro všechny!
+Tak sladké, jako dobrý bonbon!
 Very influential in its circle!
-Now With Multiplayer!
-Rise from your grave!
+Teď s Hrou více hráčů!
+Povstaň ze svého hrobu!
 Warning! A huge battleship "STEVE" is approaching fast!
 Blue warrior shot the food!
-Run, coward! I hunger!
+Utíkej, zbabělče! Já hladový!
 Flavor with no seasoning!
-Strange, but not a stranger!
+Cizí, ale ne cizinec!
 Tougher than diamonds, rich like cream!
 It swings, it jives!
 Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
-Stop being reasonable, this is the Internet!
+Přestaň být rozumný, tady jsi na internetu!
 /give @a hugs 64
 This is good for Realms.
-Any computer is a laptop if you're brave enough!
+Každý počítač je laptop, když jsi dost odvážný!
 Do it all, everything!
-Where there is not light, there can spider!
+Kde není světlo, může být pavouk!
 GNU Terry Pratchett
 More Digital!
 doot doot
 Falling with style!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
-Rule #1: it's never my fault
-Replaced molten cheese with blood?
+Pravidlo #1: Nikdy to není moje chyba
+Nahradit rozpuštěný sýr krví?
 Absolutely fixed relatively broken coordinates
-Boats FTW
+Lodě jsou NEJ
 Javalicious edition
-Should not be played while driving
-You're going too fast!
-Don't feed chocolate to parrots!
-The true meaning of covfefe
-An illusion! What are you hiding?
-Something's not quite right...
-Thank you for the fish!
-All rumors are true!
+Nemělo by se hrát při řízení
+Jsi moc rychlý!
+Nedávejte papouškům čokoládu!
+Skutečný význam covfefe
+Iluze! Co skrýváš?
+Něco není správně...
+Děkuji za rybu!
+Všechny fámy jsou pravdivé!
 Truly gone fishing!
-Rainbow turtle?
-Something funny!
-I need more context.
+Duhová želva?
+Něco vtipného!
+Potřebuji více kontextu.
 Ahhhhhh!
 Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
+Láhev s vodou!
+Jak zní otázka?
+Zasaď strom!
+Jdi k zubaři!
 What do you expect?
 Look mum, I'm in a splash!
-It came from space.
+Přišlo to z vesmíru!
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+15 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
-Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
-Cough or sneeze into your elbow!
-Don’t touch your face!
+Minecraft Java Edice představuje: Otřesné bugy!
+Umývej si ruce!
+Mýdlo a voda!
+Podpoř místní podniky!
+Zůstaň doma a hraj hry!
+Drž se v bezpečí!
+Zůstaň silný!
+Kašlej a kýchej do loktu!
+Nesahej si na obličej!
 Support elderly relatives and friends!
 Prepare, but don’t hoard!
-Gamers unite – separately in your own homes!
-Save the world – stay inside!
+Sjednocení hráčů - každý zvlášť u sebe doma!
+Zachraň svět - zůstaň doma!
 Shop for your elders!
 Hang out with your friends online!
 Honey, I grew the bees!
 Find your claw!
 Everybody do the Leif!
 <3 Max & 99 & Ducky!
-Bushy eyebrows!
-Edit is a name!
+Křovácké obočí!
+Edit je jméno!
 From free range developers!
-Music by Lena Raine!
+Hudba od Lena Raine!
 Aww man!
 #minecraftfarms
-And my pickaxe!
+A můj krumpáč!
 Envision! Create! Share!
 Fabulous graphics!
-Also try Minecraft Dungeons!
+Zkus taky Minecraft Dungeons!
 Vanilla!
-May contain traces of citrus!
+Může obsahovat stopy citrusů!
 Zoglin!?
-Black lives matter!
-Be anti-racist!
+Na černých životech záleží!
+Buď proti-rasistický!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
 Amplify and listen to BIPOC voices!
-Educate your friends on anti-racism!
+Pouč své přátelé o antirasismu!
 Support the BIPOC community and creators!
-Stand up for equality in your community!
+Postav se za rovnost ve své komunitě!
 [this splash text is now available]
-Contains simulated goats!
-Home-made!
+Obsahuje simulované kozy!
+Domácí výroba!
 There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+Nejroztomilejší predátor kterého potkáš!
+Teď přemýšlíš písty!
 Get to the coppah!
-Board game version also available!
+Stolní verze hry je také k dispozici!
 Honey, I waxed the copper!
 Plant-based light sources!
-Made by "real" people!
+Vyrobeno "skutečnými" lidmi!
 Shriek like a Sculk Shrieker!
 Who let the frogs out?
-RIBBIT!
-Croak team!
-Nooooooooooooo!
+KVAAAK!
+Kvákací tým!
+Neeeeeeeeeeeee!
 Flower forest TM perfume
 Hat Fridays!
-Technoblade never dies!
+Technoblade nikdy nezmizí!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
