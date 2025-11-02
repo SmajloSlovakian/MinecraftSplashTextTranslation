@@ -53,7 +53,6 @@ Fri från fett!
 Absolut inga memes!
 Gratis tandvård!
 Hör med din läkare!
-Fritt fram för minderåriga!
 Molntjänst!
 Lagligt i Finland!
 Svårmärkt!
@@ -69,7 +68,7 @@ Herregud!
 Komplexa cellulära automater!
 Ska bli!
 Cowboyer spelar det här!
-Drivs av OpenGL 3.2 (Core Profile)!
+Now on OpenGL 3.3 core profile!
 Tusentals färger!
 Testa själv!
 Age of Wonders är bättre!
@@ -123,7 +122,7 @@ Hemlig fredags-uppdatering!
 Referensimplementering!
 Ett äpple om dagen!
 20 GOTO 10!
-Verlet-integration!
+Verlet integration!
 Peter Griffin!
 Stör ej!
 Cogito ergo sum!
@@ -273,7 +272,7 @@ Från Södermalm!
 150 slag per minut i 400000 minuter!
 Tekniskt!
 Mirakulöst!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Lägg ned den där kakan!
 Ganska läskigt!
 Jag har ett förslag.
 Nu med extra många kramar!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Hörru.
 HURNERJSGER?
 Vad händer, Doc?
@@ -369,7 +368,7 @@ Titta mamma, jag är en textremsa!
 Kom från rymden.
 Där har vi grym speldesign!
 Ph1lza klarade sig länge!
-Tio år av byggande och grävande!
+15 years of Mining and Crafting!
 Människan Pling!
 Ifall ni missat det så är inte rävar spelare.
 Flitiga bin!
@@ -399,7 +398,7 @@ Med musik komponerad av Lena Raine!
 Åh nej!
 #minecraftfarmer
 Och min hacka!
-Dröm! Skapa! Dela!
+Dröm! Create! Dela!
 Grafiken är helt fabulös!
 Rekommenderar även Minecraft Dungeons!
 Originalet!
@@ -432,3 +431,20 @@ Neeeeeeeeeeeej!
 Blomskogsparfym™
 Hattfredagar!
 Technoblade dör aldrig!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
