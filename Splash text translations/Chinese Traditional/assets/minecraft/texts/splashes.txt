@@ -53,7 +53,6 @@ Enhanced!
 絕對沒有梗！
 免費牙科保障！
 請諮詢你的醫生！
-歡迎未成年人！
 雲端運算！
 在芬蘭是合法的！
 很難定性！
@@ -69,7 +68,7 @@ Enhanced!
 複雜的細胞自動機！
 是的，先生！
 牛仔玩的玩意！
-現在基於OpenGL 3.2 core profile！
+Now on OpenGL 3.3 core profile!
 上萬種顏色！
 試試看！
 奇蹟時代更好！
@@ -123,7 +122,7 @@ Phobos anomaly!
 參考實作！
 親吻天空！
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -152,7 +151,7 @@ Rita是新任第一狗！
 雙重緩衝！
 同人小說！
 幸運望遠鏡！
-傑森！ 傑森！ 傑森！ 傑森！ 傑森！ 傑森！ 傑森！ 傑森！ 傑森！
+傑森！ 傑森！ 傑森！ 傑森！ 傑森！ 傑森！ Jason!
 比太陽還要熾熱！
 網際網路已啟用！
 獨立自主！
@@ -262,7 +261,7 @@ Meeting expectations!
 專注電腦遊戲，自1873！
 Ghoughpteighbteau tchoghs!
 逮蝦戶！
-逮蝦戶！
+Déjà vu!
 Got your nose!
 Haley loves Elan!
 Afraid of the big, black bat!
@@ -273,7 +272,7 @@ From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -369,7 +368,7 @@ Look mum, I'm in a splash!
 它來自太空
 Awesome game design right there!
 Ph1lza had a good run!
-挖挖做做又10年！
+15 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
@@ -399,7 +398,7 @@ From free range developers!
 Aww man!
 #minecraftfarms
 And my pickaxe!
-Envision! 創建！ Share!
+Envision! Create! Share!
 Fabulous graphics!
 Also try Minecraft Dungeons!
 Vanilla!
@@ -432,3 +431,20 @@ Nooooooooooooo!
 Flower forest TM perfume
 Hat Fridays!
 Technoblade never dies!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
