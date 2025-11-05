@@ -320,7 +320,7 @@
                         ]
                     },
                     {
-                        "title": "Software Engineers",
+                        "title": "Programvareutviklere",
                         "names": [
                             "A.J. Fairfield",
                             "Abhinav Jain (Ascendion, Inc)",
@@ -751,7 +751,7 @@
                         ]
                     },
                     {
-                        "title": "Technical Writers",
+                        "title": "Tekniske forfattere",
                         "names": [
                             "Jeff Kim (Insight Global, Inc)",
                             "Jill Headen (Insight Global, Inc)"
@@ -839,7 +839,7 @@
                         ]
                     },
                     {
-                        "title": "Artists",
+                        "title": "Kunstnere",
                         "names": [
                             "Adam Sellerfors",
                             "Amelie Bjurenhed",
@@ -867,7 +867,7 @@
                         ]
                     },
                     {
-                        "title": "Technical Artists",
+                        "title": "Teknikkunstnere",
                         "names": [
                             "Brendan 'Sully' Sullivan",
                             "Dan Sonne"
@@ -892,7 +892,7 @@
                         ]
                     },
                     {
-                        "title": "Graphic Designers",
+                        "title": "Grafisk utvikler",
                         "names": [
                             "Caitlin Willhoite (Ten Gun Design, Inc)",
                             "Isak de Jong"
@@ -919,7 +919,7 @@
                         ]
                     },
                     {
-                        "title": "Music composed by",
+                        "title": "Musikk komponert av",
                         "names": [
                             "Aaron Cherof",
                             "Amos Roddy",
@@ -929,7 +929,7 @@
                         ]
                     },
                     {
-                        "title": "Music Supervisors",
+                        "title": "Musikkveiledere",
                         "names": [
                             "Kyle Hopkins",
                             "Maya Halfon Cordova"
@@ -953,7 +953,7 @@
                         ]
                     },
                     {
-                        "title": "Quality Leads",
+                        "title": "Kvalitetsledere",
                         "names": [
                             "Joe Whitman",
                             "Mimi Holmstead"
@@ -1038,7 +1038,7 @@
                         ]
                     },
                     {
-                        "title": "Test Automation Engineers",
+                        "title": "Utviklere av testautomasjon",
                         "names": [
                             "Łukasz Marek (Lionbridge)",
                             "Marcin Cudny (Lionbridge)",
@@ -1046,7 +1046,7 @@
                         ]
                     },
                     {
-                        "title": "Software Test Engineers",
+                        "title": "Testprogramvareutviklere",
                         "names": [
                             "Ada Kierzkowska (Lionbridge)",
                             "Adam DuBois (Experis)",
@@ -1100,7 +1100,7 @@
                         ]
                     },
                     {
-                        "title": "Test Associates",
+                        "title": "Testingsmedarbeidere",
                         "names": [
                             "Adam Czajkowski (Lionbridge)",
                             "Adrian Jakóbczak (Lionbridge)",
@@ -1321,13 +1321,13 @@
                 "discipline": "User Research",
                 "titles": [
                     {
-                        "title": "User Research Lead",
+                        "title": "Forbrukerforskningsleder",
                         "names": [
                             "Deanne Adams"
                         ]
                     },
                     {
-                        "title": "User Researcher",
+                        "title": "Forbrukerforskning",
                         "names": [
                             "Sarah Santiago"
                         ]
@@ -1360,7 +1360,7 @@
                         ]
                     },
                     {
-                        "title": "Operations Coordinator",
+                        "title": "Operasjonskoordinator",
                         "names": [
                             "Stefanie Forsberg"
                         ]
@@ -1398,7 +1398,7 @@
                         ]
                     },
                     {
-                        "title": "Human Resources",
+                        "title": "Personalansvarlig",
                         "names": [
                             "Line Thomson",
                             "Linn Holmertz",
@@ -1406,7 +1406,7 @@
                         ]
                     },
                     {
-                        "title": "Talent Acquisition",
+                        "title": "Talentrekruttering",
                         "names": [
                             "Adam Conder (Insight Global, Inc)",
                             "Jeff Guyton (Insight Global, Inc)",
@@ -1431,7 +1431,7 @@
                         ]
                     },
                     {
-                        "title": "IT",
+                        "title": "Informasjonsteknologi",
                         "names": [
                             "Aaron Brindell (Experis)",
                             "Aaron Ingram (Experis)",
@@ -1485,7 +1485,7 @@
                         ]
                     },
                     {
-                        "title": "Player Support",
+                        "title": "Spillerstøtte",
                         "names": [
                             "Angel De Aguiar (Apex Systems, Inc)",
                             "Arturo Gutierrez (Apex Systems, Inc)",
@@ -1947,7 +1947,7 @@
                         ]
                     },
                     {
-                        "title": "Legal Counsel",
+                        "title": "Juridisk rådgivning",
                         "names": [
                             "Jessica Henderson",
                             "Jyl Brown (CELA)",
@@ -1982,7 +1982,7 @@
                         ]
                     },
                     {
-                        "title": "Financial Consultants",
+                        "title": "Finansrådgivere",
                         "names": [
                             "Elias Selmo",
                             "Martin Rybrink"
@@ -2114,7 +2114,7 @@
                         ]
                     },
                     {
-                        "title": "Programmers",
+                        "title": "Programmerere",
                         "names": [
                             "Abhijit Zala",
                             "David Stout",
@@ -2138,7 +2138,7 @@
                         ]
                     },
                     {
-                        "title": "Technical Artist",
+                        "title": "Teknikkunstner",
                         "names": [
                             "Ezri Sullivan"
                         ]
@@ -2178,7 +2178,7 @@
                         ]
                     },
                     {
-                        "title": "Software Engineers",
+                        "title": "Programvareutviklere",
                         "names": [
                             "Elgin Ciani",
                             "Grady Wright",
@@ -2201,7 +2201,7 @@
                 "discipline": "",
                 "titles": [
                     {
-                        "title": "Founders",
+                        "title": "Grunnleggere",
                         "names": [
                             "Derek MacNeil",
                             "Shyang Kong",
@@ -2240,7 +2240,7 @@
                         ]
                     },
                     {
-                        "title": "Software Developers",
+                        "title": "Programvareutviklere",
                         "names": [
                             "Adrien Givry",
                             "Aidan Dearing",
@@ -2356,7 +2356,7 @@
                         ]
                     },
                     {
-                        "title": "UX/UI Designers",
+                        "title": "Utviklere av brukeropplevelse og brukergrensnitt",
                         "names": [
                             "Felix Pham",
                             "Leticia Dornel",
@@ -2403,7 +2403,7 @@
                         ]
                     },
                     {
-                        "title": "IT Support",
+                        "title": "IT-støtte",
                         "names": [
                             "Sofwan Naing"
                         ]
@@ -2510,7 +2510,7 @@
                         ]
                     },
                     {
-                        "title": "Game Designers",
+                        "title": "Spillutviklere",
                         "names": [
                             "Brandon Franklin (Insight Global, Inc)",
                             "Colten Murphy (TEKsystems, Inc.)",
@@ -2605,7 +2605,7 @@
                         ]
                     },
                     {
-                        "title": "Software Engineers",
+                        "title": "Programvareutviklere",
                         "names": [
                             "Aaron Ward (Insight Global, Inc)",
                             "Aaron Woodward",
@@ -2908,7 +2908,7 @@
                         ]
                     },
                     {
-                        "title": "Launcher",
+                        "title": "Oppstarter",
                         "names": [
                             "Anders Rosén",
                             "Carl Westin",
@@ -2916,7 +2916,7 @@
                         ]
                     },
                     {
-                        "title": "Additional Programming",
+                        "title": "Tilleggsprogrammering",
                         "names": [
                             "Elliot Segal",
                             "Paul Spooner",
@@ -3125,7 +3125,7 @@
                         ]
                     },
                     {
-                        "title": "Technical Writers",
+                        "title": "Tekniske forfattere",
                         "names": [
                             "Bryce Bortree (Insight Global, Inc)",
                             "Jim Seaman (Insight Global, Inc)",
@@ -3151,7 +3151,7 @@
                         ]
                     },
                     {
-                        "title": "Localization",
+                        "title": "Lokalisering",
                         "names": [
                             "Amber Wu (Shanghai Wicresoft Co, Ltd.)"
                         ]
@@ -3190,7 +3190,7 @@
                         ]
                     },
                     {
-                        "title": "Artists",
+                        "title": "Kunstnere",
                         "names": [
                             "Aleesa Tana (Formosa)",
                             "Amanda Cook (Harvey Nash, Inc)",
@@ -3250,7 +3250,7 @@
                         ]
                     },
                     {
-                        "title": "Graphic Designers",
+                        "title": "Grafiske Utviklere",
                         "names": [
                             "Adrian Leon (Formosa)",
                             "Dalila Copeland (Formosa)",
@@ -3275,7 +3275,7 @@
                         ]
                     },
                     {
-                        "title": "Technical Audio Developer",
+                        "title": "Lydteknikkutvikler",
                         "names": [
                             "Jonatan Crafoord"
                         ]
@@ -3308,7 +3308,7 @@
                         ]
                     },
                     {
-                        "title": "Software Test Engineers",
+                        "title": "Testprogramvareutviklere",
                         "names": [
                             "Chris Youngs (Insight Global, Inc)",
                             "Jared Lesczynski (Experis)",
@@ -3414,13 +3414,13 @@
                         ]
                     },
                     {
-                        "title": "User Research Lead",
+                        "title": "Forbrukerforskningsleder",
                         "names": [
                             "Jerome Hagen"
                         ]
                     },
                     {
-                        "title": "User Researchers",
+                        "title": "Forbrukerforskning",
                         "names": [
                             "Melissa Boone",
                             "Olga Zielinska",
@@ -3581,7 +3581,7 @@
                         ]
                     },
                     {
-                        "title": "Human Resources",
+                        "title": "Personalansvarlig",
                         "names": [
                             "Alexandra Ward",
                             "Anna Lyth",
@@ -3606,7 +3606,7 @@
                         ]
                     },
                     {
-                        "title": "Talent Acquisition",
+                        "title": "Talentrekruttering",
                         "names": [
                             "Aimée Narfström",
                             "Elnaz Tajahmadi Tabrizi",
@@ -3679,7 +3679,7 @@
                         ]
                     },
                     {
-                        "title": "IT",
+                        "title": "Informasjonsteknologi",
                         "names": [
                             "Alexandre Pretto Nunes",
                             "Anton Wu",
@@ -3805,7 +3805,7 @@
                         ]
                     },
                     {
-                        "title": "Player Support",
+                        "title": "Spillerstøttel",
                         "names": [
                             "Amelia Lindroth Henriksson",
                             "Ana Barata Martins",
@@ -3913,7 +3913,7 @@
                         ]
                     },
                     {
-                        "title": "Content Coordinators",
+                        "title": "Innholdskoordinatorer",
                         "names": [
                             "Adam Martinsson",
                             "Andreas Thomasson",
@@ -4033,7 +4033,7 @@
                         ]
                     },
                     {
-                        "title": "Legal Counsel",
+                        "title": "Juridisk rådgivning",
                         "names": [
                             "Tricia Geyer"
                         ]
@@ -4057,7 +4057,7 @@
                         ]
                     },
                     {
-                        "title": "Financial Consultants",
+                        "title": "Finansrådgivere",
                         "names": [
                             "Stefan Lyrmark",
                             "Ulrika Kihl"
@@ -4088,7 +4088,7 @@
                         ]
                     },
                     {
-                        "title": "Quality Leads",
+                        "title": "Kvalitetsledere",
                         "names": [
                             "Craig Marshall",
                             "Dan Pipinich",
@@ -4126,7 +4126,7 @@
                         ]
                     },
                     {
-                        "title": "Software Engineers",
+                        "title": "Programvareutviklere",
                         "names": [
                             "Aaron Amlag",
                             "Dustin Randall",
@@ -4163,7 +4163,7 @@
                         ]
                     },
                     {
-                        "title": "Software Test Engineers",
+                        "title": "Testprogramvareutviklere",
                         "names": [
                             "Agata Dzideczek (Lionbridge)",
                             "Antoine Brown (Experis)",
@@ -4367,7 +4367,7 @@
                         ]
                     },
                     {
-                        "title": "Programmers",
+                        "title": "Programmerere",
                         "names": [
                             "Aaron Freytag",
                             "Andrew Yuennan",
@@ -4413,20 +4413,20 @@
                         ]
                     },
                     {
-                        "title": "Designers",
+                        "title": "Utviklere",
                         "names": [
                             "Tyler Nilsson",
                             "Vidhi Shah"
                         ]
                     },
                     {
-                        "title": "UI Artist",
+                        "title": "Brukergrensesnitt-kunstner",
                         "names": [
                             "Richelle Brunt"
                         ]
                     },
                     {
-                        "title": "UX Designer",
+                        "title": "Brukeropplevelsesutvikler",
                         "names": [
                             "Sam Flores"
                         ]
@@ -4445,7 +4445,7 @@
                         ]
                     },
                     {
-                        "title": "Quality Assurance Analysts",
+                        "title": "Kvalitetssikringsanalytikere",
                         "names": [
                             "Jamie Cheung",
                             "Jonathan Lin",
@@ -4465,7 +4465,7 @@
                 "discipline": "",
                 "titles": [
                     {
-                        "title": "Software Engineers",
+                        "title": "Programvareutviklere",
                         "names": [
                             "Aidan Gao",
                             "Alan Fu",
@@ -4525,7 +4525,7 @@
                         ]
                     },
                     {
-                        "title": "Programmers",
+                        "title": "Programmerere",
                         "names": [
                             "Caden Parker",
                             "Eric Nguyen",
@@ -4581,7 +4581,7 @@
                         ]
                     },
                     {
-                        "title": "Software Engineers",
+                        "title": "Programvareutviklere",
                         "names": [
                             "Alan Nelson",
                             "Alex Green",
@@ -4613,7 +4613,7 @@
                 "discipline": "",
                 "titles": [
                     {
-                        "title": "Software Engineers",
+                        "title": "Programvareutviklere",
                         "names": [
                             "Anton Mateasik",
                             "Martin Kusnier",
@@ -4622,7 +4622,7 @@
                         ]
                     },
                     {
-                        "title": "Software Test Engineers",
+                        "title": "Testprogramvareutviklere",
                         "names": [
                             "Frantisek Beke",
                             "Marianna Sunova"
@@ -4812,7 +4812,7 @@
                         ]
                     },
                     {
-                        "title": "Web Developers",
+                        "title": "Nettstedsutviklere",
                         "names": [
                             "Aravindan Aarumugam",
                             "Arockia Stanly",
@@ -4851,7 +4851,7 @@
                         ]
                     },
                     {
-                        "title": "IT Support",
+                        "title": "IT-støtte",
                         "names": [
                             "Alex Chai"
                         ]
