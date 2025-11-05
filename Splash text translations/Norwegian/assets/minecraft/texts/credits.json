@@ -71,13 +71,13 @@
                         ]
                     },
                     {
-                        "title": "Creative Director",
+                        "title": "Kreativ direktør",
                         "names": [
                             "John Yamamoto"
                         ]
                     },
                     {
-                        "title": "Creative Directors, Games",
+                        "title": "Kreativ direktører",
                         "names": [
                             "Craig Leigh",
                             "Magnus Nedfors",
@@ -128,7 +128,7 @@
                         ]
                     },
                     {
-                        "title": "Game Designers",
+                        "title": "Spillutviklere",
                         "names": [
                             "Brandon Pearce",
                             "Christian Berg",
@@ -191,7 +191,7 @@
                 ]
             },
             {
-                "discipline": "Programming",
+                "discipline": "Programmering",
                 "titles": [
                     {
                         "title": "Technical Directors",
@@ -527,7 +527,7 @@
                 ]
             },
             {
-                "discipline": "Production",
+                "discipline": "Produksjon",
                 "titles": [
                     {
                         "title": "Head of Franchise Technologies and Services",
