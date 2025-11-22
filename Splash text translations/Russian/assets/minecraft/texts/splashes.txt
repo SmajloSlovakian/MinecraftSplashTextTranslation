@@ -68,7 +68,7 @@ Herregud!
 Комплексный клеточный автомат!
 Да, сэр!
 Одобрено ковбоями!
-Now on OpenGL 3.3 core profile!
+Теперь на профиле ядра OpenGL 3.3!
 Тысячи цветов!
 Попробуй!
 Age of Wonders лучше!
@@ -398,7 +398,7 @@ Minecraft Java Edition представляет: Отвратительные о
 Оуууу мэн!
 #minecraftфермы
 И моя кирка!
-Придумывай! Create! Распространяй!
+Придумывай! Твори! Распространяй!
 Невероятная графика!
 Также попробуйте Minecraft Dungeons!
 Ванилла!
@@ -438,13 +438,13 @@ Your gender is valid!
 Contains infinite genders!
 Made with lave!
 This sand is sus
-Remember to brush your... ...teeth
+Не забудь почистить свои... ...зубы
 Has working bookshelves!
-Sniff sniff...
+Нюх нюх...
 Place hanging sign here
 Joule is neat too!
-Music by Aaron Cherof!
-Music by Kumi Tanioka!
-Music by Amos Roddy!
+Музыка от Aaron Cherof!
+Музыка от Kumi Tanioka!
+Музыка от Amos Roddy!
 Flint and Steel!
 Chicken Jockey!
