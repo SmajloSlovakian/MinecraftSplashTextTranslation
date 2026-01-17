@@ -292,12 +292,12 @@ Bekarton guards the gate!
 Mmmph, mmph!
 Don't feed avocados to parrots!
 Swords for everyone!
-Plz reply to my tweet!
+Plz antworte auf meinen Tweet!
 .party()!
-Take her pillow!
+Nimm ihr Kissen!
 Put that cookie down!
 Pretty scary!
-I have a suggestion.
+Ich habe einen Vorschlag.
 Now with extra hugs!
 Java 16 + 1 + 4 = 21!
 Woah.
@@ -394,7 +394,7 @@ Everybody do the Leif!
 Bushy eyebrows!
 Edit is a name!
 From free range developers!
-Music by Lena Raine!
+Musik von Lena Raine!
 Aww man!
 #minecraftfarms
 And my pickaxe!
@@ -447,4 +447,4 @@ Music by Aaron Cherof!
 Music by Kumi Tanioka!
 Music by Amos Roddy!
 Flint and Steel!
-Chicken Jockey!
+Hühner-Jockey!
