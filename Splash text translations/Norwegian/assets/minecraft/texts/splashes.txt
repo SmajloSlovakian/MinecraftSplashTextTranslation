@@ -68,7 +68,7 @@ Herregud!
 Komplekse cellulære automater!
 Skal bli!
 Spilt av kugjetere!
-Now on OpenGL 3.3 core profile!
+Bruker nå OpenGL 3.3  kjerneprofil!
 Tusenvis av fargere!
 Prøv det!
 Age of Wonders er bedre!
@@ -122,7 +122,7 @@ Hemmelig fredagsoppdatering!
 Referanseimplementering!
 Fly blant skyene!
 20 GOTO 10!
-Verlet integration!
+Verlet-integrasjon!
 Peter Griffin!
 Ikke forstyrr!
 Cogito ergo sum!
@@ -167,7 +167,7 @@ Jippi, tigsource!
 Jippi, worldofminecraft!
 Jippi, reddit!
 Jippi, 2pp!
-Google analysert!
+Google-analysert!
 Støtter nå æ, ä, ø, ö, å!
 Gi oss Gordon!
 Gi tips til servitøren!
@@ -204,9 +204,9 @@ I dag er din DOMEdag!
 Bli en stund, bli for evig!
 Bli en stund og lytt!
 Behandling for utslettet ditt!
-"Autologisk" er!
+«Autologisk» er!
 Informasjon ønsker å være fri!
-Nesten aldri" er et interessant konsept!
+«Nesten aldri» er et interessant konsept!
 Bare sannheter!
 Creeperen er en spion!
 Turingkomplett!
@@ -273,7 +273,7 @@ Fra gatene i Södermalm!
 150 slag per minut i 400 000 minuter!
 Teknologisk!
 Funk soul brother!
-Pumpakungen!
+Pumpa kungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +300,7 @@ Legg i fra deg den kjeksen!
 Ganske skummelt!
 Jeg har et forslag!
 Nå med ekstra mange klemmer!
-Java 16 + 1 + 4 = 21!
+Java 16 + 1 + 4 =  Java 21!
 Våh!
 HURNERJSGER?
 Hva skjer, Doktor?
@@ -369,7 +369,7 @@ Se mamma, jeg en utkaststekst!
 Det kom fra rommet!
 Fantastisk spilldesign her!
 Ph1lza klarte seg bra!
-15 years of Mining and Crafting!
+15 år med bygging og graving!
 Varsle mennesket!
 I tilfelle det ikker er tydelig, så er ikke rever spillere!
 Summende bier!
@@ -399,7 +399,7 @@ Med musikk fra Lena Raine!
 åååh nei!
 #minecraftfarms!
 Og hakken min!
-Drøm! Create! Del!
+Drøm!  Del!
 Fantastisk grafikk!
 Prøv også Minecraft Dungeons!
 Vanilla!
@@ -432,20 +432,20 @@ Neeeeeeeeeeeei!
 Blomsterskog TM parfyme
 Hattefredag!
 Technoblade lever evig!
-You are valid!
-I'm glad you're here!
-You are welcome here!
-Your gender is valid!
-Contains infinite genders!
-Made with lave!
-This sand is sus
-Remember to brush your... ...teeth
-Has working bookshelves!
+Du er gyldig!
+
+Du er velkommen her!
+Ditt kjønn er gyldig!
+Inneholder uendelige kjønn!
+Lagd med lave!
+Denne sanden er suspekt
+Husk på å pusse... ...tennene dine
+Har fungerende bokhyller!
 Sniff sniff...
-Place hanging sign here
-Joule is neat too!
-Music by Aaron Cherof!
-Music by Kumi Tanioka!
-Music by Amos Roddy!
-Flint and Steel!
-Chicken Jockey!
+Plasser hengende skilt her
+Joule er også grei!
+Med musikk fra Aaron Cherof!
+Med musikk fra Kumi Tanioka!
+Med musikk fra Amos Roddy!
+Tennstål!
+Kylling-rytter!
