@@ -34,7 +34,7 @@ Gumawa!
 Mag-survive!
 Moog!
 Eksklusibo!
-Ang negobzzyo
+Ang negobzzyo!
 Closed source!
 Marangya!
 Wow!
@@ -51,7 +51,7 @@ Maganda!
 May 12 herb at pampalasa!
 Fat free!
 Talagang walang memes!
-Libreng pagdentista!
+Libreng pagdedentista!
 Kumonsulta sa doktor!
 Cloud computing!
 Legal sa Pinlandiya!
@@ -68,69 +68,69 @@ Herregud!
 Masalimuot na cellular automata!
 Opo, sir!
 Nilalaro rin ng mga koboy!
-Now on OpenGL 3.3 core profile!
-Thousands of colors!
+Sa OpenGL 3.3 core profile na!
+Daan-daang kulay!
 Subukan ito!
-Age of Wonders is better!
-Try the mushroom stew!
-Sensational!
-Hot tamale, hot hot tamale!
-Play him off, keyboard cat!
-Guaranteed!
-Macroscopic!
-Bring it on!
-Random splash!
-Call your mother!
-Monster infighting!
-Loved by millions!
+Mas maganda ang Age of Wonders!
+Subukan ang nilagang kabuti!
+Nakakahanga!
+Mainit na tamale, mainit-init na tamale!
+Tapusin na 'yan, keyboard cat!
+Garantisado!
+Makroskopiko!
+Handa na!
+Random na splash!
+Tawagin ang nanay mo!
+May halimaw sa bahay!
+Mahal ng karamihan!
 Ultimate edition!
 Freaky!
-You've got a brand new key!
+May bagong susi ka na!
 Water proof!
-Uninflammable!
-Whoa, dude!
-All inclusive!
-Tell your friends!
-NP is not in P!
+Di-nasusunog!
+Astig, pre!
+Lahat-kasama!
+Sabihin sa mga kaibigan mo!
+Wala sa P ang NP!
 Musika ni C418!
 Na-livestream!
 Pinagmumultuhan!
 Polynomial!
-Terrestrial!
-All is full of love!
-Full of stars!
-Scientific!
-Not as cool as Spock!
-Collaborate and listen!
-Never dig down!
-Take frequent breaks!
-Not linear!
-Han shot first!
-Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
+Panlupa!
+Lahat ay puno ng pag-ibig!
+Puno ng bituin!
+Pang-agham!
+Hindi kasing-asting ng Spock!
+Makipagtulungan at makinig!
+Huwag na huwag maghukay pababa!
+Laging magpahinga!
+Hindi linear!
+Si Han unang tumira!
+Masaya akong makilala ka!
+Balde ng lava!
+Sumakay ng baboy!
+Mas malaki pa sa Earth!
 sqrt(-1) love you!
-Phobos anomaly!
-Punching wood!
-Falling off cliffs!
-1% sugar!
-150% hyperbole!
+Anomalyang Phobos!
+Pagsusuntok sa kahoy!
+Paghulog mula sa bangin!
+1% asukal!
+150% pagmamalabis!
 Synecdoche!
-Let's danec!
+Magsaywa tayo!
 Seecret Friday update!
-Reference implementation!
-Kiss the sky!
+Implementasyon ng pagbanggit!
+Halikan ang langit!
 20 GOTO 10!
 Verlet integration!
 Peter Griffin!
-Do not distribute!
+Huwag ipamahagi!
 Cogito ergo sum!
-4815162342 lines of code!
-A skeleton popped out!
-The sum of its parts!
-BTAF used to be good!
-I miss ADOM!
+4815162342 linya ng code!
+May skeletong lumitaw!
+Ang kabuuan ng bahagi nito!
+Ang ganda ng BTAF dati!
+Nami-miss ko ang ADOM!
 umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
@@ -189,7 +189,7 @@ Eple (orihinal na edit)!
 Napakasariwa, napakalinis!
 Slow acting portals!
 Try the Nether!
-Huwag tumingin nang direkta sa mga bug!
+Huwag tumingin nang direkta sa bug!
 Oh, ok, Pigmen!
 Finally with ladders!
 Scary!
@@ -200,7 +200,7 @@ Joel is neat!
 A riddle, wrapped in a mystery!
 This parrot is no more! It has ceased to be!
 Welcome to your Doom!
-Manatili ka muna, manatili magpakailanman!
+Manatili muna, manatili magpakailanman!
 Manatili ka muna at makinig!
 Panggamot para sa iyong pantal!
 "Autological" is!
@@ -218,9 +218,9 @@ Casual gaming!
 Undefeated!
 Kinda like Lemmings!
 Sundan mo ang tren, CJ!
-Sasamantalahin ang synergy!
-Ang mensaheng ito ay hindi lalabas sa splash screen, hindi ba kakaiba?
-Hindi patas ang DungeonQuest!
+Gumagamit ng synergy!
+Hindi lalabas ang mensaheng ito sa splash screen, ang wierd 'di ba?
+Di-patas ang DungeonQuest!
 90210!
 Check out the far lands!
 Magugustuhan ito ni Tyrion!
@@ -235,9 +235,9 @@ Also try Pixeljunk Shooter!
 Also try Braid!
 That's super!
 Bread is pain!
-Magbasa pa ng mga libro!
+Magbasa pa ng libro!
 Khaaaaaaaaan!
-Hindi kasing nakakaadik tulad ng TV Tropes!
+Di-nakakaadik kumpara sa TV Tropes!
 Mas nakakaadik pa sa lemonade!
 Mas malaki pa sa kahon ng tinapay!
 Millions of peaches!
@@ -245,10 +245,10 @@ Fnord!
 Ito ang tunay kong anyo!
 Don't bother with the clones!
 Pumpkinhead!
-Ginawa ni Jeb!
+Gawa ni Jeb!
 May wakas!
 Sa wakas tapos na!
-Puno ng mga tampok!
+Puno ng features!
 Boots with the fur!
 Stop, hammertime!
 Testificates!
@@ -258,141 +258,141 @@ Doesn't avoid double negatives!
 Place ALL the blocks!
 Does barrel rolls!
 Meeting expectations!
-Naglalaro sa PC noon pang 1873!
+Naglalaro na sa PC noong 1873!
 Ghoughpteighbteau tchoghs!
 Déjà vu!
 Déjà vu!
-Nakuha ko ang iyong ilong!
+Nakuha ko ilong mo!
 Mahal ni Haley si Elan!
-Takot sa malaki, itim na paniki!
-Hindi gumagamit ng "U" na salita!
+Takot sa malaking itim na paniki!
+Di-gumagamit ng salitang nagsisimula sa U!
 Child's play!
-Magkita-kita tayo sa susunod na Biyernes o higit pa!
+Kitakits sa Biyernes o ano!
 Mula sa mga daanan ng Södermalm!
 150 bpm para sa 400000 minuto!
-Technologic!
+Teknolohikal!
 Funk soul brother!
 Pumpakungen!
-Kamusta Japan!
-Kamusta Korea!
-Kamusta Wales!
-Kamusta Poland!
-Kamusta Tsina!
-Kamusta Greece!
-Ang buhay ko para kay Aiur!
+日本ハロー！
+한국 안녕하세요!
+Helo Cymru!
+Cześć Polsko!
+你好中国！
+Γεια σου Ελλάδα!
+Para kay Aiur ang buhay ko!
 Lennart lennart = new Lennart();
-Nakikita kong gumanda ang iyong bokabularyo!
+Mukhang gumagaling na ang bokabularyo mo!
 Sinong naglagay diyan?
 Hindi mo maipaliwanag iyan!
 if hindi ok saka ibalik ang end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
-Malaki at Matulis na Ngipin!
+Matutulis na Ngipin!
 Binabantayan ng Bekarton ang gate!
 Mmmph, mmph!
 Don't feed avocados to parrots!
 Swords for everyone!
-Pki-reply sa tweet ko!
+Pki rply s twt q,,!
 .party()!
 Kunin mo ang unan niya!
 Put that cookie down!
 Nakakatakot!
 May suhestiyon ako.
-Ngayon may dagdag na yakap!
+May ekstrang yakap na!
 Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
-Kumusta, Dok?
-Ngayon ay naglalaman ng 32 random na pang-araw-araw na pusa!
+Kumusta, Doc?
+Naglalaman na ng 32 random na pang-araw-araw na pusa!
 Numberwang iyan!
-pki-rt
-Gusto mo bang sumali sa server ko?
+pki rt
+Gusto mo sumali sa server ko?
 Lagyan mo ng kaunting bakod sa paligid!
 Takpan mo ng kumot iyan!
-Isang araw, sa isang lugar sa hinaharap, ang aking gawa ay masisipi!
-Ngayon ay may mga karagdagang bagay!
-Karagdagang mga bagay!
-Yay, mga tuta para sa lahat!
-Napakatamis, parang isang magandang bon bon!
-Napakaimpluwensiyal sa kaniyang kasamahan!
+Balang araw, sa isang lugar, sa hinaharap, mako-quote ang gawa ko!
+May karagdagang bagay pa!
+May sobrang bagay!
+Yehey, tuta para sa lahat!
+Tamis! Tulad ng bon bon!
+Napakaimpluwensiyal sa kasamahan nito!
 Now With Multiplayer!
-Bumangon ka mula sa iyong libingan!
+Bumangon ka mula sa libingan! mo!
 Babala! Isang malaking barkong pandigma na "STEVE" ang papalapit nang mabilis!
 Binaril ng asul na mandirigma ang pagkain!
-Takbo, duwag! Ako'y nagugutom!
-May lasa, walang timpla!
+Takbo ka lang, duwag! Ako gutom!
+Lasang walang pampalasa!
 Kakaiba, pero kilala naman!
 Higit na matibay sa diyamante, kasindami ng yaman ng cream!
 Umiindak, kumikilos!
-Naglalakbay sa mga lansangan upang makahanap ng ginto!
-Kunin mo ang panghalo ng itlog at ipalo sa kawali!
+Naglilibot sa kalsada para sa ginto!
+Kunin mo ang panghalo ng itlog at batihin sa kawali!
 Gawan mo ako ng mesa, isang astig na mesa!
 Sumakay sa elevator papunta sa mezzanine!
-Itigil ang pagiging makatwiran, ito ang Internet!
-/give @a hugs 64
-Maganda ito para sa Realms.
-Ang anumang computer ay isang laptop kung matapang ka!
-Gawin mo lahat, lahat ng bagay!
-Walang ilaw, may gagamba!
+May pa-logic-logic ka pa ah, 'yan ang Internet!
+/give @a yakap 64
+Maganda 'to sa Realms.
+Kung matapang ka, lahat ng computer ay isang laptop!
+Gawin mo, lahat-lahat!
+Kung may lugar na di-ilaw, magkakagagamba!
 GNU Terry Pratchett
-Mas Digital!
+Mas digital na!
 doot doot
-Bumagsak na may dating!
+Pagbagsak na may dating!
 Walang makakapigil sa Trollmaso
-Itapon ang sarili sa lupa, tapos hindi tumama
-Rule #1: hindi ko kasalanan
-Pinalitan ang natutunaw na keso ng dugo?
+Itapon ang sarili sa lupa at huwag tumama
+Rule #1: hindi ko talaga kasalanan
+Pinalitan ng dugo ang natunaw na keso?
 Lubos na naayos ang medyo sira-sirang coordinates
 Boats FTW
 Javalicious edition!
 Hindi dapat nilalaro habang nagmamaneho
-Masyado kang mabilis!
+Masyadong mabilis ka na!
 Don't feed chocolate to parrots!
-Ang totoong ibig sabihin ng covfefe
+Ang totoong kahulugan ng covfefe
 Isang ilusyon! Ano ang tinatago mo?
-Parang may hindi tama…
+Parang may mali...
 Salamat sa isda!
-Ang lahat na tsismis ay totoo!
+Totoo lahat ng tsismis!
 Talagang nangingisda!
-Bahagharing pagong?
-Isang nakakatawa na bagay!
-Kailangan ko pa ng higit na konteksto.
+Malabahagharing pagong?
+Basta nakakatawa!
+Gusto ko pang malaman ang konteksto.
 Ahhhhhh!
-Huwag mag-alala, maging masaya!
+Huwag mag-alala, ang buhay ay weder-weder lang!
 Bote ng tubig!
-Ano ang tanong?
+Ano nga ang tanong?
 Magtanim ng puno!
 Pumunta sa dentista!
-Ano ang inaasahan mo?
-Tignan mo inay, nasa splash ako!
-Nanggaling ito sa kalawakan.
-Ang galing ng disenyo ng laro na iyan!
-Maganda ang naging takbo ni Ph1lza!
+Ano inaasahan mo?
+Nay, nasa splash na'ko!
+Galing ito sa kalawan.
+Ang galing naman ng disenyo ng laro!
+Sulit ang takbo ni Ph1lza!
 15 years of Mining and Crafting!
 I-ping ang tao!
-Kung sakaling hindi ito halata, ang mga soro ay hindi mga manlalaro.
-Buzzy Bees!
-Hatid ng Minecraft Java Edition: Nakakadiring Bugs!
-Hugasan ang iyong kamay!
+Kung hindi man halata, hindi manlalaro ang mga soro.
+Umuugong-bubuyog!
+Inihahandog ng Minecraft Java Edition: Nakakadiring Bugs!
+Maghugas ng kamay!
 Sabon at tubig!
-Suportahan ang mga lokal na negosyo!
+Sumuporta ng lokal na negosyo!
 Manatili sa bahay at maglaro!
-Manatiling ligtas!
-Manatiling malakas!
+Ingat lagi!
+Maging malakas palagi!
 Umubo o bumahing sa iyong siko!
-Huwag hawakan ang iyong mukha!
+Huwag hawakan ang mukha!
 Suportahan ang mga matatandang kamag-anak at kaibigan!
 Maghanda, pero huwag mag-imbak!
 Magkaisa, mga manlalaro – bawat isa sa sariling bahay!
 Iligtas ang mundo - manatili sa loob!
-Mamili para sa iyong mga matatanda!
-Mag-hang out kasama ang iyong mga kaibigan online!
+Mamili para sa matatandang miyembro ng pamilya mo!
+Tumambay online kasama ang kaibigan!
 Honey, I grew the bees!
-Hanapin ang iyong claw!
+Hanapin ang claw mo!
 Lahat, gawin ang Leif!
 <3 Max & 99 & Ducky!
 Bushy eyebrows!
-Ang Edit ay pangalan!
+Pangalan si Edit!
 Mula sa mga malayang developer!
 Musika ni Lena Raine!
 Ay naku!
@@ -402,14 +402,14 @@ Envision! Create! Share!
 Fabulous graphics!
 Subukan mo din ang Minecraft Dungeons!
 Vanilla!
-Maaaring may mga bakas ng citrus!
+Maaaring may bakas ng citrus!
 Zoglin!?
-Mahalaga ang buhay ng mga Itim!
+May buhay din ang mga Maiitim!
 Maging anti-rasista!
 Pag-aralan ang pagiging kaalyado!
-Tumindig laban sa hindi makatarungan at para sa pantay na karapatan!
+Tumindig LABAN sa di-makatarungan at para sa PANTAY na karapatan!
 Amplify and listen to BIPOC voices!
-Ituro sa mga kaibigan ang tungkol sa pagiging anti-rasista!
+Turuan ng pagiging anti-rasista sa mga kaibigan!
 Support the BIPOC community and creators!
 Tumindig para sa pantay na karapatan sa inyong komunidad!
 [available na ang splash text na ito]
@@ -419,18 +419,18 @@ May <<pusa sa ,keyboard ko!~
 Ang pinaka-cute na mandaragit na makikilala mo!
 Now you are thinking with pistons!
 Pumunta sa tanso!
-Mayroon ding version sa board game!
+May bersiyon ding pang-board game!
 Honey, I waxed the copper!
-Mga ilaw mula sa halaman!
-Ginawa sa mga "totoong" tao!
-Sumigaw na parang Sculk Shrieker!
-Sino ang nagpalabas ng mga palaka?
+Pailaw panghalaman!
+Gawa ng mga "totoong" tao!
+Sumigaw parang isang Lalamunang-sculk!
+Sino ang nagpatakas ng mga palaka?
 KOKAK!
 Koponang Kokak!
 Hindiiiiiiiiiiiii!
-Flower forest TM na pabango
+Pabangong Flower forest TM
 Biyernes Sombrero!
-Hindi namamatay si Technoblade!
+Mabuhay si Technoblade!
 You are valid!
 I'm glad you're here!
 You are welcome here!
