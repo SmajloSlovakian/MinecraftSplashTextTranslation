@@ -1,6 +1,6 @@
-This project was created by SmajloSlovakian#1077
+Ang proyektong ito ay gawa ni SmajloSlovakian#1077
 
-How do I add this pack to Minecraft?
+Paano ko ilagay sa Minecraft ang pack na ito?
 -Add the folder you've just opened to your "\Appdata\Roaming\.minecraft\resourcepacks\" folder, go into Minecraft, settings, 
   Resource Packs and pick the pack which has just appeared.
 
