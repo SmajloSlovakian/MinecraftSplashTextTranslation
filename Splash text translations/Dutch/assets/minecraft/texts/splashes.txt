@@ -68,7 +68,7 @@ Herregud!
 Complexe mobiele automatisering!
 Ja, meneer!
 Gespeeld door cowboys!
-Now on OpenGL 3.3 core profile!
+Nu op OpenGL 3.3 core profiel!
 Duizenden kleuren!
 Probeer het uit!
 Age of Wonders is beter!
@@ -122,7 +122,7 @@ Geheeime vrijdag update!
 Referentie implementatie!
 Kus de wolken!
 20 GOTO 10!
-Verlet integration!
+Verlet integratie!
 Peter Griffin!
 Niet distribueren!
 Ik denk, en daarom ben ik!
@@ -157,7 +157,7 @@ Internet ingeschakeld!
 Autonoom!
 Aan de slag!
 Fantasie!
-DRR! DRR! DRR!
+DRR! DRR! DDR!
 Schop het naar beneden!
 Regionale grondstoffen!
 Woo, facepunch!
@@ -368,7 +368,7 @@ Kijk maum, ik ben in splinter!
 Het kwam van de ruimte.
 Geweldig spel ontwerp direct daar!
 Ph1lza had een goede run!
-15 years of Mining and Crafting!
+15 jaar van Bouwen en Delven!
 Ping de mens!
 In het geval dat het niet vanzelfsprekend is, zijn voxen geen spelers.
 Buzzy bijen!
@@ -398,7 +398,7 @@ Muziek door Lena Raine!
 Aww man!
 #minecraftboerderijen
 En mijn houweel!
-Vergelijk! Create! Delen!
+Vergelijk! Creëer! Delen!
 Geweldige afbeeldingen!
 Probeer ook eens Minecraft Dungeons!
 Vanilla!
@@ -431,10 +431,10 @@ Noooooooooooooooo!
 Bloemen bos TM parfum
 Hoed Vrijdagen!
 Technoblade gaat nooit dood!
-You are valid!
-I'm glad you're here!
-You are welcome here!
-Your gender is valid!
+Je bent geldig!
+Ik ben blij dat je er bent!
+Je bent hier welkom!
+Je geslacht is geldig!
 Contains infinite genders!
 Made with lave!
 This sand is sus
