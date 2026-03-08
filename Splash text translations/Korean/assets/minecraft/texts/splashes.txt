@@ -14,7 +14,7 @@ Excitement!
 More than 500 sold!
 이거 물건일세!
 Heaps of hits on YouTube!
-Indev!
+인데브!
 Spiders everywhere!
 Check it out!
 Holy cow, man!
@@ -22,7 +22,7 @@ It's a game!
 Made in Sweden!
 Uses LWJGL!
 Reticulating splines!
-Minecraft!
+마인크래프트!
 Yaaay!
 Singleplayer!
 Keyboard compatible!
