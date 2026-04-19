@@ -68,7 +68,7 @@ Herregud !
 Automates cellulaires complexes !
 Oui, chef !
 Joué par des cow-boys !
-Now on OpenGL 3.3 core profile!
+Maintenant sur profil central d'OpenGL 3.3 !
 Milliers de couleurs !
 Essayez-le !
 Age of Wonders, c'est meilleur !
@@ -122,7 +122,7 @@ Mise à jour de vendredi seecret !
 Implémentation de référence !
 Kiss the sky !
 20 GOTO 10 !
-Verlet integration!
+Intégration de Verlet !
 Peter Griffin !
 Ne distribuez pas !
 Cogito ergo sum !
@@ -151,13 +151,13 @@ Outils de vache !
 À double tampon !
 Fanfiction !
 Flaxkikare !
-Jason ! Jason ! Jason!
+Jason ! Jason ! Jason !
 Plus chaud que le soleil !
 À accès Internet !
 Autonome !
 Jouez !
 Fantasy !
-DRR ! DRR ! DRR!
+DRR ! DRR ! DRR !
 Donnez-le un coup de pied à la racine !
 Ressources régionales !
 Ouais, facepunch !
@@ -261,7 +261,7 @@ Répondre aux attentes !
 PC gaming depuis 1873 !
 Ghoughpteighbteau tchoghs!
 Déjà vu !
-Déjà vu!
+Déjà vu !
 Vous avez le nez!
 Haley aime Elan!
 Fraid de la grosse chauve-souris noire !
@@ -272,7 +272,7 @@ Venant des rues de Södermalm !
 150 bpm pour 400000 minutes !
 Technologie !
 Funk soul frère !
-Pumpakungen!
+Pumpakungen !
 日本ハロー !
 한국 안녕하세요!
 Helo Cymru!
@@ -299,7 +299,7 @@ Baissez ce cookie !
 Assez effrayant !
 J'ai une suggestion.
 Maintenant avec des câlins supplémentaires !
-Java 16 + 1 + 4 = 21!
+Java 16 + 1 + 4 = 21 !
 Woah.
 HURNERJSGER ?
 Quoi d'neuf, docteur ?
@@ -368,7 +368,7 @@ Regarde maman, je suis dans un texte d'accueil !
 Il venait de l'espace.
 Superbe design de jeu juste ici !
 Dommage pour Ph1lza !
-15 years of Mining and Crafting!
+15 ans de minage et de craftage !
 Ping l'humain !
 Si ce n'était pas évident, les renards ne sont pas des joueurs.
 Abeilles Bourdonnantes !
@@ -398,7 +398,7 @@ Musique par Lena Raine !
 Aww man!
 #minecraftfarms
 Et ma pioche !
-Imaginer ! Create! Partager !
+Imaginer ! Créer ! Partager !
 Des graphismes fabuleux !
 Essaye aussi Minecraft Dungeons !
 Vanilla !
@@ -431,20 +431,20 @@ Nooooooooooooon !
 Parfum Forêt fleurie™
 Chapeau vendredi !
 Technoblade ne meurt jamais !
-You are valid!
-I'm glad you're here!
-You are welcome here!
-Your gender is valid!
-Contains infinite genders!
-Made with lave!
-This sand is sus
-Remember to brush your... ...teeth
-Has working bookshelves!
+Vous êtes valides !
+Je suis content que vous soyez là !
+Vous êtes le bienvenu ici !
+Votre genre est valide !
+Contient des genres infinis !
+Fait à partir de lave !
+Ce sable est suspect
+N'oubliez pas de brosser vos... dents
+A des étagères fonctionnelles !
 Sniff sniff...
-Place hanging sign here
-Joule is neat too!
-Music by Aaron Cherof!
-Music by Kumi Tanioka!
-Music by Amos Roddy!
-Flint and Steel!
-Chicken Jockey!
+Placer le panneau suspendu ici
+
+Musique  par Aaron Cherof!
+Musique par Kumi Tanioka !
+Musique par Amos Roddy !
+Flint and Steel !
+Chicken Jockey !
