@@ -329,7 +329,7 @@ Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
-/give @a hugs 64
+/give @a objatie 64
 This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
@@ -359,7 +359,7 @@ Something funny!
 I need more context.
 Ahhhhhh!
 Don't worry, be happy!
-Water bottle!
+Fľaša vody!
 What's the question?
 Zasaď strom!
 Choď k zubárovi!
@@ -379,7 +379,7 @@ Support local businesses!
 Zostaň doma a hraj hry!
 Drž sa v bezpečí!
 Zostaň silný!
-Cough or sneeze into your elbow!
+Kašli a kýchaj do svojej lakti!
 Don’t touch your face!
 Podpor starších príbuzných a priateľov!
 Prepare, but don’t hoard!
@@ -400,7 +400,7 @@ Aww man!
 And my pickaxe!
 Envision! Create! Share!
 Fabulous graphics!
-Also try Minecraft Dungeons!
+Skús aj Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
@@ -419,7 +419,7 @@ Mám <<mčku na ,mojej klávesnici!~
 The cutest predator you'll ever meet!
 Now you are thinking with pistons!
 Get to the coppah!
-Board game version also available!
+Stolná verzia hry je taktiež dostupná!
 Honey, I waxed the copper!
 Svetelné zdroje založené na rastlinách!
 Made by "real" people!
