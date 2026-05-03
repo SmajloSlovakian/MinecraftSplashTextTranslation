@@ -71,8 +71,8 @@ Hraný kovbojmi!
 Now on OpenGL 3.3 core profile!
 Tisíce farieb!
 Vyskúšaj to!
-Age of Wonders je lepšie!
-Try the mushroom stew!
+Age of Wonders je lepší!
+Vyskúšaj hubovú polievku!
 Sensational!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
@@ -107,9 +107,9 @@ Take frequent breaks!
 Not linear!
 Han shot first!
 Nice to meet you!
-Buckets of lava!
-Ride the pig!
-Larger than Earth!
+Vedrá lávy!
+Jazdi na prasati!
+Väčší ako Zem!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
@@ -140,7 +140,7 @@ Pneumatic!
 Sublime!
 Octagonal!
 Une baguette!
-Gargamel plays it!
+Hrá to Gargamel!
 Rita is the new top dog!
 SWM forever!
 Representing Edsbyn!
@@ -153,7 +153,7 @@ Fan fiction!
 Flaxkikare!
 Jason! Jason! Jason!
 Hotter than the sun!
-Internet enabled!
+Internet povolený!
 Autonomous!
 Engage!
 Fantasy!
@@ -173,7 +173,7 @@ Tip your waiter!
 Veľká zábava!
 12345 je zlé heslo!
 Vote for net neutrality!
-Lives in a pineapple under the sea!
+Žije v ananáse na dne morí!
 MAP11 has two names!
 Omnipotent!
 Gasp!
@@ -246,8 +246,8 @@ This is my true form!
 Don't bother with the clones!
 Pumpkinhead!
 Made by Jeb!
-Has an ending!
-Finally complete!
+Má koniec!
+Konečne dokončené!
 Feature packed!
 Boots with the fur!
 Stop, hammertime!
@@ -290,7 +290,7 @@ if not ok then return end
 Big Pointy Teeth!
 Bekarton guards the gate!
 Mmmph, mmph!
-Don't feed avocados to parrots!
+Nekŕm papagája avokádom!
 Swords for everyone!
 Plz reply to my tweet!
 .party()!
@@ -340,14 +340,14 @@ doot doot
 Falling with style!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
-Rule #1: it's never my fault
+Pravidlo #1: nikdy to nie je moja chyba
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
 Boats FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
-Don't feed chocolate to parrots!
+Nekŕm papagája čokoládou!
 The true meaning of covfefe
 An illusion! What are you hiding?
 Something's not quite right...
@@ -361,30 +361,30 @@ Ahhhhhh!
 Don't worry, be happy!
 Water bottle!
 What's the question?
-Plant a tree!
-Go to the dentist!
+Zasaď strom!
+Choď k zubárovi!
 What do you expect?
 Look mum, I'm in a splash!
-It came from space.
+Prišlo to z vesmíru.
 Awesome game design right there!
 Ph1lza had a good run!
 15 years of Mining and Crafting!
 Ping the human!
-In case it isn't obvious, foxes aren't players.
+Ak to nie je zrejmé, líšky nie sú hráči.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
+Umývaj si ruky!
+Mydlo a voda!
 Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
+Zostaň doma a hraj hry!
+Drž sa v bezpečí!
+Zostaň silný!
 Cough or sneeze into your elbow!
 Don’t touch your face!
-Support elderly relatives and friends!
+Podpor starších príbuzných a priateľov!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
-Save the world – stay inside!
+Zachráň svet - ostaň vo vnútri!
 Shop for your elders!
 Hang out with your friends online!
 Honey, I grew the bees!
@@ -421,7 +421,7 @@ Now you are thinking with pistons!
 Get to the coppah!
 Board game version also available!
 Honey, I waxed the copper!
-Plant-based light sources!
+Svetelné zdroje založené na rastlinách!
 Made by "real" people!
 Shriek like a Sculk Shrieker!
 Who let the frogs out?
@@ -438,9 +438,9 @@ Your gender is valid!
 Contains infinite genders!
 Made with lave!
 This sand is sus
-Remember to brush your... ...teeth
+Nezabudni si umyť... ...zuby
 Has working bookshelves!
-Sniff sniff...
+Ňuch ňuch..
 Place hanging sign here
 Joule is neat too!
 Music by Aaron Cherof!
