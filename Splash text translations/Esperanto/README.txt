@@ -12,4 +12,4 @@ Ho, atendu! tio ne funkcias!
 
 
 Mia projekto estas provo traduki la netradukeblaĵojn de Majnkrafto, ekz. ŝprucaĵojn, finejan kontribuant-liston k aliajn.
-Tio estas simpla komunuma projekto ne koopera kun Mojang AB. aŭ Minecraft, regata de ano de la komunumo.
+Tio estas simpla komunuma projekto ne koopera kun Mojang AB nek Minecraft, regata de ano de la komunumo.
