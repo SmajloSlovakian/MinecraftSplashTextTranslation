@@ -92,7 +92,7 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP is not in P!
-Music by C418!
+Hudba od C418!
 Livestreamed!
 Haunted!
 Polynomial!
@@ -103,7 +103,7 @@ Scientific!
 Not as cool as Spock!
 Collaborate and listen!
 Nikdy nekop pod seba!
-Take frequent breaks!
+Dávaj si pravidelné prestávky!
 Not linear!
 Han shot first!
 Nice to meet you!
@@ -180,7 +180,7 @@ Gasp!
 ...!
 Bees, bees, bees, bees!
 Jag känner en bot!
-This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
+Tento text je ťažko čitateľný, ak hráš hru s predvoleným rozlíšením, ale pri 1080p by to malo byť dobré!
 Haha, LOL!
 Hampsterdance!
 Menger sponge!
@@ -268,7 +268,7 @@ Afraid of the big, black bat!
 Doesn't use the U-word!
 Child's play!
 See you next Friday or so!
-From the streets of Södermalm!
+Z ulíc Södermalmu!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
@@ -368,7 +368,7 @@ Look mum, I'm in a splash!
 Prišlo to z vesmíru.
 Awesome game design right there!
 Ph1lza had a good run!
-15 years of Mining and Crafting!
+15 rokov kopania a vyrábania!
 Ping the human!
 Ak to nie je zrejmé, líšky nie sú hráči.
 Buzzy Bees!
@@ -399,7 +399,7 @@ Aww man!
 #minecraftfarms
 And my pickaxe!
 Envision! Create! Share!
-Fabulous graphics!
+Nádherná grafika!
 Skús aj Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
@@ -412,7 +412,7 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
-[this splash text is now available]
+[táto správa je teraz dostupná]
 Contains simulated goats!
 Home-made!
 Mám <<mčku na ,mojej klávesnici!~
@@ -437,9 +437,9 @@ You are welcome here!
 Your gender is valid!
 Contains infinite genders!
 Made with lave!
-This sand is sus
+Tento piesok je sus
 Nezabudni si umyť... ...zuby
-Has working bookshelves!
+Má funkčné knižnice!
 Ňuch ňuch..
 Place hanging sign here
 Joule is neat too!
