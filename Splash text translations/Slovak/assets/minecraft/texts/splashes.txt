@@ -13,7 +13,7 @@ Tak trochu bez drakov!
 Vzrušenie!
 Viac ako 500 predaných!
 Jediný svojho druhu!
-Heaps of hits on YouTube!
+Kopa hitov na YouTube!
 Indev!
 Všade sú pavúky!
 Skús to!
@@ -95,7 +95,7 @@ NP is not in P!
 Hudba od C418!
 Livestreamed!
 Haunted!
-Polynomial!
+Mnohočlen!
 Terrestrial!
 All is full of love!
 Full of stars!
@@ -113,7 +113,7 @@ Väčší ako Zem!
 sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
-Falling off cliffs!
+Padanie z útesov!
 1% cukru!
 150% hyperbole!
 Synecdoche!
@@ -245,7 +245,7 @@ Fnord!
 This is my true form!
 Don't bother with the clones!
 Pumpkinhead!
-Made by Jeb!
+Vytvorené Jebom!
 Má koniec!
 Konečne dokončené!
 Feature packed!
@@ -267,7 +267,7 @@ Haley loves Elan!
 Afraid of the big, black bat!
 Doesn't use the U-word!
 Child's play!
-See you next Friday or so!
+Uvidíme sa v piatok alebo tak nejako!
 Z ulíc Södermalmu!
 150 bpm for 400000 minutes!
 Technologic!
@@ -296,7 +296,7 @@ Plz reply to my tweet!
 .party()!
 Take her pillow!
 Put that cookie down!
-Pretty scary!
+Strašne strašidelné!
 I have a suggestion.
 Now with extra hugs!
 Java 16 + 1 + 4 = 21!
@@ -306,7 +306,7 @@ What's up, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
 pls rt
-Do you want to join my server?
+Chceš sa pripojiť na môj server?
 Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
