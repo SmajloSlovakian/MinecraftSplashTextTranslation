@@ -3,12 +3,12 @@
         "section": "Mojang Studios",
         "disciplines": [
             {
-                "discipline": "Mojang Studios Leadership",
+                "discipline": "Mojang Studios лидеры",
                 "titles": [
                     {
-                        "title": "Studio Head",
+                        "title": "Руководитель студии",
                         "names": [
-                            "Kayleen Walters"
+                            "Кейли Уолтерс"
                         ]
                     },
                     {
@@ -20,19 +20,19 @@
                     {
                         "title": "Head of Brand, Growth & Partnerships",
                         "names": [
-                            "Ada Duan"
+                            "Ада Дуан"
                         ]
                     },
                     {
                         "title": "Head of Minecraft Game Experience",
                         "names": [
-                            "Ryan B. Cooper"
+                            "Райан Б. Купер"
                         ]
                     },
                     {
                         "title": "Chief of Staff",
                         "names": [
-                            "Amy Stillion"
+                            "Эми Стиллион"
                         ]
                     },
                     {
@@ -56,7 +56,7 @@
                 ]
             },
             {
-                "discipline": "Design",
+                "discipline": "Дизайн",
                 "titles": [
                     {
                         "title": "Game Director, Minecraft",
@@ -71,9 +71,9 @@
                         ]
                     },
                     {
-                        "title": "Creative Director",
+                        "title": "Творческий директор ",
                         "names": [
-                            "John Yamamoto"
+                            "Джон Ямамото"
                         ]
                     },
                     {
