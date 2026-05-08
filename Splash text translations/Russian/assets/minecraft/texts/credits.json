@@ -77,7 +77,7 @@
                         ]
                     },
                     {
-                        "title": "Creative Directors, Games",
+                        "title": "Творческие директора, Игр",
                         "names": [
                             "Craig Leigh",
                             "Magnus Nedfors",
@@ -99,7 +99,7 @@
                         ]
                     },
                     {
-                        "title": "Design Directors",
+                        "title": "Дизайн директора ",
                         "names": [
                             "Antti Meriluoto",
                             "Laura de Llorens Garcia",
@@ -115,7 +115,7 @@
                         ]
                     },
                     {
-                        "title": "Lead Game Designers",
+                        "title": "Руководитель игровых дизайнеров",
                         "names": [
                             "Cory Scheviak",
                             "Daniel Jansson",
@@ -145,13 +145,13 @@
                             "Nir Vaknin",
                             "Steve Enos",
                             "Tate Sliwa (Insight Global, Inc)",
-                            "Tod Pang"
+                            "Тод Панг"
                         ]
                     },
                     {
                         "title": "Narrative Director",
                         "names": [
-                            "Kevin Grace"
+                            "Кевин Грейс"
                         ]
                     },
                     {
@@ -164,7 +164,7 @@
                         "title": "User Experience Design Directors",
                         "names": [
                             "Anna Wendelin",
-                            "Carlos Lidón"
+                            "Карлос Лидон"
                         ]
                     },
                     {
@@ -185,13 +185,13 @@
                             "Karolin Pettersson",
                             "Margot Laucournet",
                             "Sebastian Melchor Hedman",
-                            "Tom Keen"
+                            "Том Кин"
                         ]
                     }
                 ]
             },
             {
-                "discipline": "Programming",
+                "discipline": "Программирование ",
                 "titles": [
                     {
                         "title": "Technical Directors",
