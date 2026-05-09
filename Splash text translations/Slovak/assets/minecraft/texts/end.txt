@@ -1,4 +1,4 @@
-§3I see the player you mean.
+§3Vidím toho hráča, ktorého máš na mysli.
 
 §2PLAYERNAME?
 
@@ -18,7 +18,7 @@
 
 §2Čo sa tomuto hráčovi snívalo?
 
-§3Tomuto hráčovi sa snívalo o slnečnom svetle a stromoch. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§3Tomuto hráčovi sa snívalo o slnečnom svetle a stromoch. O ohni a vode. Snívalo sa mu, že tvoril. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
 
 §2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
 
