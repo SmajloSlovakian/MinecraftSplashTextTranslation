@@ -18,36 +18,36 @@ Indev!
 Spiders everywhere!
 Check it out!
 Holy cow, man!
-It's a game!
-Made in Sweden!
+Bu — o'yin!
+Shvetsiyada ishlab chiqarilgan!
 Uses LWJGL!
 Reticulating splines!
 Minecraft!
 Yaaay!
-Singleplayer!
+Yolg'iz o'yin!
 Keyboard compatible!
-Ingots!
-Exploding creepers!
-That's no moon!
-l33t!
-Create!
-Survive!
+Quymalar!
+Portlovchi creeperlar!
+Bu oy emas!
+1337!
+Yarating!
+Omon qoling!
 Dungeon!
 Exclusive!
 The bee's knees!
 Closed source!
 Classy!
 Wow!
-Not on steam!
+Steam'da yo'q!
 Oh man!
-Awesome community!
-Pixels!
+Ajoyib hamjamiyat!
+Piksellar!
 Teetsuuuuoooo!
 Kaaneeeedaaaa!
 Now with difficulty!
 Enhanced!
 90% bug free!
-Pretty!
+Chiroyli!
 12 herbs and spices!
 Fat free!
 Absolutely no memes!
@@ -70,17 +70,17 @@ Yes, sir!
 Played by cowboys!
 Now on OpenGL 3.3 core profile!
 Thousands of colors!
-Try it!
+Sinab ko'ring!
 Age of Wonders is better!
 Try the mushroom stew!
 Sensational!
 Hot tamale, hot hot tamale!
 Play him off, keyboard cat!
-Guaranteed!
+Kafolatlangan!
 Macroscopic!
 Bring it on!
-Random splash!
-Call your mother!
+Tasodifiy yozuv!
+Oyingizni chaqiring!
 Monster infighting!
 Loved by millions!
 Ultimate edition!
@@ -90,7 +90,7 @@ Water proof!
 Uninflammable!
 Whoa, dude!
 All inclusive!
-Tell your friends!
+Do'stlaringizga ayting!
 NP is not in P!
 Music by C418!
 Livestreamed!
@@ -98,7 +98,7 @@ Haunted!
 Polynomial!
 Terrestrial!
 All is full of love!
-Full of stars!
+Yulduzlarga to'la!
 Scientific!
 Not as cool as Spock!
 Collaborate and listen!
@@ -107,8 +107,8 @@ Take frequent breaks!
 Not linear!
 Han shot first!
 Nice to meet you!
-Buckets of lava!
-Ride the pig!
+Lava chelaklari!
+Cho'chqani mining!
 Larger than Earth!
 sqrt(-1) love you!
 Phobos anomaly!
@@ -135,10 +135,10 @@ umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
 Finger-licking!
-Thematic!
-Pneumatic!
+Tematik!
+Pnevmatik!
 Sublime!
-Octagonal!
+Sakkizburchakli!
 Une baguette!
 Gargamel plays it!
 Rita is the new top dog!
@@ -224,18 +224,18 @@ DungeonQuest is unfair!
 90210!
 Check out the far lands!
 Tyrion would love it!
-Also try VVVVVV!
+VVVVVV'ni ham sinab ko'ring!
 Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
-That's super!
+Terraria'ni ham sinab ko'ring!
+Mount and Blade'ni ham sinab ko'ring!
+Project Zomboid'ni ham sinab ko'ring!
+World of Goo'ni ham sinab ko'ring!
+Limbo'ni ham sinab ko'ring!
+Pixeljunk Shooter'ni ham sinab ko'ring!
+Braid'ni ham sinab ko'ring!
+Bu super!
 Bread is pain!
-Read more books!
+Ko'proq kitob o'qing!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
@@ -270,7 +270,7 @@ Child's play!
 See you next Friday or so!
 From the streets of Södermalm!
 150 bpm for 400000 minutes!
-Technologic!
+Texnologik!
 Funk soul brother!
 Pumpakungen!
 日本ハロー！
@@ -285,7 +285,7 @@ I see your vocabulary has improved!
 Who put it there?
 You can't explain that!
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+§1R§2a§3n§4g§5b§6a§7r§8a§9n§ag
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
@@ -343,27 +343,27 @@ Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
-Boats FTW
+Qayiqlar FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
 Don't feed chocolate to parrots!
 The true meaning of covfefe
-An illusion! What are you hiding?
+Bu bir illyuziya! Nimani yashiryapsan?
 Something's not quite right...
-Thank you for the fish!
-All rumors are true!
+Baliq uchun rahmat!
+Barcha mish-mishlar to'g'ri ekan!
 Truly gone fishing!
 Rainbow turtle?
-Something funny!
-I need more context.
-Ahhhhhh!
-Don't worry, be happy!
-Water bottle!
-What's the question?
-Plant a tree!
-Go to the dentist!
-What do you expect?
+Kulgili nimadir!
+Ko'proq kontekst kerak.
+Aaaaaaa!
+Havotir olmang, xursand bo'ling!
+Suv butilkasi!
+Savol nima edi?
+Daraxt eking!
+Tish do'xtiriga boring!
+Nimani kutgandingiz?
 Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
@@ -373,10 +373,10 @@ Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
-Wash your hands!
-Soap and water!
-Support local businesses!
-Stay home and play games!
+Qo'llaringizni yuving!
+Sovun va suv!
+Mahalliy biznezni qo'llab-quvvatlang!
+Uyda qoling va o'yin o'ynang!
 Stay safe!
 Stay strong!
 Cough or sneeze into your elbow!
@@ -398,14 +398,14 @@ Music by Lena Raine!
 Aww man!
 #minecraftfarms
 And my pickaxe!
-Envision! Create! Share!
-Fabulous graphics!
-Also try Minecraft Dungeons!
+Envision! Yarating! Ulashing!
+Ajoyib grafika!
+Minecraft Dungeons'ni ham sinab ko'ring!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
 Black lives matter!
-Be anti-racist!
+Anti-irqchi bo'ling!
 Learn about allyship!
 Speak OUT against injustice and UP for equality!
 Amplify and listen to BIPOC voices!
