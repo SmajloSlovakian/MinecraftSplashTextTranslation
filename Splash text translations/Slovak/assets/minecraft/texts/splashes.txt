@@ -380,7 +380,7 @@ Zostaň doma a hraj hry!
 Drž sa v bezpečí!
 Zostaň silný!
 Kašli a kýchaj do svojej lakti!
-Don’t touch your face!
+Nedotýkaj sa svojej tváre!
 Podpor starších príbuzných a priateľov!
 Prepare, but don’t hoard!
 Gamers unite – separately in your own homes!
@@ -416,14 +416,14 @@ Stand up for equality in your community!
 Contains simulated goats!
 Home-made!
 Mám <<mčku na ,mojej klávesnici!~
-The cutest predator you'll ever meet!
+Najroztomilejší predátor, ktorého stretneš!
 Now you are thinking with pistons!
 Get to the coppah!
 Stolná verzia hry je taktiež dostupná!
 Honey, I waxed the copper!
 Svetelné zdroje založené na rastlinách!
-Made by "real" people!
-Shriek like a Sculk Shrieker!
+Vyrobené „skutočnými“ ľuďmi!
+Škriekaj ako Sculkový škriekač!
 Who let the frogs out?
 RIBBIT!
 Croak team!
@@ -441,7 +441,7 @@ Tento piesok je sus
 Nezabudni si umyť... ...zuby
 Má funkčné knižnice!
 Ňuch ňuch..
-Place hanging sign here
+Polož sem zavesenú ceduľu
 Joule is neat too!
 Music by Aaron Cherof!
 Music by Kumi Tanioka!
