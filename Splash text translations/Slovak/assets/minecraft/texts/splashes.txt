@@ -285,7 +285,7 @@ I see your vocabulary has improved!
 Who put it there?
 You can't explain that!
 if not ok then return end
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+&1P&2e&3s&4t&5r&6o&7f&8a&9r&ae&bb&cn&dé
 §kFUNKY LOL
 Big Pointy Teeth!
 Bekarton guards the gate!
@@ -344,7 +344,7 @@ Pravidlo #1: nikdy to nie je moja chyba
 Replaced molten cheese with blood?
 Absolutely fixed relatively broken coordinates
 Boats FTW
-Javalicious edition
+Javahodná edícia
 Should not be played while driving
 You're going too fast!
 Nekŕm papagája čokoládou!
